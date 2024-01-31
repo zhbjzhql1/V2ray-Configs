@@ -1,3 +1,8 @@
+trojan://FnF2E0fmnd@146.190.86.235:443/?type=tcp&security=tls&sni=web.facebook.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%206
+trojan://telegram-id-privatevpns@18.175.14.33:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2032
+trojan://telegram-id-directvpn@13.39.94.214:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%20114
+trojan://3e16157f38b24faea46ddbf88754a268@220.246.88.197:443/?type=tcp&security=tls&sni=www.gpt123.one#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%202
+trojan://8f7c451c-859d-4f08-8da2-efd3e20c013c@sg-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%207
 trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.197.184.41:443/?type=tcp&security=tls#Vietnam%203
 trojan://baed2760-beba-11ee-bf37-1239d0255272@54.38.156.210:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2018
 trojan://telegram-id-privatevpns@54.73.254.192:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%204
