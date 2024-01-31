@@ -1,3 +1,6 @@
+trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-149.28.151.140:443 📡 PING-179.33-MS
+trojan://GHGxmB8g5Y@146.190.105.144:32744?security=tls&sni=android.googleapis.com&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.105.144:32744 📡 PING-182.01-MS
+trojan://ee2d164e-ee98-4f0b-ac21-1b5bdca4024f@128.199.183.69:20022?security=tls&sni=tls.qqwljs.buzz&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-128.199.183.69:20022 📡 PING-183.75-MS
 trojan://Fn4rFdIWwW@146.190.105.144:42766?security=tls&sni=m.zoom.us&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.105.144:42766 📡 PING-183.98-MS
 trojan://r9XI132tJ9@45.76.186.33:10596?security=none&type=ws&path=%252F#🔒 TR-WS-NONE 🇸🇬 SG-45.76.186.33:10596 📡 PING-184.27-MS
 trojan://ee2d164e-ee98-4f0b-ac21-1b5bdca4024f@157.245.149.232:20021?security=tls&sni=tls.qqwljs.buzz&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-157.245.149.232:20021 📡 PING-184.35-MS
@@ -995,6 +998,3 @@ vless://8e216f7f-f239-49a3-9a4f-a862d937ee04@104.16.2.189:443?security=tls&sni=s
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.16.204.22:443?security=tls&sni=lmn37.sbs&type=ws&host=lmn37.sbs&path=/fflsws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.204.22:443 📡 PING-016.37-MS
 vless://f69fa0a9-1230-4319-bf69-b5734d6159e6@104.17.177.176:443?security=tls&sni=gw1.archnodes.site&type=ws&host=gw1.archnodes.site&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.177.176:443 📡 PING-016.37-MS
 vless://07b195c2-3264-4e7e-bd3e-ac495dbb0033@104.16.28.34:8880?security=none&type=ws&host=user52.rogay76608.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.28.34:8880 📡 PING-016.37-MS
-vless://559539cc-68e8-413d-bcf8-621ac2f12cc7@104.16.17.84:2052?security=none&sni=007.hebav63406.workers.dev&type=ws&host=007.hebav63406.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.17.84:2052 📡 PING-016.37-MS
-vless://dc9f9344-d123-46e2-8c6d-db02ba121e37@190.93.247.247:8080?type=ws&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇨🇷 CR-190.93.247.247:8080 📡 PING-016.36-MS
-vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.18.72.57:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.72.57:80 📡 PING-016.36-MS
