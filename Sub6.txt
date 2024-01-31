@@ -1,3 +1,15 @@
+trojan://e86e242e-b5d5-46ae-a410-3684f7d70ac2@5.104.108.120:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2015
+trojan://0db1da23-a106-4afd-b0ae-2a4ffca1a895@172.105.174.37:443/?type=tcp&security=tls#%F0%9F%87%A6%F0%9F%87%BA%20Australia%202
+trojan://telegram-id-directvpn@52.48.172.240:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%203
+trojan://telegram-id-directvpn@3.73.60.160:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2016
+trojan://e03416c5-9ff3-4344-a950-fe90a7f60518@139.162.231.62:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2030
+trojan://489c5b80-beba-11ee-8ca8-1239d0255272@104.21.41.21:443/?type=ws&host=de1.test3.net&path=%2Fhowdy&security=tls&sni=de1.test3.net#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20314
+trojan://e03416c5-9ff3-4344-a950-fe90a7f60518@uk-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2031
+trojan://telegram-id-privatevpns@13.50.26.181:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2012
+trojan://telegram-id-privatevpns@3.69.199.93:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2017
+trojan://540da65e-99d0-49ab-9d4d-722f5ff637a1@172.232.53.246:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20315
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.19.145.205:443/?type=ws&host=hdfy8c1.foriran.nl&path=%2F8bHUAD5IX0licU6D349brWUw6a&security=tls&sni=hdfy8c1.foriran.nl#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20316
+trojan://mJR8UynY3kqfQYg_ps1lhw@104.21.62.76:2053/?type=tcp&security=tls&sni=alman.germaanpro.ir#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20317
 trojan://FnF2E0fmnd@146.190.86.235:443/?type=tcp&security=tls&sni=web.facebook.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%206
 trojan://telegram-id-privatevpns@18.175.14.33:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2032
 trojan://telegram-id-directvpn@13.39.94.214:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%20114
