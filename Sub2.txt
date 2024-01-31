@@ -1,3 +1,5 @@
+trojan://7d378dbef52644e893d021491489447f@202.64.1.167:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-202.64.1.167:443 📡 PING-197.15-MS
+trojan://3933e566-6e2d-460f-9363-48e2fa9ca103@185.94.99.205:60302?security=tls&sni=https://nafasmovie.com/&type=tcp&fp=safari#🔒 TR-TCP-TLS 🇮🇷 IR-185.94.99.205:60302 📡 PING-202.48-MS
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@52.175.18.3:443?security=tls&sni=tw01.trojanyyds.xyz&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-52.175.18.3:443 📡 PING-203.77-MS
 trojan://94ddbcbf-f976-4fa4-b563-b913e7d5766c@194.156.98.99:443?#🔒 TR-TCP-NA 🇭🇰 HK-194.156.98.99:443 📡 PING-210.67-MS
 trojan://842b5f9dd11e458d8613c907c4cc5723@220.246.88.197:443?sni=www.gpt123.one&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇭🇰 HK-220.246.88.197:443 📡 PING-212.17-MS
@@ -996,5 +998,3 @@ vless://4740decf-be76-4970-9a8a-943062549a3e@23.227.39.34:443?security=tls&sni=n
 vless://dd24dcab-91be-4383-9afa-56e41c8d145d@104.17.209.157:8880?security=none&type=ws&host=joinbede.vmessorg11.xn--8ey35nnyd.site&path=/Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.209.157:8880 📡 PING-005.59-MS
 vless://1bc33c21-267a-4201-819c-36ab4f10e543@104.21.18.95:80?security=none&type=ws&host=sg1.servervless.de&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.95:80 📡 PING-005.59-MS
 vless://6c752097-6099-42e7-afb5-9a2601f7d8f0@172.67.157.34:80?security=none&type=ws&host=telegram-pandavpntc-ybh38t.kickvpn.cloud&path=Telegram+channel+%3A+%40pandavpntc#🔒 VL-WS-NONE 🇺🇸 US-172.67.157.34:80 📡 PING-005.59-MS
-vless://48440595-a4b0-4fec-87bb-b46d01838dc6@104.18.154.42:8080?security=none&type=ws&host=unlimiteddev.xn--oor01rm8hfr4c.site&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.154.42:8080 📡 PING-005.59-MS
-vless://be25003d-2d83-4c77-a2ce-c14c841cfee8@104.16.229.153:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.229.153:2052 📡 PING-005.59-MS
