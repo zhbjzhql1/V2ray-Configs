@@ -1,3 +1,10 @@
+trojan://ee2d164e-ee98-4f0b-ac21-1b5bdca4024f@157.245.149.232:20021?security=tls&sni=tls.qqwljs.buzz&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-157.245.149.232:20021 📡 PING-168.66-MS
+trojan://ee2d164e-ee98-4f0b-ac21-1b5bdca4024f@128.199.183.65:20017?security=tls&sni=tls.qqwljs.buzz&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-128.199.183.65:20017 📡 PING-168.68-MS
+trojan://ee2d164e-ee98-4f0b-ac21-1b5bdca4024f@128.199.183.69:20022?security=tls&sni=tls.qqwljs.buzz&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-128.199.183.69:20022 📡 PING-168.70-MS
+trojan://FnF2E0fmnd@146.190.86.235:443?security=tls&sni=web.facebook.com&type=tcp&alpn=h2,http/1.1#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.86.235:443 📡 PING-168.71-MS
+trojan://Fn4rFdIWwW@146.190.105.144:42766?security=tls&sni=m.zoom.us&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.105.144:42766 📡 PING-168.81-MS
+trojan://DosCdc1p1r@146.190.105.144:443?security=tls&sni=m.instagram.com&type=tcp&alpn=h2%2Chttp%2F1.1#🔒 TR-TCP-TLS 🇸🇬 SG-146.190.105.144:443 📡 PING-168.88-MS
+trojan://r9XI132tJ9@45.76.186.33:10596?security=none&type=ws&path=%252F#🔒 TR-WS-NONE 🇸🇬 SG-45.76.186.33:10596 📡 PING-169.39-MS
 trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇸🇬 SG-149.28.151.140:443 📡 PING-169.49-MS
 trojan://3d64b68f-5e1d-4771-a810-1d1688673718@139.162.33.216:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.33.216:443 📡 PING-170.30-MS
 trojan://telegram-id-directvpn@13.48.223.253:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.223.253:22222 📡 PING-173.29-MS
@@ -991,10 +998,3 @@ vless://49f1b652-a5a8-463a-9656-40ff524ba191@104.21.74.19:443?security=tls&sni=s
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.153.253:8443?security=tls&sni=ss031.wang66.homes&type=ws&host=ss031.wang66.homes&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-172.67.153.253:8443 📡 PING-001.73-MS
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@104.18.182.77:443?security=tls&sni=AlfredConfig.kosnanatfilterchi.eu.org&type=ws&host=fkhamnei.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.182.77:443 📡 PING-001.73-MS
 vless://4dd6004c-c710-485c-a70f-3bed83e8540c@104.16.123.175:8080?security=none&type=ws&host=mandlahe.huondadalioshop.ir&path=%2F%40Arthas_vpn#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:8080 📡 PING-001.73-MS
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.64.138.223:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.64.138.223:8443 📡 PING-001.73-MS
-vless://a10a808c-f5ec-425f-915d-51b7610aef62@104.16.120.12:2083?security=tls&sni=amovpn2.fqservers.com&type=ws&host=amovpn2.fqservers.com&path=channel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.12:2083 📡 PING-001.73-MS
-vless://96bd9a86-efec-46e1-a638-f5c2e841fc1a@104.18.15.229:2052?security=none&type=ws&host=new.noskhe.xyz&path=%2Fdiscord%3Asadra#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.229:2052 📡 PING-001.73-MS
-vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@104.18.200.200:2083?security=tls&sni=forward222.maryam1500.top&type=grpc&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.200.200:2083 📡 PING-001.73-MS
-vless://48440595-a4b0-4fec-87bb-b46d01838dc6@104.24.34.67:8080?security=none&type=ws&host=unlimiteddev.xn--oor01rm8hfr4c.site&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.34.67:8080 📡 PING-001.72-MS
-vless://d16725e0-f70e-4739-ae01-c30e805e358d@104.20.162.27:80?security=none&type=ws&host=joinbede.vmessorg11.xn--8ey35nnyd.site&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.162.27:80 📡 PING-001.72-MS
-vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?security=tls&sni=v2ray-vmess-free.irnoen.workers.dev&type=ws&host=v2ray-vmess-free.irnoen.workers.dev&path=%2F%3F%40VPN_ROOM------%40VPN_ROOM&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.47.6:443 📡 PING-001.72-MS

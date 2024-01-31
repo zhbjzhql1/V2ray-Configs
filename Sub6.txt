@@ -1,3 +1,10 @@
+trojan://telegram-id-directvpn@3.8.239.88:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2029
+trojan://telegram-id-directvpn@34.214.170.12:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20311
+trojan://qnmD5GL6ri@162.159.153.2:443/?type=ws&host=fire-reservation-proposal-spaces.trycloudflare.com&path=Join%2520TEl%253A%2520%2540daily_configs%2520%257C%2520%2540daily_configs%2520%257C%2520%2540daily_configs%2520%257C%2520%2540daily_configs%2520%257C%2520%2540daily_configs%2520%257C%2520%2540daily_configs&security=tls&sni=fire-reservation-proposal-spaces.trycloudflare.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20312
+trojan://zIvR7ryOXv@159.223.207.182:34428/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20313
+trojan://telegram-id-directvpn@13.53.94.186:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2011
+trojan://1YcFVMZWx_OiEBEvnEMtrg@190.93.245.187:2083/?type=ws&host=arv2.aticloud.ir&path=%2F&security=tls&sni=arv2.aticloud.ir#Costa%20Rica
+trojan://telegram-id-privatevpns@54.74.107.253:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%202
 trojan://e86e242e-b5d5-46ae-a410-3684f7d70ac2@5.104.108.120:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2015
 trojan://0db1da23-a106-4afd-b0ae-2a4ffca1a895@172.105.174.37:443/?type=tcp&security=tls#%F0%9F%87%A6%F0%9F%87%BA%20Australia%202
 trojan://telegram-id-directvpn@52.48.172.240:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%203
