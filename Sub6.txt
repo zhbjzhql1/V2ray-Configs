@@ -1,3 +1,4 @@
+vmess://ae3e6ab7-144a-4ecc-981d-603ea73bc8af@8db7766f-d893-430e-96fb-ccd20e681145.tg.hkaa0.66688888.xyz:8880/?type=ws&encryption=auto&host=8db7766f-d893-430e-96fb-ccd20e681145.tg.hkaa0.66688888.xyz&path=%2FTelegram%3A%40hkaa0#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%202
 vmess://7de8d7aa-ae4a-4d75-82f4-2e8b46fc0290@108.181.2.154:33445/?type=tcp&encryption=auto#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20208
 vmess://58fe1542-5290-40ad-815a-77707a81afe5@172.67.229.25:2086/?type=ws&encryption=auto&host=ca6.tehme100.fun&path=%2FIOebhLMhl1CTbFHbL95myfRX2#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20209
 vmess://22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0@www.darkroom.lol:8080/?type=ws&encryption=auto&host=www.darkroom.lol&path=%2F#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20210

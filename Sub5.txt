@@ -1,3 +1,4 @@
+vless://612e4dd1-b6db-4c95-b627-888b6d34abeb@104.26.2.103:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=%2F&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.2.103:2083 📡 PING-008.50-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.64.129.146:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.64.129.146:8443 📡 PING-008.50-MS
 vless://79c89775-3014-4e52-f528-b8abdc9e6362@104.21.35.184:8080?security=none&type=ws&host=3f2.all-mci.cfd&path=%2Fghuiorguijiogfioeuorue#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.35.184:8080 📡 PING-008.50-MS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.182.110:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.182.110:443 📡 PING-008.50-MS
@@ -997,4 +998,3 @@ vmess://93845b50-26f6-4203-f5ad-4d231d4e8f45@132.145.132.227:37121/?type=ws&encr
 vmess://22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0@www.crispyrainbow.biz:8080/?type=ws&encryption=auto&host=www.crispyrainbow.biz&path=%2F#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20206
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@172.99.190.109:443/?type=ws&encryption=auto&path=linkvws&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2033
 vmess://3d668cbe-5464-4a79-aab5-e301b4e0f169@104.17.25.1:80/?type=ws&encryption=auto&host=dg.catnipballs.gay&path=%2F#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20207
-vmess://ae3e6ab7-144a-4ecc-981d-603ea73bc8af@8db7766f-d893-430e-96fb-ccd20e681145.tg.hkaa0.66688888.xyz:8880/?type=ws&encryption=auto&host=8db7766f-d893-430e-96fb-ccd20e681145.tg.hkaa0.66688888.xyz&path=%2FTelegram%3A%40hkaa0#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%202
