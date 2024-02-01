@@ -1,6 +1,3 @@
-trojan://telegram-id-privatevpns@3.78.59.132:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.78.59.132:22222 📡 PING-090.94-MS
-trojan://cR009egBE9@49.13.132.241:60400?security=reality&sni=discord.gg&type=grpc&fp=chrome&pbk=K_SXQOI3-08kDbJQzDDwplfDiZUaYt38iXtfzyGv6T8&sid=5ed30cf0#🔒 TR-GRPC-REALITY 🇩🇪 DE-49.13.132.241:60400 📡 PING-094.09-MS
-trojan://your_password@15.160.138.221:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&type=tcp#🔒 TR-TCP-TLS 🇮🇹 IT-15.160.138.221:443 📡 PING-096.64-MS
 trojan://telegram-id-privatevpns@13.50.135.84:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.135.84:22222 📡 PING-107.11-MS
 trojan://telegram-id-privatevpns@51.21.84.144:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.84.144:22222 📡 PING-107.22-MS
 trojan://telegram-id-directvpn@51.21.18.217:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-51.21.18.217:22222 📡 PING-108.22-MS
@@ -998,3 +995,6 @@ vless://ca942337-2b60-4fff-8b75-f6d520b61085@104.21.33.218:8880?security=none&ty
 vless://725db236-4956-4cf6-917f-6ecee2819bef@172.67.157.34:8880?security=none&type=ws&host=worker-morning-dew-a638.4d1e2665a3c461.workers.dev&path=Telegram+channel+%3A+%40pandavpntc#🔒 VL-WS-NONE 🇺🇸 US-172.67.157.34:8880 📡 PING-001.13-MS
 vless://d062e1c1-233d-4a1b-be05-6ecf74eceebe@104.19.54.50:8443?security=tls&sni=20ns2-V2ray.Vpncustomize.Com&type=grpc&serviceName=%40%56%50N%43%55%53%54OM%49Z%45,%40%56%50N%43%55%53%54OM%49Z%45&fp=chrome&alpn=@bored_vpn,@bored_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.54.50:8443 📡 PING-001.13-MS
 vless://5512bf69-a563-4ea7-be2b-2d14d27e6323@104.21.10.208:443?security=tls&sni=falcUNArGOo.EBf9A41066.woRkErS.DEV&type=ws&host=fALcUnaRgOO.ebf9A41066.worKErs.dEv&path=%2FusDY5wtPlH9B9D0X%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.208:443 📡 PING-001.13-MS
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.22.38.37:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.38.37:443 📡 PING-001.13-MS
+vless://b5dd4c86-3332-4a5d-b832-a93f1ba284c0@45.67.215.70:443?security=tls&sni=M4.Mamaliam.Site&type=grpc#🔒 VL-GRPC-TLS 🇷🇺 RU-45.67.215.70:443 📡 PING-001.13-MS
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@66.235.200.62:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.62:80 📡 PING-001.13-MS
