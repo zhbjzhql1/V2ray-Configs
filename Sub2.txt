@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@18.157.63.148:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.157.63.148:22222 📡 PING-107.82-MS
 trojan://telegram-id-privatevpns@18.156.123.121:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.156.123.121:22222 📡 PING-107.90-MS
 trojan://telegram-id-directvpn@18.153.220.196:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.153.220.196:22222 📡 PING-108.79-MS
 trojan://telegram-id-privatevpns@3.79.122.118:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.79.122.118:22222 📡 PING-110.06-MS
@@ -997,4 +998,3 @@ vless://a4df560d-00f8-4a1a-b7e0-0233ea522243@104.17.181.31:443?security=tls&sni=
 vless://4cc38d61-cf54-48c4-b5c0-20048bc4a1cc@104.22.0.175:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&path=/express?ed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.0.175:443 📡 PING-002.76-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.243.42:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.243.42:8443 📡 PING-002.76-MS
 vless://20ae1b49-68a6-43a8-fd46-3da471bbe8ee@104.17.225.96:8080?security=none&type=ws&host=SO68v5.cDN-aRvAnCloUD.sPAce&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.225.96:8080 📡 PING-002.75-MS
-vless://11798711-67a4-4bc6-b07d-cd3401c0f71a@104.26.14.85:443?security=tls&sni=jimmbo.kosnanatfilterchi.eu.ORG&type=ws&host=jimmbo.kosnanatfilterchi.eu.ORG&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:443 📡 PING-002.75-MS
