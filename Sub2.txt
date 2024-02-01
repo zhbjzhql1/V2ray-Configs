@@ -1,3 +1,7 @@
+trojan://telegram-id-directvpn@34.211.8.63:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-34.211.8.63:22222 📡 PING-086.39-MS
+trojan://ebecf1d2-6db1-4caa-9fa4-f4504b0328e5@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-086.52-MS
+trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-087.11-MS
+trojan://6ee84720-cc1c-32f1-8582-be44811e47a7@8.211.57.135:30443?security=tls&sni=fkvip101.qlgq1.pw&type=grpc&serviceName=fkvip101#🔒 TR-GRPC-TLS 🇩🇪 DE-8.211.57.135:30443 📡 PING-087.19-MS
 trojan://6ee84720-cc1c-32f1-8582-be44811e47a7@8.211.57.135:10443?security=tls&sni=fkvip101.qlgq1.pw&type=grpc&serviceName=fkvip101#🔒 TR-GRPC-TLS 🇩🇪 DE-8.211.57.135:10443 📡 PING-087.31-MS
 trojan://6ee84720-cc1c-32f1-8582-be44811e47a7@8.211.57.135:20443?security=tls&sni=fkvip101.qlgq1.pw&type=grpc&serviceName=fkvip101#🔒 TR-GRPC-TLS 🇩🇪 DE-8.211.57.135:20443 📡 PING-087.46-MS
 trojan://telegram-id-privatevpns@18.159.199.199:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.159.199.199:22222 📡 PING-087.47-MS
@@ -994,7 +998,3 @@ vless://c5a12632-ae3a-4272-beeb-cef6c5e21d58@104.21.5.226:443?security=tls&sni=i
 vless://aafedc1e-6dd7-4570-9b6b-7b7f40e2a413@172.67.81.238:2052?security=none&type=ws&serviceName=@TLS_v2ray&host=p3.abrarvan.xyz&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.81.238:2052 📡 PING-001.87-MS
 vless://135115a5-53c3-4e2f-adb3-fd1428a2e790@188.114.97.2:2087?security=tls&sni=mix.boveiry.cloud&type=grpc&serviceName=Telegram@IRAN_MEHR_VPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.97.2:2087 📡 PING-001.86-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.255.12:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.255.12:8443 📡 PING-001.86-MS
-vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.18.72.57:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.72.57:80 📡 PING-001.86-MS
-vless://01593cbe-dc74-4781-b807-78f765d22fed@162.159.138.232:443?security=tls&sni=tech.blueshopbot.cfd&type=ws&host=tech.blueshopbot.cfd&path=%2Fgra#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:443 📡 PING-001.86-MS
-vless://e66f5837-f33f-4ac1-9238-20bd174987a3@173.245.58.31:2086?security=none&type=ws&host=p2.abrarvan.xyz&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-173.245.58.31:2086 📡 PING-001.86-MS
-vless://4da0b7c2-b116-4fdc-82b8-3c540d82bcfd@162.159.136.234:2052?security=none&type=ws&host=gholam.%E5%8E%BB%E4%BD%A0%E7%9A%84.online&path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:2052 📡 PING-001.86-MS
