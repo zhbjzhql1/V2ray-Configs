@@ -1,3 +1,8 @@
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.67.182.104:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.182.104:2083 📡 PING-001.62-MS
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.67.18.190:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.18.190:8443 📡 PING-001.62-MS
+vless://f786be07-5d21-4413-ad2a-815c6f7857eb@104.21.23.227:8080?security=none&type=ws&path=%2F%40Esivp%40Esivp%40Esivp%40Esivp%40Esivp%40Esivp#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.23.227:8080 📡 PING-001.62-MS
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.5.60:443?security=tls&sni=sg28.ylkszy.eu.org&type=ws&host=sg28.ylkszy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.60:443 📡 PING-001.62-MS
+vless://030ff4cf-6194-4177-90da-a49f46f9afce@172.67.188.196:443?security=tls&sni=WoRKeR-WINTeR-BreEzE-4702.C6A6c6.wORkers.DeV&type=ws&host=WoRkeR-wIntER-BrEezE-4702.C6A6C6.WORKErs.Dev&path=%2FAgjOkU51bJ1hNmHL%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.188.196:443 📡 PING-001.62-MS
 vless://a9281288-3659-4eea-9044-58291062ab6f@172.66.47.74:2087?security=tls&sni=lengwi12.chipkayin.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.66.47.74:2087 📡 PING-001.62-MS
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@104.21.13.125:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.13.125:2096 📡 PING-001.62-MS
 vless://06fd7cf3-6194-4304-9527-1464ebfa9a99@162.159.58.17:443?security=tls&sni=free.virapn.ir&type=grpc&serviceName=443vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.58.17:443 📡 PING-001.62-MS
@@ -993,8 +998,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%208
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@v1.arvancode.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%203
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.43:2375#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%209
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2010
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEcXVFSjZTSE92bk9YdGxzaUtEWXZr@3.74.55.245:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%203
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#Poland
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.68.134.9:8000#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2011
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2012
