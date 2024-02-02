@@ -1,3 +1,7 @@
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2021
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@145.239.1.100:9102#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2023
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#%F0%9F%87%AB%F0%9F%87%B7%20France%2047
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20121
 ss://YWVzLTI1Ni1nY206am10Z3NtVzQwUg@8.210.231.146:1146#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.71:5004#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20122
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.175:8090#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20123
@@ -994,7 +998,3 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.182.110:443?encryption=none&
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?encryption=none&host=mahi.kosnanatfilterchi.eu.org&path=path%2FTELEGRAM-PROXY_MTM%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @proxy_mtm | CA🇨🇦 | 0️⃣4️⃣
 vless://d8253715-9664-4c3b-9ecd-e4805c8430f8@37.59.166.156:48576?encryption=none&fp=chrome&mode=gun&pbk=i-TBCDM3b7W2NE5JavNy7XBTsQwIjYD7qG9VEVfnxjg&security=reality&serviceName=&sid=b1b454f6&sni=ea.com&type=grpc#رایگان | REALITY | @proxy_mtm | PT🇵🇹 | 0️⃣5️⃣
 vless://343c887a-92bd-4f10-89ca-8abc608efad6@mci.VPNPROSEC.com:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=&sni=svnV2raysi.snappfoode.com&type=grpc#رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣1️⃣
-vless://343c887a-92bd-4f10-89ca-8abc608efad6@sec.VPNPROSEC.com:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=&sni=svnV2raysi.snappfoode.com&type=grpc#رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣2️⃣
-vless://343c887a-92bd-4f10-89ca-8abc608efad6@org.VPNPROSEC.com:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=&sni=svnV2raysi.snappfoode.com&type=grpc#رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣3️⃣
-vless://a594c2de-ff92-4210-aecb-78e4682b2a31@104.16.67.38:2052?encryption=none&host=p10.virankade.site&path=%2F&security=none&type=ws#رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣4️⃣
-vless://4286f662-b94c-4621-b1ec-7ee8fb6483a1@cdn.napsternet.party:8880?encryption=none&host=usa1.napsternet.party&path=%2F&security=none&type=ws#رایگان | VLESS | @kingofilter | CA🇨🇦 | 0️⃣5️⃣
