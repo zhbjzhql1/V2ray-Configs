@@ -1,3 +1,13 @@
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.68.134.9:9102#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20137
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.1.100:8118#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2027
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#%F0%9F%87%AB%F0%9F%87%B7%20France%2053
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.9:2375#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20138
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.1.100:8119#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2028
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.68.134.9:3306#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20139
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.61.175:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20140
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@54.36.174.181:9102#%F0%9F%87%AB%F0%9F%87%B7%20France%2054
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#%F0%9F%87%BA%F0%9F%87%B2%20Austria%203
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2022
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5003#%F0%9F%87%AB%F0%9F%87%B7%20France%2055
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.9:5004#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20141
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@145.239.1.100:8881#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2029
@@ -988,13 +998,3 @@ trojan://telegram-id-privatevpns@51.21.9.149:22222?alpn=http%2F1.1&headerType=no
 trojan://telegram-id-privatevpns@3.255.61.164:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣
 trojan://telegram-id-privatevpns@18.203.41.91:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣
 trojan://telegram-id-privatevpns@3.10.35.251:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣4️⃣
-trojan://telegram-id-privatevpns@18.175.26.64:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣
-trojan://telegram-id-privatevpns@13.39.251.230:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣
-trojan://telegram-id-privatevpns@15.237.239.151:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣
-trojan://telegram-id-directvpn@18.153.220.196:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | DE🇩🇪 | 0️⃣1️⃣
-trojan://telegram-id-directvpn@13.50.170.71:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | SE🇸🇪 | 0️⃣2️⃣
-trojan://telegram-id-directvpn@108.128.106.193:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣3️⃣
-trojan://telegram-id-directvpn@52.31.174.182:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣4️⃣
-trojan://telegram-id-directvpn@13.43.185.197:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣5️⃣
-trojan://telegram-id-directvpn@18.134.216.106:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣6️⃣
-trojan://telegram-id-directvpn@13.36.248.36:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣7️⃣
