@@ -1,3 +1,8 @@
+vless://a8203745-3ba7-4109-a481-5e313b804476@172.66.40.119:80?type=ws&host=beach.canuse21.shop&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-172.66.40.119:80 📡 PING-001.61-MS
+vless://e57583ea-b4c7-4dc0-a6a5-6fe91540b884@172.67.155.16:443?security=tls&sni=12tt.masternft1.shop&type=grpc&serviceName=12tt.masternft1.shop&fp=firefox#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.155.16:443 📡 PING-001.61-MS
+vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.22.75.142:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.75.142:80 📡 PING-001.61-MS
+vless://55df919e-17b8-4838-91ed-77607f58f37b@104.21.21.125:8080?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.125:8080 📡 PING-001.61-MS
+vless://bfcfcb30-2ab0-46b1-9ed6-373a55119543@198.41.202.5:443?security=tls&sni=ConneCtion-Ir-021.digiv2ray1.store&type=grpc&serviceName=%40%44%69%67%69%762%72%61%79,%40%44%69%67%69%762%72%61%79,%40%44%69%67%69%762%72%61%79,%40%44%69%67%69%762%72%61%79,%40%44%69%67%69%762%72%61%79,%40%44%69%67%69%762%72%61%79,%40%44%69%67%69%762%72%61%79,%40%44%69%67%69%762%72%61%79,%40%44%69%67%69%762%72%61%79&fp=chrome&alpn=@mehrosaboran,@mehrosaboran#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.202.5:443 📡 PING-001.61-MS
 vless://9eb76099-2310-45f0-95af-9bf344c3837e@104.25.254.88:80?security=none&type=ws&host=jigar1.alialialiali.ir&path=%2FTel%3A+%40NT_Safe+Tel%3A+%40NT_Safe+Tel%3A+%40NT_Safe+Tel%3A+%40NT_Safe#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.254.88:80 📡 PING-001.61-MS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.59.184:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.184:443 📡 PING-001.61-MS
 vless://edafe34c-b565-476b-9088-8ee118ccd17e@188.114.97.51:80?security=none&type=ws&host=uk2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-NONE 🇳🇱 NL-188.114.97.51:80 📡 PING-001.61-MS
@@ -993,8 +998,3 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.75.137.9:8080#%F0%9F%87%BA%F0%9F%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@masting.xyz:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.175:7306#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2015
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.43:2375#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2016
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2017
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.172.113.182:812#%F0%9F%87%AF%F0%9F%87%B5%20Japan%203
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%F0%9F%87%AB%F0%9F%87%B7%20France%204
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.121.43.65:5500#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2018
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%205
