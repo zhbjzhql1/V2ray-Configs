@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@15.188.205.68:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.188.205.68:22222 📡 PING-081.27-MS
+trojan://telegram-id-privatevpns@13.36.46.175:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.36.46.175:22222 📡 PING-082.04-MS
 trojan://telegram-id-privatevpns@15.236.45.222:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.45.222:22222 📡 PING-082.17-MS
 trojan://telegram-id-privatevpns@15.237.227.42:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.227.42:22222 📡 PING-082.20-MS
 trojan://telegram-id-privatevpns@35.180.179.250:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.180.179.250:22222 📡 PING-082.65-MS
@@ -996,5 +998,3 @@ vless://5d0a4a83-fa1d-4128-b8fb-1a24be074299@154.197.121.7:2087?security=tls&sni
 vless://df8a036b-12d2-4c23-ae66-e2f0335ba816@172.66.43.31:2096?security=tls&sni=attachment-nd-effectively-easier.trycloudflare.com&type=ws&host=attachment-nd-effectively-easier.trycloudflare.com&path=V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.43.31:2096 📡 PING-001.65-MS
 vless://93a4cc2e-9fc5-414a-a72f-1cc82c4070ad@104.31.16.83:2086?security=none&type=ws&host=24.arsamweb.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.83:2086 📡 PING-001.65-MS
 vless://7afb32ec-0853-488e-90b3-109159497c8f@172.67.204.84:2052?security=none&type=ws&host=kijiji-nashville-earlier-display.trycloudflare.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.204.84:2052 📡 PING-001.65-MS
-vless://97bb117a-c039-441d-9525-76a040b36493@172.67.214.67:443?security=tls&sni=arcordd.rezahpm.xyz&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.214.67:443 📡 PING-001.65-MS
-vless://a85eea58-d875-403b-9841-40e48d90c6f7@173.245.59.100:2096?security=tls&sni=vpnbigbang84.iranilove.top&type=grpc&fp=safari#🔒 VL-GRPC-TLS 🇺🇸 US-173.245.59.100:2096 📡 PING-001.65-MS
