@@ -1,3 +1,4 @@
+vless://0612c343-bfe0-4971-963c-40c31ae440af@172.67.172.214:443?security=tls&sni=jp.caball.link&type=ws#🔒 VL-WS-TLS 🇺🇸 US-172.67.172.214:443 📡 PING-008.54-MS
 vless://92669584-6357-4c04-88da-60c1b1ea953d@104.25.85.129:8080?security=none&type=ws&host=best.configforvpn.fun&path=%2Fh#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.85.129:8080 📡 PING-008.54-MS
 vless://47175d8e-3e95-4ca2-85af-b889083f96de@173.245.58.133:80?security=none&type=ws&host=PoPJZA.Dl-aPARat.CoM&path=%2Fbackup#🔒 VL-WS-NONE 🇺🇸 US-173.245.58.133:80 📡 PING-008.54-MS
 vless://48bd877e-67a0-45b6-ac0a-f7c15cc8e99e@172.67.165.207:8443?security=tls&sni=Free-config-for-you777ew6jy900hdhdhhgfsdhhdh.zerooners.com&type=ws&host=gt9.zerooners.com&path=%2FTelegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22+Telegram+%40Netazad22&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-172.67.165.207:8443 📡 PING-008.54-MS
@@ -997,4 +998,3 @@ ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#%F0%9F%87%AB%F0%9F
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.65:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2027
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#%F0%9F%87%AB%F0%9F%87%B7%20France%2022
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2028
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@v1.arvancode.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%209

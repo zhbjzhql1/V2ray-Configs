@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@16.16.41.253:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.16.41.253:22222 📡 PING-160.03-MS
 trojan://telegram-id-privatevpns@13.48.216.224:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.216.224:22222 📡 PING-160.09-MS
 trojan://telegram-id-directvpn@54.73.8.226:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.73.8.226:22222 📡 PING-160.39-MS
 trojan://telegram-id-privatevpns@3.124.250.187:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.124.250.187:22222 📡 PING-160.99-MS
@@ -997,4 +998,3 @@ vless://135115a5-53c3-4e2f-adb3-fd1428a2e790@188.114.97.1:2087?security=tls&sni=
 vless://fe98cab7-b948-4984-9e2c-eaff717f45b6@104.18.203.232:2086?security=none&type=ws&host=a4.b7b7b7b7b78.site&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2086 📡 PING-016.26-MS
 vless://9663708a-0fd5-429e-ab4b-bb07c9778ebc@104.19.250.20:2053?security=tls&sni=blog.mappvpn.top&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.250.20:2053 📡 PING-016.26-MS
 vless://830db4b4-0e65-4221-ef08-4deb33f60277@104.16.254.147:2096?security=tls&sni=max.iran-mehr-vip.ir&type=grpc&serviceName=iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn,iran_mehr_vpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.254.147:2096 📡 PING-016.26-MS
-vless://1364149f-1479-491c-830f-8bec3df43199@104.18.220.84:8443?security=tls&sni=reza.yoxba.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.220.84:8443 📡 PING-016.26-MS
