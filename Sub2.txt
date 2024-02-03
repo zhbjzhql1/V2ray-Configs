@@ -1,3 +1,4 @@
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-185.212.56.168:443 📡 PING-169.77-MS
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.120.4.221:65016?security=tls&sni=jp06a.roc-taiwan.org.ua&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇯🇵 JP-153.120.4.221:65016 📡 PING-179.17-MS
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@52.175.18.3:443?security=tls&sni=tw01.trojanyyds.xyz&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-52.175.18.3:443 📡 PING-198.76-MS
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@52.175.23.201:443?security=tls&sni=tw01.trojanyyds.xyz&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-52.175.23.201:443 📡 PING-199.25-MS
@@ -997,4 +998,3 @@ vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.17.177.252:80?security=none&typ
 vless://58d64f7f-b455-4479-951a-766f88821900@190.93.244.74:2087?security=tls&sni=eybaba2.celebriteshop.ir&type=grpc&serviceName=@celebriteshop,@celebriteshop,@celebriteshop,@celebriteshop&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-190.93.244.74:2087 📡 PING-001.81-MS
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.75.172:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.75.172:80 📡 PING-001.81-MS
 vless://257411d3-494f-4585-d4e3-8e159557c6fb@104.21.25.0:80?security=none&type=ws&host=RUeQOU.Dl-OnLINEdOctoR.biO&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.0:80 📡 PING-001.81-MS
-vless://667c6c32-609f-4c08-9bdb-da6333f2a89b@104.25.70.66:443?security=tls&sni=vhapi50.filmisho.co&type=ws&path=%2Fapiapp#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.70.66:443 📡 PING-001.81-MS
