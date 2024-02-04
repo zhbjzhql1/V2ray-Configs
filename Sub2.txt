@@ -1,4 +1,3 @@
-trojan://f46677ae-8d38-4580-9359-d91078fa49c9@141.94.115.231:443?#🔒 TR-TCP-NA 🇫🇷 FR-141.94.115.231:443 📡 PING-115.20-MS
 trojan://your_password@15.160.138.221:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&type=tcp#🔒 TR-TCP-TLS 🇮🇹 IT-15.160.138.221:443 📡 PING-116.85-MS
 trojan://telegram-id-privatevpns@13.48.206.195:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.206.195:22222 📡 PING-124.75-MS
 trojan://telegram-id-privatevpns@16.170.112.1:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-16.170.112.1:22222 📡 PING-125.17-MS
@@ -998,3 +997,4 @@ vless://7de36d5d-5e7f-451b-aa62-410322181a5e@172.64.34.107:443?security=tls&sni=
 vless://80dc148c-3411-46d1-b702-ae50abb01542@190.93.245.187:2082?security=none&type=ws&host=cdn-owmsmsj.mohammad420.sbs&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-190.93.245.187:2082 📡 PING-002.68-MS
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@141.101.115.235:80?security=none&type=ws&host=36.%E8%A1%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%9116.tech&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.115.235:80 📡 PING-002.68-MS
 vless://9ae86998-777e-4e6f-9c37-8ed88a4c24eb@172.67.198.184:443?security=tls&sni=bridge02.cc2.maroon-shimi.ir&type=ws&host=bridge02.cc2.maroon-shimi.ir&path=%2Fsmarthome&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-172.67.198.184:443 📡 PING-002.68-MS
+vless://66ab071f-48f0-4a62-923a-5353cc168d35@104.21.52.69:443?security=tls&sni=free.dwv2ray.site&type=grpc&serviceName=@SobyV2ray&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.52.69:443 📡 PING-002.68-MS
