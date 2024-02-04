@@ -1,3 +1,9 @@
+trojan://x7BVorAvEP@185.143.234.120:2083?security=tls&sni=cdn.toucan-config.cloud&type=ws&path=%2F&fp=chrome#🔒 TR-WS-TLS 🇮🇷 IR-185.143.234.120:2083 📡 PING-148.15-MS
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@52.175.23.201:443?security=tls&sni=tw01.trojanyyds.xyz&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-52.175.23.201:443 📡 PING-148.27-MS
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@52.175.18.3:443?security=tls&sni=tw01.trojanyyds.xyz&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-52.175.18.3:443 📡 PING-148.76-MS
+trojan://telegram-id-privatevpns@35.176.160.224:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.176.160.224:22222 📡 PING-149.05-MS
+trojan://telegram-id-privatevpns@52.56.136.177:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇬🇧 GB-52.56.136.177:22222 📡 PING-149.94-MS
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443 📡 PING-150.45-MS
 trojan://telegram-id-privatevpns@51.44.26.157:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.26.157:22222 📡 PING-150.50-MS
 trojan://telegram-id-privatevpns@13.39.179.251:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.179.251:22222 📡 PING-150.53-MS
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-150.56-MS
@@ -992,9 +998,3 @@ vless://b97186d7-b96f-49d4-aeec-b3a7d6ac1cfd@172.67.129.12:8443?security=tls&sni
 vless://612e4dd1-b6db-4c95-b627-888b6d34abeb@172.67.71.40:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=%2F&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3#🔒 VL-WS-TLS 🇺🇸 US-172.67.71.40:2083 📡 PING-001.96-MS
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.3:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=path%2FPROXY_MTM...proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-188.114.96.3:80 📡 PING-001.96-MS
 vless://fab004c8-08a7-447d-8f79-61a02125ab4f@104.27.196.71:2052?type=ws&host=R7ngC5.BlacKmasteR.ORG&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.27.196.71:2052 📡 PING-001.96-MS
-vless://8b47aa53-0c2a-4dab-bf7e-3d75499841b8@104.22.75.105:8880?security=none&type=ws&host=liV2helb.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&path=%2F%40LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.75.105:8880 📡 PING-001.96-MS
-vless://41459371-e081-4522-b696-48b5f2abe8b4@104.20.20.21:8443?security=tls&sni=sany0116.amyrrdakazmy17.wORkERS.DeV&type=ws&host=sany0116.amyrrdakazmy17.wORkERS.DeV&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.20.21:8443 📡 PING-001.96-MS
-vless://7a68c736-245e-4a13-8a84-4968c0419654@172.67.170.16:80?security=none&type=ws&host=kr3.servervless.de&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.170.16:80 📡 PING-001.96-MS
-vless://ad56f0bb-35e1-429d-a457-297800c93cb6@104.18.37.111:2053?security=tls&sni=join-mainv2ray.i-v2rayng.cam&type=grpc&serviceName=@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.37.111:2053 📡 PING-001.96-MS
-vless://c5a12632-ae3a-4272-beeb-cef6c5e21d58@172.67.167.94:443?security=tls&sni=cdn1.v-mizban.info&type=grpc&serviceName=vqkubV5xX0TuIjxyDyLFlgOLond&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.167.94:443 📡 PING-001.96-MS
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@66.81.247.29:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql#🔒 VL-WS-NONE 🇺🇸 US-66.81.247.29:80 📡 PING-001.96-MS
