@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@52.47.181.155:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-52.47.181.155:22222 📡 PING-082.85-MS
+trojan://telegram-id-privatevpns@51.44.26.157:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.26.157:22222 📡 PING-083.07-MS
+trojan://telegram-id-privatevpns@13.37.182.153:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.182.153:22222 📡 PING-083.53-MS
 trojan://telegram-id-privatevpns@13.39.179.251:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.179.251:22222 📡 PING-083.88-MS
 trojan://x7BVorAvEP@185.143.234.120:2083?security=tls&sni=cdn.toucan-config.cloud&type=ws&path=%2F&fp=chrome#🔒 TR-WS-TLS 🇮🇷 IR-185.143.234.120:2083 📡 PING-085.43-MS
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-086.78-MS
@@ -995,6 +998,3 @@ vless://a65d68c2-ef23-498d-9a56-d34fae42a125@172.67.175.113:8443?security=tls&sn
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@172.67.174.120:80?security=none&type=ws&host=public.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B785.shop&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.174.120:80 📡 PING-001.84-MS
 vless://e57ea30c-9075-46fc-8636-3d2aa1aa99e6@104.21.20.26:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2F%3Fed%3D2047&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.26:2053 📡 PING-001.84-MS
 vless://c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0@104.16.124.175:80?security=none&type=ws&host=Gio4GI.TahaRAT.App&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.124.175:80 📡 PING-001.84-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.8.156:8443?security=tls&sni=ss031.wang66.homes&type=ws&host=ss031.wang66.homes&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.156:8443 📡 PING-001.84-MS
-vless://a5f5b10a-e1e6-48f1-81a7-c64d60498d69@172.67.129.227:2096?security=tls&sni=likearzon2.uspro.ir&type=grpc&serviceName=lol.aparat.lol#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.129.227:2096 📡 PING-001.84-MS
-vless://787dd2f6-5637-4e1c-b7c3-4d6cc39aca66@104.22.51.162:2083?security=tls&sni=liV2rayf.xn--mgbg0fka44dhgc.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.51.162:2083 📡 PING-001.84-MS
