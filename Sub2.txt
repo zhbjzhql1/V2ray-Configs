@@ -1,5 +1,3 @@
-trojan://telegram-id-directvpn@3.79.253.216:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.79.253.216:22222 📡 PING-093.96-MS
-trojan://your_password@15.160.138.221:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&type=tcp#🔒 TR-TCP-TLS 🇮🇹 IT-15.160.138.221:443 📡 PING-102.46-MS
 trojan://telegram-id-directvpn@13.50.149.65:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.149.65:22222 📡 PING-108.27-MS
 trojan://telegram-id-privatevpns@13.48.206.195:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.48.206.195:22222 📡 PING-108.30-MS
 trojan://telegram-id-directvpn@13.51.119.230:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.119.230:22222 📡 PING-108.35-MS
@@ -998,3 +996,5 @@ vless://3fd97eba-2517-4011-8bc3-50356388cf91@172.67.195.162:2083?security=tls&sn
 vless://988a968a-e24c-4ab2-8f31-a6312b256b73@162.159.133.234:2083?security=tls&sni=francejdbejxbdbdjxkdkdk.tunelvip.top&type=grpc&serviceName=Bargovpn+Bargovpn+Bargovpn+Bargovpn+Bargovpn&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.133.234:2083 📡 PING-005.59-MS
 vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.21.2.83:2053?security=tls&sni=3k.dabee.top&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.83:2053 📡 PING-005.59-MS
 vless://226dfc94-9413-470b-ad06-89834fd2dc41@104.25.254.35:8443?security=tls&sni=t.mmd111.sbs&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.254.35:8443 📡 PING-005.59-MS
+vless://79a65691-e89a-441a-8fc7-13376b178297@172.66.213.38:2096?security=tls&sni=joinbde.vmessorg.online&type=ws&host=joinbde.vmessorg.online&path=%2F&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-172.66.213.38:2096 📡 PING-005.59-MS
+vless://5f67cd3d-7737-4e2f-a940-83a8ae82e717@172.67.182.30:80?security=none&type=ws&host=ipple.atashserver.xyz&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.182.30:80 📡 PING-005.59-MS
