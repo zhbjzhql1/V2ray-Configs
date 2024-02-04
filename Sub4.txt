@@ -1,3 +1,4 @@
+vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@104.16.29.34:8880?security=none&type=ws&host=mahdihector.kewojod243.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.29.34:8880 📡 PING-001.51-MS
 vless://b02e999c-fe36-4a78-9eae-9aee8776f2b3@104.16.114.110:2083?security=tls&sni=vpn.starv2ray.cfd&type=grpc&serviceName=Telegram:@v2Rolex&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.114.110:2083 📡 PING-001.51-MS
 vless://93a4cc2e-9fc5-414a-a72f-1cc82c4070ad@104.17.245.1:2086?security=none&type=ws&host=24.moongift.org&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.245.1:2086 📡 PING-001.51-MS
 vless://94b827e4-2442-433a-8c66-29a303606a98@104.17.101.35:2087?security=tls&sni=ch1.gila2.shop&type=ws&host=ch1.gila2.shop&path=%2Fslt#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.101.35:2087 📡 PING-001.51-MS
@@ -997,4 +998,3 @@ vless://50ddf441-ff91-4d06-9d96-9993b1de6cf3@104.16.189.89:2096?security=tls&sni
 vless://1bc33c21-267a-4201-819c-36ab4f10e543@104.21.18.95:80?security=none&type=ws&host=sg1.servervless.de&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.95:80 📡 PING-001.34-MS
 vless://43e00e4c-2316-4dc9-8262-cef31886dc56@172.67.178.12:443?security=tls&sni=marly.toptechnonews.com&type=ws&host=marly.toptechnonews.com&path=%2Fnimws#🔒 VL-WS-TLS 🇺🇸 US-172.67.178.12:443 📡 PING-001.34-MS
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@162.159.12.88:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.12.88:80 📡 PING-001.34-MS
-vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@104.16.0.35:8880?security=none&type=ws&host=mahdihector.kewojod243.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.0.35:8880 📡 PING-001.34-MS
