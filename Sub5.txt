@@ -1,3 +1,5 @@
+vless://5f67cd3d-7737-4e2f-a940-83a8ae82e717@104.21.32.9:80?security=none&type=ws&host=ipple.atashserver.xyz&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.32.9:80 📡 PING-005.14-MS
+vless://b710d699-6bae-4795-8937-7e7d54885290@172.67.179.241:8880?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.179.241:8880 📡 PING-005.14-MS
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.21.23.66:80?security=none&type=ws&host=ehda.sajaditsme.com&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.23.66:80 📡 PING-005.14-MS
 vless://a5e7c1da-9b0a-47c5-9521-2494992efab0@190.93.247.225:2053?security=tls&sni=gwsV2ray.nobarane.org&type=ws&host=gwsV2ray.nobarane.org&path=%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇷 CR-190.93.247.225:2053 📡 PING-005.14-MS
 vless://30bd4a74-14a4-4ef5-a951-6c6c8b84ee1e@104.24.24.73:2095?security=none&type=ws&serviceName=@AstroVPN_official&host=b3.b7b7b7b7b78.site&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.24.73:2095 📡 PING-005.14-MS
@@ -996,5 +998,3 @@ vless://5d7c2894-f657-4a58-8b3d-14836128a1dd@in-full.privateip.net:443?type=ws&e
 vless://dc906a40-6650-48e8-959f-5360eca3df53@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20WS%20@V2rayStore
 vless://f0fffb1b-8032-4548-8efb-e8700e31bddb@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://106ca4ed-d1ae-446e-bd0e-989b61a10839@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
-vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
-vmess://eyJhZGQiOiAiMjA3LjE0OC42NC4zMiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTNmODQ3ODAtZGVhMC00MTAwLTliNjUtNDgyZDA5ODgyNWIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9ESUFMT0daIiwgInBvcnQiOiAzNDkyMCwgInBzIjogIiVGMCU5RiU4NyVCOCVGMCU5RiU4NyVBQyUyMFNpbmdhcG9yZSUyMFZtZXNzJTIwQFYycmF5U3RvcmUiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibS56b29tLnVzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
