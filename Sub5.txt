@@ -1,3 +1,5 @@
+vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.21.83.145:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.83.145:80 📡 PING-008.53-MS
+vless://283d4403-fb31-43f4-9568-ba9d1eac43fe@172.67.163.123:443?security=tls&sni=svnV2raytk.snappfoode.com&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.163.123:443 📡 PING-008.53-MS
 vless://e0d78e3a-4fb2-41c6-afa5-13b1092f40d9@104.24.34.67:8880?security=none&type=ws&host=xn--vgbbjc97aqi.xn--ltu70eba64m.shop&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.34.67:8880 📡 PING-008.53-MS
 vless://d5106b50-0680-4994-b053-9beee869aa83@141.101.120.237:8443?security=tls&sni=marmary.iran-mehr14.ir&type=grpc&serviceName=t.me/mehr14_vpn@https://t.me/mehr14_vpn@https://t.me/mehr14_vpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-141.101.120.237:8443 📡 PING-008.53-MS
 vless://4eaca90f-dbb9-4db7-b63f-446912cab360@185.162.228.3:8080?type=ws&host=hJbgPD.khAMenEi.BIO&path=/backup#🔒 VL-WS-NA 🇦🇲 AM-185.162.228.3:8080 📡 PING-008.53-MS
@@ -996,5 +998,3 @@ vless://Tel-VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security
 vless://5364318f-3578-4b6b-9b17-a732543ab0ba@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2raya.xn--mgbg0fka44dhgc.com#Join+%40V2rayNGn
 vless://5364318f-3578-4b6b-9b17-a732543ab0ba@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2rayb.xn--mgbg0fka44dhgc.com#Join+%40V2rayNGn
 vless://fd8b3e66-cd98-4a12-9fb0-22a69260577b@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=%2F%40LIGHTNING6&security=none&encryption=none&host=liV2raya.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&type=ws#Join+%40V2rayNGn++mci
-vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#Join+%40V2rayNGn
-vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#Join+%40V2rayNGn+mci
