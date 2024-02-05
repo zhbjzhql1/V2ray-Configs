@@ -1,3 +1,6 @@
+trojan://telegram-id-privatevpns@15.188.190.129:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.188.190.129:22222 📡 PING-083.24-MS
+trojan://telegram-id-directvpn@35.180.221.185:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.180.221.185:22222 📡 PING-083.93-MS
+trojan://telegram-id-privatevpns@51.44.26.157:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.26.157:22222 📡 PING-084.44-MS
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@95.179.128.114:443?security=tls&sni=hdfy8d1.cpi1.eu.org&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🇳🇱 NL-95.179.128.114:443 📡 PING-084.58-MS
 trojan://telegram-id-directvpn@15.236.140.66:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.236.140.66:22222 📡 PING-085.43-MS
 trojan://telegram-id-privatevpns@35.180.6.93:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-35.180.6.93:22222 📡 PING-086.04-MS
@@ -995,6 +998,3 @@ vless://ecb3c0df-fc63-46dc-96b2-d00fdbc9abe5@104.18.200.200:2096?security=tls&sn
 vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.213.235:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=%2f975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🇺🇸 US-172.67.213.235:443 📡 PING-005.48-MS
 vless://582f4ee2-0309-4d37-a3b0-899c59e9ad53@104.24.233.142:443?security=tls&sni=gw.archnodes.site&type=ws&host=gw.archnodes.site&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.233.142:443 📡 PING-005.48-MS
 vless://345fea56-471b-4957-8acd-f7c3bef3f769@104.18.220.48:80?security=none&type=ws&host=JBCK6o.mICrosOFts.downLOaD&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.220.48:80 📡 PING-005.48-MS
-vless://e0d78e3a-4fb2-41c6-afa5-13b1092f40d9@104.25.31.144:8880?security=none&type=ws&host=xn--vgbbjc97aqi.xn--ltu70eba64m.shop&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.31.144:8880 📡 PING-005.48-MS
-vless://203867fc-f23f-453e-a0f9-2e94042ee4ee@104.21.46.36:2053?security=tls&sni=sany0116.babaksalehi58.woRkErS.DEV&type=ws&host=sany0116.babaksalehi58.woRkErS.DEV&path=vless-ws%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.36:2053 📡 PING-005.48-MS
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@172.67.211.1:443?security=tls&sni=tahaquran8.xyz&type=ws&path=%2Fcurrent_time&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-172.67.211.1:443 📡 PING-005.48-MS
