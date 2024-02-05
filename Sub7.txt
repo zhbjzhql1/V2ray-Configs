@@ -1,3 +1,4 @@
+trojan://vpezhl8SyF2w@35.183.129.175:14666/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2018
 trojan://A7NJSyIa98Cl@34.220.0.65:14635/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20332
 trojan://OfGKkCFJ8wCE@18.143.146.106:14665/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2015
 trojan://telegram-id-directvpn@54.73.8.226:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%204
