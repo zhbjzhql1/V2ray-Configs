@@ -1,3 +1,11 @@
+trojan://x7BVorAvEP@185.143.234.120:2083?security=tls&sni=cdn.toucan-config.cloud&type=ws&path=%2F&fp=chrome#🔒 TR-WS-TLS 🇮🇷 IR-185.143.234.120:2083 📡 PING-088.69-MS
+trojan://4ad00feb-ab70-4c12-9da1-d610e8a90f7d@172.105.84.14:443?#🔒 TR-TCP-NA 🇩🇪 DE-172.105.84.14:443 📡 PING-088.92-MS
+trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-089.62-MS
+trojan://ebecf1d2-6db1-4caa-9fa4-f4504b0328e5@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-090.55-MS
+trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@54.38.156.210:443?#🔒 TR-TCP-NA 🇩🇪 DE-54.38.156.210:443 📡 PING-090.68-MS
+trojan://telegram-id-privatevpns@18.198.192.56:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.198.192.56:22222 📡 PING-090.73-MS
+trojan://b1d4c873-47bd-4020-a7a3-e8d89486bcee@172.232.53.246:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.53.246:443 📡 PING-090.77-MS
+trojan://telegram-id-privatevpns@3.127.254.220:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.127.254.220:22222 📡 PING-092.08-MS
 trojan://telegram-id-privatevpns@18.153.132.10:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.153.132.10:22222 📡 PING-093.89-MS
 trojan://a8ffca96-a47d-4fa4-a62d-6625b5346aa4@172.232.217.155:443?#🔒 TR-TCP-NA 🇮🇹 IT-172.232.217.155:443 📡 PING-098.50-MS
 trojan://your_password@15.160.138.221:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&type=tcp#🔒 TR-TCP-TLS 🇮🇹 IT-15.160.138.221:443 📡 PING-103.43-MS
@@ -990,11 +998,3 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@198.41.223.61:2087?security=tls&sni
 vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@104.18.200.200:2083?security=tls&sni=forward222.maryam1500.top&type=grpc&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.200.200:2083 📡 PING-005.59-MS
 vless://dc9f9344-d123-46e2-8c6d-db02ba121e37@190.93.245.187:8443?security=tls&sni=tel.VPNCUSTOMIZE.cam&type=grpc&fp=chrome&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-190.93.245.187:8443 📡 PING-005.59-MS
 vless://4fd4c27a-2b01-4dd6-94ee-a2c465542177@154.84.175.219:443?security=tls&sni=1.digikala.sbs&type=ws&host=1.digikala.sbs&path=%2FbGkiPnuRLmSRZp3WCDd7QY&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-154.84.175.219:443 📡 PING-005.59-MS
-vless://02a08969-7bf8-4400-979b-cb17d3aa7273@104.20.92.37:2096?security=tls&sni=sany116free.delanie.wORKERs.deV&type=ws&host=sany116free.delanie.wORKERs.deV&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.92.37:2096 📡 PING-005.59-MS
-vless://d3c705f1-d7e6-49cc-b792-6c714ff45e1c@104.17.101.35:2052?security=none&type=ws&host=ch1.gila5.shop&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.101.35:2052 📡 PING-005.59-MS
-vless://2fa0598b-e1b6-48c2-a859-a8d53f23bb25@104.21.18.39:80?security=none&type=ws&host=kr6.servervless.de&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.18.39:80 📡 PING-005.59-MS
-vless://4370b863-8869-4434-8f48-5e7fcf3f6632@172.67.157.34:80?security=none&type=ws&host=worker-raspy-brook-56e8.c6fdd365ba5e8d.workers.Dev&path=Telegram+channel+%3A+%40pandavpntc#🔒 VL-WS-NONE 🇺🇸 US-172.67.157.34:80 📡 PING-005.59-MS
-vless://06fd7cf3-6194-4304-9527-1464ebfa9a99@104.20.0.37:443?security=tls&sni=free.virapn.ir&type=grpc&serviceName=443vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.0.37:443 📡 PING-005.59-MS
-vless://5364318f-3578-4b6b-9b17-a732543ab0ba@190.93.244.103:2083?security=tls&sni=liV2raya.xn--mgbg0fka44dhgc.com&type=grpc&serviceName=%40LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-190.93.244.103:2083 📡 PING-005.59-MS
-vless://345fea56-471b-4957-8acd-f7c3bef3f769@104.18.72.65:80?security=none&type=ws&host=JBCK6o.mICrosOFts.downLOaD&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.72.65:80 📡 PING-005.59-MS
-vless://c97e05e3-b1b0-4ea1-afae-f213d24fa032@172.67.161.126:8443?security=tls&sni=v2.5g-speed.online&type=grpc&serviceName=Telegram:@v2flex#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.161.126:8443 📡 PING-005.59-MS
