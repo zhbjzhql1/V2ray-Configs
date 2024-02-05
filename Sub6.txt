@@ -1,3 +1,7 @@
+vless://f33374fe-15b2-4c01-9b04-500103efd280@18.143.35.125:40002?security=reality&flow=xtls-rprx-vision&sni=www.icloud.com&type=tcp&fp=chrome&pbk=qwdSP4FaUl1jwErGUe262dFgmsI3JEPg3EKdzeKwfk8&sid=fc063e6c#🔒 VL-TCP-RLT 🇸🇬 SG-18.143.35.125:40002 📡 PING-226.66-MS
+vless://be835c86-0df2-40ca-b4fa-00a29f163272@18.143.35.125:40003?security=reality&flow=xtls-rprx-vision&sni=www.icloud.com&type=tcp&fp=chrome&pbk=qwdSP4FaUl1jwErGUe262dFgmsI3JEPg3EKdzeKwfk8&sid=fc063e6c#🔒 VL-TCP-RLT 🇸🇬 SG-18.143.35.125:40003 📡 PING-229.94-MS
+vless://00635d00-45bd-4169-bf24-7b11db6d3fb7@111.251.131.107:6642?security=reality&flow=xtls-rprx-vision&sni=www.acer.com&type=tcp&fp=edge&pbk=mwAjI-9mycpV-XFjOPqvK7x3x7SDOWEaTPKeAiw-CwQ&sid=7316a598#🔒 VL-TCP-RLT 🇹🇼 TW-111.251.131.107:6642 📡 PING-241.03-MS
+vless://d3a2ad98-2700-4fe2-a3e2-93b868711447@190.93.247.155:443?security=reality&sni=mihanyas.ir&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray&fp=chrome&pbk=Lp6j3qTZyMyHxLIwQ16jUdis7PX3o44y5p8RE6CRxmA&sid=d7b5ea99#🔒 VL-GRPC-RLT 🇨🇷 CR-190.93.247.155:443 📡 PING-005.82-MS
 vless://24595bd0-45b0-4cac-8857-6e70a6cd135d@172.67.188.24:443?security=reality&sni=mihanyas.ir&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray&fp=chrome&pbk=Lp6j3qTZyMyHxLIwQ16jUdis7PX3o44y5p8RE6CRxmA&sid=d7b5ea99#🔒 VL-GRPC-RLT 🇺🇸 US-172.67.188.24:443 📡 PING-005.32-MS
 vless://24595bd0-45b0-4cac-8857-6e70a6cd135d@104.21.7.241:443?security=reality&sni=mihanyas.ir&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray&fp=chrome&pbk=Lp6j3qTZyMyHxLIwQ16jUdis7PX3o44y5p8RE6CRxmA&sid=d7b5ea99#🔒 VL-GRPC-RLT 🏴‍☠️ NA-104.21.7.241:443 📡 PING-005.10-MS
 vless://baacbca-aabc-aabc-cadb-bbacaabbccac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
@@ -994,7 +998,3 @@ trojan://6827ad98-c3fe-46fa-8047-fab4dbd51f82@172.105.18.131:443/?type=tcp&secur
 trojan://ebecf1d2-6db1-4caa-9fa4-f4504b0328e5@de-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2049
 trojan://telegram-id-privatevpns@13.51.153.172:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2011
 trojan://zIvR7ryOXv@159.223.207.182:34428/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20307
-trojan://qG9K8AGnn9XH5jUqeFu96g@172.64.199.20:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20308
-trojan://6827ad98-c3fe-46fa-8047-fab4dbd51f82@ca2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2013
-trojan://DosCdc1p1r@146.190.105.144:443/?type=tcp&security=tls&sni=m.instagram.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2011
-trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20309
