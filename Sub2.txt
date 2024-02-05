@@ -1,4 +1,3 @@
-trojan://b1d4c873-47bd-4020-a7a3-e8d89486bcee@172.232.53.246:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.232.53.246:443 📡 PING-107.44-MS
 trojan://telegram-id-directvpn@3.71.234.219:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.71.234.219:22222 📡 PING-108.35-MS
 trojan://telegram-id-privatevpns@3.124.130.64:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.124.130.64:22222 📡 PING-108.46-MS
 trojan://telegram-id-directvpn@18.199.61.131:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.199.61.131:22222 📡 PING-109.13-MS
@@ -998,3 +997,4 @@ vless://6210fd95-76b1-418a-b444-9a20103ccd2f@172.67.168.147:2083?security=tls&sn
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.200.138:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.200.138:8443 📡 PING-002.66-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.67.156.223:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.156.223:8443 📡 PING-002.66-MS
 vless://f922a88b-d4f5-4371-924e-c0335c990545@104.16.4.103:2087?security=tls&sni=SpeedV2rayNg-ConneCtion.digiv2ray1.store&type=ws&host=SpeedV2rayNg-ConneCtion.digiv2ray1.store&path=%2FDigiV%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.103:2087 📡 PING-002.65-MS
+vless://163d45ea-f0f2-4492-bcf4-de7e2b2369fc@104.25.188.126:443?security=tls&sni=pawder.viipnetwork.pics&type=ws&host=pawder.viipnetwork.pics&path=%2FTelegram%3A%40MikasaVPN%2CTelegram%3A%40MikasaVPN%2CTelegram%3A%40MikasaVPN%2C&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.188.126:443 📡 PING-002.65-MS
