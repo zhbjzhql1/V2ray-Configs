@@ -1,3 +1,6 @@
+vless://d062e1c1-233d-4a1b-be05-6ecf74eceebe@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#Join+%40V2rayNGn
+vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#Join+%40V2rayNGn+%D9%81%D9%82%D8%B7+%D9%87%D9%85%D8%B1%D8%A7%D9%87
+vless://8d638152-1dd5-4e2d-832e-9d1162c77aec@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#Join+%40V2rayNGn
 vless://VPNCUSTOMiZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#Join+%40V2rayNGn+%D9%81%D9%82%D8%B7+%D9%87%D9%85%D8%B1%D8%A7%D9%87
 vless://fa5d0f68-9c5f-4436-896f-e8a4cc588623@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#Join+%40V2rayNGn
 vless://--VPNCUSTOMIZE--@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#Join+%40V2rayNGn+%D9%81%D9%82%D8%B7+%D9%87%D9%85%D8%B1%D8%A7%D9%87
@@ -995,6 +998,3 @@ ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.103:9015#%F0%9F%87%B8%
 #profile-title: base64:VFZDIHwgTUlY
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-#support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
-
