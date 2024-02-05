@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@18.192.190.235:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.192.190.235:22222 📡 PING-087.12-MS
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-087.36-MS
 trojan://ebecf1d2-6db1-4caa-9fa4-f4504b0328e5@51.75.77.237:443?#🔒 TR-TCP-NA 🇩🇪 DE-51.75.77.237:443 📡 PING-087.93-MS
 trojan://telegram-id-privatevpns@18.198.192.56:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.198.192.56:22222 📡 PING-088.52-MS
@@ -997,4 +998,3 @@ vless://ed24ec53-e0ff-4eb1-aff1-a049a2678536@104.18.23.19:443?security=tls&sni=c
 vless://8e216f7f-f239-49a3-9a4f-a862d937ee04@104.16.3.189:443?security=tls&sni=ssn.galaxy-irankings.top&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.3.189:443 📡 PING-001.65-MS
 vless://1732c28e-9328-4246-bed6-de522bb6e102@104.22.41.69:8080?security=none&type=ws&host=yLyvzL.kHAmEnei.bio&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.41.69:8080 📡 PING-001.65-MS
 vless://06fd7cf3-6194-4304-9527-1464ebfa9a99@31.22.116.57:443?security=tls&sni=free.virapn.ir&type=grpc&serviceName=443vless#🔒 VL-GRPC-TLS 🇬🇧 GB-31.22.116.57:443 📡 PING-001.65-MS
-vless://095569da-572d-4538-893d-9f554b51acfa@188.114.97.113:443?security=tls&sni=m236.marivan.buzz&type=ws&host=m236.marivan.buzz&path=%2Fv6145481573#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.113:443 📡 PING-001.65-MS
