@@ -1,4 +1,3 @@
-vless://42e890f6-00e2-4739-82af-3db44b84de1a@104.18.12.130:2095?security=none&type=ws&host=love-you.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.tech&path=%2FZEDMODEON-JOIN-ZEDMODEON-BIAZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.12.130:2095 📡 PING-005.50-MS
 vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.17.232.35:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.232.35:80 📡 PING-005.50-MS
 vless://affd5a9a-22fa-11ee-be56-0242ac120002@104.19.4.191:443?security=tls&sni=vpn870.tutorials26858.workers.dev&type=ws&host=vpn870.tutorials26858.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.4.191:443 📡 PING-005.50-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.17.228:8443?security=tls&sni=pages.20230619.love&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.228:8443 📡 PING-005.50-MS
@@ -998,3 +997,4 @@ vless://988a968a-e24c-4ab2-8f31-a6312b256b73@162.159.135.234:2083?security=tls&s
 vless://0773256c-d020-436d-afea-6eee7cb6c872@23.227.39.24:443?security=tls&sni=xray1.freegradely.xyz&type=ws&path=/bodhws#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.24:443 📡 PING-005.25-MS
 vless://98efa803-d07a-4e2b-b13d-998e17e64c6c@172.67.81.238:8880?security=none&type=ws&serviceName=-@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&host=cdn.usa1.nvclud.ir&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.81.238:8880 📡 PING-005.25-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.9.55:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.9.55:443 📡 PING-005.25-MS
+vless://baa80abc-eb48-49e8-9b95-5664916c5909@104.19.166.105:80?security=none&type=ws&host=unlimiteddev.xn--oor01rm8hfr4c.site&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.166.105:80 📡 PING-005.25-MS
