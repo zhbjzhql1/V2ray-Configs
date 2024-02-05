@@ -1,3 +1,8 @@
+trojan://a413ce58-f357-4748-b3b7-09aa61903004@176.58.112.121:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2041
+trojan://wkmY1R4EcP@64.176.162.24:443/?type=tcp&security=tls#Israel
+trojan://hJG3wNfsVa@104.219.54.187:27112/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20296
+trojan://telegram-id-privatevpns@52.48.185.151:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+trojan://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@clean1.freelines.net:443/?type=ws&host=rsfrndc.foriran.trade&path=%2F3D8U0cLhe2MGwH9c1eh1994&security=tls&sni=rsfrndc.foriran.trade#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20297
 trojan://81dfb458-9a26-486a-a0da-914c380459c6@198.244.190.189:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2042
 trojan://b47d3422-a646-4b2e-bc8e-d6f70a42998c@au2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A6%F0%9F%87%BA%20Australia%202
 trojan://c9a1f630-063a-40c4-9890-0cc4801e7f83@173.255.197.80:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20298
