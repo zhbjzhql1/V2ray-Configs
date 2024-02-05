@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@54.204.102.91:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-54.204.102.91:22222 📡 PING-052.96-MS
 trojan://wkmY1R4EcP@172.234.39.145:443?security=tls&sni=z-v2-003301.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-172.234.39.145:443 📡 PING-062.71-MS
 trojan://760da1d0-c059-11ee-89b2-1239d0255272@15.204.240.119:443?security=tls&sni=us1.test3.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-15.204.240.119:443 📡 PING-066.87-MS
 trojan://6827ad98-c3fe-46fa-8047-fab4dbd51f82@172.105.18.131:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.18.131:443 📡 PING-067.95-MS
@@ -997,4 +998,3 @@ vless://6a5dcb4a-dc17-43e8-9cc5-a5e7d2b63982@104.18.78.200:2052?security=none&ty
 vless://17cc6764-9755-41a6-ace4-09ed99d823bc@104.18.203.232:2087?security=tls&sni=mehdi3.drugtm.monster&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.203.232:2087 📡 PING-017.63-MS
 vless://baa80abc-eb48-49e8-9b95-5664916c5909@104.19.166.105:80?security=none&type=ws&host=unlimiteddev.xn--oor01rm8hfr4c.site&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.166.105:80 📡 PING-017.61-MS
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.16.229.153:443?security=tls&sni=mahi.kosnanatfilterchi.eu.org&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%40AZARBAYJAB1%20%40AZARBAYJAB1%20%40AZARBAYJAB1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.229.153:443 📡 PING-017.59-MS
-vless://953ae0d9-be3d-4416-96a5-43f32e118d87@104.17.239.159:443?security=tls&sni=tactics-lung-advancement-percentage.trycloudflare.com&type=ws&host=tactics-lung-advancement-percentage.trycloudflare.com&path=telegram%3A%40daily_configs%2Ctelegram%3A%40daily_configs%2Ctelegram%3A%40daily_configs%2Ctelegram%3A%40daily_configs%2Ctelegram%3A%40daily_configs%2Ctelegram%3A%40daily_configs%2C#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.239.159:443 📡 PING-017.55-MS
