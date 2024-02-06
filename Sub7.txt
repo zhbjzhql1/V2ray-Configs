@@ -1,3 +1,9 @@
+trojan://telegram-id-directvpn@18.132.130.122:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2044
+trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20302
+trojan://6ecfd085-b30d-45ae-89b0-f68b3fed965b@172.232.234.79:443/?type=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%203
+trojan://b47d3422-a646-4b2e-bc8e-d6f70a42998c@172.105.174.37:443/?type=tcp&security=tls#%F0%9F%87%A6%F0%9F%87%BA%20Australia%203
+trojan://telegram-id-privatevpns@52.56.136.177:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2045
+trojan://uBFzcMkzwcyz@35.162.126.177:16633/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20303
 trojan://b1d4c873-47bd-4020-a7a3-e8d89486bcee@fr2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20France%2077
 trojan://telegram-id-directvpn@3.71.234.219:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2048
 trojan://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@104.21.11.17:443/?type=ws&host=rsfrndc.foriran.trade&path=%2F3D8U0cLhe2MGwH9c1eh1994&security=tls&sni=rsfrndc.foriran.trade#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20304
