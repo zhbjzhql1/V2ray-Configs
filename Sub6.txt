@@ -1,3 +1,19 @@
+vless://0bd7930a-3444-435c-b07f-1064804f0321@104.21.68.115:443?security=tls&sni=wawa.7070777.xyz&type=ws&path=%2Ffullspeedurl&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.68.115:443 📡 PING-001.59-MS
+vless://31ee875d-63cf-4d85-839e-2def5ca4f794@104.18.15.242:2053?security=tls&sni=031c08e8175b0def.greenbook.monster&type=ws&host=031c08e8175b0def.greenbook.monster&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.15.242:2053 📡 PING-001.59-MS
+vless://8347c16c-bd16-4591-ab82-d7d0ac0dc9c5@104.18.14.205:443?security=tls&sni=arcane.viipnetwork.pics&type=ws&host=arcane.viipnetwork.pics&path=%2FTelegram%3AMikasaVPN&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.205:443 📡 PING-001.59-MS
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.26.12.31:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=%40V2raySeven%40V2raySeven%40V2raySeven%40V2raySeven%40V2raySeven#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.31:443 📡 PING-001.59-MS
+vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@199.212.90.0:2087?security=tls&sni=mAh3.irAnWeB.ShOP&type=ws&host=mAh3.irAnWeB.ShOP&path=%2F%40mahsa_net+%40azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇨🇦 CA-199.212.90.0:2087 📡 PING-001.59-MS
+vless://9c167987-e16f-4d7b-8cd8-79018d5f764e@104.21.51.19:8443?security=tls&sni=parmo.wewosac651.workers.dev&type=ws&host=parmo.wewosac651.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.19:8443 📡 PING-001.59-MS
+vless://7d95b74d-e1d0-4771-bc3f-65b84e791e4b@104.21.3.52:443?security=tls&sni=fin6.melobigg.site&type=grpc&serviceName=me&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.3.52:443 📡 PING-001.59-MS
+vless://746e0ccd-d0f3-4193-a39e-817705400969@104.24.194.105:8880?security=none&type=ws&host=shahdadv2.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.194.105:8880 📡 PING-001.59-MS
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@104.21.90.218:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2052 📡 PING-001.59-MS
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.237.74:443 📡 PING-001.59-MS
+vless://0507f0bc-507c-442a-b755-71aca9c0d23c@104.18.202.232:80?type=ws&host=ok-config-10.4zkaban.xyz&path=%2F%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On+%2C+%40Config_On#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.202.232:80 📡 PING-001.59-MS
+vless://f0b9c219-e710-4533-976d-b82caebbeec7@104.21.1.200:2083?security=tls&sni=likearzon1.uspro.ir&type=grpc&serviceName=likearzon1.uspro.ir#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.1.200:2083 📡 PING-001.59-MS
+vless://f6c960f3-dc81-45ca-9891-4138f78d9125@104.21.36.84:443?security=tls&sni=FalcuNaRgO.e9744be7d6.woRKeRs.DEv&type=ws&host=FalCUnaRGO.E9744be7D6.woRKERs.Dev&path=%2Fvn1-fm3_Ez8K-mTw%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.36.84:443 📡 PING-001.59-MS
+vless://41459371-e081-4522-b696-48b5f2abe8b4@104.21.42.120:2096?security=tls&sni=sany0116.amyrrdakazmy17.WORkErs.dEV&type=ws&host=sany0116.amyrrdakazmy17.WORkErs.dEV&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.120:2096 📡 PING-001.59-MS
+vless://c158d696-a2ff-4cad-90a5-bd0a7e2b8ab8@104.18.189.219:8443?security=tls&sni=teh.sandalshik.sbs&type=grpc&serviceName=@v2roay&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.189.219:8443 📡 PING-001.59-MS
+vless://9c870866-203f-4e87-a152-48dbaaccd301@104.16.195.234:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&path=/express?ed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.195.234:443 📡 PING-001.59-MS
 vless://0773256c-d020-436d-afea-6eee7cb6c872@162.159.3.4:443?security=tls&sni=xray1.freegradely.xyz&type=ws&path=/bodhws#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.3.4:443 📡 PING-001.59-MS
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.193.36:2096 📡 PING-001.59-MS
 vless://08dc2313-7406-4f4c-895b-380fceecde7f@172.64.150.145:443?security=tls&sni=2a04fc01h7t2ub4BB.i-v2rayng.cam&type=grpc&serviceName=@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray,@mainv2ray&fp=random&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.150.145:443 📡 PING-001.59-MS
@@ -982,19 +998,3 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#Poland%2026
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaQzlSblhTVWgweW1qQkp1SXlMQVdK@46.246.96.30:31561#%F0%9F%87%B8%F0%9F%87%AA%20Sweden
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#Poland%2027
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2033
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.135:6697#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20185
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@145.239.1.100:9102#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2038
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@142.202.48.99:8080#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20186
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@51.158.150.210:5498#%F0%9F%87%AB%F0%9F%87%B7%20France%2067
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@51.77.53.200:8008#Poland%2028
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.9:5004#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20187
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20188
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.99:2376#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20189
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#%F0%9F%87%AB%F0%9F%87%B7%20France%2068
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@54.36.174.181:5500#%F0%9F%87%AB%F0%9F%87%B7%20France%2069
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:810#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2012
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@149.202.82.172:9102#%F0%9F%87%AB%F0%9F%87%B7%20France%2070
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.61.175:7002#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20190
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2034
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@149.202.82.172:8009#%F0%9F%87%AB%F0%9F%87%B7%20France%2071
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.68.134.9:3306#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20191
