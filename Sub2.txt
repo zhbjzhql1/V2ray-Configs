@@ -1,3 +1,13 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.137:443 📡 PING-002.58-MS
+ss://492bc1bc7bb5446da8d8138eeb8c39f7Og==@190.93.245.101:80#🔒 SS-TCP-NA 🇺🇸 US-190.93.245.101:80 📡 PING-001.73-MS
+ss://YWVzLTI1Ni1nY206LzhzRk9IOVB2SmZNWXdhejN6dW9SdEdUc1pnZ1J1U28zdVZ5bmN2dzR3VT0=@31.47.42.99:44824#🔒 SS-TCP-NA 🇮🇷 IR-31.47.42.99:44824 📡 PING-000.00-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZVV2M1RSQTNjNVFPSVhYQUxVclpBUXJGQUVleUV3NVd0V3dzVm1KNVU4PQ==@13.51.162.173:8080#🔒 SS-TCP-NA 🇸🇪 SE-13.51.162.173:8080 📡 PING-000.00-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxblNJVjJ5RVRSb1VJcTV2SnVVVG40@13.79.16.82:36775#🔒 SS-TCP-NA 🇮🇪 IE-13.79.16.82:36775 📡 PING-000.00-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:806#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:806 📡 PING-000.00-MS
+ss://bm9uZTpiYmFjYWNhLWFhYmMtYmFjYS1jYWRiLWJiYWJjY2FhY2JhYw==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+trojan://cbabaca-caab-acba-dbca-bacaaabcccbb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-17-BAHMAN-1402 🕑 20:32
+trojan://telegram-id-directvpn@3.97.148.164:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-3.97.148.164:22222 📡 PING-051.19-MS
+trojan://7522e2c27233459aab8d0f1d715828d0@104.160.18.251:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.160.18.251:443 📡 PING-065.21-MS
 trojan://wkmY1R4EcP@137.220.42.248:443?security=tls&sni=z-v2-002802.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-137.220.42.248:443 📡 PING-066.01-MS
 trojan://telegram-id-privatevpns@18.203.113.220:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-18.203.113.220:22222 📡 PING-067.04-MS
 trojan://telegram-id-privatevpns@99.80.206.60:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-99.80.206.60:22222 📡 PING-067.20-MS
@@ -988,13 +998,3 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.64.166.141:8443?security=tls&sn
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.9.156:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.9.156:8080 📡 PING-006.86-MS
 vless://7d0a75d5-7823-4c06-bac3-1fca38cbc3e6@[::ffff:6ca2:c10b]:8443?security=tls&sni=tr.v2speed.store&type=ws&host=tr.v2speed.store&path=%2F%40v2speedvpn%40v2speedvpn%40v2speedvpn%40v2speedvpn&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-[::ffff:6ca2:c10b]:8443 📡 PING-005.59-MS
 vless://1a5d3813-c56e-4bac-e52b-a618535afc88@104.21.63.160:8880?security=none&type=ws&host=hamrah.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.63.160:8880 📡 PING-005.46-MS
-vless://b3cd2c40-b1e6-42b7-888e-63dc94c0ce8a@172.67.217.39:2083?security=tls&sni=qwerasdf.balad.fun&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.217.39:2083 📡 PING-005.34-MS
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.26.10.72:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=Fuck_yes#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.10.72:443 📡 PING-005.24-MS
-vless://c8f492d0-4183-437a-90f7-16cc2cd0055a@104.16.25.8:8080?security=none&type=ws&host=arushi.diitreal.online&path=%2F%40Speedent_Net%2C%40Speedent_Net%2C%40Speedent_Net#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.25.8:8080 📡 PING-004.81-MS
-vless://eef6d6fd-ac94-4613-a505-dfa002649003@172.67.183.180:443?security=tls&sni=my.petomet.shop&type=ws&path=%2F&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-172.67.183.180:443 📡 PING-004.43-MS
-vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.17.177.252:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.177.252:80 📡 PING-004.33-MS
-vless://48bd4d22-e42f-4749-af6a-85ecf716c823@104.24.24.73:80?security=none&type=ws&host=fkhamnei.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.24.73:80 📡 PING-004.23-MS
-vless://1d970499-f2c7-4cb3-d750-7caaf58077a4@162.159.134.234:80?security=none&type=ws&host=mizbanv2ray.alialialiali.ir&path=%2Ftel%3Amizbanv2ray+tel%3Amizbanv2ray+tel%3Amizbanv2ray+tel%3Amizbanv2ray+tel%3Amizbanv2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.134.234:80 📡 PING-003.97-MS
-vless://f0821dd8-8a6d-4c2b-852e-fbefb02e2121@162.159.133.234:80?security=none&type=ws&host=it-cdn.NetGuardians.website#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:80 📡 PING-003.94-MS
-vless://0b4c5019-5d55-4dba-9fd8-a496e82c07e8@104.21.54.143:8443?security=tls&sni=zetashop1.we-pro.top&type=ws&path=%2Fws&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.54.143:8443 📡 PING-003.91-MS
-vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.21.95.235:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.95.235:80 📡 PING-003.41-MS
