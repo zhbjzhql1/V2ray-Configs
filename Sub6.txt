@@ -1,5 +1,3 @@
-vless://ffaa3be3-17c4-4c3e-817e-fafbcb1648ba@104.21.39.56:443?security=tls&sni=tesla.yaritomedia.sbs&type=ws&path=Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn-Telegram:@yaritovpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.56:443 📡 PING-001.54-MS
-vless://d075151b-cd84-48da-9b9c-15bbee9594eb@188.114.97.2:8080?security=none&type=ws&host=cdn1.iran-mehr14.ir&path=%2FsjCuAfPHc0391hggPTZrS#🔒 VL-WS-NONE 🇳🇱 NL-188.114.97.2:8080 📡 PING-001.54-MS
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.17.122.140:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.140:80 📡 PING-001.54-MS
 vless://49f0be4d-a870-4267-a463-1ab536a5f5d5@104.16.123.175:2052?security=none&type=ws&host=gwyVRW.Eitaa.bIo&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:2052 📡 PING-001.54-MS
 vless://0b4c5019-5d55-4dba-9fd8-a496e82c07e8@172.67.139.2:8443?security=tls&sni=zetashop1.we-pro.top&type=ws&path=%2Fws&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.139.2:8443 📡 PING-001.54-MS
@@ -998,3 +996,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@jseyu.arvancode.eu.org
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@54.36.174.181:5600#%F0%9F%87%AB%F0%9F%87%B7%20France%2065
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#Poland%2025
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:807#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2011
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.104:8118#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20177
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.135:5003#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20178
