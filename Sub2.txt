@@ -1,3 +1,10 @@
+ss://bm9uZTphYmFjYWNiLWJhY2EtYWFiYy1iY2RhLWFiYWNjY2JhYmNiYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+trojan://ccbabaa-baca-baac-cbad-cbacbcbaaabc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-17-BAHMAN-1402 🕑 12:22
+trojan://telegram-id-privatevpns@54.73.48.235:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.73.48.235:22222 📡 PING-066.59-MS
+trojan://telegram-id-privatevpns@18.203.113.220:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-18.203.113.220:22222 📡 PING-066.78-MS
+trojan://telegram-id-privatevpns@54.74.79.64:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.74.79.64:22222 📡 PING-066.80-MS
+trojan://telegram-id-privatevpns@52.49.105.158:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.49.105.158:22222 📡 PING-067.01-MS
+trojan://af84eec7-8324-30b9-89b8-a8a7e4fb5d3a@78.111.104.138:19235?sni=eplcgame.com&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-78.111.104.138:19235 📡 PING-067.32-MS
 trojan://wkmY1R4EcP@137.220.42.248:443?security=tls&sni=z-v2-002802.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-137.220.42.248:443 📡 PING-069.90-MS
 trojan://7522e2c27233459aab8d0f1d715828d0@104.160.18.251:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-104.160.18.251:443 📡 PING-071.41-MS
 trojan://62313560-c059-11ee-b43c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-51.38.65.155:443 📡 PING-073.95-MS
@@ -991,10 +998,3 @@ vless://0773256c-d020-436d-afea-6eee7cb6c872@172.67.79.156:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.3.35:2053?security=tls&sni=po.king.now.cc&type=ws&host=po.king.now.cc&path=%2F%3Fed%3D2048&fp=ios#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.3.35:2053 📡 PING-001.27-MS
 vless://06fd7cf3-6194-4304-9527-1464ebfa9a99@104.24.26.251:443?security=tls&sni=free.virapn.ir&type=grpc&serviceName=443vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.26.251:443 📡 PING-001.27-MS
 vless://fab004c8-08a7-447d-8f79-61a02125ab4f@104.21.209.87:2052?security=none&type=ws&host=R7ngC5.BlacKmasteR.ORG&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.209.87:2052 📡 PING-001.26-MS
-vless://715de573-29d3-487b-96de-16973c89944d@104.26.15.85:2083?security=tls&sni=varda2.manwe.ir&type=ws&host=varda2.manwe.ir&path=%2F&fp=randomized&alpn=http%2F1.1%2Ch2%2Ch3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:2083 📡 PING-001.26-MS
-vless://bbbcae19-9b6d-4b06-a317-ed50335fb09d@172.67.77.83:8443?security=tls&sni=telegram-ailumao.lp-airdrop.top&type=ws&host=telegram-ailumao.lp-airdrop.top&path=%2Fws%2F#🔒 VL-WS-TLS 🇺🇸 US-172.67.77.83:8443 📡 PING-001.26-MS
-vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@104.25.112.69:443?security=tls&sni=srv12.xyzquant.cloud&type=ws&host=srv12.xyzquant.cloud&path=/6eenmFpORi4fyf8bW&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.112.69:443 📡 PING-001.26-MS
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.70.25:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=fuck_yes%21#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.70.25:8443 📡 PING-001.26-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.21.21:443?security=tls&sni=edgood.king361.cf&type=ws&host=edgood.king361.cf&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.21:443 📡 PING-001.26-MS
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.17.122.140:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.140:80 📡 PING-001.26-MS
-vless://de7349ea-6b1f-4f32-b0dd-b4ef76177984@104.16.219.230:443?security=tls&sni=no1.v2vless.xyz&type=ws&host=no1.v2vless.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.219.230:443 📡 PING-001.26-MS
