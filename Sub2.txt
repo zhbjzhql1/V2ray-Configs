@@ -1,3 +1,10 @@
+trojan://acaabbc-abac-baca-cbad-babcabbcacca@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-17-BAHMAN-1402 🕑 18:32
+trojan://wkmY1R4EcP@45.77.161.86:443?security=tls&sni=z-v2-003314.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.77.161.86:443 📡 PING-053.85-MS
+trojan://wkmY1R4EcP@45.63.110.20:443?security=tls&sni=z-v2-003281.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.63.110.20:443 📡 PING-054.00-MS
+trojan://wkmY1R4EcP@45.77.167.12:443?security=tls&sni=z-v2-003319.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.77.167.12:443 📡 PING-054.09-MS
+trojan://wkmY1R4EcP@207.246.68.67:443?security=tls&sni=z-v2-003338.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-207.246.68.67:443 📡 PING-054.11-MS
+trojan://wkmY1R4EcP@216.128.147.13:443?security=tls&sni=z-v2-003274.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-216.128.147.13:443 📡 PING-058.56-MS
+trojan://wkmY1R4EcP@45.76.228.197:443?security=tls&sni=z-v2-003263.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.76.228.197:443 📡 PING-059.45-MS
 trojan://wkmY1R4EcP@108.61.203.210:443?security=tls&sni=z-v2-003322.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-108.61.203.210:443 📡 PING-059.47-MS
 trojan://wkmY1R4EcP@83.229.112.181:443?security=tls&sni=z-v2-002967.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-83.229.112.181:443 📡 PING-064.06-MS
 trojan://4ebba70d-9532-4fc3-a55d-313d1a8ed1a5@139.177.195.143:443?#🔒 TR-TCP-NA 🇨🇦 CA-139.177.195.143:443 📡 PING-069.24-MS
@@ -991,10 +998,3 @@ vless://03ecdeca-37cd-4cbe-afef-3fecaab53c80@193.35.230.133:2083?security=none&t
 vless://5d92e3d3-7f2b-4497-bc5f-200f5416a199@37.32.6.218:43383?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-37.32.6.218:43383 📡 PING-267.07-MS
 vless://7012fd6d-e44f-4e8e-8250-5a31fc9fdb40@92.114.19.249:505?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.19.249:505 📡 PING-268.24-MS
 vless://ba345125-68a8-4d32-ad11-4cad815854ed@37.32.6.218:13979?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-37.32.6.218:13979 📡 PING-268.55-MS
-vless://7012fd6d-e44f-4e8e-8250-5a31fc9fdb40@92.114.19.249:503?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.19.249:503 📡 PING-272.91-MS
-vless://63a00b92-090c-4c28-9b34-8334e105dd49@94.182.136.46:444?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.136.46:444 📡 PING-273.06-MS
-vless://a1e3d73f-65b9-4b0a-ad1a-46878b718bcc@193.151.144.194:44883?security=none&type=tcp&host=creativecommons.org&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.144.194:44883 📡 PING-339.71-MS
-vless://dd632311-97a9-4fc6-a4d7-a074ff27848f@37.32.21.2:666?security=tls&sni=vip.trustvpn.top&type=tcp&host=vip.trustvpn.top&headerType=http&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇮🇷 IR-37.32.21.2:666 📡 PING-340.38-MS
-vless://520bd28e-c1ee-11ee-98e5-430bd266ea8a@185.141.106.245:8664?security=tls&sni=nimz179.nimzrayen23.ir&type=tcp#🔒 VL-TCP-TLS 🇮🇷 IR-185.141.106.245:8664 📡 PING-346.18-MS
-vless://520bd28e-c1ee-11ee-98e5-430bd266ea8a@185.141.106.245:2047?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.141.106.245:2047 📡 PING-362.50-MS
-vless://32088f2f-92b3-456b-9f66-3b50e06555f6@198.58.109.150:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-198.58.109.150:2003 📡 PING-044.15-MS
