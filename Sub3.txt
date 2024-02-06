@@ -1,3 +1,5 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.208.245.112:43921?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-89.208.245.112:43921 📡 PING-008.26-MS
+vless://676ccd3b-793d-4efd-b93c-48943711055d@108.181.23.255:443?security=tls&flow=xtls-rprx-vision&sni=usla6.hnkkt.top&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.23.255:443 📡 PING-008.20-MS
 vless://676ccd3b-793d-4efd-b93c-48943711055d@108.181.22.195:443?security=tls&flow=xtls-rprx-vision&sni=usla8.hnkkt.top&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.22.195:443 📡 PING-008.15-MS
 vless://8c4c1021-3352-4c76-b4b6-26c38a137f92@108.181.24.29:443?security=tls&flow=xtls-rprx-vision&sni=downloadus3.xn--mes358acgm99l.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.24.29:443 📡 PING-008.13-MS
 vless://7509f896-2115-4420-b487-501c9103bebd@154.17.19.15:5744?security=tls&sni=ccs.fgfw.tk&type=ws&host=ccs.fgfw.tk&path=%2Fvless%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-154.17.19.15:5744 📡 PING-008.09-MS
@@ -996,5 +998,3 @@ vless://dc6a2e2b-1e00-421c-9352-0849dae6b4d3@104.16.216.241:443?security=tls&sni
 vless://5f3a20a9-24a3-4093-99ad-7357aeb01445@173.245.58.51:2053?security=tls&sni=jointmv2ray.webv2ray.shop&type=ws&host=jointmv2ray.webv2ray.shop&path=%2FTMV2RAY&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-173.245.58.51:2053 📡 PING-001.60-MS
 vless://4e14164b-2240-42db-bfde-7c5d8da9ed98@104.16.106.177:2053?security=tls&sni=2TelegramTMV2RAY.webv2ray.shop&type=grpc&serviceName=@TMV2RAY@TMV2RAY&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.106.177:2053 📡 PING-001.60-MS
 vless://cda2fa62-79b1-4177-81fc-165f98943a1c@104.21.69.44:2053?security=tls&sni=lV2ray.nobarane.org&type=ws&host=lV2ray.nobarane.org&path=%2F%3Fed%3D1024&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2053 📡 PING-001.60-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.4.221:2087?security=tls&sni=edgood.king361.cf&type=ws&host=edgood.king361.cf&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.4.221:2087 📡 PING-001.60-MS
-vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.21.83.145:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.83.145:80 📡 PING-001.60-MS

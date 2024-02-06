@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.9:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.9:2375 📡 PING-008.24-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.136.21:443#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:443 📡 PING-008.22-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5601 📡 PING-008.15-MS
 ss://492bc1bc7bb5446da8d8138eeb8c39f7Og==@190.93.245.101:80#🔒 SS-TCP-NA 🇺🇸 US-190.93.245.101:80 📡 PING-001.43-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmM3Fac3dzM1hmMGpRUnF3aG93VjZt@188.132.129.242:55983#🔒 SS-TCP-NA 🇹🇷 TR-188.132.129.242:55983 📡 PING-000.00-MS
@@ -996,5 +998,3 @@ vless://676ccd3b-793d-4efd-b93c-48943711055d@108.181.23.247:443?security=tls&flo
 vless://f922a88b-d4f5-4371-924e-c0335c990521@198.41.192.118:2087?security=tls&sni=SpeedV2rayNg-ConneCtion.digiv2ray1.store&type=ws&path=%2FDigiV%3Fed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.192.118:2087 📡 PING-008.49-MS
 vless://8c4c1021-3352-4c76-b4b6-26c38a137f92@108.181.23.61:443?security=tls&flow=xtls-rprx-vision&sni=downloadus2.xn--mes358acgm99l.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.23.61:443 📡 PING-008.43-MS
 vless://29f00915-4107-491d-ba71-c9328e845a21@198.41.192.118:80?security=none&type=ws&path=%2FDigiV%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.192.118:80 📡 PING-008.42-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.208.245.112:43921?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-89.208.245.112:43921 📡 PING-008.26-MS
-vless://676ccd3b-793d-4efd-b93c-48943711055d@108.181.23.255:443?security=tls&flow=xtls-rprx-vision&sni=usla6.hnkkt.top&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.23.255:443 📡 PING-008.20-MS
