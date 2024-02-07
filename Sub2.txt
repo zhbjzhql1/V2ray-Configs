@@ -1,7 +1,3 @@
-trojan://telegram-id-privatevpns@34.253.136.136:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.253.136.136:22222 📡 PING-070.74-MS
-trojan://wkmY1R4EcP@137.220.42.248:443?security=tls&sni=z-v2-002802.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-137.220.42.248:443 📡 PING-072.75-MS
-trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&sni=z-v2-003289.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-45.76.130.173:443 📡 PING-078.62-MS
-trojan://a413ce58-f357-4748-b3b7-09aa61903004@176.58.112.121:443?#🔒 TR-TCP-NA 🇬🇧 GB-176.58.112.121:443 📡 PING-079.80-MS
 trojan://wkmY1R4EcP@45.32.148.182:443?security=tls&sni=z-v2-002805.kailib.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-45.32.148.182:443 📡 PING-080.17-MS
 trojan://telegram-id-privatevpns@54.220.134.150:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.220.134.150:22222 📡 PING-080.22-MS
 trojan://62313560-c059-11ee-b43c-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇬🇧 GB-51.38.65.155:443 📡 PING-080.28-MS
@@ -998,3 +994,7 @@ vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.17.47.163:8443?security=tls&sni
 vless://f1961e44-9f10-4b71-8cc4-54a179144616@142.251.163.113:443?security=tls&sni=7877855697.chamshar.shop&type=grpc&serviceName=38908621&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-142.251.163.113:443 📡 PING-007.55-MS
 vless://188b54a0-84f3-4939-b656-4b550f0745eb@172.67.5.78:443?security=tls&sni=dg.yyts.cfd&type=grpc&serviceName=test1026#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.5.78:443 📡 PING-007.55-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.224.159:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.224.159:8080 📡 PING-007.49-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.128.207:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.128.207:8080 📡 PING-007.29-MS
+vless://8a066b20-ada7-4c58-ac62-1ff1203fa85f@104.21.31.149:443?security=tls&sni=ChAnnEL-V2vPnHub.SaDRAfAROKhi2323.WoRkErS.dEV&type=ws&host=ChanNEl-v2vpNhuB.SaDRafArOkhi2323.WoRkeRS.deV&path=%2FI_QCWkGJhH_dNzw4%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.149:443 📡 PING-007.25-MS
+vless://1ee181d7-ed70-46b4-b249-7f0e0129fc69@104.18.200.107:80?security=none&type=ws&host=CE4thn.Dl-vSCode.coM&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.200.107:80 📡 PING-007.23-MS
+vless://1965a282-2e65-40c9-9958-29be20a8a111@142.251.111.100:443?security=tls&sni=3470733333.chamshar.shop&type=grpc&serviceName=69591304&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-142.251.111.100:443 📡 PING-007.22-MS
