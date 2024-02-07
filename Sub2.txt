@@ -1,9 +1,3 @@
-trojan://6827ad98-c3fe-46fa-8047-fab4dbd51f82@172.105.18.131:443?#🔒 TR-TCP-NA 🇨🇦 CA-172.105.18.131:443 📡 PING-069.02-MS
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@168.138.73.206:40003?security=tls&sni=frontend.kuangbiaoyun.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇨🇦 CA-168.138.73.206:40003 📡 PING-073.96-MS
-trojan://23c33600-c059-11ee-a2eb-1239d0255272@144.217.81.44:443?security=tls&sni=ca1.test3.net&type=tcp#🔒 TR-TCP-TLS 🇨🇦 CA-144.217.81.44:443 📡 PING-074.77-MS
-trojan://telegram-id-directvpn@18.219.43.124:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.219.43.124:22222 📡 PING-075.47-MS
-trojan://telegram-id-directvpn@18.216.131.117:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-18.216.131.117:22222 📡 PING-080.03-MS
-trojan://telegram-id-directvpn@3.232.236.228:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-3.232.236.228:22222 📡 PING-084.09-MS
 trojan://4a39dba7-463b-4c8a-a804-758282c11c62@52.140.202.92:443?security=tls&sni=uk01.trojanyyds.xyz&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-52.140.202.92:443 📡 PING-107.65-MS
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@20.243.242.154:443?security=tls&sni=tw01.trojanyyds.xyz&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-20.243.242.154:443 📡 PING-107.91-MS
 trojan://telegram-id-privatevpns@54.73.239.19:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇮🇪 IE-54.73.239.19:22222 📡 PING-117.73-MS
@@ -998,3 +992,9 @@ vless://7a27aac1-9de1-4ad7-aca1-0936fd1c46ca@104.17.45.62:80?security=none&type=
 vless://2a044873-12c8-4849-803e-8a5d731375de@104.19.178.228:443?security=tls&sni=hk1.servervless.de&type=ws&host=hk1.servervless.de&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.178.228:443 📡 PING-016.73-MS
 vless://ce7831bb-61a0-4b81-9833-5ede38f2d7ec@104.16.245.65:2087?security=tls&sni=It5.Moinpv2ray.cfd&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.245.65:2087 📡 PING-016.73-MS
 vless://d075151b-cd84-48da-9b9c-15bbee9594eb@188.114.97.2:8080?security=none&type=ws&host=cdn1.iran-mehr14.ir&path=%2FsjCuAfPHc0391hggPTZrS#🔒 VL-WS-NONE 🇳🇱 NL-188.114.97.2:8080 📡 PING-016.73-MS
+vless://445b8b31-8c85-44f4-b50e-e6608db3493b@104.18.203.99:8880?security=none&type=ws&host=www.zedmode.shop&path=%2F%40ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.99:8880 📡 PING-016.73-MS
+vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@104.17.208.52:2096?security=tls&sni=kyd.cloudns.org&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.208.52:2096 📡 PING-016.73-MS
+vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@190.93.247.11:2083?security=tls&sni=kyd.cloudns.org&type=ws&host=kyd.cloudns.org&path=path%2F%40alpha_v2ra_fazayi%40alpha_v2ra_fazayi%40alpha_v2ra_fazayi%40alpha_v2ra_fazayi%40alpha_v2ra_fazayi%40alpha_v2ra_fazayi%40alpha_v2ra_fazayi%40alpha_v2ra_fazayi%40alpha_v2ra_fazayi%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇷 CR-190.93.247.11:2083 📡 PING-016.72-MS
+vless://135115a5-53c3-4e2f-adb3-fd1428a2e790@188.114.96.2:2087?security=tls&sni=mix.boveiry.cloud&type=grpc&serviceName=Telegram@IRAN_MEHR_VPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.96.2:2087 📡 PING-016.72-MS
+vless://de385bbf-6b0e-4dad-fd9d-fe9229068789@104.18.202.233:2083?security=tls&sni=liV2hell.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.233:2083 📡 PING-016.71-MS
+vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.17.225.203:80?type=ws&host=Ir18U8.CDNMCi.sItE&path=/backup#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.225.203:80 📡 PING-016.70-MS
