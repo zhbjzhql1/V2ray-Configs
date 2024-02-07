@@ -1,6 +1,3 @@
-vless://353dd351-8ff1-4be2-99c8-5b9852349e46@172.67.141.245:8880?security=none&type=ws&host=hello-man.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.tech&path=%2FZEDMODEON-JOIN-ZEDMODEON-JOIN-ZEDMODEON-BIA-ZEDMODEON#🔒 VL-WS-NONE 🇺🇸 US-172.67.141.245:8880 📡 PING-001.40-MS
-vless://1c5dff7c-bfe8-45c1-be13-db011fb5bd44@190.93.246.241:8880?security=none&type=ws&host=liV2rayb.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇨🇷 CR-190.93.246.241:8880 📡 PING-001.40-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.59.219:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.59.219:8080 📡 PING-001.40-MS
 vless://c511ce75-e649-416a-eaec-d0480f33f66b@104.21.41.138:443?security=tls&sni=*.starv2ray.cfd&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.41.138:443 📡 PING-001.40-MS
 vless://6b8c6d72-badb-477d-b5bc-d4370a36d773@104.25.254.185:2052?security=none&type=ws&host=tttt.rojshop2.site&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.254.185:2052 📡 PING-001.40-MS
 vless://1f573916-45b3-4412-9e5f-bdc7d250f62a@190.93.245.187:2083?security=tls&sni=prizefoodsedinompareop.atkfood.com&type=grpc&serviceName=@v2rayN_OPENAVPN@v2rayN_OPENAVPN@v2rayN_OPENAVPN@v2rayN_OPENAVPN@v2rayN_OPENAVPN@v2rayN_OPENAVPN&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-190.93.245.187:2083 📡 PING-001.40-MS
@@ -998,3 +995,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.65:8888#%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%204
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#%F0%9F%87%AB%F0%9F%87%B7%20France%2012
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.175:7306#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2029
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%205
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE@205.134.180.137:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2030
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@145.239.1.100:8882#%F0%9F%87%A9%F0%9F%87%AA%20Germany%204
