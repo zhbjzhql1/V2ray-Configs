@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKaUU4VHFUN0VhOW1vTHJBaUYybzdn@68.183.196.168:31024#🔒 SS-TCP-NA 🇨🇦 CA-68.183.196.168:31024 📡 PING-019.67-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@172.234.31.111:8080#🔒 SS-TCP-NA 🇺🇸 US-172.234.31.111:8080 📡 PING-019.59-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3d1VSOGNPblJxNDVkTDYyRzVvTnZq@192.18.150.179:443#🔒 SS-TCP-NA 🇨🇦 CA-192.18.150.179:443 📡 PING-018.72-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:5500#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:5500 📡 PING-016.61-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:7001 📡 PING-016.47-MS
@@ -998,3 +996,5 @@ vless://5f67cd3d-7737-4e2f-a940-83a8ae82e717@172.67.182.30:80?security=none&type
 vless://d8062d17-499e-4c6d-85d6-1f69de31798f@104.21.90.210:80?security=none&type=ws&host=joinmooooo.iroralph.monster&path=%2Faw14#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.210:80 📡 PING-006.05-MS
 vless://64777de1-263f-4901-a558-c6760de6ef89@54.239.153.138:443?security=tls&sni=d1c2d1cvq5lwn1.cloudfront.net&type=ws&path=%2Fcurrent_time#🔒 VL-WS-TLS 🇺🇸 US-54.239.153.138:443 📡 PING-006.05-MS
 vless://bc1bf5b9-1a73-4961-92c7-ae9d3b5a7cbf@172.253.122.100:443?security=tls&sni=8209019317.chamshar.shop&type=grpc&serviceName=92704309&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-172.253.122.100:443 📡 PING-006.04-MS
+vless://537d2baa-cdc7-4c4f-a45c-ccf973693968@104.16.69.220:443?security=tls&sni=ai-duet-tel.farsibloger.WORkeRs.Dev&type=ws&host=ai-duet-tel.farsibloger.WORkeRs.Dev&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.69.220:443 📡 PING-006.03-MS
+vless://590fe652-f4b6-4b2c-a97b-d064e84a4124@172.253.62.113:443?security=tls&sni=9417492793.chamshar.shop&type=grpc&serviceName=88837990&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-172.253.62.113:443 📡 PING-006.03-MS

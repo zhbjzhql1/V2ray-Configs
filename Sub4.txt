@@ -1,5 +1,3 @@
-vless://b13a9e91-60c6-4fab-a982-2db41b13947a@104.22.11.61:80?security=none&type=ws&host=Ir18U8.CDNMCi.sItE&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.11.61:80 📡 PING-005.39-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.87.35:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.87.35:8080 📡 PING-005.39-MS
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.5.60:443?security=tls&sni=sg28.ylkszy.eu.org&type=ws&host=sg28.ylkszy.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.60:443 📡 PING-005.39-MS
 vless://7df75e3e-19af-47dc-b195-748a2635dc9b@172.67.141.39:2083?security=tls&sni=jooin.golestan-vpn.link&type=ws&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.141.39:2083 📡 PING-005.39-MS
 vless://6bc2a57c-a9ad-480d-9153-63bcc56194c8@172.67.204.84:2096?security=tls&sni=gul5.ialbion.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.204.84:2096 📡 PING-005.39-MS
@@ -998,3 +996,5 @@ vless://acdc89d2-557b-49be-9b8f-111c5cf07677@172.67.222.51:2096?security=tls&sni
 vless://85a41d55-d0dc-44f6-8d4d-88d5d7248f47@172.67.175.113:2096?security=tls&sni=serv2.azizakaam.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.175.113:2096 📡 PING-005.21-MS
 vless://45ff0deb-dc00-4490-9b0d-d75fdd59caca@172.67.213.83:443?security=tls&sni=vp1n3b.vpweb.cfd&type=ws&host=vp1n3b.vpweb.cfd&path=/XwFwwXRySM8UlqCvGVMHKx1&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.213.83:443 📡 PING-005.21-MS
 vless://262d2e4b-51b5-4016-9b97-739d46e420c6@154.92.9.214:443?security=tls&sni=elshk.yyts.cfd&type=grpc&serviceName=test1026#🔒 VL-GRPC-TLS 🇯🇵 JP-154.92.9.214:443 📡 PING-005.21-MS
+vless://0113b339-7740-4c9c-ed56-ad34dd2b2889@104.21.39.202:443?security=tls&sni=mcifa.iranservicenet.pics&type=ws&path=%2Fws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.202:443 📡 PING-005.21-MS
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@104.21.47.232:80?security=none&type=ws&host=public.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B785.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.47.232:80 📡 PING-005.21-MS

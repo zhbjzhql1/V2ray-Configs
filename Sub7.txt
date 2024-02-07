@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ3R3ZhVmgxNG9yNndEVXpIQ3dy@51.142.185.195:48359#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2019
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.175:7307#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20107
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20108
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.143.66.87:9102#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@fast_2ray_telchannelll.fast2rayy.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2020
@@ -998,3 +996,5 @@ vless://6a28f202-f048-40df-8998-08480b144e60@104.21.74.214:2087?alpn=h2%2Chttp%2
 vless://aae72c05-fff9-482b-8950-14a2ea50a9c3@104.18.202.232:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=mehdi2.drugtm.monster&type=grpc#رایگان | VLESS | @FreakConfig | CA🇨🇦 | 0️⃣2️⃣
 vless://17cc6764-9755-41a6-ace4-09ed99d823bc@www.speedtest.net:2087?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=mehdi3.drugtm.monster&type=grpc#رایگان | VLESS | @FreakConfig | CA🇨🇦 | 0️⃣3️⃣
 vless://0fe4ea2c-9353-4b48-9f91-0c2fd1724c1e@172.67.204.84:2095?encryption=none&host=new.server.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.gamermecfz.ir&path=%2F%E7%88%B6%E4%BA%B2&type=ws#رایگان | VLESS | @FreakConfig | CA🇨🇦 | 0️⃣4️⃣
+vless://29f00915-4107-491d-ba71-c9328e845a45@198.41.202.5:80?encryption=none&host=V2rayng.%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%8E%BB%E7%9C%8B%E5%95%A5%E4%BA%8B%E6%83%85%E5%9F%BA%E6%9C%AC%E6%B2%A1%E5%95%A5%E4%BA%8B.website&path=%2FDigiV%3Fed%3D2048&type=ws#رایگان | VLESS | @FreakConfig | US🇺🇸 | 0️⃣5️⃣
+vless://-ArV2ray--ArV2ray--ArV2ray-@104.18.202.232:80?encryption=none&host=l.l.l.l.l.l.l.l.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B781.tech&path=%2F%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%3Fed%3D2048&type=ws#رایگان | VLESS | @FreakConfig | CA🇨🇦 | 0️⃣6️⃣
