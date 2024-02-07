@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@194.233.171.39:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2018
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.99:5004#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20117
 ss://YWVzLTI1Ni1nY206ZkNDbkpqSnJFVkt6b2xoaA@165.227.128.7:38112#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2019
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.99:8091#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20118
@@ -997,4 +998,3 @@ vless://657d31d8-b41a-41f0-b69c-51be10e83582@147.45.68.89:443?encryption=none&fp
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@104.31.16.160:80?encryption=none&host=djdodhlxd.%E5%8A%A8%E5%91%98%E7%90%83%E8%BF%90%E5%8A%A812.tech&path=%2F&type=ws#رایگان | VLESS | @FAKEOFTVC | CA🇨🇦 | 0️⃣5️⃣
 vless://config-injectorV2-V2ray@190.93.247.155:8080?encryption=none&host=config-injectorV2-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B799.tech&path=%2F&security=none&type=ws#رایگان | VLESS | @https_config_injector | CR🇨🇷 | 0️⃣1️⃣
 vless://config-injectorV2@190.93.247.155:8080?encryption=none&host=config-injectorV2-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B799.tech&path=%2F&security=none&type=ws#رایگان | VLESS | @https_config_injector | CR🇨🇷 | 0️⃣2️⃣
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?encryption=none&host=3k.pureboy.eu.org&path=%40https_config_injector%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#رایگان | VLESS | @https_config_injector | CA🇨🇦 | 0️⃣3️⃣
