@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.71:5003#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:5003 📡 PING-008.30-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.9:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.9:2375 📡 PING-008.29-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.137.71:6679#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:6679 📡 PING-008.27-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6697#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6697 📡 PING-008.26-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.9:8080#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.9:8080 📡 PING-008.21-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7002 📡 PING-008.21-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.71:8080#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:8080 📡 PING-008.21-MS
@@ -994,7 +998,3 @@ vless://f97c6be7-0f94-4eef-944f-c986013a0713@104.16.106.101:2053?security=tls&sn
 vless://b8bc34b3-cfd4-4a68-954d-67a8e38b6d49@104.16.80.225:8880?security=none&type=ws&host=UnlimitedDev.xn--oor01rm8hfr4c.site&path=%2FTelegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.80.225:8880 📡 PING-018.24-MS
 vless://faf314fb-c088-4eb1-9ad5-88dc479c8ee0@104.17.123.55:443?security=tls&sni=jazz-cw-illustrations-float.trycloudflare.com&type=ws&host=jazz-cw-illustrations-float.trycloudflare.com&path=%2Fskso&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.123.55:443 📡 PING-018.24-MS
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.17.122.140:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.122.140:80 📡 PING-018.23-MS
-vless://e0a4bf83-225f-472f-a368-4b5ba29292c0@104.17.42.10:443?security=tls&sni=a1.wolf-shop.ir&type=ws&host=a1.wolf-shop.ir&path=/DCW9lr3xdbGCbUG2Pw9LGfsD&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.42.10:443 📡 PING-018.23-MS
-vless://58dbfb96-afac-4251-9189-137e883e65ab@104.16.28.34:8880?security=none&type=ws&host=worker-bitter-tooth-2833.geyoleg265.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.28.34:8880 📡 PING-018.22-MS
-vless://1f573916-45b3-4412-9e5f-bdc7d250f62a@190.93.245.187:2083?security=tls&sni=prizefoodsedinompareop.atkfood.com&type=grpc&serviceName=@v2rayN_OPENAVPN@v2rayN_OPENAVPN@v2rayN_OPENAVPN@v2rayN_OPENAVPN@v2rayN_OPENAVPN@v2rayN_OPENAVPN&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-190.93.245.187:2083 📡 PING-018.22-MS
-vless://8e216f7f-f239-49a3-9a4f-a862d937ee04@104.16.6.189:443?security=tls&sni=ssn.galaxy-irankings.top&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.6.189:443 📡 PING-018.22-MS
