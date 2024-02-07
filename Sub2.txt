@@ -1,3 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMXBiN1h4eHJvbHZQU2IwdTJ4U09B@172.234.31.111:8080#🔒 SS-TCP-NA 🇺🇸 US-172.234.31.111:8080 📡 PING-022.90-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@216.39.248.152:8080#🔒 SS-TCP-NA 🇺🇸 US-216.39.248.152:8080 📡 PING-022.40-MS
+ss://YWVzLTI1Ni1nY206YVNFLzI2QzlNamwrTHJuRXdYa0t2NkVySDl5ZklsdDlTZmZYQ0FFRENrcz0=@51.222.205.252:2443#🔒 SS-TCP-NA 🇨🇦 CA-51.222.205.252:2443 📡 PING-022.09-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@216.39.250.78:2375#🔒 SS-TCP-NA 🇨🇦 CA-216.39.250.78:2375 📡 PING-020.13-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:806#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:806 📡 PING-020.13-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:805#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:805 📡 PING-020.02-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:804 📡 PING-020.01-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKaUU4VHFUN0VhOW1vTHJBaUYybzdn@68.183.196.168:31024#🔒 SS-TCP-NA 🇨🇦 CA-68.183.196.168:31024 📡 PING-018.77-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3d1VSOGNPblJxNDVkTDYyRzVvTnZq@192.18.150.179:443#🔒 SS-TCP-NA 🇨🇦 CA-192.18.150.179:443 📡 PING-018.76-MS
@@ -992,9 +998,3 @@ vless://bc1bf5b9-1a73-4961-92c7-ae9d3b5a7cbf@172.253.115.102:443?security=tls&sn
 vless://0a653827-ede2-4407-b731-6e321f9ce740@172.67.212.163:443?security=tls&sni=parmo.todafe9347.workers.dev&type=ws&host=parmo.todafe9347.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.212.163:443 📡 PING-006.45-MS
 vless://4dedf8f1-64fa-4036-9acd-b56031110eae@142.251.167.101:443?security=tls&sni=7481268205.chamshar.shop&type=grpc&serviceName=66567551&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-142.251.167.101:443 📡 PING-006.45-MS
 vless://0bd0158f-ffb3-4e61-b738-532b6d195e0f@104.18.203.232:2095?security=none&type=ws&host=kha.speedvi.shop&path=%2Fvbd#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.232:2095 📡 PING-006.42-MS
-vless://f1961e44-9f10-4b71-8cc4-54a179144616@142.251.163.102:443?security=tls&sni=7877855697.chamshar.shop&type=grpc&serviceName=38908621&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-142.251.163.102:443 📡 PING-006.40-MS
-vless://bc1bf5b9-1a73-4961-92c7-ae9d3b5a7cbf@172.253.115.139:443?security=tls&sni=8209019317.chamshar.shop&type=grpc&serviceName=92704309&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-172.253.115.139:443 📡 PING-006.37-MS
-vless://1965a282-2e65-40c9-9958-29be20a8a111@142.251.111.138:443?security=tls&sni=3470733333.chamshar.shop&type=grpc&serviceName=69591304&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-142.251.111.138:443 📡 PING-006.36-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.231.213.238:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-34.231.213.238:22222 📡 PING-006.34-MS
-vless://6163683b-9a82-400a-8002-3903b1a305a7@172.253.122.138:443?security=tls&sni=7142148767.chamshar.shop&type=grpc&serviceName=31519996&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-172.253.122.138:443 📡 PING-006.34-MS
-vless://67b7b4d7-7231-4c90-a8c3-96cc9655cd7f@142.251.179.101:443?security=tls&sni=3072346726.chamshar.shop&type=grpc&serviceName=80835606&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-142.251.179.101:443 📡 PING-006.34-MS
