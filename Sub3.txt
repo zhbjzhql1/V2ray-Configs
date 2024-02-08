@@ -1,3 +1,7 @@
+vless://03ecdeca-37cd-4cbe-afef-3fecaab53c80@193.35.230.133:2083?type=tcp&host=internet.life.com.by&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.35.230.133:2083 📡 PING-195.31-MS
+vless://914f32de-989e-47d2-d062-fc6b3c5dede3@95.38.102.222:5260?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.102.222:5260 📡 PING-195.55-MS
+vless://28b58eb0-8070-4439-8cb7-897c6d33a539@85.9.96.129:2096?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.96.129:2096 📡 PING-195.60-MS
+vless://194b4a7b-0471-422c-b03e-846017cf0105@85.198.13.12:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.13.12:443 📡 PING-195.60-MS
 vless://34907ec7-4afe-46d3-fe7f-daf466747c73@95.38.102.213:4268?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.102.213:4268 📡 PING-195.74-MS
 vless://ed0514ef-2178-4a6e-a6ee-0e9e0c739e4e@213.176.7.25:22789?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-213.176.7.25:22789 📡 PING-196.62-MS
 vless://7012fd6d-e44f-4e8e-8250-5a31fc9fdb40@92.114.19.249:504?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.19.249:504 📡 PING-196.82-MS
@@ -994,7 +998,3 @@ vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.32.78:443?security=tls&sni=B
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.153.253:2096?security=tls&sni=ss031.wang66.homes&type=ws&host=ss031.wang66.homes&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-172.67.153.253:2096 📡 PING-001.89-MS
 vless://dd98cd04-a9f7-477d-96c2-19ca4b035e3b@89.116.180.126:443?security=tls&sni=dl4.animationkidsart.ir&type=ws&host=dl4.animationkidsart.ir&path=%2FWELVKCWEAOO239IWE&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-89.116.180.126:443 📡 PING-001.89-MS
 vless://a55ff1e5-e186-48f1-bff6-69cd3ba919f4@104.24.0.74:443?security=tls&sni=m248.hubforeverything.buzz&type=ws&host=m248.hubforeverything.buzz&path=%2Fv6145481573#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.74:443 📡 PING-001.89-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.207.85:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.207.85:8080 📡 PING-001.89-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.187:8443?security=tls&sni=ss031.wang66.homes&type=ws&host=ss031.wang66.homes&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-172.67.71.187:8443 📡 PING-001.89-MS
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.21.0.116:2087?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai_8%20%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.0.116:2087 📡 PING-001.89-MS
-vless://7f4e414e-fc3a-451d-8560-5346f2f004cd@23.227.39.34:2053?security=tls&sni=net.masterv2ray.shop&type=ws&host=net.masterv2ray.shop&path=Join+To+%40pingxry+Join+To+%40pingxry+Join+To+%40pingxry+Join+To+%40pingxry+Join+To+%40pingxry+Join+To+%40pingxry&fp=chrome&alpn=http%2F1.1%2Ch2&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.34:2053 📡 PING-001.89-MS
