@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.6:8008#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.6:8008 📡 PING-046.76-MS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.142:7306 📡 PING-046.70-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPYVZmS0JjYmZjWTNUQWlVQXNlb2VC@69.164.199.254:80#🔒 SS-TCP-NA 🇺🇸 US-69.164.199.254:80 📡 PING-041.17-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.104:8118#🔒 SS-TCP-NA 🇺🇸 US-139.64.165.104:8118 📡 PING-037.31-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWVZZU3BMVk1KaEJCR2s3S0VnZlhW@162.221.207.62:443#🔒 SS-TCP-NA 🇨🇦 CA-162.221.207.62:443 📡 PING-037.26-MS
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UjFsS0d2TEU5bGxyc3JFOCtsalNjYVRTT1BUWnozTFpHYXZuOU8zWHBoVT06RVhtQVNicHh3b2huOTN4aHQzM21ZcG8vZnltWHlUS3JtM3Y0RERNTFo4RT0=@149.40.62.114:443#🔒 SS-TCP-NA 🇩🇪 DE-149.40.62.114:443 📡 PING-033.98-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:2375 📡 PING-033.46-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8118#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8118 📡 PING-033.36-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5600#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5600 📡 PING-033.29-MS
@@ -992,9 +998,3 @@ vless://2d01a672-a4c0-4919-869f-80510536a046@78.109.193.237:443?security=none&ty
 vless://5f236f0a-4c56-448b-861c-210786eb5c05@193.151.145.20:56609?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-193.151.145.20:56609 📡 PING-244.48-MS
 vless://d7d0a6bd-981a-445d-a854-8cd2f86b1b36@95.38.102.22:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.102.22:443 📡 PING-244.61-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.222.164.209:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.222.164.209:2053 📡 PING-244.80-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.222.137.192:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/?ed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.222.137.192:2083 📡 PING-245.20-MS
-vless://7012fd6d-e44f-4e8e-8250-5a31fc9fdb40@92.114.19.249:501?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.19.249:501 📡 PING-245.41-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.219.198.139:2087?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/?ed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.219.198.139:2087 📡 PING-245.52-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.236.87.206:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/?ed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-47.236.87.206:2053 📡 PING-245.86-MS
-vless://7012fd6d-e44f-4e8e-8250-5a31fc9fdb40@92.114.19.249:506?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.19.249:506 📡 PING-245.98-MS
-vless://85238149-0078-430f-8dd8-64e746775eaf@31.14.122.164:13268?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.14.122.164:13268 📡 PING-246.04-MS
