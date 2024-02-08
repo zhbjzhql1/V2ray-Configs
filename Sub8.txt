@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@3.77.198.43:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2047
 trojan://4ad00feb-ab70-4c12-9da1-d610e8a90f7d@es-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2048
 trojan://telegram-id-directvpn@44.218.153.215:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20319
 trojan://K9DQcrIpAAlB@35.77.81.246:14642/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2014
