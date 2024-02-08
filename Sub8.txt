@@ -1,12 +1,3 @@
-trojan://telegram-id-directvpn@3.97.94.114:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2012
-trojan://nBYKRjqmyEtU@13.212.142.95:14633/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2011
-trojan://9qlBDK6qmgGt@3.96.205.79:14631/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2013
-trojan://telegram-id-privatevpns@18.169.140.197:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2043
-trojan://yTqLANPY7sol@18.193.112.251:14639/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2042
-trojan://6x8HcghsjS@103.214.68.57:10003/?type=tcp&security=tls&sni=yes998.chickenkiller.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2017
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20310
-trojan://88a765e1-92e3-45f1-bd17-09440dd987f7@uk3-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2044
-trojan://f6c617b0-f272-48a3-9f29-10771ee12994@ru-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%205
 trojan://1V8G69kUlF@104.31.16.65:443/?type=ws&host=websites-powerseller-manufacturers-aims.trycloudflare.com&path=Telegram%2B%2540daily_configs%2B%257C%2BTelegram%2B%2540daily_configs%2B%257C%2BTelegram%2B%2540daily_configs%2B%257C%2BTelegram%2B%2540daily_configs%2B%257CTelegram%2B%2540daily_configs%2B%257C%2BTelegram%2B%2540daily_configs%2B%257C&security=tls&sni=websites-powerseller-manufacturers-aims.trycloudflare.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20311
 trojan://jvdRJNXJERQO@13.212.244.13:14653/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2012
 trojan://EHGfjf1gkpoq@18.184.106.221:14646/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2043
