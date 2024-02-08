@@ -1,3 +1,12 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5600#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5600 📡 PING-041.08-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.62.30:8090#🔒 SS-TCP-NA 🇺🇸 US-167.88.62.30:8090 📡 PING-041.01-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6697#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6697 📡 PING-040.91-MS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8008#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8008 📡 PING-040.88-MS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882 📡 PING-040.84-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.69:8091#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.69:8091 📡 PING-040.73-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:2375 📡 PING-040.73-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.69:2375#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.69:2375 📡 PING-040.63-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6679#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:6679 📡 PING-040.63-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.69:2376#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.69:2376 📡 PING-040.51-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPYVZmS0JjYmZjWTNUQWlVQXNlb2VC@69.164.199.254:80#🔒 SS-TCP-NA 🇺🇸 US-69.164.199.254:80 📡 PING-040.50-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8118#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8118 📡 PING-040.42-MS
@@ -989,12 +998,3 @@ vless://5f236f0a-4c56-448b-861c-210786eb5c05@193.151.145.20:56609?security=none&
 vless://34907ec7-4afe-46d3-fe7f-daf466747c73@95.38.102.213:4268?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.102.213:4268 📡 PING-264.39-MS
 vless://03ecdeca-37cd-4cbe-afef-3fecaab53c80@193.35.230.133:2083?type=tcp&host=internet.life.com.by&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-193.35.230.133:2083 📡 PING-264.60-MS
 vless://7012fd6d-e44f-4e8e-8250-5a31fc9fdb40@92.114.19.249:501?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-92.114.19.249:501 📡 PING-264.76-MS
-vless://1b259297-bde1-4e8b-9e47-fed1b8a4963d@185.173.130.57:443?security=none&sni=neshan.org&type=tcp&host=neshan.org&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.173.130.57:443 📡 PING-264.79-MS
-vless://887bad5b-1e83-cccc-7099-39124891dd9d@213.232.125.230:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-213.232.125.230:443 📡 PING-264.99-MS
-vless://e096ea2a-62c8-4ab7-9f96-92a2d665ad62@87.107.188.251:2096?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-87.107.188.251:2096 📡 PING-264.99-MS
-vless://d7d0a6bd-981a-445d-a854-8cd2f86b1b36@95.38.102.22:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.102.22:443 📡 PING-265.22-MS
-vless://bd39454f-d797-9846-5c66-71923dd03ed7@87.107.163.134:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.163.134:443 📡 PING-265.76-MS
-vless://28c3588a-43c9-44c0-9395-d431e9e3e642@62.60.179.107:37422?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-62.60.179.107:37422 📡 PING-267.36-MS
-vless://c96fc55a-2e6e-d73f-956c-a04835ff148b@87.107.162.76:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.162.76:443 📡 PING-267.38-MS
-vless://59a740de-d07f-4efa-ae72-8142da63d660@94.182.129.171:55447?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.129.171:55447 📡 PING-267.81-MS
-vless://46d89eb7-f49a-4167-9bc1-08e994ffa5ab@95.38.102.206:4083?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.102.206:4083 📡 PING-268.53-MS
