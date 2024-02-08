@@ -1,3 +1,10 @@
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.2:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20315
+trojan://c80e22c6-dfb3-4c9b-b1c2-e16b09b7d11c@sg-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2015
+trojan://DosCdc1p1r@146.190.105.144:443/?type=tcp&security=tls&sni=m.instagram.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2016
+trojan://telegram-id-privatevpns@51.21.45.250:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%206
+trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.197.184.41:443/?type=tcp&security=tls#Vietnam%202
+trojan://tTOEG06gk9al@13.212.196.144:14669/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2017
+trojan://4ebba70d-9532-4fc3-a55d-313d1a8ed1a5@ca-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2015
 trojan://f15435f4-04b5-466a-87ec-115b5506893c@sg3-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2018
 trojan://telegram-id-privatevpns@34.253.136.136:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%205
 trojan://1cc98e30-b07d-4194-901d-1a15a356bea2@172.233.56.59:443/?type=tcp&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2018
