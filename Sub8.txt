@@ -1,3 +1,7 @@
+vmess://ewogICAgImFkZCI6ICJzOC45NTYyNTYueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2FvbmltYXNoYWJpd2FueWkyMS5kYXhpb25nZGEudG9wIiwKICAgICJpZCI6ICI4ZGRmYTI3MC1hYWI1LTQ1ZjAtYjk2NC1hNzI5Yjk1N2M3MGUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HrvCfh7NJTi0xNDAuMjM4LjIyNC44Mi0wMTYyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+#profile-title: base64:VFZDIHwgTUlY
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/v2raycollector
 #profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
 
