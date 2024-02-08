@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@13.37.85.89:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%2088
+trojan://pDMGR0Zse6db@3.148.103.87:14662/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20312
 trojan://telegram-id-privatevpns@15.188.169.83:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%2089
 trojan://wkmY1R4EcP@207.246.68.67:443/?type=tcp&security=tls&sni=z-v2-003338.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20313
 trojan://4ebba70d-9532-4fc3-a55d-313d1a8ed1a5@139.177.195.143:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2014

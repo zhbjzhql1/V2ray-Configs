@@ -342,6 +342,8 @@ vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?pa
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn-----join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+155+join%40Outline_Vpn
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@iranserver.com:2096?path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&security=tls&encryption=none&host=vpnct.arvancode.eu.org&fp=chrome&type=ws&sni=vpnct.arvancode.eu.org#Irancell+156+join%40Outline_Vpn
 vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=%2F&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#Irancell+157+join%40Outline_Vpn
+vless://bf59f08b-0a81-407d-9825-305eaa91144e@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6
+vless://e4d52214-e369-4298-e5a9-1c9c704ae7c8@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=liV2rayb.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&type=ws#Join+%40V2rayNGn+mci
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%281%29
@@ -996,5 +998,3 @@ trojan://f6c617b0-f272-48a3-9f29-10771ee12994@ru-full.privateip.net:443/?type=tc
 trojan://1V8G69kUlF@104.31.16.65:443/?type=ws&host=websites-powerseller-manufacturers-aims.trycloudflare.com&path=Telegram%2B%2540daily_configs%2B%257C%2BTelegram%2B%2540daily_configs%2B%257C%2BTelegram%2B%2540daily_configs%2B%257C%2BTelegram%2B%2540daily_configs%2B%257CTelegram%2B%2540daily_configs%2B%257C%2BTelegram%2B%2540daily_configs%2B%257C&security=tls&sni=websites-powerseller-manufacturers-aims.trycloudflare.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20311
 trojan://jvdRJNXJERQO@13.212.244.13:14653/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2012
 trojan://EHGfjf1gkpoq@18.184.106.221:14646/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2043
-trojan://telegram-id-privatevpns@13.37.85.89:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%2088
-trojan://pDMGR0Zse6db@3.148.103.87:14662/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20312
