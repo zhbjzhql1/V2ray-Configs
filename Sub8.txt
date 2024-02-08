@@ -1,3 +1,11 @@
+trojan://telegram-id-privatevpns@52.208.52.22:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%203
+trojan://telegram-id-privatevpns@99.80.206.60:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%204
+trojan://wkmY1R4EcP@216.128.147.13:443/?type=tcp&security=tls&sni=z-v2-003274.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20295
+trojan://mgPVm69tYEJH@35.178.207.64:14672/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2040
+trojan://telegram-id-privatevpns@35.181.249.221:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%2085
+trojan://wkmY1R4EcP@137.220.42.248:443/?type=tcp&security=tls&sni=z-v2-002802.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20296
+trojan://telegram-id-directvpn@13.48.9.192:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%204
+trojan://hJG3wNfsVa@104.219.54.187:27112/?type=tcp&security=tls&sni=android.googleapis.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20297
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.16.192.159:443/?type=ws&host=jobsapplyworld.com&path=6b777a91&security=tls&sni=jobsapplyworld.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20298
 trojan://wkmY1R4EcP@66.42.84.121:443/?type=tcp&security=tls&sni=z-v2-002797.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20299
 trojan://wkmY1R4EcP@83.229.112.181:443/?type=tcp&security=tls&sni=z-v2-002967.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20300
