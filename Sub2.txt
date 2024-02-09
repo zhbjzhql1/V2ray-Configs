@@ -1,6 +1,3 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.135:7306#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.135:7306 📡 PING-044.29-MS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.21:8118#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:8118 📡 PING-044.25-MS
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:8091 📡 PING-044.19-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:7002 📡 PING-044.18-MS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.135:8881#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.135:8881 📡 PING-044.17-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.136.135:443#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.135:443 📡 PING-044.11-MS
@@ -998,3 +995,6 @@ vless://1c47865c-90e9-4d0a-a27c-1d0c13edc230@95.179.147.244:2096?security=tls&sn
 vless://1a7bd62f-60a1-4af5-8eea-7a7be1dfbaa3@85.9.99.73:80?security=none&type=ws&host=ua.yektanet.com&path=%2F2IFYllYsZcAdHGJ29oo0t3#🔒 VL-WS-NONE 🇮🇷 IR-85.9.99.73:80 📡 PING-302.67-MS
 vless://dd632311-97a9-4fc6-a4d7-a074ff27848f@37.32.21.2:666?security=tls&sni=vip.trustvpn.top&type=tcp&host=vip.trustvpn.top&headerType=http&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇮🇷 IR-37.32.21.2:666 📡 PING-304.29-MS
 vless://5d65bae0-948a-4604-be65-48ca57b66c5d@87.107.188.186:2087?security=none&type=tcp&host=www.speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.188.186:2087 📡 PING-316.20-MS
+vless://d66039bf-8636-4bbe-b913-f9f62d21420c@62.60.172.11:2082?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-62.60.172.11:2082 📡 PING-326.05-MS
+vless://de74ef5a-bb91-4ab5-8abe-4cda2c2a3956@45.89.236.147:63058?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-45.89.236.147:63058 📡 PING-359.78-MS
+vless://1864985c-eaa4-4a44-afe2-e8aac5829e48@65.75.195.188:40382?security=tls&sni=cf.anzhuohezi.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-65.75.195.188:40382 📡 PING-049.83-MS
