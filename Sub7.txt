@@ -1,3 +1,6 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.149.218:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.149.218:8080 📡 PING-001.29-MS
+vless://1e178dd6-a6d7-44bd-a582-e9450a4e3e90@190.93.247.155:2053?security=tls&sni=V2raycncx-Ironly-mci-rg-Mkh-Mtn-vpnbigbang.iranilove.top&type=grpc&serviceName=@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX&fp=safari#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.247.155:2053 📡 PING-001.29-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.36.73:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.36.73:8080 📡 PING-001.29-MS
 vless://da902967-8768-488b-bcf8-7991a6887377@104.21.17.128:2087?security=tls&sni=germany1-mrz.persianv2service.site&type=grpc&serviceName=چنلسازنده:@PersianV2rayNG-چنلسازنده:@PersianV2rayNG-چنلسازنده:@PersianV2rayNG-چنلسازنده:@PersianV2ra&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.17.128:2087 📡 PING-001.29-MS
 vless://07dfc7b9-ea78-425c-bbb1-10e6884748e2@104.21.63.77:2087?security=tls&sni=bmw.nonoal.xyz&type=grpc&fp=safari&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.63.77:2087 📡 PING-001.29-MS
 vless://bdea8107-0439-4812-f45d-00578196754f@104.18.24.92:2087?security=tls&sni=dont11neve2rg1veu1p.drapico.com&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.24.92:2087 📡 PING-001.29-MS
@@ -995,6 +998,3 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#Poland%2012
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#Poland%2013
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.75.136.21:8080#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20103
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#%F0%9F%87%AB%F0%9F%87%B7%20France%2048
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.99:7306#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20104
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#%F0%9F%87%AB%F0%9F%87%B7%20France%2049
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#Poland%2014
