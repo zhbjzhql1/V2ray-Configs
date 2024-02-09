@@ -1,3 +1,5 @@
+vless://ea1ec809-e7de-4e9a-9440-8888811fa81d@45.84.196.187:56806?security=none&type=ws&path=%2Ftelegram%3A%40bed0nemarz%3A%40uciranir#🔒 VL-WS-NONE 🇩🇪 DE-45.84.196.187:56806 📡 PING-100.03-MS
+vless://ea1ec809-e7de-4e9a-9440-8888811fa81d@45.84.196.222:56806?security=none&type=ws&path=/telegram:@bed0nemarz:@uciranir#🔒 VL-WS-NONE 🇩🇪 DE-45.84.196.222:56806 📡 PING-100.43-MS
 vless://ea1ec809-e7de-4e9a-9440-8888811fa81d@45.84.196.174:56806?security=none&type=ws&path=/telegram:@bed0nemarz:@uciranir#🔒 VL-WS-NONE 🇩🇪 DE-45.84.196.174:56806 📡 PING-100.79-MS
 vless://7dcc7cf3-b895-40b0-9ecc-7ab120b416b0@5.181.23.63:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇪🇪 EE-5.181.23.63:443 📡 PING-101.46-MS
 vless://4a605647-adda-4f9e-a45a-c1be8b04037e@172.234.96.114:2003?security=tls&sni=ru-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇪 SE-172.234.96.114:2003 📡 PING-102.34-MS
@@ -996,5 +998,3 @@ vless://a2d215de-58a6-4c66-970e-57848d8177b3@188.114.96.2:2053?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.5.237:2096?security=tls&sni=ss031.wang66.homes&type=ws&host=ss031.wang66.homes&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.237:2096 📡 PING-001.67-MS
 vless://559539cc-68e8-413d-bcf8-621ac2f12cc7@104.16.17.130:2052?security=none&sni=007.hebav63406.workers.dev&type=ws&host=007.hebav63406.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.17.130:2052 📡 PING-001.67-MS
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.213.170:2095?security=none&type=ws&host=fkhamnei.kosnanatfilterchi.eu.org&path=TM-%40AZARBAYJAB1%20%40AZARBAYJAB1#🔒 VL-WS-NONE 🇺🇸 US-172.67.213.170:2095 📡 PING-001.67-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.128.173:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.128.173:8080 📡 PING-001.66-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.193.11:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.193.11:8080 📡 PING-001.66-MS

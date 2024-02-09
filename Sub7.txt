@@ -1,3 +1,5 @@
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.21.31.30:80?security=none&type=ws&host=100.%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%97%E8%BF%9020.tech&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.31.30:80 📡 PING-001.25-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.134.90:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.134.90:8080 📡 PING-001.25-MS
 vless://3428e8ac-8ce2-4b2e-9771-b9bbd429e6b4@104.18.203.99:80?security=none&type=ws&host=Telegram-hajimamadvpn-join-bede.cfz-hajimmad.site&path=%2F%3F%40V2ray1_Ng+%40V2ray1_Ng+%40V2ray1_Ng+%40V2ray1_Ng+%40V2ray1_Ng+%40V2ray1_Ng#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.203.99:80 📡 PING-001.25-MS
 vless://18a1dcb0-7bc4-446b-f2fc-88fbef265334@172.66.47.74:8080?security=none&type=ws&host=I.l.afv2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B784.online&path=%2F%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%2C%40AfV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.66.47.74:8080 📡 PING-001.25-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.172:2087?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.172:2087 📡 PING-001.25-MS
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7307#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.71:2375#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20136
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.21:5601#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20137
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6697#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2022
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.61.175:7002#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20138
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.87:5000#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20139
