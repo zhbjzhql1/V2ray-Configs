@@ -1,9 +1,3 @@
-trojan://f15435f4-04b5-466a-87ec-115b5506893c@sg3-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2010
-trojan://a8ffca96-a47d-4fa4-a62d-6625b5346aa4@it-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AE%F0%9F%87%B9%20Italy%204
-trojan://wkmY1R4EcP@45.77.167.12:443/?type=tcp&security=tls&sni=z-v2-003319.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20284
-trojan://a95c55dd-5a72-4cc4-a262-6da634235f85@198.58.109.150:443/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20285
-trojan://telegram-id-privatevpns@3.9.6.68:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2041
-trojan://wkmY1R4EcP@45.76.228.197:443/?type=tcp&security=tls&sni=z-v2-003263.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20286
 trojan://telegram-id-privatevpns@13.53.163.225:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2016
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20287
 trojan://6827ad98-c3fe-46fa-8047-fab4dbd51f82@ca2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2015
