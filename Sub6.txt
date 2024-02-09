@@ -1,5 +1,3 @@
-vless://64126626-b5f3-5ad5-a24a-2d8836005f89@172.67.190.141:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.190.141:80 📡 PING-001.91-MS
-vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.219.93:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=TELEGRAM...PROXY_MTM%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.219.93:2096 📡 PING-001.91-MS
 vless://b3cd2c40-b1e6-42b7-888e-63dc94c0ce8a@172.67.217.39:2083?security=tls&sni=qwerasdf.balad.fun&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.217.39:2083 📡 PING-001.91-MS
 vless://215fe998-29ae-4e84-9471-2bdb211b1742@[::ffff:681a:f50]:8443?security=tls&sni=free.foxnim.site&type=grpc&serviceName=@networknim&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:681a:f50]:8443 📡 PING-001.91-MS
 vless://96bd9a86-efec-46e1-a638-f5c2e841fc1a@104.18.15.229:2052?security=none&type=ws&host=new.noskhe.xyz&path=%2Fdiscord%3Asadra#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.229:2052 📡 PING-001.91-MS
@@ -998,3 +996,5 @@ vless://de7349ea-6b1f-4f32-b0dd-b4ef76177984@162.159.1.94:443?security=tls&sni=n
 vless://345fea56-471b-4957-8acd-f7c3bef3f769@104.23.99.49:80?security=none&type=ws&host=JBCK6o.mICrosOFts.downLOaD&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.99.49:80 📡 PING-001.53-MS
 vless://e6a9a6a9-1a95-46dc-b95f-f5ca363da6b8@104.18.13.130:2096?security=tls&sni=dash.zedmodeon.top&type=grpc&serviceName=@ZEDMODEON-@ZEDMODEON-@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:2096 📡 PING-001.53-MS
 vless://dd98cd04-a9f7-477d-96c2-19ca4b035e3b@104.20.126.204:443?security=tls&sni=dl4.animationkidsart.ir&type=ws&host=dl4.animationkidsart.ir&path=%2FWELVKCWEAOO239IWE&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.126.204:443 📡 PING-001.53-MS
+vless://4bb7f0cc-a11b-46f5-beb0-83bcabfcde00@104.21.6.222:2096?security=tls&sni=game.ragnarabdolmaleki.sbs&type=grpc&serviceName=2096vless&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.6.222:2096 📡 PING-001.53-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.83.46:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.83.46:8080 📡 PING-001.53-MS
