@@ -1,13 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.103:9070#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9070 📡 PING-234.53-MS
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@103.172.116.103:9057#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9057 📡 PING-234.56-MS
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@103.172.116.79:9042#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9042 📡 PING-234.56-MS
-ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@103.172.116.79:9056#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9056 📡 PING-234.59-MS
-ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@103.172.116.103:9010#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9010 📡 PING-234.60-MS
-ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw==@103.172.116.103:9053#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9053 📡 PING-234.65-MS
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@103.172.116.103:9025#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9025 📡 PING-234.65-MS
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@103.172.116.103:9060#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9060 📡 PING-234.66-MS
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.103:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9041 📡 PING-234.69-MS
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@103.172.116.90:9025#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9025 📡 PING-234.73-MS
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@103.172.116.90:9094#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9094 📡 PING-234.90-MS
 ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.90:9015#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9015 📡 PING-235.27-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#🔒 SS-TCP-NA 🇸🇬 SG-91.192.81.21:8388 📡 PING-236.03-MS
@@ -998,3 +988,13 @@ vless://7509f896-2115-4420-b487-501c9103bebd@161.81.114.97:12483?security=tls&sn
 vless://7509f896-2115-4420-b487-501c9103bebd@103.137.63.2:443?security=tls&sni=ccs.fgfw.tk&type=ws&host=ccs.fgfw.tk&path=%2Fvless%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇹🇼 TW-103.137.63.2:443 📡 PING-212.19-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@42.2.235.215:12345?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/?ed%3D2048&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-42.2.235.215:12345 📡 PING-212.80-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@103.20.222.201:42293?security=tls&sni=us2.rtacg.com&type=ws&host=us2.rtacg.com&path=/&fp=chrome#🔒 VL-WS-TLS 🇭🇰 HK-103.20.222.201:42293 📡 PING-214.53-MS
+vless://7509f896-2115-4420-b487-501c9103bebd@103.137.63.37:37095?security=tls&sni=ccs.fgfw.tk&type=ws&host=ccs.fgfw.tk&path=%2Fvless%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇹🇼 TW-103.137.63.37:37095 📡 PING-214.59-MS
+vless://bd814ba3-7c14-4f5e-90a0-94febb48d88c@46.225.120.35:8443?security=none&type=tcp&host=google.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.225.120.35:8443 📡 PING-214.81-MS
+vless://4af0d6c5-1645-4b7b-d5ac-4d30e5473457@180.235.121.88:25828?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇳 IN-180.235.121.88:25828 📡 PING-216.19-MS
+vless://ba345125-68a8-4d32-ad11-4cad815854ed@37.32.6.218:13979?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-37.32.6.218:13979 📡 PING-217.23-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@103.235.18.206:10008?security=tls&sni=us1.rtacg.com&type=ws&host=us1.rtacg.com&path=%2f#🔒 VL-WS-TLS 🇭🇰 HK-103.235.18.206:10008 📡 PING-217.58-MS
+vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?security=none&type=ws&path=%2Fa#🔒 VL-WS-NONE 🇮🇳 IN-144.24.139.190:28852 📡 PING-218.36-MS
+vless://6c7fa4f0-1cf5-42a6-88da-0e808e5d1ccd@139.162.9.137:443?security=tls&flow=xtls-rprx-vision&sni=sg-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-139.162.9.137:443 📡 PING-223.59-MS
+vless://1eb06d34-3c43-46b0-82d0-ae1fe772128f@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-223.60-MS
+vless://7f0e6ad9-d7b4-43cd-9603-40dd2fd9cfe2@172.104.36.86:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-172.104.36.86:2003 📡 PING-223.82-MS
+vless://676ccd3b-793d-4efd-b93c-48943711055d@52.77.220.96:443?security=tls&flow=xtls-rprx-vision&sni=fe426064b91fd7c1b6350457011110a95fc1c7a6ee12b90b4de32ae85e90dac7ad3db8ce.kbjc.top&type=tcp#🔒 VL-TCP-TLS 🇸🇬 SG-52.77.220.96:443 📡 PING-224.29-MS
