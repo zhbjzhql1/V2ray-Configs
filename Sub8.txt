@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#%F0%9F%87%AB%F0%9F%87%B7%20France%2038
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2017
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2018
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2085
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6679#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2086
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#%F0%9F%87%AB%F0%9F%87%B7%20France%2039
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Vk10NXk3Q3VUT2lreUVVQnRSZ0F6RmFzYmlaejltQ3R6SlBQMmRuQldFPQ@186.233.118.171:5600#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%202
 ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA@193.243.147.128:40368#%F0%9F%87%AB%F0%9F%87%B7%20France%2040
@@ -993,8 +998,3 @@ vless://e9d12faf-ca43-479e-9eb4-d0481715d592@www.legendaryking.link:443?alpn=h2%
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:443?encryption=none&fp=chrome&host=admin2.pythonic-ai.com&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&security=tls&sni=admin2.pythonic-ai.com&type=ws#رایگان | VLESS | @FAKEOFTVC | DE🇩🇪 | 0️⃣1️⃣
 vless://0f197c3a-7485-42d0-ad8d-051c9eaeebfb@172.64.153.205:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&serviceName=8443vless&sni=h.xbestspeed.cam&type=grpc#رایگان | VLESS | @FAKEOFTVC | CA🇨🇦 | 0️⃣2️⃣
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@104.31.16.160:80?encryption=none&host=djdodhlxd.%E5%8A%A8%E5%91%98%E7%90%83%E8%BF%90%E5%8A%A812.tech&path=%2F&type=ws#رایگان | VLESS | @FAKEOFTVC | CA🇨🇦 | 0️⃣4️⃣
-vless://--joinservernett--@172.67.73.38:8080?encryption=none&host=join2.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.xyz&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @https_config_injector | CA🇨🇦 | 0️⃣1️⃣
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@172.67.204.84:80?encryption=none&host=dbdid89lh.%E4%BA%8B%E5%87%BA%E5%9C%BA%E6%AC%A1%E4%BB%A5%E8%BF%907.tech&path=%2F&security=none&type=ws#رایگان | VLESS | @https_config_injector | CA🇨🇦 | 0️⃣2️⃣
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?encryption=none&host=29.%E8%BF%90%E5%8A%A8%E5%91%98%E5%88%97%E8%A1%A89.tech&path=%2F&security=none&type=ws#رایگان | VLESS | @https_config_injector | CA🇨🇦 | 0️⃣3️⃣
-vless://--config-injectorV2--@iranserver.com:443?encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40https_config_injector&sni=tt.snaapppfree.com&type=grpc#رایگان | VLESS | @https_config_injector | CA🇨🇦 | 0️⃣4️⃣
-vless://config-injectorV2-V2ray@190.93.247.155:8080?encryption=none&host=config-injectorV2-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B799.tech&path=%2F&security=none&type=ws#رایگان | VLESS | @https_config_injector | CR🇨🇷 | 0️⃣5️⃣

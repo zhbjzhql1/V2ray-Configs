@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtcG9seTEzMDU6S0JuUEl1Qk5vdWU1YWNGcFEyOExIZw==@74.119.194.192:41743#🔒 SS-TCP-NA 🇺🇸 US-74.119.194.192:41743 📡 PING-031.67-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.245:4444#🔒 SS-TCP-NA 🇺🇸 US-38.91.107.245:4444 📡 PING-030.09-MS
+ss://YWVzLTI1Ni1nY206MDZnWktrZUMySg==@23.94.76.55:51981#🔒 SS-TCP-NA 🇨🇦 CA-23.94.76.55:51981 📡 PING-025.42-MS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8882 📡 PING-024.42-MS
+ss://YWVzLTI1Ni1nY206b3U1MmtQUHc5Qw==@23.95.146.214:26082#🔒 SS-TCP-NA 🇨🇦 CA-23.95.146.214:26082 📡 PING-024.42-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.69:2376#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.69:2376 📡 PING-024.36-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.9:8118#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:8118 📡 PING-024.35-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:806#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:806 📡 PING-024.34-MS
@@ -993,8 +998,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.146.83.33:8443?security=tls&sni
 vless://4dedf8f1-64fa-4036-9acd-b56031110eae@172.217.12.110:443?security=tls&sni=7481268205.chamshar.shop&type=grpc&serviceName=66567551&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-172.217.12.110:443 📡 PING-048.22-MS
 vless://8c4c1021-3352-4c76-b4b6-26c38a137f92@108.181.24.29:443?security=tls&flow=xtls-rprx-vision&sni=downloadus3.xn--mes358acgm99l.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.24.29:443 📡 PING-048.20-MS
 vless://676ccd3b-793d-4efd-b93c-48943711055d@108.181.23.231:443?security=tls&flow=xtls-rprx-vision&sni=usla4.hnkkt.top&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.23.231:443 📡 PING-047.88-MS
-vless://8c4c1021-3352-4c76-b4b6-26c38a137f92@108.181.23.61:443?security=tls&flow=xtls-rprx-vision&sni=downloadus2.xn--mes358acgm99l.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.23.61:443 📡 PING-047.81-MS
-vless://590fe652-f4b6-4b2c-a97b-d064e84a4124@192.178.49.14:443?security=tls&sni=9417492793.chamshar.shop&type=grpc&serviceName=88837990&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-192.178.49.14:443 📡 PING-047.21-MS
-vless://66a719d2-30fb-4866-93b0-0ed602e65a55@159.223.207.182:57446?security=none&type=ws&host=web.whatsapp.net&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-159.223.207.182:57446 📡 PING-047.14-MS
-vless://676ccd3b-793d-4efd-b93c-48943711055d@108.181.23.71:443?security=tls&flow=xtls-rprx-vision&sni=usla2.hnkkt.top&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.23.71:443 📡 PING-047.07-MS
-vless://676ccd3b-793d-4efd-b93c-48943711055d@108.181.23.253:443?security=tls&flow=xtls-rprx-vision&sni=usla7.hnkkt.top&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.23.253:443 📡 PING-046.95-MS
