@@ -1,3 +1,14 @@
+trojan://4lwjOLYTKGz4@13.229.124.66:13359/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2015
+trojan://wkmY1R4EcP@209.250.246.191:443/?type=tcp&security=tls&sni=z-v2-003294.kailib.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2026
+trojan://hwiyBDgN65hGmiwxPcfMUA@104.21.7.50:443/?type=ws&host=cdntuk17.reservedns.com&path=%2F&security=tls&sni=cdntuk17.reservedns.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20322
+trojan://wkmY1R4EcP@137.220.42.248:443/?type=tcp&security=tls&sni=z-v2-002802.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20323
+trojan://hwiyBDgN65hGmiwxPcfMUA@172.67.135.195:443/?type=ws&host=cdntuk17.reservedns.com&path=%2F&security=tls&sni=cdntuk17.reservedns.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20324
+trojan://Da8SuPH5zi@143.244.132.237:31194/?type=tcp&security=tls&sni=www.www.bobs.mtshop.space#%F0%9F%87%AE%F0%9F%87%B3%20India
+trojan://telegram-id-directvpn@15.188.110.152:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%2084
+trojan://U8dWhT6B9Wy9@15.223.65.230:13367/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2012
+trojan://6827ad98-c3fe-46fa-8047-fab4dbd51f82@172.105.18.131:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2013
+trojan://telegram-id-directvpn@3.12.61.235:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20325
+trojan://DosCdc1p1r@146.190.105.144:443/?type=tcp&security=tls&sni=m.instagram.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2016
 trojan://telegram-id-privatevpns@99.81.49.218:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland
 trojan://4ad00feb-ab70-4c12-9da1-d610e8a90f7d@172.105.84.14:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2038
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443/?type=ws&host=bangladeshipatri.com&path=6b777a91&security=tls&sni=bangladeshipatri.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20326
