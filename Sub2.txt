@@ -1,9 +1,3 @@
-ss://YWVzLTI1Ni1nY206am10Z3NtVzQwUg==@8.210.231.146:1146#🔒 SS-TCP-NA 🇭🇰 HK-8.210.231.146:1146 📡 PING-200.75-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.12.116.66:989#🔒 SS-TCP-NA 🇰🇪 KE-62.12.116.66:989 📡 PING-202.08-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#🔒 SS-TCP-NA 🇿🇦 ZA-41.203.4.34:989 📡 PING-222.73-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYUQyWFNKZ2tWTmpac3JycWVsUTFz@46.250.237.91:443#🔒 SS-TCP-NA 🇬🇧 GB-46.250.237.91:443 📡 PING-223.92-MS
-ss://YWVzLTI1Ni1nY206RHZNZVkvUzhjM2hzU1FxckwxYVdibGFIc2NFVlEwM2w1bEZnbmVNeDU2Yz0=@172.105.115.164:2443#🔒 SS-TCP-NA 🇸🇬 SG-172.105.115.164:2443 📡 PING-225.52-MS
-ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@103.172.116.79:9093#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9093 📡 PING-225.81-MS
 ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@103.172.116.103:9018#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9018 📡 PING-225.85-MS
 ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ==@103.172.116.79:9026#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9026 📡 PING-225.96-MS
 ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@103.172.116.79:9057#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9057 📡 PING-225.99-MS
@@ -998,3 +992,9 @@ vless://939e8aad-82bf-4e8d-de66-db9499f1edc9@157.230.44.95:38556?security=none&t
 vless://f835d490-e115-4828-8446-0f1f80509eee@157.230.44.95:15345?security=none&type=ws&host=m.whatsapp.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-157.230.44.95:15345 📡 PING-226.23-MS
 vless://a8918b70-cb29-11ee-a652-1239d0255272@103.253.24.44:443?security=tls&sni=sg3.socifiles.com&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-103.253.24.44:443 📡 PING-226.25-MS
 vless://330ede11-f33e-4685-b1c7-c6ff0b974106@134.209.97.193:37789?security=none&type=ws&host=imo.im&path=%2Fboon_free_server#🔒 VL-WS-NONE 🇸🇬 SG-134.209.97.193:37789 📡 PING-226.39-MS
+vless://f9179e3b-3b0d-48e1-ca5a-63295bd63714@146.190.105.24:42522?security=none&type=ws&host=imo.im&path=%2FFREE+-+not+for+sale++%28%40z_z_z_zz_z%29#🔒 VL-WS-NONE 🇸🇬 SG-146.190.105.24:42522 📡 PING-226.45-MS
+vless://560b847f-4eb9-4335-b5f9-26a7c9e8213a@157.230.34.108:10556?security=none&type=ws&host=m.instagram.com&path=%2FVPNKING#🔒 VL-WS-NONE 🇸🇬 SG-157.230.34.108:10556 📡 PING-226.48-MS
+vless://1eb06d34-3c43-46b0-82d0-ae1fe772128f@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-226.48-MS
+vless://4f426929-9662-4021-fda6-7d68877425b9@157.230.44.95:23270?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-157.230.44.95:23270 📡 PING-226.57-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.142.55.98:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-18.142.55.98:443 📡 PING-226.74-MS
+vless://e65d0c6d-633d-498e-ad2d-2ba8558e9d0e@146.190.85.160:8443?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-146.190.85.160:8443 📡 PING-227.18-MS
