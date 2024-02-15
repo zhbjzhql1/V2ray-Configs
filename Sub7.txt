@@ -1,9 +1,3 @@
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@irancell.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#Irancell+100+%28%40Outline_Vpn%29
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@edgu.pureboy.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#Irancell+101+%28%40Outline_Vpn%29
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ye-join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#Irancell+102+%28%40Outline_Vpn%29
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=%2F%3Fed&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#Irancell+103+%28%40Outline_Vpn%29
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=fuck0yes%21free0vpn&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+104+%28%40Outline_Vpn%29
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#Irancell+105+%28%40Outline_Vpn%29
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@mci------join.outline-vpn.cloud:80?path=%2F&security=none&encryption=none&host=public.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B785.shop&type=ws#HamraheAval+100+%28%40Outline_Vpn%29
 vmess://eyJhZGQiOiJzZXJ2ZXI2LmJlaGVzaHRiYW5laC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlcnZlcjYuYmVoZXNodGJhbmVoLmNvbSIsImlkIjoiYzU2MjZiMTYtNGM1Ny00ZDdlLTg2NjgtNmIxZWNkYTVjOGI1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJIYW1yYWhlQXZhbCAxMDEgKEBPdXRsaW5lX1ZwbikiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJzZXJ2ZXIyLmJlaGVzaHRiYW5laC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlcnZlcjIuYmVoZXNodGJhbmVoLmNvbSIsImlkIjoiODQyMGVlMzgtNGNmNi00ZDc5LWE5ZWMtMjczMTIwN2NmODNhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJIYW1yYWhlQXZhbCAxMDIgKEBPdXRsaW5lX1ZwbikiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
@@ -998,3 +992,9 @@ trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.10:443/?type=ws&host=jobsca
 trojan://c0d4e54c-449b-44ee-a8f0-a5e65b003c7f@172.104.152.221:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2042
 trojan://adcd062f-c7c9-482c-9bdc-201270b0c6df@172.104.36.86:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2011
 trojan://9XwzaKbQv3uI@3.86.108.240:17026/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20336
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443/?type=ws&host=jobscareerfortoday.com&path=6b777a91&security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20337
+trojan://telegram-id-privatevpns@108.128.165.249:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%202
+trojan://telegram-id-privatevpns@13.37.162.72:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%2087
+trojan://6166dd22-ca18-4a90-8b96-aa8ca22c8d79@uk-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2049
+trojan://suHNm1uvGkwY@3.97.8.15:17011/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2012
+trojan://telegram-id-directvpn@52.210.182.9:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%203
