@@ -1,3 +1,5 @@
+trojan://334c473b-761f-4aaf-b1d4-4dc9ed3e64b3@172.105.23.164:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2011
+trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.10:443/?type=ws&host=jobscareerfortoday.com&path=6b777a91&security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20335
 trojan://c0d4e54c-449b-44ee-a8f0-a5e65b003c7f@172.104.152.221:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2042
 trojan://adcd062f-c7c9-482c-9bdc-201270b0c6df@172.104.36.86:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2011
 trojan://9XwzaKbQv3uI@3.86.108.240:17026/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20336

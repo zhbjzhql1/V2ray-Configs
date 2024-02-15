@@ -310,6 +310,8 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=%2F%3Fed%3
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#Irancell+306+%28%40Outline_Vpn%29
 vless://a75789e4-7c1c-4450-80fe-f0bd5a7b0515@mci---join.outline-vpn.cloud:80?path=%2F&security=none&encryption=none&host=frankfurt.heydasip.com&type=ws#Irancell+307+%28%40Outline_Vpn%29
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=%2Fparadise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#Irancell+308+%28%40Outline_Vpn%29
+vless://58e9ad6c-43bb-4761-8770-1045c79cd3e6@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=liV2rayb.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&type=ws#Join+%40V2rayNGn+mci
+vless://934b0140-6ada-430d-b6eb-dfc57fb74a7c@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%281%29
@@ -996,5 +998,3 @@ trojan://wkmY1R4EcP@207.246.68.67:443/?type=tcp&security=tls&sni=z-v2-003338.kai
 trojan://d55afa78-5ab0-47a3-acdc-04a99765056d@nl-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2024
 trojan://d55afa78-5ab0-47a3-acdc-04a99765056d@172.233.57.93:443/?type=tcp&security=tls#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2025
 trojan://DoToFVxbeGHJ@3.75.189.29:17007/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2041
-trojan://334c473b-761f-4aaf-b1d4-4dc9ed3e64b3@172.105.23.164:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2011
-trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.10:443/?type=ws&host=jobscareerfortoday.com&path=6b777a91&security=tls&sni=jobscareerfortoday.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20335
