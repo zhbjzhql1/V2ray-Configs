@@ -1,3 +1,29 @@
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#Poland%2013
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.71:5003#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20117
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20118
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.137.71:5601#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20119
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#%F0%9F%87%B7%F0%9F%87%BA%20Russia%205
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.121.43.65:3306#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20120
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20121
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.62.104:2376#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20122
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.135:8881#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20123
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@167.88.61.175:8888#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20124
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3306#%F0%9F%87%AB%F0%9F%87%B7%20France%2060
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#%F0%9F%87%AB%F0%9F%87%B7%20France%2061
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#Poland%2014
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@51.68.206.229:8080#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2028
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@masting.xyz:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2010
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.21:6679#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20125
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5004#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20126
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2cVFVdkd2aG5PdlFqZzJ0VWxiV3FyM01nbUNFY2J2N21WemtueXVpeE9FPQ@13.53.41.24:8080#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2dHdXcVVLeTBvMC9Qamdpd1k1cWJYUGFielFGWUhlTFNlckxVMFF1cm5rPQ@16.170.226.215:8080#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%205
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.158.150.168:4444#%F0%9F%87%AB%F0%9F%87%B7%20France%2062
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.212:8080#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20127
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTk1NThmMy1kMTFiLTQxMGUtYWIyNy0yNjk1NmRkZTI1NmQ@114.45.69.101:4303#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.99:8090#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20128
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.71:8091#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20129
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@ca2.dart-vpn.com:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@172.233.214.104:8080#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20130
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@145.239.1.100:5500#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2017
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20131
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxY2M5NjlkMy0xZGY4LTQ3OTQtYTVjYy05MjMxZmUwZTQ3MTA@b13.ntbq.dynu.net:7773#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan%202
@@ -972,14 +998,3 @@ ss://YWVzLTI1Ni1nY206YVNFLzI2QzlNamwrTHJuRXdYa0t2NkVySDl5ZklsdDlTZmZYQ0FFRENrcz0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@172.233.57.5:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.191.54:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+JP%F0%9F%87%AF%F0%9F%87%B5+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c1o2OUZObUFQb3NDQmlENk1VcnlC@45.8.146.32:50370#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQkVCalhVNlNrMFVLNFQ2@series-a2-mec.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40ROMAX_VPN+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-tuic://81d527fd-5bbf-40fc-b2b0-be1956133aa6:81d527fd-5bbf-40fc-b2b0-be1956133aa6@107.173.15.52:14758?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.bing.com&udp_relay_mode=native#رایگان | TUIC | @TUICity | US🇺🇸 | 0️⃣1️⃣
-tuic://a0ebeed3-30ab-44bc-a6dc-33039a164694:a0ebeed3-30ab-44bc-a6dc-33039a164694@146.235.218.148:29337?alpn=h3&congestion_control=bbr&sni=sanjose-live.biny.eu.org&udp_relay_mode=native#رایگان | TUIC | @TUICity | US🇺🇸 | 0️⃣2️⃣
-tuic://f2843ad2-c87f-4dda-9de1-472381078375:f2843ad2-c87f-4dda-9de1-472381078375@192.9.136.220:12099?alpn=h3&congestion_control=bbr&sni=sanjose-google.biny.eu.org&udp_relay_mode=native#رایگان | TUIC | @TUICity | US🇺🇸 | 0️⃣3️⃣
-tuic://b46cb204-5849-4b86-852d-8154fb8eb580:b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:61213?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=www.bing.com&udp_relay_mode=native#رایگان | TUIC | @TUICity | US🇺🇸 | 0️⃣4️⃣
-tuic://670998c6-a78f-43cc-86aa-29292476e040:dongtaiwang.com@64.110.25.10:33445?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=bing.com&udp_relay_mode=native#رایگان | TUIC | @TUICity | US🇺🇸 | 0️⃣5️⃣
-tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@108.181.22.155:12255?allow_insecure=1&alpn=h3&congestion_control=bbr&udp_relay_mode=native#رایگان | TUIC | @TUICity | US🇺🇸 | 0️⃣6️⃣
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?allow_insecure=1&alpn=h3&congestion_control=bbr&sni=bing.com&udp_relay_mode=native#رایگان | TUIC | @TUICity | US🇺🇸 | 0️⃣7️⃣
-hy2://1ab02865393bfa6d@5.161.213.184:443?insecure=1&obfs=salamander&obfs-password=d5a9baeec9b61a44&sni=www.google.com#رایگان | HY2 | @TUICity | US🇺🇸 | 0️⃣1️⃣
-hy2://
