@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.61.20:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.61.20:8080 📡 PING-030.90-MS
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.78.57.22:443?security=tls&sni=ada3.qowch.com&type=ws&path=users%3Fed%3D2048&fp=safari&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.78.57.22:443 📡 PING-030.11-MS
 vless://edeb47fc-22c1-479e-a7c4-cff13932912a@104.16.176.44:443?security=tls&sni=real.tweb.lol&type=grpc&serviceName=real.tweb.lol&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.176.44:443 📡 PING-028.85-MS
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.21.84.244:80?security=none&type=ws&host=GdshfljlIlllljljljltLv2ray%D9%80godlllLllluxjcjfuufyd.V2ray-God.Site&path=%2F%40V2ray_God+%3A%DA%86%D9%86%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.84.244:80 📡 PING-027.19-MS
 vless://c4e2da93-7813-4766-b41d-88194675971f@104.16.237.126:8080?security=none&type=ws&host=xfree-v2ray-openvpn-x4spain-unlimited-cloudflare.goldac.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.237.126:8080 📡 PING-025.43-MS
@@ -996,5 +998,3 @@ vless://2e827255-784f-4821-8284-c7e51494450c@172.67.178.79:2087?security=tls&sni
 vless://77e86f3a-19e4-4177-ae72-66002f6ad6c0@104.21.15.230:2052?security=none&type=ws&host=3e885d1cf6f5f8d6.98_-_c1a-6b83.45c2ip4x-_-hmmer.misens.sbs&path=%2F@V2Safee@V2Safee@V2Safee@V2Safee@V2Safee#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.15.230:2052 📡 PING-008.90-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.45.167:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.45.167:8080 📡 PING-008.90-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.217.118:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.217.118:8080 📡 PING-008.90-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.40.171:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.40.171:8080 📡 PING-008.89-MS
-vless://5e03e2ef-5d01-42a2-a154-535f232ec54e@104.21.7.241:2095?security=none&type=tcp&host=speedtes.net&headerType=http#🔒 VL-TCP-NONE 🏴‍☠️ NA-104.21.7.241:2095 📡 PING-008.89-MS
