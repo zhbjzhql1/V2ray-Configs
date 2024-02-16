@@ -1,3 +1,28 @@
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#%F0%9F%87%AB%F0%9F%87%B7%20France%2054
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20103
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.178.87.37:804#%F0%9F%87%AB%F0%9F%87%B7%20France%2055
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#%F0%9F%87%AB%F0%9F%87%B7%20France%2056
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.69:8091#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20104
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20105
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5001#%F0%9F%87%AB%F0%9F%87%B7%20France%2057
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.202:2376#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20106
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20107
+ss://YWVzLTI1Ni1nY206RHVFNkdwbGFhcA@24.199.103.101:35678#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20108
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.21:3389#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20109
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.97:2376#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20110
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@54.36.174.181:8008#%F0%9F%87%AB%F0%9F%87%B7%20France%2058
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.9:8882#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20111
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUkJSV3d6ZWtSSFNqaW9FWEZ4a292@52.142.190.10:59784#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2027
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.175:8090#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20112
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20113
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbFVGZ29PcURsVnFsWkZEM0pzMFlB@shadoct.kingarvan.eu.org:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%209
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.172.113.182:800#%F0%9F%87%AF%F0%9F%87%B5%20Japan%206
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:806#%F0%9F%87%A8%F0%9F%87%A6%20Canada%206
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.75.136.135:8000#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20114
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.158.200.180:5500#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20115
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@145.239.1.100:5004#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2016
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.175:8119#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20116
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.15.13.210:6679#%F0%9F%87%AB%F0%9F%87%B7%20France%2059
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#Poland%2013
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.71:5003#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20117
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20118
@@ -973,28 +998,3 @@ trojan://telegram-id-directvpn@52.60.255.203:22222?alpn=http%2F1.1&headerType=no
 trojan://telegram-id-directvpn@99.79.131.31:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣2️⃣
 trojan://telegram-id-directvpn@52.208.63.28:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣3️⃣
 trojan://telegram-id-directvpn@99.81.24.181:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | IE🇮🇪 | 0️⃣4️⃣
-trojan://telegram-id-directvpn@18.130.216.201:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣5️⃣
-trojan://telegram-id-directvpn@18.132.75.206:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | GB🇬🇧 | 0️⃣6️⃣
-trojan://telegram-id-directvpn@35.181.119.166:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @DirectVPN | FR🇫🇷 | 0️⃣7️⃣
-trojan://8d0de334-c1a0-44ab-9362-e7916c0d268d@104.19.155.92:443?host=sshhiddifyc1.cpionline.cc&path=%2Fu5ht27KSp8j3Z2QIPbkyFm3I&security=tls&sni=sshhiddifyc1.cpionline.cc&type=ws#رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣1️⃣
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443?host=sherasheba.com&path=6b777a91&security=tls&sni=sherasheba.com&type=ws#رایگان | TROJAN | @oneclickvpnkeys | CA🇨🇦 | 0️⃣2️⃣
-trojan://telegram-id-directvpn@3.68.130.62:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @V2RayTz | DE🇩🇪 | 0️⃣1️⃣
-trojan://qG9K8AGnn9XH5jUqeFu96g@cdn13.cdn2cdn.com:2083?fp=chrome&path=%2F&security=tls&sni=cdn13.cdn2cdn.com&type=ws#رایگان | TROJAN | @fnet00 | CA🇨🇦 | 0️⃣1️⃣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcUdTbTN0SHpHVkczWHhRcmU4QXhWcnU5WnpvdzlKZERLak1SYnZQUVp3PQ==@[::ffff:d32:f00d]:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40V2rayCollectorDonate+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@java.ct.arvancode.eu.org:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTFZWRnh4SEpTQk1kR2Rs@series-a2-me.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.158.200.180:5500#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+US%F0%9F%87%BA%F0%9F%87%B8+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40DeamNet_Proxy+%7C+GB%F0%9F%87%AC%F0%9F%87%A7+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+FR%F0%9F%87%AB%F0%9F%87%B7+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:5001#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+DE%F0%9F%87%A9%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://YWVzLTI1Ni1nY206YVNFLzI2QzlNamwrTHJuRXdYa0t2NkVySDl5ZklsdDlTZmZYQ0FFRENrcz0=@ca-ss.ipracevpn.com:2443#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+CA%F0%9F%87%A8%F0%9F%87%A6+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQMnp4WFBld2xWM0JsZnFxWWlTdGh2dExj@212.113.106.243:12949#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40OutlineVpnOfficial+%7C+AT%F0%9F%87%A6%F0%9F%87%B9+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcUdTbTN0SHpHVkczWHhRcmU4QXhWcnU5WnpvdzlKZERLak1SYnZQUVp3PQ==@13.50.240.13:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Tmh3M1gvcnU0dDYzY1JsNjNueUFnQnU5WklGMnZpSWg2WjIxRFJmSXM0PQ==@16.16.195.166:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzZYMzBTWVZrN05tbnQ0NVFYZXF4TE1iSHN3eUNnb0dwbWVadTNib2o0PQ==@13.50.248.3:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCSWNhRGxNdHgrMG41MWpMRGd5NlR4QXlFMzlSb1RTZnJ0RjFLNVZRbTdrPQ==@13.50.105.122:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6c3dVWGJaT3pFaDZWck9BUll2RkhrYUxubHdxaXlVQ0R4bUtKNENVcnZRPQ==@13.53.171.109:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaQnViSGpKMUdZQ2ZocElFQ3R6VXNNc0JoSHJoZ292Y1dKTk5zN0ROQXpvPQ==@13.53.235.42:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphcmRyclpham01ZmhaS0cxU2x3ZnZI@13.50.110.8:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40forwardv2ray+%7C+SE%F0%9F%87%B8%F0%9F%87%AA+%7C+0%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplemVzQlhlc2YzUktCQ3AxdnFLdUl4@172.233.57.5:8080#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%7C+SS+%7C+%40kingofilter+%7C+NL%F0%9F%87%B3%F0%9F%87%B1+%7C+0%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
