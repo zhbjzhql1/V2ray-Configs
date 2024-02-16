@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@103.172.116.79:9057#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9057 📡 PING-000.00-MS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@145.239.1.100:7306#🔒 SS-TCP-NA 🇩🇪 DE-145.239.1.100:7306 📡 PING-000.00-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🔒 SS-TCP-NA 🇦🇹 AT-95.164.9.144:2927 📡 PING-000.00-MS
 ss://bm9uZTphY2FiY2JhLWFiYWMtYWJjYS1kYWNiLWNiY2JhYmNhYmFhYw==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 trojan://acaabcb-acab-baca-cbda-aaabccbabbcc@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-27-BAHMAN-1402 🕑 19:36
@@ -996,5 +998,3 @@ vless://bfedeeaf-2353-4417-b3e2-438c44681549@162.251.82.187:8880?security=none&t
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.19.251.69:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.251.69:2087 📡 PING-033.82-MS
 vless://a0514d9b-d109-47fd-b173-1e7f83268f21@104.21.235.76:80?type=ws&path=%2Fgraphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.235.76:80 📡 PING-033.82-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.234.83:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.234.83:8080 📡 PING-033.77-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.230.90:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.230.90:8080 📡 PING-033.77-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.237.230:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.237.230:8080 📡 PING-033.76-MS
