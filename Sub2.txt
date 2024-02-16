@@ -1,3 +1,5 @@
+ss://bm9uZTpjYmFiYWFjLWFjYWItY2JhYS1iYWRjLWNiYmNhY2JjYmFhYQ==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+trojan://acabcba-acba-aacb-cdab-abaacbcacbcb@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 FRI-27-BAHMAN-1402 🕑 18:31
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-108.181.22.161:443 📡 PING-062.93-MS
 trojan://7e23957d-535a-4dc6-9482-e6f44518da87@173.255.240.201:443?sni=13-231-155-134.nhost.00cdn.com&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-173.255.240.201:443 📡 PING-068.11-MS
 trojan://af84eec7-8324-30b9-89b8-a8a7e4fb5d3a@78.111.104.138:19235?sni=eplcgame.com&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-78.111.104.138:19235 📡 PING-068.79-MS
@@ -996,5 +998,3 @@ vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@190.93.244.0:8080?security=none&typ
 vless://a248350a-4d79-4fd5-9eab-b305826e33a5@103.35.188.104:443?security=tls&sni=kr.xujiang.link&type=ws&host=kr.xujiang.link&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-103.35.188.104:443 📡 PING-018.29-MS
 vless://e3962d1c-f3ae-4e5f-8b87-0ba1bf3e82aa@104.18.104.13:2087?security=tls&sni=hyhk1231f.133487.tech&type=grpc&serviceName=lonanSADASDanasa#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.104.13:2087 📡 PING-015.37-MS
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@13.59.65.96:443?security=tls&sni=tahaquran8.xyz&type=ws&host=tahaquran8.xyz&path=%2Fcurrent_time&fp=firefox#🔒 VL-WS-TLS 🇺🇸 US-13.59.65.96:443 📡 PING-014.79-MS
-vless://3d1438c8-be71-4af9-8c1b-51ad64264d2c@104.21.70.81:8080?security=none&type=ws&host=hi-hi.v2raxx.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.81:8080 📡 PING-014.14-MS
-vless://a426741d-79f1-495e-e967-7e2a0ca44319@190.93.246.241:8880?security=none&type=ws&host=liV2rayd.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&path=%252F%2540LIGHTNING6%252C%2B%2540LIGHTNING6#🔒 VL-WS-NONE 🇨🇷 CR-190.93.246.241:8880 📡 PING-013.54-MS
