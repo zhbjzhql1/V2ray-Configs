@@ -1,3 +1,12 @@
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5004#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2034
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%206
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.135:8091#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2035
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.172.113.182:806#%F0%9F%87%AF%F0%9F%87%B5%20Japan
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2036
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@167.88.61.175:5000#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2037
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#%F0%9F%87%AB%F0%9F%87%B7%20France%2022
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%209
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@167.88.61.175:8008#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2038
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.43:2375#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2039
 ss://YWVzLTI1Ni1nY206am10Z3NtVzQwUg@8.210.231.146:1146#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6679#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%2040
@@ -989,12 +998,3 @@ vless://8e8dc541-678e-4c5e-d33a-30af477ba194@LIGHTNING6-joinbede.liV2ray.xyz:888
 vless://6fe28415-8e8d-4bb1-a2e6-5a196556c7a2@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayg.xn--mgbg0fka44dhgc.com&type=grpc#رایگان | VLESS | @V2rayNGn | CR🇨🇷 | 0️⃣2️⃣
 vless://6fe28415-8e8d-4bb1-a2e6-5a196556c7a2@LIGHTNING6-joinbede.liV2ray.xyz:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayf.xn--mgbg0fka44dhgc.com&type=grpc#رایگان | VLESS | @V2rayNGn | CR🇨🇷 | 0️⃣3️⃣
 vless://39e45469-36a5-4644-9bdb-681b28a7369d@tel.VPNCUSTOMIZE.cam:2096?encryption=none&fp=edge&host=vpncustomizeV2ray.%E5%88%9B%E4%BC%98%E8%88%8D.org&path=%2Fws&security=tls&sni=vpncustomizeV2ray.XN--4oq36ed28d.org&type=ws#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣4️⃣
-vless://32b0d32d-c208-4990-974f-514cdbfde754@tel.VPNCUSTOMIZE.cam:2096?encryption=none&fp=edge&host=vpncustomize1V2ray.%E5%88%9B%E4%BC%98%E8%88%8D.org&path=%2Fws&security=tls&sni=vpncustomize1V2ray.XN--4oq36ed28d.org&type=ws#رایگان | VLESS | @V2rayNGn | US🇺🇸 | 0️⃣5️⃣
-vless://073c769d-9a23-4333-bc97-7f3535a475d3@104.18.200.200:2086?encryption=none&host=f328.maryam1900.Com&path=%2F%3FArmin&security=none&type=ws#رایگان | VLESS | @prrofile_purple | CA🇨🇦 | 0️⃣1️⃣
-vless://51905fd3-29de-4b4e-b351-83542f1d5390@parspack.com:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=random&host=biA.ALlhub.LTD&path=%2F%3Fed%3D2048&security=tls&sni=Bia.alLhub.Ltd&type=ws#رایگان | VLESS | @prrofile_purple | CA🇨🇦 | 0️⃣2️⃣
-vless://a3ecfef3-f880-4047-b7cb-a3ceb6e94013@190.93.246.241:2083?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=%40LIGHTNING6%2C+%40LIGHTNING6&sni=liV2rayd.xn--mgbg0fka44dhgc.com&type=grpc#رایگان | VLESS | @prrofile_purple | CR🇨🇷 | 0️⃣3️⃣
-vless://073c769d-9a23-4333-bc97-7f3535a475d3@104.18.200.200:2086?encryption=none&host=f328.maryam1900.Com&path=%2F&security=none&type=ws#رایگان | VLESS | @prrofile_purple | CA🇨🇦 | 0️⃣4️⃣
-vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@oirancell.outline-vpn.cloud:80?encryption=none&host=ehda.sajaditsme.com&path=Path%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @customv2ray | CA🇨🇦 | 0️⃣1️⃣
-vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?alpn=h2&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=&sni=ty1.livingspringonline.com&type=grpc#رایگان | VLESS | @customv2ray | CA🇨🇦 | 0️⃣2️⃣
-vless://f754c706-9dde-4a14-bb39-b87a76a9bd3b@172.67.219.62:2053?encryption=none&host=uae-f6ac41787Bb9B04c5a482c3e3eea6825.mitsonic.com&path=%2F%3Fed%3D2048&security=tls&sni=transaction-ab16e623c3de703011ca4ec38867a5aba33039caaac980b3d25c501a86485619.mitsonic.com&type=ws#رایگان | VLESS | @customv2ray | CA🇨🇦 | 0️⃣3️⃣
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?encryption=none&fp=chrome&host=w1.sylar8.eu.org&path=%2F%3Fed&security=tls&sni=w1.sylar8.eu.org&type=ws#رایگان | VLESS | @customv2ray | CA🇨🇦 | 0️⃣4️⃣
