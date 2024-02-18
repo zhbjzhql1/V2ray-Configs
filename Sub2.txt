@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRDByUk54M0hiUndheWsyZE9hc3c2@68.183.196.168:31024#🔒 SS-TCP-NA 🇨🇦 CA-68.183.196.168:31024 📡 PING-018.57-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINmNTVGY4dkRiVkgxY3BuckF4Rmoy@18.218.239.120:36326#🔒 SS-TCP-NA 🇺🇸 US-18.218.239.120:36326 📡 PING-016.33-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c1o2OUZObUFQb3NDQmlENk1VcnlC@45.8.146.32:50370#🔒 SS-TCP-NA 🇺🇸 US-45.8.146.32:50370 📡 PING-014.72-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsa0NHcDJOdEZzZUpTbTg0b0ZtcU9n@185.200.191.49:443#🔒 SS-TCP-NA 🇺🇸 US-185.200.191.49:443 📡 PING-012.07-MS
@@ -997,4 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@35.240.184.147:8092?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@42.2.235.215:12345?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-42.2.235.215:12345 📡 PING-222.61-MS
 vless://517957dc-d5c7-4193-abc8-39e4008656b4@78.39.51.13:443?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.51.13:443 📡 PING-224.03-MS
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-225.16-MS
-vless://83cca0d1-0cd6-4fa7-971f-b05c0ec7b6be@192.53.172.57:443?security=tls&sni=sg-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-192.53.172.57:443 📡 PING-225.37-MS

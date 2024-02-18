@@ -1,3 +1,4 @@
+vless://83cca0d1-0cd6-4fa7-971f-b05c0ec7b6be@192.53.172.57:443?security=tls&sni=sg-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-192.53.172.57:443 📡 PING-225.37-MS
 vless://83e6db42-a0a4-4281-bdc6-7a6e161d1380@172.104.36.86:443?security=tls&flow=xtls-rprx-vision&sni=sg2-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-172.104.36.86:443 📡 PING-225.63-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.142.55.98:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-18.142.55.98:443 📡 PING-225.71-MS
 vless://96401bfc-e681-4332-b50e-f58e365b628f@172.104.36.86:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-172.104.36.86:2003 📡 PING-225.81-MS
@@ -997,4 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.217.8:8080?security=none&typ
 vless://6eb2de23-533e-49e3-95a3-e4c2e13385a4@172.67.212.122:2087?security=tls&sni=lib2.goldendevs.monster&type=grpc&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.212.122:2087 📡 PING-005.44-MS
 vless://b970d3a5-961c-46f1-870d-3a8076d882da@162.159.136.234:443?security=tls&sni=apk.softwaredownload.info&type=ws&host=apk.softwaredownload.info&path=/&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:443 📡 PING-005.44-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.152.241:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.152.241:8080 📡 PING-005.44-MS
-vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@172.67.175.112:443?security=tls&sni=test.hotshellow.com&type=ws&path=%2Flg582228486#🔒 VL-WS-TLS 🇺🇸 US-172.67.175.112:443 📡 PING-005.44-MS
