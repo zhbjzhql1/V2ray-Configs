@@ -1,3 +1,13 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.147:443 📡 PING-006.44-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.254.46:443 📡 PING-005.69-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@199.59.243.225:443#🔒 SS-TCP-NA 🇺🇸 US-199.59.243.225:443 📡 PING-005.52-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@5.161.219.169:5614#🔒 SS-TCP-NA 🇺🇸 US-5.161.219.169:5614 📡 PING-005.40-MS
+ss://b9ad895b12ac40fca5aca5b2a1285001Og==@172.67.170.103:443#🔒 SS-TCP-NA 🇺🇸 US-172.67.170.103:443 📡 PING-005.27-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#🔒 SS-TCP-NA 🇷🇺 RU-176.32.39.154:64726 📡 PING-000.00-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:4444 📡 PING-000.00-MS
+ss://YWVzLTI1Ni1nY206am10Z3NtVzQwUg==@8.210.231.146:1146#🔒 SS-TCP-NA 🇭🇰 HK-8.210.231.146:1146 📡 PING-000.00-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.1.100:8090#🔒 SS-TCP-NA 🇩🇪 DE-145.239.1.100:8090 📡 PING-000.00-MS
+ss://bm9uZTpjY2FhYWJiLWFjYWItYWNhYi1jYmFkLWJjYmFjYWNhYmJhYw==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 trojan://acbbaac-bcaa-bcaa-bdca-ababbccbccaa@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-29-BAHMAN-1402 🕑 13:23
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-108.181.22.161:443 📡 PING-058.78-MS
 trojan://7e23957d-535a-4dc6-9482-e6f44518da87@173.255.240.201:443?sni=13-231-155-134.nhost.00cdn.com&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-173.255.240.201:443 📡 PING-067.97-MS
@@ -988,13 +998,3 @@ vless://1fe1ab54-0b83-48c8-8bba-a85f6af13145@94.237.69.190:443?type=ws&host=m.zo
 vless://83cca0d1-0cd6-4fa7-971f-b05c0ec7b6be@192.53.172.57:443?security=tls&sni=sg-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-192.53.172.57:443 📡 PING-226.08-MS
 vless://e65d0c6d-633d-498e-ad2d-2ba8558e9d0e@146.190.85.160:8443?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-146.190.85.160:8443 📡 PING-226.14-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.142.55.98:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-18.142.55.98:443 📡 PING-226.17-MS
-vless://95d55410-c6c1-46c7-b398-0b4ae76f8a1f@146.190.85.160:443?security=tls&sni=sg2.alphav2ray.link&type=ws&path=%2F&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-146.190.85.160:443 📡 PING-226.19-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.142.226.193:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-18.142.226.193:443 📡 PING-226.19-MS
-vless://89b364ab-4492-4ab6-953e-b5a4d642a086@128.199.228.44:443?security=tls&sni=de.xujiang.link&type=ws&host=de.xujiang.link&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-128.199.228.44:443 📡 PING-226.27-MS
-vless://df265cdb-1d19-4b45-85da-729cdffd7e31@157.230.46.208:443?security=tls&sni=aka.ms&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-157.230.46.208:443 📡 PING-226.28-MS
-vless://f19aae55-42cc-4346-9aff-d686646a9f18@168.138.185.253:443?security=tls&sni=mk13.mmfisl.shop&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-168.138.185.253:443 📡 PING-226.48-MS
-vless://5d432424-cf9c-48f3-bccb-118146ca34db@45.135.228.35:443?security=tls&sni=made-retention-ontario-tobago.trycloudflare.com&type=ws&host=made-retention-ontario-tobago.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-45.135.228.35:443 📡 PING-226.53-MS
-vless://560b847f-4eb9-4335-b5f9-26a7c9e8213a@157.230.34.108:10556?security=none&type=ws&host=m.instagram.com&path=%2FVPNKING#🔒 VL-WS-NONE 🇸🇬 SG-157.230.34.108:10556 📡 PING-226.62-MS
-vless://38e5e01a-b277-4ac2-ae65-00999b91ed0c@51.79.254.182:443?security=tls&sni=de.xujiang.link&type=ws&host=de.xujiang.link&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-51.79.254.182:443 📡 PING-226.63-MS
-vless://38e5e01a-b277-4ac2-ae65-00999b91ed0c@27.0.234.68:443?security=tls&sni=de.xujiang.link&type=ws&host=de.xujiang.link&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-27.0.234.68:443 📡 PING-226.69-MS
-vless://89b364ab-4492-4ab6-953e-b5a4d642a086@143.198.89.162:443?security=tls&sni=de.xujiang.link&type=ws&host=de.xujiang.link&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-143.198.89.162:443 📡 PING-226.72-MS
