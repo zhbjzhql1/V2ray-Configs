@@ -1,10 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@199.59.243.225:443#🔒 SS-TCP-NA 🇺🇸 US-199.59.243.225:443 📡 PING-001.78-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@5.161.219.169:5614#🔒 SS-TCP-NA 🇺🇸 US-5.161.219.169:5614 📡 PING-001.64-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.254.46:443 📡 PING-001.39-MS
-ss://bm9uZTpjYWFjYmJhLWFiY2EtY2JhYS1iY2RhLWFjYWJjYmNhYWNiYg==@127.0.0.1:8080#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-trojan://aaccbba-baca-baac-dbac-aabcbbabccca@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-29-BAHMAN-1402 🕑 08:21
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-108.181.22.161:443 📡 PING-063.58-MS
-trojan://telegram-id-privatevpns@54.194.117.19:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.194.117.19:22222 📡 PING-066.68-MS
 trojan://telegram-id-privatevpns@52.31.81.10:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.31.81.10:22222 📡 PING-066.86-MS
 trojan://telegram-id-privatevpns@52.16.102.55:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.16.102.55:22222 📡 PING-067.01-MS
 trojan://telegram-id-privatevpns@63.33.80.83:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.33.80.83:22222 📡 PING-067.01-MS
@@ -998,3 +991,10 @@ vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278?security=none&t
 vless://17a4e33b-9801-4026-b46f-57f0ec54ee4b@129.154.228.4:4436?security=tls&sni=iranzazadealer&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇮🇳 IN-129.154.228.4:4436 📡 PING-202.27-MS
 vless://de74ef5a-bb91-4ab5-8abe-4cda2c2a3956@45.89.236.147:63058?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-45.89.236.147:63058 📡 PING-202.46-MS
 vless://fa120ded-70b6-4f9b-9ff2-fc85551d47a1@193.151.141.246:26912?security=none&type=ws&host=mobin.ahvaz1.irancell.ir&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-193.151.141.246:26912 📡 PING-202.76-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.229.154.103:35588?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-43.229.154.103:35588 📡 PING-202.89-MS
+vless://9c589178-2fb2-4a2a-83a3-b3ca27f0c9b3@185.58.240.181:18713?security=none&type=tcp&host=www.speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.58.240.181:18713 📡 PING-203.13-MS
+vless://5d432424-cf9c-48f3-bccb-118146ca34db@16.162.56.233:443?security=tls&sni=made-retention-ontario-tobago.trycloudflare.com&type=ws&host=made-retention-ontario-tobago.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-16.162.56.233:443 📡 PING-203.58-MS
+vless://f1c09a24-ed45-4e7b-bbab-e1c0d4fa4d45@62.60.172.231:2083?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.172.231:2083 📡 PING-203.99-MS
+vless://42b63f4d-b533-4344-9eee-cfac46d9f92e@185.58.241.154:2053?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.58.241.154:2053 📡 PING-204.13-MS
+vless://c7e9bdae-c2b1-4ddc-8031-78244b461249@185.141.104.6:11363?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.141.104.6:11363 📡 PING-204.38-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.169.55.101:12222?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-194.169.55.101:12222 📡 PING-204.48-MS
