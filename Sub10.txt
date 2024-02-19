@@ -1,3 +1,4 @@
+vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=dash.zedmodeon.lat&type=grpc#رایگان | VLESS | @TVCminer | CA🇨🇦 | 0️⃣5️⃣
 vless://ce256176-8e38-49b7-852e-c99ba72b1d84@45.77.210.181:443?encryption=none&fp=chrome&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&security=reality&sid=&sni=cloudreve.r-yu.me&type=tcp#رایگان | REALITY | @TVCminer | US🇺🇸 | 0️⃣6️⃣
 trojan://telegram-id-privatevpns@51.20.149.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣
 trojan://telegram-id-privatevpns@54.74.169.130:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣
