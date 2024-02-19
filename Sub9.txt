@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:811#%F0%9F%87%A8%F0%9F%87%A6%20Canada%206
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#Poland%2019
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@13.41.142.250:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2032
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.202:2376#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20141
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.135:7307#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20142
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.135:7001#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20143
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppenF4ZWNzc3dzOXpzZjBNUnp5RE4x@51.142.159.50:30291#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2033
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@54.36.174.181:3389#%F0%9F%87%AB%F0%9F%87%B7%20France%2068
@@ -993,8 +998,3 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.26:443?encryption=none&h
 vless://26ff5dda-4cf4-47de-afd0-d9db8b711314@ip.1alphaomega.org:443?alpn=h2&encryption=none&fp=chrome&host=decdn1.1alphaomega.org&path=%2Fwss8000%3Fed%3D2048&security=tls&sni=decdn1.1alphaomega.org&type=ws#رایگان | VLESS | @V2rayCollectorDonate | CR🇨🇷 | 0️⃣1️⃣
 vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@70.34.198.142:2096?host=Fast.Com&path=%2FSvnTeam&security=none&type=ws#رایگان | VLESS | @V2rayCollectorDonate | SE🇸🇪 | 0️⃣2️⃣
 vless://c5c62aae-e4cd-411e-cff6-8526cf0e2a60@low.pnpworld.store:443?encryption=none&headerType=none&security=none&type=tcp#رایگان | VLESS | @V2rayCollectorDonate | DE🇩🇪 | 0️⃣3️⃣
-vless://7f9be512-6bfb-4af7-ac4f-887fc94300a2@46.17.46.100:24164?encryption=none&fp=firefox&headerType=none&pbk=XU--3flF9kdsxf_Km7quYWEseQCYzvONRll0DkkT308&security=reality&sid=03de&sni=7learn.com&spx=%2F&type=tcp#رایگان | REALITY | @V2rayCollectorDonate | RU🇷🇺 | 0️⃣4️⃣
-vless://7da383f5-e626-4f8a-8db9-00e736e9de26@104.20.19.145:2053?encryption=none&fp=chrome&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&path=%40UCIRANIR-%40UCIRANIR%2FMicrosoft%3Fed%3D2047&security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&type=ws#رایگان | VLESS | @V2rayCollectorDonate | CA🇨🇦 | 0️⃣6️⃣
-vless://02611471-2876-4c72-a06a-7c050fde0005@check-host.net:443?alpn=h2&encryption=none&fp=chrome&host=de2.1alphaomega.org&path=%2Fwss8000%3Fed%3D2048&security=tls&sni=de2.1alphaomega.org&type=ws#رایگان | VLESS | @V2rayCollectorDonate | CA🇨🇦 | 0️⃣9️⃣
-vless://1418c118-8d6d-4b33-86e8-b8877513db13@kkk886.cc:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&mode=multi&security=tls&serviceName=%40zedmodeon&type=grpc#رایگان | VLESS | @V2rayCollectorDonate | CN🇨🇳 | 1️⃣0️⃣
-vless://f327a01e-6d8a-42a6-87de-4829989aca6d@check-host.net:2096?alpn=h2&encryption=none&fp=chrome&host=uk2.1alphaomega.org&path=%2Fwss8000%3Fed%3D2048&security=tls&sni=uk.1alphaomega.org&type=ws#رایگان | VLESS | @V2rayCollectorDonate | CA🇨🇦 | 1️⃣1️⃣
