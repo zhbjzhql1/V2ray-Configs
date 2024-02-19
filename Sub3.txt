@@ -1,3 +1,7 @@
+vless://86e38337-4c5e-4c39-b79a-6c49b021fb07@62.60.132.46:8081?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.132.46:8081 📡 PING-238.45-MS
+vless://742d4a5a-27fc-ddba-76ae-ffa52ae2df03@87.107.162.67:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.162.67:443 📡 PING-238.59-MS
+vless://79121e8c-a66a-490d-b94a-e5d25159777e@5.159.54.83:443?security=tls&sni=k6.maduss.site&type=ws&host=k6.maduss.site&path=%2F#🔒 VL-WS-TLS 🇮🇷 IR-5.159.54.83:443 📡 PING-238.69-MS
+vless://a83b7952-4908-461c-80cf-d0bdbd9de12b@185.58.241.110:2610?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.58.241.110:2610 📡 PING-239.11-MS
 vless://c292b952-f155-43e9-840b-cd6cc5517191@213.176.7.49:16457?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-213.176.7.49:16457 📡 PING-239.45-MS
 vless://21b3f017-1d81-488b-87de-7242aff1fb63@5.159.54.217:45429?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.159.54.217:45429 📡 PING-240.09-MS
 vless://39285c59-da1d-49ec-9e97-9f5aa0684243@62.60.147.23:4030?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.147.23:4030 📡 PING-240.68-MS
@@ -994,7 +998,3 @@ vless://0b3982d1-106d-484d-8388-f32704f98dd4@104.21.25.98:443?security=tls&sni=h
 vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.20.252.36:443?security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.252.36:443 📡 PING-001.94-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.192.204:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.192.204:8080 📡 PING-001.94-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.34.31:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.34.31:8080 📡 PING-001.94-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.126.181:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.126.181:8080 📡 PING-001.94-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.88.47:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.88.47:8080 📡 PING-001.94-MS
-vless://439e2f9e-079e-4369-a712-22b942afeadd@104.21.80.183:443?security=tls&sni=download.seyfilm.ir&type=ws&path=%2F&fp=safari#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.183:443 📡 PING-001.94-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.131.202:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.131.202:8080 📡 PING-001.94-MS
