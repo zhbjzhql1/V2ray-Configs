@@ -1,3 +1,8 @@
+trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@5.104.108.109:443?security=tls&sni=20-24-33-134.nhost.00cdn.com&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-5.104.108.109:443 📡 PING-086.83-MS
+trojan://b3902e81-6260-4932-bcc9-708445fe40b4@51.77.213.197:443?security=tls&sni=frt2.sshocean.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-51.77.213.197:443 📡 PING-088.19-MS
+trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@193.70.112.90:443?#🔒 TR-TCP-NA 🇫🇷 FR-193.70.112.90:443 📡 PING-088.37-MS
+trojan://e3df0a3b-4425-418a-bba2-9fc17b523054@172.105.84.14:443?#🔒 TR-TCP-NA 🇩🇪 DE-172.105.84.14:443 📡 PING-088.59-MS
+trojan://95af4fd9-3b0a-3af6-8836-982739fed565@202.78.166.226:16217?security=tls&sni=eplcgame.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-202.78.166.226:16217 📡 PING-088.61-MS
 trojan://EjecXwK17@116.203.148.62:8080?security=tls&sni=fast.jahansystem.sbs&type=tcp&host=discord.gg&headerType=http#🔒 TR-TCP-TLS 🇩🇪 DE-116.203.148.62:8080 📡 PING-090.54-MS
 trojan://dlaYhIaW1@116.203.148.62:2052?security=tls&sni=fast.jahansystem.sbs&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-116.203.148.62:2052 📡 PING-090.64-MS
 trojan://UZ5ZjBAUG@116.203.148.62:2083?security=tls&sni=fast.jahansystem.sbs&type=tcp&host=speed.cloudflare.com&headerType=http#🔒 TR-TCP-TLS 🇩🇪 DE-116.203.148.62:2083 📡 PING-090.66-MS
@@ -993,8 +998,3 @@ vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.224.8:80?security=none&type=
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.237.230:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.237.230:8080 📡 PING-011.55-MS
 vless://2918c6b8-e939-4245-b973-ae4f1951b02e@172.64.200.31:443?security=tls&sni=salam-gijoo.arashcamera.ir&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.200.31:443 📡 PING-011.55-MS
 vless://11abbef2-38c5-4543-9fab-18b0d4828b27@172.64.143.61:80?security=none&type=ws&host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.143.61:80 📡 PING-011.55-MS
-vless://3cbaf436-93cc-4db1-be69-c5353076be15@104.21.235.75:80?type=ws&path=%2Fgraphql#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.235.75:80 📡 PING-011.53-MS
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.224.219:80?security=none&type=ws&host=sdgf.bdfstt.sbs&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.224.219:80 📡 PING-011.53-MS
-vless://5563d1dc-3e84-4e4b-e569-ecfb96e8732a@172.64.200.31:80?security=none&type=ws&host=a.%E5%88%97%E5%87%BA%E7%94%B7%E4%BA%BA%E7%9A%84%E5%B1%81%E8%82%A1%E4%BB%96%E5%A6%88%E7%9A%84%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A78.website&path=%2F%40client-proo-%40client-proo-%40client-proo-%40client-proo-%40client-proo#🔒 VL-WS-NONE 🇺🇸 US-172.64.200.31:80 📡 PING-011.53-MS
-vless://2241fc16-20e2-4e70-b11d-7bed62f16849@172.64.138.167:443?security=tls&sni=fi2-vless.sshmax.xyz&type=ws&host=fi2-vless.sshmax.xyz&path=%2Fvless&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.64.138.167:443 📡 PING-011.52-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.226.12:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.226.12:8080 📡 PING-011.52-MS
