@@ -1,6 +1,3 @@
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.211.165:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.211.165:8080 📡 PING-001.96-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.23.112.74:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.112.74:8080 📡 PING-001.96-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.209.66:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.209.66:8080 📡 PING-001.96-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.194.89:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.194.89:8080 📡 PING-001.96-MS
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@172.64.80.150:80?security=none&type=ws&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.64.80.150:80 📡 PING-001.96-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.23.134.230:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.134.230:8080 📡 PING-001.96-MS
@@ -998,3 +995,6 @@ vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@198.41.211.209:80?security=none&typ
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.123.120:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.123.120:8080 📡 PING-001.73-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@185.176.26.3:8443?security=tls&sni=xow10.oXNEtworKS.liNK&type=ws&host=xow10.oXNEtworKS.liNK&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.3:8443 📡 PING-001.72-MS
 vless://ca23a4a9-903a-5278-add3-e497a3882167@172.67.163.123:2096?security=tls&sni=SvnTeam-V2rayNew-One.SnappFoodi.Com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.163.123:2096 📡 PING-001.72-MS
+vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@172.67.161.1:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.161.1:2096 📡 PING-001.72-MS
+vless://4289b0b4-1342-4698-9d8e-7526f1b5ac58@162.159.130.234:2087?security=tls&sni=SHHPROXY.xn--69-pv2cl2k5x3fipr.org&type=ws&host=SHHPROXY.xn--69-pv2cl2k5x3fipr.org&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.234:2087 📡 PING-001.72-MS
+vless://7dd480ae-3d83-4b94-9ac1-24e9b5f72504@172.67.218.209:2087?security=tls&sni=*.cafibazaar.shop&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.218.209:2087 📡 PING-001.72-MS

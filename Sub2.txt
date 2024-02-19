@@ -1,6 +1,3 @@
-trojan://telegram-id-directvpn@54.170.183.24:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.170.183.24:22222 📡 PING-086.99-MS
-trojan://telegram-id-privatevpns@54.220.129.173:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇪 IE-54.220.129.173:22222 📡 PING-087.03-MS
-trojan://telegram-id-privatevpns@34.252.54.161:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-34.252.54.161:22222 📡 PING-087.34-MS
 trojan://telegram-id-directvpn@52.16.229.49:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.16.229.49:22222 📡 PING-087.66-MS
 trojan://aa3fd3b3-7c35-4cb4-b27c-f616b3f8a323@198.244.190.189:443?#🔒 TR-TCP-NA 🇬🇧 GB-198.244.190.189:443 📡 PING-093.66-MS
 trojan://c33883045c@198.244.252.93:443?sni=uk1.connecton.surf&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇬🇧 GB-198.244.252.93:443 📡 PING-094.27-MS
@@ -998,3 +995,6 @@ vless://9884feea-e8f7-47b8-aea8-0edc053fac44@125.228.8.157:11541?security=tls&sn
 vless://05e56cd6-0247-d65a-71c1-9654d57562bb@87.107.163.134:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.163.134:443 📡 PING-234.55-MS
 vless://b0724b67-f401-449e-9a48-f6360579e201@87.248.150.205:7030?security=none&type=tcp&host=www.speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.248.150.205:7030 📡 PING-235.10-MS
 vless://76270fed-d0f3-4782-a383-9d5697835972@185.213.167.15:34428?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.213.167.15:34428 📡 PING-235.23-MS
+vless://17a4e33b-9801-4026-b46f-57f0ec54ee4b@129.154.228.4:4436?security=tls&sni=iranzazadealer&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇮🇳 IN-129.154.228.4:4436 📡 PING-235.28-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@118.163.128.81:25593?security=tls&sni=baipiao475.stunning-bassoon.pages.dev&type=ws&host=baipiao475.stunning-bassoon.pages.dev&path=%E3%80%90TG%EF%BC%9A@juzibaipiao%E3%80%91%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9&fp=chrome#🔒 VL-WS-TLS 🇹🇼 TW-118.163.128.81:25593 📡 PING-236.96-MS
+vless://0cac5430-fd62-45cb-b064-67324f50bdd4@185.255.89.174:44448?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.255.89.174:44448 📡 PING-239.74-MS
