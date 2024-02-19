@@ -1,6 +1,3 @@
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.222.191:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.222.191:8080 📡 PING-005.42-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.154.226:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.154.226:8080 📡 PING-005.42-MS
-vless://e3962d1c-f3ae-4e5f-8b87-0ba1bf3e82aa@104.19.174.113:443?security=tls&sni=indosg.7t7t.me&type=grpc&serviceName=lonanSADASDanasa#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.174.113:443 📡 PING-005.42-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@45.159.217.142:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-45.159.217.142:8080 📡 PING-005.42-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.193.250:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.193.250:8080 📡 PING-005.42-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.92.48:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.92.48:8080 📡 PING-005.42-MS
@@ -998,3 +995,6 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.194.89:8080?security=none&ty
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@172.67.216.162:443?security=tls&sni=lmn59.sbs&type=ws&host=lmn59.sbs&path=%2Ffflsws&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.216.162:443 📡 PING-005.28-MS
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.1:443 📡 PING-005.28-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.151.182:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.151.182:8080 📡 PING-005.28-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.47.131:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.47.131:8080 📡 PING-005.28-MS
+vless://65136d09-0d6e-4ad6-9a08-ba436dcc72f3@104.16.30.250:443?security=tls&sni=opaso.sevenoseven.tech&type=grpc&serviceName=@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.30.250:443 📡 PING-005.27-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.119.117:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.119.117:8080 📡 PING-005.27-MS
