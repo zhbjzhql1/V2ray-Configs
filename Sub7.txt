@@ -1,7 +1,3 @@
-vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2053?security=tls&sni=sisand.waztow.WOrkerS.Dev&type=ws&host=sisand.waztow.WOrkerS.Dev&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.182.207:2053 📡 PING-001.32-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.3.43:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.3.43:8080 📡 PING-001.32-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.160.107:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.160.107:8080 📡 PING-001.32-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.73.1:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.73.1:8080 📡 PING-001.32-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.186.70:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.186.70:8080 📡 PING-001.32-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.231.112:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.231.112:8080 📡 PING-001.32-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.84.246:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.84.246:8080 📡 PING-001.32-MS
@@ -998,3 +994,7 @@ vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=%2F%3Fed%3D2048&sec
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@edgu.pureboy.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#MTN+22+Join+to%28%40Outline_Vpn%29
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ip.sb:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#MTN+23+Join+to%28%40Outline_Vpn%29
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=3k.pureboy.eu.org#MTN+24+Join+to%28%40Outline_Vpn%29
+vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@mag.zhaal.ir:2086?path=%2F&security=none&encryption=none&type=ws#MTN+25+Join+to%28%40Outline_Vpn%29
+vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@fri--join.outline-vpn.cloud:80?path=%2Fdl%2Findex.php&security=none&encryption=none&host=JCYjrF.%D8%B3%DB%8C%D8%B3%DB%8C.WORlD&type=ws#MCI+15+Join+to%28%40Outline_Vpn%29
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@0010-join.outline-vpn.cloud:80?path=%2F&security=none&encryption=none&host=public.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B785.shop&type=ws#MCI+16+Join+to%28%40Outline_Vpn%29
+vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vcv-join.outline-vpn.cloud:80?path=%2F&security=none&encryption=none&host=56.%E8%A1%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%9116.tech&type=ws#MCI+17+Join+to%28%40Outline_Vpn%29
