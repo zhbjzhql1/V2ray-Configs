@@ -1,4 +1,3 @@
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+331+%28%40Outline_Vpn%29
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@zula.ir:443?path=%2Fparadise&security=tls&encryption=none&host=tjsre.ttvoffi.info&fp=chrome&type=ws&sni=tjsre.ttvoffi.info#Irancell+332+%28%40Outline_Vpn%29
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@test--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#Irancell+333+%28%40Outline_Vpn%29
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#Irancell+334+%28%40Outline_Vpn%29
@@ -998,3 +997,4 @@ trojan://qG9K8AGnn9XH5jUqeFu96g@cdn13.cdn2cdn.com:2083/?type=ws&host=cdn13.cdn2c
 trojan://wkmY1R4EcP@108.61.203.210:443/?type=tcp&security=tls&sni=z-v2-003322.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20601
 trojan://292c9896-4201-4329-95d0-168980747f7c@172.105.18.131:443/?type=tcp&security=tls#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2010
 trojan://2cpi5GrsAb6E@18.192.127.235:14659/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2037
+trojan://wkmY1R4EcP@45.76.228.197:443/?type=tcp&security=tls&sni=z-v2-003263.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20602
