@@ -1,3 +1,5 @@
+trojan://21990300-ceea-11ee-93c8-1239d0255272@23.158.72.133:443/?type=tcp&security=tls&sni=circles.asia#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20609
+trojan://8b6be491-f8e2-4c7d-ad9a-97998b234744@172.234.96.114:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2012
 trojan://aa3fd3b3-7c35-4cb4-b27c-f616b3f8a323@uk-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2045
 trojan://telegram-id-directvpn@3.124.84.140:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2039
 trojan://D3ywHxQ8qXL7@3.141.199.155:14662/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20610
