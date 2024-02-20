@@ -1,3 +1,6 @@
+vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.245.64.63:41645 📡 PING-246.52-MS
+vless://17a4e33b-9801-4026-b46f-57f0ec54ee4b@129.154.228.4:4436?security=tls&sni=iranzazadealer&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇮🇳 IN-129.154.228.4:4436 📡 PING-247.08-MS
+vless://062c1db7-0227-4f0b-b9ed-3b06a4c63371@37.152.179.157:8090?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.152.179.157:8090 📡 PING-247.45-MS
 vless://21b3f017-1d81-488b-87de-7242aff1fb63@5.159.54.217:45429?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.159.54.217:45429 📡 PING-248.50-MS
 vless://42b63f4d-b533-4344-9eee-cfac46d9f92e@185.58.241.154:2053?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.58.241.154:2053 📡 PING-248.93-MS
 vless://72a085fa-66ba-43c8-9958-d1e425ac616d@88.135.41.97:37645?security=none&type=tcp&host=creativecommons.org&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-88.135.41.97:37645 📡 PING-249.19-MS
@@ -995,6 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.71.206:8080?security=none&ty
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.202.61:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.202.61:8080 📡 PING-009.25-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.147.121:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.147.121:8080 📡 PING-009.24-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.40.161:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.40.161:8080 📡 PING-009.24-MS
-vless://47a4da28-adb5-44a1-8472-c5c19a1c0fab@104.21.25.247:8880?security=none&type=ws&host=usa.exoil.pro&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.247:8880 📡 PING-009.24-MS
-vless://3a3f3082-acca-456d-89fa-2a60f96db400@172.64.150.145:2095?security=none&type=ws&host=cdn-owmsmsj.mohammad420.sbs&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.64.150.145:2095 📡 PING-009.24-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.79.14:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.79.14:8080 📡 PING-009.24-MS
