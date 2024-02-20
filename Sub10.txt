@@ -1,3 +1,5 @@
+trojan://2cpi5GrsAb6E@18.192.127.235:14659/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2037
+trojan://wkmY1R4EcP@45.76.228.197:443/?type=tcp&security=tls&sni=z-v2-003263.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20602
 trojan://zIvR7ryOXv@159.223.207.182:34428/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20603
 trojan://lLPTncvYaZ1R@54.227.39.59:14655/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20604
 trojan://8b6be491-f8e2-4c7d-ad9a-97998b234744@ru-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2011
