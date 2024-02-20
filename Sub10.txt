@@ -1,3 +1,12 @@
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443/?type=tcp&security=tls&sni=hdfy8c1.foriran.me#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2013
+trojan://wkmY1R4EcP@45.76.130.173:443/?type=tcp&security=tls&sni=z-v2-003289.kailib.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2047
+trojan://telegram-id-privatevpns@54.74.169.130:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland
+trojan://xxoo@138.197.5.103:443/?type=tcp&security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20621
+trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.125.175:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20622
+trojan://9Y3UrgfoaRSU@13.125.49.46:14637/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%202
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443/?type=tcp&security=tls#Vietnam
+trojan://W2JVov26ctfd@3.69.30.6:14645/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2043
+trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20623
 trojan://01a7ed92-3ff7-4872-84a8-fcb4757783c7@104.21.14.95:443/?type=ws&host=rsfndc1.cpionline.us&path=%2F3D8U0cLhe2MGwH9c1eh1994&security=tls&sni=rsfndc1.cpionline.us#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20624
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.126.175:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20625
 trojan://wkmY1R4EcP@45.77.161.86:443/?type=tcp&security=tls&sni=z-v2-003314.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20626
