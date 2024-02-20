@@ -1,5 +1,3 @@
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443/?type=tcp&security=tls&sni=hdfy8c1.foriran.me#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2013
-trojan://wkmY1R4EcP@45.76.130.173:443/?type=tcp&security=tls&sni=z-v2-003289.kailib.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2047
 trojan://telegram-id-privatevpns@54.74.169.130:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland
 trojan://xxoo@138.197.5.103:443/?type=tcp&security=tls&sni=us.blazeppn.info#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20621
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.125.175:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20622
