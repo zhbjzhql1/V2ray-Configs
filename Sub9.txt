@@ -1,16 +1,4 @@
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%281%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.25.233.226:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%282%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%283%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%284%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%285%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%286%29
-
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@103.21.244.5:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%287%29
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%288%29
@@ -998,3 +986,15 @@ trojan://414J1AP99oDE@18.197.97.194:14627/?type=tcp&security=tls&sni=www.myethbl
 trojan://94zjHOtfbDCG@54.188.52.177:14665/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20640
 trojan://telegram-id-privatevpns@3.77.164.171:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2048
 trojan://wkmY1R4EcP@137.220.42.248:443/?type=tcp&security=tls&sni=z-v2-002802.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20641
+trojan://6dCf6Syv1FwpjcAoCB2vfQ@104.21.25.193:2083/?type=ws&host=cdn15.cdn2cdn.com&path=%2F&security=tls&sni=cdn15.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20642
+trojan://UZ5ZjBAUG@116.203.148.62:2083/?type=tcp&security=tls&sni=fast.jahansystem.sbs#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2049
+trojan://telegram-id-privatevpns@52.47.153.161:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%2088
+trojan://telegram-id-directvpn@18.199.32.251:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2050
+trojan://mainssh-Juhygtr@172.66.192.18:443/?type=ws&host=frtws.mainssh.xyz&path=%2Ftrojan&security=tls&sni=frtws.mainssh.xyz#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20643
+
+vmess://ewogICAgImFkZCI6ICJ3d3cuZGFya3Jvb20ubG9sIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAid3d3LmRhcmtyb29tLmxvbCIsCiAgICAiaWQiOiAiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4yMTUuMTAzLTE1NzgiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICJnbHdlaWRmLmNmZCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImdsd2VpZGYuY2ZkIiwKICAgICJpZCI6ICIxMDUyZjI0ZS03YjA5LTQ1ZWItYjBjNS1kODU4ZWIxMjQxOTIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNC42LTQ5MTUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTcwLjEzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLAogICAgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNzAuMTMtMTUyMiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICJobXMyNC5pdmlkZW9zLnNicyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIml2aWRlb3Muc2JzIiwKICAgICJpZCI6ICI0NDFkYTM0Mi1jZTkwLTQ0MWUtYmZmOS1kMmNlYjU1ZTY4Y2EiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMjEuNDYuMTIxLTQ5MDEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJpdmlkZW9zLnNicyIKfQ==
+vmess://ewogICAgImFkZCI6ICJvYmRpaS5jZmQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJvYmRpaS5jZmQiLAogICAgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9saW5rd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xNzUuNTYtNDg3NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk3LjMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsCiAgICAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTg4LjExNC45Ny4zLTQ5MTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIKfQ==
