@@ -1,3 +1,9 @@
+trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.25.255.254:443/?type=tcp&security=tls&sni=hdfy8c1.foriran.me#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20618
+trojan://2i8a0qeTW6rc@3.145.11.175:14645/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20619
+trojan://telegram-id-privatevpns@51.20.149.248:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2015
+trojan://e3df0a3b-4425-418a-bba2-9fc17b523054@172.105.84.14:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2042
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20620
+trojan://telegram-id-directvpn@52.60.249.88:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2012
 trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443/?type=tcp&security=tls&sni=hdfy8c1.foriran.me#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2013
 trojan://wkmY1R4EcP@45.76.130.173:443/?type=tcp&security=tls&sni=z-v2-003289.kailib.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2047
 trojan://telegram-id-privatevpns@54.74.169.130:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland
