@@ -1,3 +1,9 @@
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#HamraheAval+125+%28%40Outline_Vpn%29
+vless://VPNCUSTOMIZE--VPNCUSTOMIZE@ajab-VPNCUSTOMIZE.O-O.my.id:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#MTN
+vless://VPNCUSTOMIZE--VPNCUSTOMIZE@discord.gg:80?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#MCI
+vless://ef1d268c-221e-4d7a-828e-3ade2fb26d11@app-linear.xyz:2087?path=vless-ws%2F%3Fed&security=tls&encryption=none&alpn=h3&host=cpisub4.CPIonLinE.Us&fp=firefox&type=ws&sni=cpisub4.CPIonLinE.Us#join+30+ID%28%40Outline_Vpn%29
+vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@162.159.17.160:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#join+31+ID%28%40Outline_Vpn%29
+vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@104.21.20.148:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed%3D2048&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#join+34+ID%28%40Outline_Vpn%29
 vless://ef1d268c-221e-4d7a-828e-3ade2fb26d11@slfingp.com:2087?path=vless-ws%2F%3Fed&security=tls&encryption=none&host=cpisub4.CPiONlInE.Us&fp=firefox&type=ws&sni=cpisub4.CPiONlInE.Us#join+35+ID%28%40Outline_Vpn%29
 vless://ed88d25b-98c2-4b84-87ed-96e228d86ce9@iranserver.com:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#join+37+ID%28%40Outline_Vpn%29
 vless://236d2036-9b42-4b50-a7a8-eb71b42bf16d@www.speedtest.net:8880?path=%2FTelegram%3A%40vmessorg%3Fed&security=none&encryption=none&host=vmessorg.xn--54qv00ez5ar77g.co.&type=ws#join+38+ID%28%40Outline_Vpn%29
@@ -992,9 +998,3 @@ trojan://telegram-id-privatevpns@34.252.54.161:22222/?type=tcp&security=tls&sni=
 trojan://7AmaTN1byw0z@18.143.131.24:16632/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%208
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443/?type=ws&host=sherasheba.com&path=6b777a91&security=tls&sni=sherasheba.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20605
 trojan://21990300-ceea-11ee-93c8-1239d0255272@23.158.72.133:443/?type=tcp&security=tls&sni=circles.asia#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20606
-trojan://wkmY1R4EcP@65.20.102.236:443/?type=tcp&security=tls&sni=z-v2-003347.kailib.com#Spain
-trojan://3b55497a-d10f-44b7-bb0a-6e93ade3bb73@de-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2054
-trojan://telegram-id-directvpn@16.16.50.197:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%203
-trojan://telegram-id-privatevpns@18.195.90.101:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2055
-trojan://wkmY1R4EcP@45.63.110.20:443/?type=tcp&security=tls&sni=z-v2-003281.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20607
-trojan://wkmY1R4EcP@45.77.161.86:443/?type=tcp&security=tls&sni=z-v2-003314.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20608
