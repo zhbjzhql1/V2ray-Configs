@@ -1,3 +1,5 @@
+trojan://7AmaTN1byw0z@18.143.131.24:16632/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%208
+trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.171.3:443/?type=ws&host=sherasheba.com&path=6b777a91&security=tls&sni=sherasheba.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20605
 trojan://21990300-ceea-11ee-93c8-1239d0255272@23.158.72.133:443/?type=tcp&security=tls&sni=circles.asia#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20606
 trojan://wkmY1R4EcP@65.20.102.236:443/?type=tcp&security=tls&sni=z-v2-003347.kailib.com#Spain
 trojan://3b55497a-d10f-44b7-bb0a-6e93ade3bb73@de-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2054
