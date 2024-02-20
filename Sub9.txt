@@ -1,3 +1,8 @@
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%281%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.25.233.226:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%282%29
+
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%283%29
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%284%29
@@ -993,8 +998,3 @@ trojan://414J1AP99oDE@18.197.97.194:14627/?type=tcp&security=tls&sni=www.myethbl
 trojan://94zjHOtfbDCG@54.188.52.177:14665/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20640
 trojan://telegram-id-privatevpns@3.77.164.171:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2048
 trojan://wkmY1R4EcP@137.220.42.248:443/?type=tcp&security=tls&sni=z-v2-002802.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20641
-trojan://6dCf6Syv1FwpjcAoCB2vfQ@104.21.25.193:2083/?type=ws&host=cdn15.cdn2cdn.com&path=%2F&security=tls&sni=cdn15.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20642
-trojan://UZ5ZjBAUG@116.203.148.62:2083/?type=tcp&security=tls&sni=fast.jahansystem.sbs#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2049
-trojan://telegram-id-privatevpns@52.47.153.161:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20France%2088
-trojan://telegram-id-directvpn@18.199.32.251:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2050
-trojan://mainssh-Juhygtr@172.66.192.18:443/?type=ws&host=frtws.mainssh.xyz&path=%2Ftrojan&security=tls&sni=frtws.mainssh.xyz#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20643
