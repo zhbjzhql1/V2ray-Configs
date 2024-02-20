@@ -1,3 +1,5 @@
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Irancell+363+%28%40Outline_Vpn%29
+vless://be0a43eb-9fc9-4692-da0f-a3187b4fdd9d@95.179.216.171:2096?path=%2FSvnTeam&security=none&encryption=none&host=fast.com&type=ws#Irancell+364+%28%40Outline_Vpn%29
 vless://6fd4a391-bc0e-4bbc-b460-880d89d4df7b@65.109.193.181:52195?security=reality&encryption=none&pbk=h1K6skmAs71qhm34HX1KwetsU4jPe6VqZaSueOfZ-R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Kir&sid=b5b8b87f#Irancell+365+%28%40Outline_Vpn%29
 vless://9da85cad-bb16-454c-a861-f665a9476f36@185.83.183.80:41278?security=none&encryption=none&headerType=none&type=tcp#HamraheAval+120+%28%40Outline_Vpn%29
 vless://2305891e-b2f2-4c97-841c-c52d9d2c9631@104.26.15.85:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl-5d9b35039774515ef5a023ac9f0333dddffd.mitsonic.com&type=ws&sni=transaction-24385b2fdde5059057d092719877602e24a85e24fd2e6feb0e79eeeccbfd1024.mitsonic.com#HamraheAval+121+%28%40Outline_Vpn%29
@@ -996,5 +998,3 @@ trojan://telegram-id-privatevpns@51.20.149.248:22222/?type=tcp&security=tls&sni=
 trojan://e3df0a3b-4425-418a-bba2-9fc17b523054@172.105.84.14:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2042
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.215.2:443/?type=ws&host=jobscareerforstudent.com&path=6b777a91&security=tls&sni=jobscareerforstudent.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20620
 trojan://telegram-id-directvpn@52.60.249.88:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2012
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443/?type=tcp&security=tls&sni=hdfy8c1.foriran.me#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2013
-trojan://wkmY1R4EcP@45.76.130.173:443/?type=tcp&security=tls&sni=z-v2-003289.kailib.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2047
