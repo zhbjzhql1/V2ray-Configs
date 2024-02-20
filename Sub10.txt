@@ -1,3 +1,6 @@
+trojan://telegram-id-directvpn@3.124.84.140:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2039
+trojan://D3ywHxQ8qXL7@3.141.199.155:14662/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20610
+trojan://LMUzp3zhElqS@18.171.158.102:14651/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2046
 trojan://telegram-id-privatevpns@16.170.119.124:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2013
 trojan://3b55497a-d10f-44b7-bb0a-6e93ade3bb73@51.75.77.237:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2040
 trojan://GBgGiRFdXavt@18.143.163.235:14635/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%209
