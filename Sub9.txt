@@ -66,6 +66,10 @@ vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@104.20.239.70:8880?path=%2FTelegram
 vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@104.21.20.148:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#Join+45+ID%28%40Outline_Vpn%29
 vless://VPNCUSTOMIZE---VPNCUSTOMIZE@91.193.58.4:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#MTN
 vless://VPNCUSTOMIZE---VPNCUSTOMIZE@discord.gg:80?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#MCI
+vless://352f8151-f56f-4858-a855-b338e3053e6d@85.9.96.131:2087?security=reality&encryption=none&pbk=2-t9uUzRV61JYk2SuEzWmNuKgh_lG5IteIJ_pHPcPWM&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=21e8adbf#HamraheAval+104+%28%40Outline_Vpn%29
+vless://f451c7bd-83e4-44a9-8c5a-809ca9df12b2@104.20.239.70:8880?path=%2FTelegram%3A%40UnlimitedDev%3Fed&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws#HamraheAval+105+%28%40Outline_Vpn%29
+vless://Parsashonam-3@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#HamraheAval+106+%28%40Outline_Vpn%29
+vmess://eyJhZGQiOiI2Mi42MC4xMzQuOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmEwZjI2MDQtYTZmZC00YzYxLWFiNTUtNjZlZDY3OTEwZjFjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1ODQzNCIsInBzIjoiSGFtcmFoZUF2YWwgMTA3IChAT3V0bGluZV9WcG4pIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%281%29
@@ -994,7 +998,3 @@ trojan://3b55497a-d10f-44b7-bb0a-6e93ade3bb73@51.75.77.237:443/?type=tcp&securit
 trojan://e3df0a3b-4425-418a-bba2-9fc17b523054@172.105.84.14:443/?type=tcp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2053
 trojan://hYdC7AOXqKZy@15.237.249.137:16636/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2083
 trojan://qG9K8AGnn9XH5jUqeFu96g@cdn13.cdn2cdn.com:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20602
-trojan://nJthgbUsF8On@18.171.53.215:16635/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2044
-trojan://jup5IDjXXf9f@13.250.49.243:16654/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%207
-trojan://wkmY1R4EcP@66.42.84.121:443/?type=tcp&security=tls&sni=z-v2-002797.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20603
-trojan://8b6be491-f8e2-4c7d-ad9a-97998b234744@ru-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%202
