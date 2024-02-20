@@ -1,3 +1,4 @@
+trojan://wkmY1R4EcP@64.176.162.24:443/?type=tcp&security=tls#Israel%202
 trojan://2QjgLfBxN2LM@13.115.226.59:16660/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2016
 trojan://telegram-id-privatevpns@35.157.38.19:22222/?type=tcp&security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2050
 trojan://kImomwpgtZJr@18.191.62.52:16661/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20599
