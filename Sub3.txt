@@ -1,3 +1,5 @@
+vless://062c1db7-0227-4f0b-b9ed-3b06a4c63371@37.152.179.157:2086?security=none&type=ws#🔒 VL-WS-NONE 🇮🇷 IR-37.152.179.157:2086 📡 PING-258.96-MS
+vless://30c9bd7a-68d5-43db-81a1-b796d613ebbc@193.151.155.191:37422?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.155.191:37422 📡 PING-259.03-MS
 vless://0c1032d9-8143-4f06-8280-79ebfb64f594@185.58.241.110:2610?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.58.241.110:2610 📡 PING-259.42-MS
 vless://9da85cad-bb16-454c-a861-f665a9476f36@85.198.9.184:34320?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.9.184:34320 📡 PING-259.44-MS
 vless://1890ba7d-881e-40a9-8439-e6f51106d03a@185.128.138.61:8880?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.128.138.61:8880 📡 PING-259.89-MS
@@ -996,5 +998,3 @@ vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.4.60:2096?security=tls&sni=w
 vless://e29a631c-6568-4082-95d6-01d8806b31e8@172.67.219.204:8080?type=ws&host=hamrah88.baloch.monster&path=%2F#🔒 VL-WS-NA 🇺🇸 US-172.67.219.204:8080 📡 PING-009.16-MS
 vless://20bb38f0-aab8-49d1-8785-e0923eccbca6@162.159.128.233:443?security=tls&sni=xxx.moshavere.group&type=grpc&serviceName=storage_46896#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.128.233:443 📡 PING-009.16-MS
 vless://4c7b5435-88d7-4793-bb36-ebe08c05b1fc@172.67.189.46:443?security=tls&sni=server1.popprime.shop&type=grpc&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.189.46:443 📡 PING-009.16-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.201.204:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.201.204:8080 📡 PING-009.16-MS
-vless://8ea6990d-9a37-4c37-abb2-7dd16c741f05@104.20.44.251:443?security=tls&sni=sni-m0.qrzaemrlodast.link&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.44.251:443 📡 PING-009.16-MS

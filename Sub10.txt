@@ -1,3 +1,5 @@
+trojan://hYdC7AOXqKZy@15.237.249.137:16636/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2083
+trojan://qG9K8AGnn9XH5jUqeFu96g@cdn13.cdn2cdn.com:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20602
 trojan://nJthgbUsF8On@18.171.53.215:16635/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2044
 trojan://jup5IDjXXf9f@13.250.49.243:16654/?type=tcp&security=tls&sni=www.myethblog.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%207
 trojan://wkmY1R4EcP@66.42.84.121:443/?type=tcp&security=tls&sni=z-v2-002797.kailib.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20603

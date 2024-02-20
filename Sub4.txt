@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.201.204:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.201.204:8080 📡 PING-009.16-MS
+vless://8ea6990d-9a37-4c37-abb2-7dd16c741f05@104.20.44.251:443?security=tls&sni=sni-m0.qrzaemrlodast.link&type=grpc&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.44.251:443 📡 PING-009.16-MS
 vless://83bf0d5f-cd65-4bf8-b2f8-57e275dd6009@172.67.191.136:8443?security=tls&sni=chanel.v2raystore.sbs&type=grpc&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.191.136:8443 📡 PING-009.16-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.214.183:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.214.183:8080 📡 PING-009.16-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.75.187:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.75.187:8080 📡 PING-009.16-MS
@@ -996,5 +998,3 @@ vless://c9ec22e7-b467-42ed-bb85-cbb2631d29b8@108.162.194.61:2095?security=none&t
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.207.172:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.207.172:8080 📡 PING-008.75-MS
 vless://b404b4e8-9164-4c7e-acbd-ea8ec0aee464@172.67.203.96:2087?security=tls&sni=www.RxV2ray.sbs&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.203.96:2087 📡 PING-008.75-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.208.244:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.208.244:8080 📡 PING-008.75-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.144.141:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.144.141:8080 📡 PING-008.75-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.195.32:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.195.32:8080 📡 PING-008.75-MS
