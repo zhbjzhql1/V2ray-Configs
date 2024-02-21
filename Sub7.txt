@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@45.12.31.83:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇷🇴 RO-45.12.31.83:8080 📡 PING-005.17-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.189.216:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.189.216:8080 📡 PING-005.17-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.175.10:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.175.10:8080 📡 PING-005.17-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@185.133.35.53:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇧🇷 BR-185.133.35.53:8080 📡 PING-005.17-MS
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@104.21.41.200:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.41.200:443 📡 PING-005.17-MS
@@ -996,5 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.24.10.103:8080?security=none&ty
 vless://d9ff0d0c-2e37-42b4-93ce-e3c13f9fea74@198.41.205.99:2087?security=tls&sni=tel.celebriteshop.ir&type=grpc&serviceName=%40celebriteshop+%2C+%40celebriteshop+%2C+%40celebriteshop+%2C+%40celebriteshop&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.205.99:2087 📡 PING-005.10-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.177.171:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.177.171:8080 📡 PING-005.10-MS
 vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@104.25.99.169:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.99.169:2053 📡 PING-005.10-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.147.124:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.147.124:8080 📡 PING-005.10-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.221.22:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.221.22:8080 📡 PING-005.10-MS
