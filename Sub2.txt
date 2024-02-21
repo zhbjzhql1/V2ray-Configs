@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.147:443 📡 PING-006.40-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@199.59.243.225:443#🔒 SS-TCP-NA 🇺🇸 US-199.59.243.225:443 📡 PING-005.79-MS
-ss://b9ad895b12ac40fca5aca5b2a1285001Og==@172.67.170.103:443#🔒 SS-TCP-NA 🇺🇸 US-172.67.170.103:443 📡 PING-005.47-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@5.161.219.169:5614#🔒 SS-TCP-NA 🇺🇸 US-5.161.219.169:5614 📡 PING-005.33-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.254.46:443 📡 PING-005.30-MS
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.126.108:443#🔒 SS-TCP-NA 🇫🇷 FR-141.95.126.108:443 📡 PING-000.00-MS
@@ -998,3 +995,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@152.70.248.175:20010?security=tls&s
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@193.122.111.23:25871?security=tls&sni=juzibaipiao.1919810.com&type=ws&host=juzibaipiao.1919810.com&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-193.122.111.23:25871 📡 PING-183.92-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@15.165.38.107:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-15.165.38.107:8443 📡 PING-185.05-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.203.71.46:21002?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-43.203.71.46:21002 📡 PING-185.99-MS
+vless://9884feea-e8f7-47b8-aea8-0edc053fac44@118.163.101.44:44332?security=tls&sni=juzibaipiao.1919810.com&type=ws&host=juzibaipiao.1919810.com&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇹🇼 TW-118.163.101.44:44332 📡 PING-188.09-MS
+vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@131.186.28.236:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-131.186.28.236:443 📡 PING-188.37-MS
+vless://0b40b0dc-4584-4969-bd45-7492107628fb@172.105.52.28:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇳 IN-172.105.52.28:2003 📡 PING-195.29-MS

@@ -1,6 +1,3 @@
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.68.116:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.68.116:8080 📡 PING-005.26-MS
-vless://fa52dc81-efaa-4328-802f-54fd4e2409b5@172.67.175.243:8443?security=tls&sni=panell.followprovider.ir&type=grpc&serviceName=SeRvEr-53651.ProD.hOStS.ookKLSeRveR.net&fp=360&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.175.243:8443 📡 PING-005.26-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@45.159.219.108:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-45.159.219.108:8080 📡 PING-005.26-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.172.173:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.172.173:8080 📡 PING-005.26-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@45.12.31.83:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇷🇴 RO-45.12.31.83:8080 📡 PING-005.26-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@185.170.166.194:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇬🇧 GB-185.170.166.194:8080 📡 PING-005.26-MS
@@ -998,3 +995,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.21.21:443?security=tls&sni=e
 vless://a1274db3-1c1c-43b0-b6aa-b7a4c0efb852@172.67.81.238:2096?security=tls&sni=wanclodtyoiertturkghtyhhpo-tyuijhgbg.ecloudfa.ir&type=ws&host=tyuncvrtx.ecloudfa.ir&path=%2Fwancloudfa&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.81.238:2096 📡 PING-005.19-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.19.58:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.19.58:2096 📡 PING-005.19-MS
 vless://e2ed91fe-808a-4d63-bcd9-1487769bfaaa@104.18.200.200:2083?security=tls&sni=forward222.maryam1500.top&type=grpc&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.200.200:2083 📡 PING-005.19-MS
+vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@104.22.49.253:80?security=none&type=ws&path=Path%2F%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.49.253:80 📡 PING-005.19-MS
+vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@104.21.14.60:8080?security=none&type=ws&host=cdn.melodyshopone2.ir&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.14.60:8080 📡 PING-005.19-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.193.0:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.193.0:8080 📡 PING-005.19-MS
