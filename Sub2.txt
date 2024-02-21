@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.245:4444#🔒 SS-TCP-NA 🇺🇸 US-38.91.107.245:4444 📡 PING-026.29-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLVmNkY3NKVDZmME9XTDVzRXlNMzhB@158.69.0.27:1080#🔒 SS-TCP-NA 🇨🇦 CA-158.69.0.27:1080 📡 PING-026.06-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:804#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:804 📡 PING-025.91-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807#🔒 SS-TCP-NA 🇨🇦 CA-134.195.196.178:807 📡 PING-025.80-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbDNlclZyalV5MnJDMGw5akNzcmhY@149.56.95.159:34539#🔒 SS-TCP-NA 🇨🇦 CA-149.56.95.159:34539 📡 PING-025.04-MS
 ss://YWVzLTI1Ni1nY206YVNFLzI2QzlNamwrTHJuRXdYa0t2NkVySDl5ZklsdDlTZmZYQ0FFRENrcz0=@51.222.205.252:2443#🔒 SS-TCP-NA 🇨🇦 CA-51.222.205.252:2443 📡 PING-025.00-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@172.233.214.104:8080#🔒 SS-TCP-NA 🇺🇸 US-172.233.214.104:8080 📡 PING-024.98-MS
@@ -998,3 +994,7 @@ vless://be13c79a-1913-4e6c-954f-2d505f467aea@46.245.64.63:41645?type=tcp&host=ww
 vless://c292b952-f155-43e9-840b-cd6cc5517191@213.176.7.49:16457?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-213.176.7.49:16457 📡 PING-169.65-MS
 vless://c3f1b40d-0791-4b10-9107-ec7fd5f0527c@185.212.194.38:5050?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-185.212.194.38:5050 📡 PING-169.89-MS
 vless://517957dc-d5c7-4193-abc8-39e4008656b4@78.39.51.13:443?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-78.39.51.13:443 📡 PING-170.18-MS
+vless://3a0e534d-9fdf-447b-9837-9154feaa1ed9@45.81.19.134:443?security=tls&sni=bugde1tb.mlgolden.site&type=ws&host=bugde1tb.mlgolden.site&path=%2Fdl&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.81.19.134:443 📡 PING-170.43-MS
+vless://3a0e534d-9fdf-447b-9837-9154feaa1ed9@45.81.19.166:443?security=tls&sni=buguk7tbss.mlgolden.site&type=ws&host=buguk7tbss.mlgolden.site&path=%2Fdl&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.81.19.166:443 📡 PING-170.63-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.66.218.76:18050?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-45.66.218.76:18050 📡 PING-170.73-MS
+vless://a8f1f548-2d45-4ba2-8ec0-082aefebff9f@31.14.118.126:1050?security=none&type=tcp&host=ponisha.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.14.118.126:1050 📡 PING-171.95-MS

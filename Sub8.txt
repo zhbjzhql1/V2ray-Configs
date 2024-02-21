@@ -1,7 +1,3 @@
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.166.124:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.166.124:8080 📡 PING-005.12-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.87.127:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.87.127:8080 📡 PING-005.12-MS
-vless://f809b3f9-b973-4a6b-8dcf-284ec29eec06@162.159.138.232:8443?security=tls&sni=proxystore11.adminwp.eu.org.&type=grpc&serviceName=@Proxystore11@Proxystore11@Proxystore11@Proxystore11@Proxystore11@Proxystore11@Proxystore11@Proxystore11&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.138.232:8443 📡 PING-005.12-MS
-vless://5f15d381-a992-45c8-aaac-5bf46f23c4d0@104.26.3.105:80?security=none&type=ws&host=nikmard.speedvadd.fun&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.3.105:80 📡 PING-005.12-MS
 vless://062c1db7-0227-4f0b-b9ed-3b06a4c63371@[::ffff:104.26.15.80]:8443?security=tls&sni=g.xbestspeed.cam&type=grpc&serviceName=8443vless&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:104.26.15.80]:8443 📡 PING-005.12-MS
 vless://c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0@104.16.123.175:80?security=none&type=ws&host=Gio4GI.TahaRAT.App&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:80 📡 PING-005.12-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.79.102:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.79.102:8080 📡 PING-005.12-MS
@@ -998,3 +994,7 @@ vmess://eyJhZGQiOiJpcmFuY2VsbC5vdXRsaW5lLXZwbi5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoi
 vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@irancell3----join.outline-vpn.cloud:26475?security=none&encryption=none&headerType=none&type=tcp#Irancell+265+%28%40Outline_Vpn%29
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@oirancell.outline-vpn.cloud:80?path=Path%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#Irancell+270+%28%40Outline_Vpn%29
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@for-irancell.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#Irancell+271+%28%40Outline_Vpn%29
+vless://090ac18d-09db-4abe-b525-52d361da0e1b@orancellll.outline-vpn.cloud:8443?mode=gun&security=tls&encryption=none&fp=safari&type=grpc&serviceName=azaronline.com&sni=contact.my-contorol.com#Irancell+272+%28%40Outline_Vpn%29
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#Irancell+273+%28%40Outline_Vpn%29
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=%2Fparadise&security=tls&encryption=none&host=pgskx.yyvoffi.info&fp=chrome&type=ws&sni=pgskx.yyvoffi.info#Irancell+274+%28%40Outline_Vpn%29
+vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=ty1.livingspringonline.com#Irancell+275+%28%40Outline_Vpn%29
