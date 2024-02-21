@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c1o2OUZObUFQb3NDQmlENk1VcnlC@45.8.146.32:50370#🔒 SS-TCP-NA 🇺🇸 US-45.8.146.32:50370 📡 PING-026.94-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbDNlclZyalV5MnJDMGw5akNzcmhY@149.56.95.159:34539#🔒 SS-TCP-NA 🇨🇦 CA-149.56.95.159:34539 📡 PING-026.65-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.245:4444#🔒 SS-TCP-NA 🇺🇸 US-38.91.107.245:4444 📡 PING-026.42-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@172.233.214.104:8080#🔒 SS-TCP-NA 🇺🇸 US-172.233.214.104:8080 📡 PING-025.98-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@216.39.250.78:2375#🔒 SS-TCP-NA 🇨🇦 CA-216.39.250.78:2375 📡 PING-025.86-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#🔒 SS-TCP-NA 🇺🇸 US-216.39.248.133:7001 📡 PING-025.65-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLVmNkY3NKVDZmME9XTDVzRXlNMzhB@158.69.0.27:1080#🔒 SS-TCP-NA 🇨🇦 CA-158.69.0.27:1080 📡 PING-023.69-MS
@@ -994,7 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.19.177:8080?security=none&ty
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.28.1:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.28.1:8080 📡 PING-099.65-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.18.123:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.18.123:8080 📡 PING-099.65-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.18.246:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.18.246:8080 📡 PING-099.65-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.17.130:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.17.130:8080 📡 PING-099.65-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.26.84:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.26.84:8080 📡 PING-099.65-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.18.201:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.18.201:8080 📡 PING-099.65-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.25.80:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.25.80:8080 📡 PING-099.66-MS
