@@ -1,4 +1,3 @@
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.106.121:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.106.121:8080 📡 PING-001.56-MS
 vless://1c46dc7a-3d0c-4d53-837a-72fdef544813@104.21.78.54:443?security=tls&sni=v1.rememberme.tech&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.78.54:443 📡 PING-001.55-MS
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.192.65:8880 📡 PING-001.55-MS
 vless://8ba3985f-18b9-4d56-beaa-6cc20c35cc4d@172.67.153.176:2096?security=tls&sni=baran.phmbot.top&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.153.176:2096 📡 PING-001.55-MS
@@ -998,3 +997,4 @@ vless://391f16f3-c0a8-4698-86b3-0d64a104f76e@188.114.98.224:2083?security=tls&sn
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@5.182.85.59:2083?security=tls&sni=guq22.oXNETWoRks.liNK&type=ws&host=guq22.oXNETWoRks.liNK&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇷🇺 RU-5.182.85.59:2083 📡 PING-001.43-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.57.240:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.240:443 📡 PING-001.43-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.154.51:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.154.51:8080 📡 PING-001.43-MS
+vless://e4b00540-b78a-4195-86df-d1b7ed6701e2@190.93.244.0:80?security=none&type=ws&host=block.itcenter.blog&path=%2FTelegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT-Telegram%3A%40SeyyedMT#🔒 VL-WS-NONE 🇺🇸 US-190.93.244.0:80 📡 PING-001.43-MS
