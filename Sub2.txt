@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMElFbkNhVExsYUNJS0pPcGZZSmNS@68.183.196.168:31024#🔒 SS-TCP-NA 🇨🇦 CA-68.183.196.168:31024 📡 PING-018.46-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINmNTVGY4dkRiVkgxY3BuckF4Rmoy@18.218.239.120:36326#🔒 SS-TCP-NA 🇺🇸 US-18.218.239.120:36326 📡 PING-015.57-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpROFlZd2liWVdmTlZuTGZ0cGpNSzBM@64.176.194.51:56666#🔒 SS-TCP-NA 🇺🇸 US-64.176.194.51:56666 📡 PING-013.89-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsa0NHcDJOdEZzZUpTbTg0b0ZtcU9n@185.200.191.49:443#🔒 SS-TCP-NA 🇺🇸 US-185.200.191.49:443 📡 PING-012.40-MS
 ss://Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.145:443 📡 PING-006.52-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.137:443 📡 PING-006.41-MS
@@ -10,8 +13,8 @@ trojan://55d83a1f-acad-4bca-b08d-73189854b5b5@dl.nabestan.com:443?security=tls&a
 vless://6fd84272-57ff-493d-88a7-9fa619255812@dl.nabestan.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.nabestan.com#6fd84272-VLESS_TCP%2FTLS_Vision
 vless://6fd84272-57ff-493d-88a7-9fa619255812@dl.nabestan.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.nabestan.com#6fd84272-VLESS_TCP%2FTLS_Vision
 trojan://55d83a1f-acad-4bca-b08d-73189854b5b5@dl.nabestan.com:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=dl.nabestan.com#55d83a1f-trojan_tcp
-trojan://55d83a1f-acad-4bca-b08d-73189854b5b5@dl.nabestan.com:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=dl.nabestan.com#55d83a1f-trojan_tcp
 vless://6fd84272-57ff-493d-88a7-9fa619255812@dl.nabestan.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.nabestan.com#6fd84272-VLESS_TCP%2FTLS_Vision
+trojan://55d83a1f-acad-4bca-b08d-73189854b5b5@dl.nabestan.com:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=dl.nabestan.com#55d83a1f-trojan_tcp
 vless://6fd84272-57ff-493d-88a7-9fa619255812@dl.nabestan.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.nabestan.com#6fd84272-VLESS_TCP%2FTLS_Vision
 
 trojan://bcabaca-baca-abca-cabd-baabbcccabca@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 THU-03-ESFAND-1402 🕑 08:24
@@ -995,6 +998,3 @@ vless://517957dc-d5c7-4193-abc8-39e4008656b4@78.39.51.13:443?security=none&type=
 vless://9cc03fa3-ecfe-3d84-a477-fcc9ce08aa9f@193.151.153.215:2082?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.153.215:2082 📡 PING-196.87-MS
 vless://0b40b0dc-4584-4969-bd45-7492107628fb@172.105.52.28:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇳 IN-172.105.52.28:2003 📡 PING-197.19-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.198.53.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-43.198.53.11:443 📡 PING-197.22-MS
-vless://7f88a7d2-2b90-4092-aa2f-d5e5ca3bee76@193.151.154.216:15760?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.154.216:15760 📡 PING-197.30-MS
-vless://5d432424-cf9c-48f3-bccb-118146ca34db@16.162.56.233:443?security=tls&sni=made-retention-ontario-tobago.trycloudflare.com&type=ws&host=made-retention-ontario-tobago.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-16.162.56.233:443 📡 PING-197.40-MS
-vless://cb15a56a-8d6e-4810-9207-53b1938eafdf@192.46.208.47:443?security=tls&flow=xtls-rprx-vision&sni=in-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇳 IN-192.46.208.47:443 📡 PING-197.41-MS
