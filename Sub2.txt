@@ -238,11 +238,6 @@ trojan://T01KF3Hcs19WBAmFyNF5Ug@162.159.128.233:443?security=tls&sni=faradars-pa
 trojan://hwiyBDgN65hGmiwxPcfMUA@104.21.7.50:443?security=tls&sni=cdntuk17.reservedns.com&type=ws&host=cdntuk17.reservedns.com&path=%2F&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.7.50:443 📡 PING-001.23-MS
 trojan://mainssh-Juhygtr@172.66.192.18:443?security=tls&sni=frtws.mainssh.xyz&type=ws&host=frtws.mainssh.xyz&path=%2Ftrojan#🔒 TR-WS-TLS 🇺🇸 US-172.66.192.18:443 📡 PING-001.21-MS
 trojan://baccaab-caab-caba-dcab-bcbaabbccaca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-trojan://v6ZDNkAzfp@pop3.floorshoping22.com:443?path=%2FCDN%3Fed%3D2048&security=tls&host=pop3.floorshoping22.com&type=ws&sni=pop3.floorshoping22.com#CDN-Power
-trojan://v6ZDNkAzfp@pop3.floorshoping22.com:443?path=%2FCDN%3Fed%3D2048&security=tls&host=pop3.floorshoping22.com&type=ws&sni=pop3.floorshoping22.com#CDN-Power
-trojan://v6ZDNkAzfp@pop3.floorshoping22.com:443?path=%2FCDN%3Fed%3D2048&security=tls&host=pop3.floorshoping22.com&type=ws&sni=pop3.floorshoping22.com#CDN-Power
-trojan://v6ZDNkAzfp@pop3.floorshoping22.com:443?path=%2FCDN%3Fed%3D2048&security=tls&host=pop3.floorshoping22.com&type=ws&sni=pop3.floorshoping22.com#CDN-Power
-
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Fast+%281%29+%E2%9A%A1%EF%B8%8F
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@jp10.vlessx.xyz:8443?path=fuck_yes%21&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#Fast+%282%29+%E2%9A%A1%EF%B8%8F
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@sg21.vlessx.xyz:8443?path=fuck_yes%21&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#Fast+%283%29+%E2%9A%A1%EF%B8%8F
@@ -998,3 +993,8 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.126.138:8243?security=tls&s
 vless://649c42cc-eea8-4cb6-b5a6-ed921d56b5e6@95.38.155.87:2053?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.155.87:2053 📡 PING-194.16-MS
 vless://e8686af6-bd43-4d5e-9358-3940e3d9ab62@212.33.206.94:1231?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.94:1231 📡 PING-194.24-MS
 vless://1cc913d3-fa5c-f2d6-d199-3793aa8d6837@62.60.211.181:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.211.181:443 📡 PING-195.01-MS
+vless://3bb6bee5-ff44-41a7-ce2b-ee99ec01bcbb@185.26.32.226:52330?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.26.32.226:52330 📡 PING-195.92-MS
+vless://1e7650a4-625f-d0cd-e5bc-cfb55c258b1e@87.107.163.182:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.163.182:443 📡 PING-196.02-MS
+vless://90c4ac08-b257-4cc1-968b-8aa77bbb8f88@94.101.187.49:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.101.187.49:2083 📡 PING-196.45-MS
+vless://46fc0c58-bed4-4c2f-bdc8-27290f475d15@94.182.128.108:2053?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.128.108:2053 📡 PING-196.73-MS
+vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@131.186.28.236:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-131.186.28.236:443 📡 PING-196.78-MS
