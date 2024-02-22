@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINmNTVGY4dkRiVkgxY3BuckF4Rmoy@18.218.239.120:36326#🔒 SS-TCP-NA 🇺🇸 US-18.218.239.120:36326 📡 PING-013.14-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsa0NHcDJOdEZzZUpTbTg0b0ZtcU9n@185.200.191.49:443#🔒 SS-TCP-NA 🇺🇸 US-185.200.191.49:443 📡 PING-008.23-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c1o2OUZObUFQb3NDQmlENk1VcnlC@45.8.146.32:50370#🔒 SS-TCP-NA 🇺🇸 US-45.8.146.32:50370 📡 PING-007.93-MS
+ss://Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.145:443 📡 PING-003.17-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.137:443 📡 PING-002.76-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@199.59.243.225:443#🔒 SS-TCP-NA 🇺🇸 US-199.59.243.225:443 📡 PING-001.99-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.254.46:443 📡 PING-001.72-MS
@@ -994,7 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.130.56:20010?security=tls&sn
 vless://dc770eb8-4391-492f-818f-27e704e16b27@85.133.179.126:443?security=none&type=tcp&host=neshan.org&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-85.133.179.126:443 📡 PING-194.94-MS
 vless://649c42cc-eea8-4cb6-b5a6-ed921d56b5e6@95.38.155.87:2053?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.38.155.87:2053 📡 PING-194.99-MS
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@152.70.246.67:33405?security=tls&sni=juzibaipiao.1919810.com&type=ws&host=juzibaipiao.1919810.com&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-152.70.246.67:33405 📡 PING-195.13-MS
-vless://308d0488-0230-4f92-9e9f-978a3583434a@85.133.238.62:2096?type=ws&host=bulgtn.private-server.host&path=%2F#🔒 VL-WS-NA 🇮🇷 IR-85.133.238.62:2096 📡 PING-195.34-MS
-vless://3bb6bee5-ff44-41a7-ce2b-ee99ec01bcbb@185.26.32.226:52330?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.26.32.226:52330 📡 PING-195.44-MS
-vless://f3ca856e-d0f3-4ccf-bad7-7fc52a01ad6e@2.189.254.138:4478?security=none&type=tcp&host=telewbion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.254.138:4478 📡 PING-196.04-MS
-vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@193.122.111.23:25871?security=tls&sni=juzibaipiao.1919810.com&type=ws&host=juzibaipiao.1919810.com&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇰🇷 KR-193.122.111.23:25871 📡 PING-196.39-MS

@@ -1,3 +1,7 @@
+vless://e44ce413-51b8-43f8-bed4-fcf2d10d1660@173.245.58.150:2053?security=tls&sni=a2.wolf-shop.ir&type=grpc&serviceName=DCW9lr3xdblvaQAPVFXYq&host=a2.wolf-shop.ir&path=DCW9lr3xdblvaQAPVFXYq&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-173.245.58.150:2053 📡 PING-001.53-MS
+vless://6935a854-b7ee-4beb-b282-b90d419be4b2@172.67.161.100:8080?security=none&type=ws&host=shahin.hamedamani20336455.workers.dev&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.161.100:8080 📡 PING-001.53-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.192.204:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.192.204:8080 📡 PING-001.53-MS
+vless://d075151b-cd84-48da-9b9c-15bbee9594eb@66.235.200.161:2052?security=none&type=ws&host=cdn4.iran-mehr14.ir&path=%2FsjCuAfPHc0391hggPTZrS#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.161:2052 📡 PING-001.53-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.192.187:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.192.187:8080 📡 PING-001.53-MS
 vless://a54fe1e0-d281-4f72-95ca-026dc5075743@162.159.138.232:2095?security=none&type=ws&host=free.jd-vpn.shop&path=/@jd_vpn,@jd_vpn,@jd_vpn#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:2095 📡 PING-001.53-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.196.133:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.196.133:8080 📡 PING-001.53-MS
@@ -994,7 +998,3 @@ vless://d480372f-6596-4177-ae85-28af07adf1cb@104.21.37.97:2053?security=tls&sni=
 vless://c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0@104.16.123.175:80?security=none&type=ws&host=Gio4GI.TahaRAT.App&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:80 📡 PING-001.42-MS
 vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.16.114.74:2095?security=none&sni=it1.vlessx.xyz&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.114.74:2095 📡 PING-001.42-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.43.215:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.43.215:8080 📡 PING-001.42-MS
-vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.197.82:443 📡 PING-001.42-MS
-vless://48dd6bad-ab68-434c-9418-ea09e2f60cf3@104.20.105.210:80?security=none&type=ws&host=fIltERgoZaRneT.ImanjAfAryI33.wOrKERs.dev&path=%2FcO1q-qHTweAcab--%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.105.210:80 📡 PING-001.42-MS
-vless://be9eda2d-cb3b-44ec-98a9-23c77b791bb2@103.184.44.124:2053?security=tls&sni=zedmodeon-zedmodeon-zedmodeon.zedmodeon-zedmodeon.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.124:2053 📡 PING-001.42-MS
-vless://dbe804b8-de3f-447a-a004-2667d3db071b@104.31.16.165:2082?security=none&type=ws&host=mehr_vpn_iran_mehr_vpn_iranmehr_vpn.iran-mehr14.ir&path=%2FMeW1NhSmoXNZ5DnDtIYiuDZo#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.165:2082 📡 PING-001.42-MS
