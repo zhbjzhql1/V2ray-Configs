@@ -1,3 +1,9 @@
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@147.185.161.9:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql#🔒 VL-WS-NONE 🇺🇸 US-147.185.161.9:80 📡 PING-001.25-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.186.125:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.186.125:8080 📡 PING-001.25-MS
+vless://8fe4f69e-1076-4b53-8d89-f4f7971ce898@63.141.128.240:443?security=tls&sni=dl1.popprime.shop&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-63.141.128.240:443 📡 PING-001.24-MS
+vless://7ca50c65-167a-47a9-9451-8ee0dc7d41e3@104.21.65.133:443?security=tls&sni=V2ray.SvnReallity.Online&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.65.133:443 📡 PING-001.24-MS
+vless://79c5240c-ae96-453f-b357-8487c1a5a4f9@172.67.157.200:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.157.200:8880 📡 PING-001.24-MS
+vless://496475c7-bb33-4515-8b45-d5fd1ae423bb@104.16.67.38:2096?security=tls&sni=p.amniat.monster&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.67.38:2096 📡 PING-001.24-MS
 vless://1ca7d3a9-6b3e-47ed-88a7-ccbd1ff927c6@188.114.96.11:80?security=none&type=ws&host=iNvesTiNg.SpamDeTectOr.worlD&path=%2Fbackup#🔒 VL-WS-NONE 🇳🇱 NL-188.114.96.11:80 📡 PING-001.24-MS
 vless://35ef9fb8-ceea-4d65-91f3-d443f614bf43@162.159.130.233:2083?security=tls&sni=cltkk.edlaghiye.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.233:2083 📡 PING-001.24-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.93.174:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.93.174:8080 📡 PING-001.24-MS
@@ -992,9 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.205.224:8080?security=none&t
 vless://2f48447c-837e-4791-8b94-06dbd6cbcb75@172.67.140.231:2087?security=tls&sni=sina.wuvcuv.WOrKErS.deV&type=ws&host=sina.wuvcuv.WOrKErS.deV&path=vless-ws%2F%3Fed%3D2048&fp=android&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.140.231:2087 📡 PING-001.09-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.71.178:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.71.178:8080 📡 PING-001.09-MS
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.122.175:2086?security=none&sni=de7.vlessx.us&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.122.175:2086 📡 PING-001.09-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.213.233:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.213.233:8080 📡 PING-001.09-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.220.80:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.220.80:8080 📡 PING-001.09-MS
-vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@104.21.14.60:8080?security=none&type=ws&host=cdn.melodyshopone2.ir&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.14.60:8080 📡 PING-001.09-MS
-vless://a5368290-9ce5-4fc4-9652-06221e6689fa@104.21.66.193:8880?type=ws&host=cdn1.yasinvps.sbs&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.66.193:8880 📡 PING-001.09-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.145.112:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.145.112:8080 📡 PING-001.09-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.71.248:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.71.248:8080 📡 PING-001.09-MS

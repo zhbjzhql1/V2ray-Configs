@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:7306 📡 PING-014.94-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJMElFbkNhVExsYUNJS0pPcGZZSmNS@68.183.196.168:31024#🔒 SS-TCP-NA 🇨🇦 CA-68.183.196.168:31024 📡 PING-014.36-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINmNTVGY4dkRiVkgxY3BuckF4Rmoy@18.218.239.120:36326#🔒 SS-TCP-NA 🇺🇸 US-18.218.239.120:36326 📡 PING-011.40-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsa0NHcDJOdEZzZUpTbTg0b0ZtcU9n@185.200.191.49:443#🔒 SS-TCP-NA 🇺🇸 US-185.200.191.49:443 📡 PING-007.85-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c1o2OUZObUFQb3NDQmlENk1VcnlC@45.8.146.32:50370#🔒 SS-TCP-NA 🇺🇸 US-45.8.146.32:50370 📡 PING-007.46-MS
+ss://Y2hhY2hhMjAtcG9seTEzMDU6aGdMQ2dmTFJnQjZk@205.134.180.145:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.145:443 📡 PING-002.55-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE=@205.134.180.137:443#🔒 SS-TCP-NA 🇺🇸 US-205.134.180.137:443 📡 PING-002.32-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozLS1WSUdQU0w3UnJHRTVLa0EtOVNn@5.161.219.169:5614#🔒 SS-TCP-NA 🇺🇸 US-5.161.219.169:5614 📡 PING-001.14-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@104.25.254.46:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.254.46:443 📡 PING-000.90-MS
@@ -992,9 +998,3 @@ vless://e3962d1c-f3ae-4e5f-8b87-0ba1bf3e82aa@146.56.37.60:20017?security=tls&sni
 vless://e8686af6-bd43-4d5e-9358-3940e3d9ab62@212.33.206.94:1231?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.94:1231 📡 PING-194.62-MS
 vless://2aeae98b-215d-4e51-9915-2efbe32b30ab@193.151.151.102:54400?security=none&type=tcp&host=uptvs.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.151.102:54400 📡 PING-194.70-MS
 vless://3090b10b-57ba-4d59-ba66-e0d5034f7159@212.33.206.144:16053?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.144:16053 📡 PING-194.72-MS
-vless://2016a358-a627-4929-ac07-243df0b1ccbd@84.47.233.52:8443?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.233.52:8443 📡 PING-195.39-MS
-vless://1cc913d3-fa5c-f2d6-d199-3793aa8d6837@62.60.211.181:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.211.181:443 📡 PING-195.48-MS
-vless://1890ba7d-881e-40a9-8439-e6f51106d03a@185.128.138.61:8880?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.128.138.61:8880 📡 PING-196.00-MS
-vless://79121e8c-a66a-490d-b94a-e5d25159777e@5.159.54.83:443?security=tls&sni=k6.maduss.site&type=ws&host=k6.maduss.site&path=%2F#🔒 VL-WS-TLS 🇮🇷 IR-5.159.54.83:443 📡 PING-196.20-MS
-vless://fac40051-e3f2-4348-9d16-42162c7b8bba@185.83.183.243:19320?security=none&type=tcp&host=www.speedtest.ner&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.183.243:19320 📡 PING-196.69-MS
-vless://46fc0c58-bed4-4c2f-bdc8-27290f475d15@94.182.128.108:2053?security=none&type=tcp&host=Fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.128.108:2053 📡 PING-196.86-MS
