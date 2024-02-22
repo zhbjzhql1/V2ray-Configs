@@ -1,7 +1,3 @@
-vless://04078719-979d-43f3-81b8-97533d1d97bd@172.67.157.203:2083?security=tls&sni=grpc-8508fd9a9911fa6de9104a49647c6324.mitowear.com&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.157.203:2083 📡 PING-001.58-MS
-vless://89b364ab-4492-4ab6-953e-b5a4d642a086@5.161.191.23:443?security=tls&sni=de.xujiang.link&type=ws&host=de.xujiang.link&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-5.161.191.23:443 📡 PING-001.58-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.213.15:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.213.15:8080 📡 PING-001.58-MS
-vless://04078719-979d-43f3-81b8-97533d1d97bd@104.21.8.177:2083?security=tls&sni=grpc-8508fd9a9911fa6de9104a49647c6324.mitowear.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.8.177:2083 📡 PING-001.58-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.168.105:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.168.105:8080 📡 PING-001.58-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.84.212:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.84.212:8080 📡 PING-001.58-MS
 vless://0773256c-d020-436d-afea-6eee7cb6c872@198.41.216.129:443?security=tls&sni=xray1.freegradely.xyz&type=ws&path=/bodhws#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.216.129:443 📡 PING-001.58-MS
@@ -998,3 +994,7 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.202.165:8080?security=none&t
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.16.217.241:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.217.241:80 📡 PING-001.45-MS
 vless://24a9a275-c893-42ce-a4b1-5d62f01e7810@104.21.24.144:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&path=/express?ed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.144:443 📡 PING-001.45-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.42.186:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.42.186:8080 📡 PING-001.45-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.110.197:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.110.197:8080 📡 PING-001.45-MS
+vless://e3962d1c-f3ae-4e5f-8b87-0ba1bf3e82aa@104.16.32.179:443?security=tls&sni=indosg.7t7t.me&type=grpc&serviceName=lonanSADASDanasa#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.32.179:443 📡 PING-001.45-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.195.84:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.195.84:8080 📡 PING-001.45-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.197.233:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.197.233:8080 📡 PING-001.45-MS
