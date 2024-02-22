@@ -1,4 +1,3 @@
-vless://ef3e5446-b3ec-4082-9fc8-a8634dc60b9c@104.24.176.248:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.176.248:8443 📡 PING-001.84-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.147.232:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.147.232:8080 📡 PING-001.84-MS
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@190.93.247.247:80?type=ws&host=68.%E5%8A%A8%E5%88%97%E5%91%98%E7%90%838.tech&path=/#🔒 VL-WS-NA 🇨🇷 CR-190.93.247.247:80 📡 PING-001.84-MS
 vless://05278c2c-b8f0-4d50-9025-90921337e81c@162.159.136.234:2052?security=none&type=ws&serviceName=@TLS_V2ray,@TLS_V2ray&host=hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh.Max-Man-Servers-site-mAn.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:2052 📡 PING-001.84-MS
@@ -998,3 +997,4 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.211.75:8080?security=none&ty
 vless://65d2c27d-0957-415d-b67a-b915cd857723@190.93.245.137:8880?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-190.93.245.137:8880 📡 PING-001.67-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.218.62:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.218.62:8080 📡 PING-001.67-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.144.141:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.144.141:8080 📡 PING-001.67-MS
+vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@104.17.88.212:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.88.212:2053 📡 PING-001.67-MS
