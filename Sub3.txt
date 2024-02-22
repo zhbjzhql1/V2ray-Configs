@@ -1,3 +1,6 @@
+vless://17a4e33b-9801-4026-b46f-57f0ec54ee4b@129.154.228.4:4436?security=tls&sni=iranzazadealer&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇮🇳 IN-129.154.228.4:4436 📡 PING-207.37-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.55.99.62:58916?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-38.55.99.62:58916 📡 PING-207.41-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.198.53.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-43.198.53.11:443 📡 PING-207.72-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.55.98.26:30190?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-38.55.98.26:30190 📡 PING-207.73-MS
 vless://5d432424-cf9c-48f3-bccb-118146ca34db@16.162.56.233:443?security=tls&sni=made-retention-ontario-tobago.trycloudflare.com&type=ws&host=made-retention-ontario-tobago.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-16.162.56.233:443 📡 PING-207.86-MS
 vless://5d432424-cf9c-48f3-bccb-118146ca34db@16.162.152.191:443?security=tls&sni=made-retention-ontario-tobago.trycloudflare.com&type=ws&host=made-retention-ontario-tobago.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇭🇰 HK-16.162.152.191:443 📡 PING-207.99-MS
@@ -995,6 +998,3 @@ vless://01713b8c-fd5a-4ace-ea4b-67552d7a4f3c@104.16.119.47:80?security=none&type
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.42.17:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.42.17:8080 📡 PING-001.70-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.47.161:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.47.161:8080 📡 PING-001.70-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.136.234:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.136.234:8080 📡 PING-001.70-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.147.175:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.147.175:8080 📡 PING-001.70-MS
-vless://7da383f5-e626-4f8a-8db9-00e736e9de26@172.67.137.167:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.dev&type=ws&fp=firefox#🔒 VL-WS-TLS 🇺🇸 US-172.67.137.167:2053 📡 PING-001.70-MS
-vless://89b364ab-4492-4ab6-953e-b5a4d642a086@5.161.140.6:443?security=tls&sni=de.xujiang.link&type=ws&host=de.xujiang.link&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-5.161.140.6:443 📡 PING-001.70-MS
