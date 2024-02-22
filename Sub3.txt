@@ -1,3 +1,7 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.20.182:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.20.182:8080 📡 PING-113.85-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.26.86:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.26.86:8080 📡 PING-113.89-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.20.24:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.20.24:8080 📡 PING-113.90-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.19.163:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.19.163:8080 📡 PING-113.95-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.29.189:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.29.189:8080 📡 PING-113.95-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.25.124:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.25.124:8080 📡 PING-113.95-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.21.108:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.21.108:8080 📡 PING-114.00-MS
@@ -994,7 +998,3 @@ vless://be9eda2d-cb3b-44ec-98a9-23c77b791bb2@45.135.235.9:2053?security=tls&sni=
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.72.79:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.72.79:8080 📡 PING-002.61-MS
 vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@172.66.213.38:2096?security=tls&sni=ITV2RAY.iRoV2ray.lol&type=grpc&serviceName=(@ITV2RAY:تلگرام)#🔒 VL-GRPC-TLS 🇺🇸 US-172.66.213.38:2096 📡 PING-002.61-MS
 vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@104.24.225.78:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.225.78:2053 📡 PING-002.61-MS
-vless://6da03597-fd5e-4ad3-b036-ae3c2b722b70@64.68.192.70:2087?security=tls&sni=ServerV2FreeBot.hossienhost.ir&type=ws&host=ServerV2FreeBot.hossienhost.ir&path=%2F%40ServerV2FreeBot%2C%40ServerV2FreeBot%2C%40ServerV2FreeBot%2C%40ServerV2FreeBot%40ServerV2FreeBot%2C%40ServerV2FreeBot&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-64.68.192.70:2087 📡 PING-002.61-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.211.152:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.211.152:8080 📡 PING-002.61-MS
-vless://5eedadd1-a6a9-4183-aa83-4cd5421d9265@172.67.207.18:443?security=tls&sni=Mnbjahgajhshajagsisgkenejev.mrv2ray.com&type=grpc&serviceName=%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02&fp=safari&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.18:443 📡 PING-002.61-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.138.151:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.138.151:8080 📡 PING-002.61-MS
