@@ -1,3 +1,6 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.92.213:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.92.213:8080 📡 PING-001.85-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.24.42.142:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.42.142:8080 📡 PING-001.85-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.173.14:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.173.14:8080 📡 PING-001.85-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.24.4.31:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.4.31:8080 📡 PING-001.85-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.113.247:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.113.247:8080 📡 PING-001.85-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.220.80:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.220.80:8080 📡 PING-001.85-MS
@@ -995,6 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.211.60:8080?security=none&ty
 vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.253.60:443 📡 PING-001.66-MS
 vless://24084f8f-5a13-4850-8775-b211925b3d67@104.18.202.232:2053?security=tls&sni=free.snailnetworktm.link&type=grpc&serviceName=cf.snailnetworktm.link&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2053 📡 PING-001.66-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.217.82:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.217.82:8080 📡 PING-001.66-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.73.254:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.73.254:8080 📡 PING-001.66-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.214.54:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.214.54:8080 📡 PING-001.66-MS
-vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@104.20.38.0:2087?security=tls&sni=mAh3.irAnWeB.ShOP&type=ws&host=mAh3.irAnWeB.ShOP&path=%2F%40mahsa_net+%40azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.38.0:2087 📡 PING-001.66-MS
