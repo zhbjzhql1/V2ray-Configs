@@ -1,5 +1,3 @@
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.220.229:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.220.229:8080 📡 PING-005.15-MS
-vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?type=ws&path=CHANNEL-%40ARCHIVE_ANDROID-%40ARCHIVE_ANDROIDTelegram-%40Archive_Android-Telegram-%40Archive_Android-Telegram-%40Archive_Android-Telegram-%40Archive_Android#🔒 VL-WS-NA 🇺🇸 US-172.67.132.41:2082 📡 PING-005.15-MS
 vless://35ef9fb8-ceea-4d65-91f3-d443f614bf43@162.159.130.233:2096?security=tls&sni=cltkk.edlaghiye.com&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.233:2096 📡 PING-005.15-MS
 vless://c9f3615c-2e5c-462c-a9cc-f772b3084a24@141.101.123.101:8080?security=none&type=ws&host=iran-mehr-vpn-iran-mehr-vpn-iran-mehr-vpn-iran-mehr-vpn.iran-mehr14.ir&path=%2FMeW1NhSmoXNZ5DnDtIYiuDZo#🔒 VL-WS-NONE 🏴‍☠️ NA-141.101.123.101:8080 📡 PING-005.15-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.154.243:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.154.243:8080 📡 PING-005.15-MS
@@ -998,3 +996,5 @@ vless://5563d1dc-3e84-4e4b-e569-ecfb96e8732a@104.21.74.214:80?security=none&type
 vless://dbe804b8-de3f-447a-a004-2667d3db071b@104.21.21.150:8880?security=none&type=ws&host=GjXxFs1yAlUN58F.iran-mehr14.ir&path=%2FMeW1NhSmoXNZ5DnDtIYiuDZo#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.150:8880 📡 PING-005.09-MS
 vless://e57583ea-b4c7-4dc0-a6a5-6fe91540b884@172.67.155.16:443?security=tls&sni=12tt.masternft1.shop&type=grpc&serviceName=12tt.masternft1.shop&fp=firefox&alpn=http/1.1,h2#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.155.16:443 📡 PING-005.09-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.78.190:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.78.190:8080 📡 PING-005.09-MS
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@45.80.108.208:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.108.208:443 📡 PING-005.09-MS
+vless://114b0b37-8867-4657-9567-a98aeab84486@104.24.32.188:8443?security=tls&sni=Melody.howareu.xyz&type=ws&host=melody.howareu.xyz&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.32.188:8443 📡 PING-005.09-MS
