@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.30.208:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.30.208:8080 📡 PING-092.17-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.27.73:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.27.73:8080 📡 PING-092.18-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.28.1:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.28.1:8080 📡 PING-092.18-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.19.92:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.19.92:8080 📡 PING-092.19-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.17.130:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.17.130:8080 📡 PING-092.19-MS
@@ -996,5 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.124.59:8080?security=none&ty
 vless://b8bc34b3-cfd4-4a68-954d-67a8e38b6d49@104.23.108.78:8880?security=none&type=ws&host=UnlimitedDev.xn--oor01rm8hfr4c.site&path=%2FTelegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.108.78:8880 📡 PING-001.73-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.142.222:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.142.222:8080 📡 PING-001.73-MS
 vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@188.114.99.29:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.99.29:2053 📡 PING-001.73-MS
-vless://15859f1e-615c-4a6f-9495-1a0ed1cfe55e@188.114.98.224:2053?security=tls&sni=hi-hii.v2raxx.shop&type=grpc&serviceName=@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX@V2RAXX&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.98.224:2053 📡 PING-001.73-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.53.23:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.53.23:8080 📡 PING-001.73-MS
