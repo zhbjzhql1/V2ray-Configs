@@ -1,3 +1,7 @@
+vless://345fea56-471b-4957-8acd-f7c3bef3f769@104.18.53.98:80?security=none&type=ws&host=JBCK6o.mICrosOFts.downLOaD&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.53.98:80 📡 PING-001.47-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.211.211:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.211.211:8080 📡 PING-001.47-MS
+vless://439e2f9e-079e-4369-a712-22b942afeadd@172.67.153.28:443?security=tls&sni=download.seyfilm.ir&type=ws&path=%2F&fp=safari#🔒 VL-WS-TLS 🇺🇸 US-172.67.153.28:443 📡 PING-001.47-MS
+vless://977e01f8-0f3f-476c-b61c-c2063e4310be@104.21.85.241:443?security=tls&sni=cdn2.irfile.shop&type=ws&host=cdn2.irfile.shop&path=%2Ffiles&fp=safari&allowInsecure=false#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.241:443 📡 PING-001.47-MS
 vless://63070632-dbe2-4fd2-825b-eafc1c3fe625@104.16.123.175:8443?security=tls&sni=fr.marzfox.fun&type=ws&host=fr.marzfox.fun&path=%2FFOX_VPN66&fp=firefox&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.123.175:8443 📡 PING-001.47-MS
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@190.93.244.0:8080?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-190.93.244.0:8080 📡 PING-001.47-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.193.131:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.193.131:8080 📡 PING-001.47-MS
@@ -994,7 +998,3 @@ vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@45.205.0.3:443?security=tls&sni=Hkn
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.118.250:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.118.250:8080 📡 PING-001.38-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.68.8:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.68.8:8080 📡 PING-001.38-MS
 vless://d451c444-48b6-44cd-b53f-5cf8e1932948@104.16.23.4:443?security=tls&sni=salad-usr-aging-theories.trycloudflare.com&type=ws&host=salad-usr-aging-theories.trycloudflare.com&path=Telegram+%40daily_configs+%7C+Telegram+%40daily_configs+%7C+Telegram+%40daily_configs+%7C+Telegram+%40daily_configs+%7CTelegram+%40daily_configs+%7C+Telegram+%40daily_configs+%7C#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.23.4:443 📡 PING-001.38-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.131.82:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.131.82:8080 📡 PING-001.38-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.93.202:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.93.202:8080 📡 PING-001.38-MS
-vless://98d50790-31ec-47d5-b2ed-493fd21accc6@173.245.58.31:2082?security=none&type=ws&host=p1.abrarvan.xyz&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-173.245.58.31:2082 📡 PING-001.38-MS
-vless://16e3cc71-c99f-4ab5-bff3-6247ca6cbd80@104.18.200.200:2096?security=tls&sni=f3.maryam1900.com&type=grpc&fp=firefox&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.200.200:2096 📡 PING-001.38-MS
