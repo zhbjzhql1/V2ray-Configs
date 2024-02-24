@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.203.24:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.203.24:8080 📡 PING-002.37-MS
+vless://8f89cd04-dd21-4af5-b671-6b0bcc0dca47@172.67.183.54:443?security=tls&sni=khamenei.khan-milanvictory1278.site&type=ws&path=%40liq_vpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.183.54:443 📡 PING-002.37-MS
 vless://095569da-572d-4538-893d-9f554b51acfa@104.17.231.69:443?security=tls&sni=m236.marivan.buzz&type=ws&host=m236.marivan.buzz&path=%2Fv6145481573#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.231.69:443 📡 PING-002.37-MS
 vless://095569da-572d-4538-893d-9f554b51acfa@104.20.62.55:443?security=tls&sni=m236.marivan.buzz&type=ws&host=m236.marivan.buzz&path=%2Fv6145481573#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.62.55:443 📡 PING-002.37-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.71.30:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.71.30:8080 📡 PING-002.37-MS
@@ -996,5 +998,3 @@ vless://5a448450-5ea8-4db7-86f3-a6dfa306b61f@185.146.173.20:80?security=none&typ
 vless://01cd3584-e311-4acb-c04c-d706f53486f1@162.159.152.4:443?security=tls&sni=sdfsdtryh.bestmoonlive.com&type=ws&host=sdfsdtryh.bestmoonlive.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.4:443 📡 PING-002.08-MS
 vless://d0ac902d-5c99-4be3-8e7b-8d199e5639d1@104.21.94.85:2096?security=tls&sni=us14.vlessx.us&type=ws&path=%2F%3Fed%3D2048%20%40hopev2ray#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.85:2096 📡 PING-002.08-MS
 vless://7f55b425-a623-439b-bbd5-0b1778162054@104.26.14.148:443?security=tls&sni=new1V2rayGod.azaronline.org&type=ws&host=new1V2rayGod.azaronline.org&path=%2F%40V2ray_God+%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.148:443 📡 PING-002.08-MS
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.248.206:8443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai_8+%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.248.206:8443 📡 PING-002.08-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@194.152.44.125:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-194.152.44.125:8080 📡 PING-002.08-MS

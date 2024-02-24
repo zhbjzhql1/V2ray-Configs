@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.22.178:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.22.178:8080 📡 PING-112.13-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.16.44:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.16.44:8080 📡 PING-112.13-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.25.66:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.25.66:8080 📡 PING-112.13-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.26.114:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.26.114:8080 📡 PING-112.14-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.26.103:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.26.103:8080 📡 PING-112.14-MS
@@ -996,5 +998,3 @@ vless://90cd4a77-141a-43c9-991b-08263cfe9c10@162.159.135.79:2053?security=tls&sn
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.196.77:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.196.77:8080 📡 PING-002.60-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.130.212:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.130.212:8080 📡 PING-002.60-MS
 vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@104.17.42.10:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.42.10:2053 📡 PING-002.60-MS
-vless://df8a036b-12d2-4c23-ae66-e2f0335ba816@172.66.40.225:2096?security=tls&sni=attachment-nd-effectively-easier.trycloudflare.com&type=ws&host=attachment-nd-effectively-easier.trycloudflare.com&path=V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN-V2NET_IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.40.225:2096 📡 PING-002.60-MS
-vless://6eab8941-b67d-4d27-bb55-d707d79727c3@188.114.99.213:2096?security=tls&sni=yekta.persiancalendar.monster&type=ws&host=calendar.persiancalendar.monster&path=%2Fw2&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.99.213:2096 📡 PING-002.60-MS
