@@ -1,7 +1,3 @@
-vless://95878aa5-a695-4b88-b502-55c05c998cf2@188.114.96.211:443?security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#🔒 VL-WS-TLS 🇳🇱 NL-188.114.96.211:443 📡 PING-001.77-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.46.254:2087?security=tls&sni=zsf-5fa.pages.dev&type=ws&host=zsf-5fa.pages.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.66.46.254:2087 📡 PING-001.77-MS
-vless://f5a23562-b67e-48fb-b474-09251bc1a339@104.21.46.172:2096?security=tls&sni=fv2ray.freedomfv2ray.lol&type=grpc&serviceName=@Fv2ray@Fv2ray@fv2ray@fv2ray@Fv2ray#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.172:2096 📡 PING-001.77-MS
-vless://c3338dcd-369a-4254-9a55-a96015a90dc6@104.21.31.112:443?security=tls&sni=39cb7e91b7e02850.hcvjfhbnghfgafxgyghfh.space&type=grpc&serviceName=443vless#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.31.112:443 📡 PING-001.77-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.192.197:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.192.197:8080 📡 PING-001.77-MS
 vless://c4e46f2c-5fa4-4bf2-b8d4-69bb1544cee0@104.16.126.175:80?security=none&type=ws&host=Gio4GI.TahaRAT.App&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.126.175:80 📡 PING-001.77-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.176.215:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.176.215:8080 📡 PING-001.77-MS
@@ -998,3 +994,7 @@ vless://b404b4e8-9164-4c7e-acbd-ea8ec0aee464@104.21.52.201:2087?security=tls&sni
 vless://f5421bc0-4dd8-4413-8764-cd2a62890236@198.41.202.5:2053?security=tls&sni=boon.joinbede.sbs&type=ws&host=boon.joinbede.sbs&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:2053 📡 PING-001.60-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@31.22.116.253:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇬🇧 GB-31.22.116.253:8080 📡 PING-001.60-MS
 vless://8f89cd04-dd21-4af5-b671-6b0bcc0dca47@104.21.51.175:443?security=tls&sni=liq7pn.khan-milanvictory1278.site&type=ws&path=%40liq_vpn&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.175:443 📡 PING-001.60-MS
+vless://029a55d9-3321-439f-bf54-629f23bf63d4@62.72.166.23:2053?security=tls&sni=manage.luncher.lol&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-62.72.166.23:2053 📡 PING-001.60-MS
+vless://2c524ab5-289d-41b0-8de9-272d30e1c7c0@104.21.19.158:443?security=tls&sni=parsconfig5.keepjackson3.workers.dev&type=ws&host=parsconfig5.keepjackson3.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.158:443 📡 PING-001.60-MS
+vless://f786be07-5d21-4413-ad2a-815c6f7857eb@172.67.213.252:8080?security=none&type=ws&path=%2F%40Esivp%40Esivp%40Esivp%40Esivp%40Esivp%40Esivp#🔒 VL-WS-NONE 🇺🇸 US-172.67.213.252:8080 📡 PING-001.60-MS
+vless://dbe804b8-de3f-447a-a004-2667d3db071b@104.21.21.150:8880?security=none&type=ws&host=GjXxFs1yAlUN58F.iran-mehr14.ir&path=%2FMeW1NhSmoXNZ5DnDtIYiuDZo#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.21.150:8880 📡 PING-001.60-MS
