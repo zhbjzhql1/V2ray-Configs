@@ -1,4 +1,3 @@
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.29.233:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.29.233:8080 📡 PING-095.78-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.23.27:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.23.27:8080 📡 PING-095.79-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.18.245:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.18.245:8080 📡 PING-095.79-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.28.60:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.28.60:8080 📡 PING-095.79-MS
@@ -998,3 +997,4 @@ vless://0ccc6822-906b-4fa8-9b7d-cdce9d99c406@167.68.5.167:2053?security=tls&sni=
 vless://92507238-d3fd-408b-bedb-fe9b21f728e9@162.159.136.234:8880?security=none&type=ws&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:8880 📡 PING-005.52-MS
 vless://e3962d1c-f3ae-4e5f-8b87-0ba1bf3e82aa@104.20.50.36:2087?security=tls&sni=hyhk1231f.133487.tech&type=grpc&serviceName=lonanSADASDanasa#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.50.36:2087 📡 PING-005.52-MS
 vless://5bb7f316-a0d0-4aa5-b66c-ae996851107d@104.21.6.146:443?security=tls&sni=nurgem.mrnobudi.fun&type=ws&path=%2FPayam&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.6.146:443 📡 PING-005.52-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.12.34:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.12.34:8080 📡 PING-005.52-MS
