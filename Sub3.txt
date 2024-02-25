@@ -1,3 +1,8 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.25.106:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.25.106:8080 📡 PING-161.48-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.23.225:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.23.225:8080 📡 PING-161.49-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.31.93:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.31.93:8080 📡 PING-161.49-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.30.85:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.30.85:8080 📡 PING-161.49-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.31.12:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.31.12:8080 📡 PING-161.53-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.23.144:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.23.144:8080 📡 PING-161.53-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.17.83:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.17.83:8080 📡 PING-161.54-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.22.138:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.22.138:8080 📡 PING-161.54-MS
@@ -993,8 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.142.222:8080?security=none&t
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.99.76:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.99.76:8080 📡 PING-002.07-MS
 vless://05be9e08-d0db-4f3b-bdc9-8c0d129a17d5@172.67.215.146:2083?security=tls&sni=cdn-fi.jetvpn.baby&type=grpc&serviceName=2083vless&fp=safari#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.215.146:2083 📡 PING-002.07-MS
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@104.21.80.134:443?security=tls&sni=w2.sylarsun.eu.org&type=ws&host=w2.sylarsun.eu.org&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.134:443 📡 PING-002.07-MS
-vless://6ef171a5-544c-48d3-d68e-c2917d37f3ff@172.67.128.29:443?security=tls&sni=digedonyavasemantarike.jooje-fesgheli.lol&type=grpc&serviceName=6ef171a5-544c-48d3-d68e-c2917d37f3ff&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.128.29:443 📡 PING-002.07-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.80.203:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.80.203:8080 📡 PING-002.07-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.24.79.142:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.79.142:8080 📡 PING-002.07-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.199.217:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.199.217:8080 📡 PING-002.07-MS
-vless://fa12484b-0a92-4019-8b89-a877b2478834@162.159.134.234:2096?security=tls&sni=0yausj0.0mobile00iran0.sbs&type=ws&host=0yausj0.0mobile00iran0.sbs&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.234:2096 📡 PING-002.07-MS
