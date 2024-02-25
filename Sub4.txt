@@ -1,3 +1,6 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.27.195.178:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.195.178:8080 📡 PING-002.68-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.206.249:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.206.249:8080 📡 PING-002.68-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.118.159:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.118.159:8080 📡 PING-002.68-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.177.241:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.177.241:8080 📡 PING-002.68-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.84.79:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.84.79:8080 📡 PING-002.68-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.209.177:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.209.177:8080 📡 PING-002.68-MS
@@ -995,6 +998,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@23.227.60.7:2083?security=tls&sni=z
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.19.251.69:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.251.69:2087 📡 PING-002.39-MS
 vless://a18c8970-3a55-4d4a-af8c-6af687915bcb@23.227.60.186:80?security=none&type=ws&host=direct95-217-14-47.digital-ping.ir&path=%2F#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.186:80 📡 PING-002.39-MS
 vless://813be70d-6524-4a1e-a0a7-cbd8b5f16fbe@190.93.244.103:8080?security=none&type=ws&host=shhproxy.xn--85-pv2cl2k5x3fipr.org&path=%2F?CHANNEL:@vpnwedbazTelegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz-Telegram:@vpnwedbaz#🔒 VL-WS-NONE 🇺🇸 US-190.93.244.103:8080 📡 PING-002.39-MS
-vless://0ea35600-f4af-4dd1-a8b6-bb9de90a7105@104.24.176.7:80?security=none&type=ws&host=allgeus.cheetahmh45.shop&path=%2FNIM_VPN_ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.176.7:80 📡 PING-002.39-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.172.110:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.172.110:8080 📡 PING-002.39-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.24.58.213:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.58.213:8080 📡 PING-002.39-MS
