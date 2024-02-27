@@ -1,3 +1,5 @@
+vless://988c4727-8d73-4df0-bc8e-fe06c986ef33@104.18.190.195:443?security=tls&sni=bia-kanal-falcunargo.rowoja8404.workers.dev&type=ws&host=bia-kanal-falcunargo.rowoja8404.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.190.195:443 📡 PING-002.46-MS
+vless://f7d2e53e-0728-49b0-89f7-ad730ee0cc49@104.21.20.26:443?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.26:443 📡 PING-002.46-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.24.13.30:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.13.30:8080 📡 PING-002.46-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.109.93:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.109.93:8080 📡 PING-002.46-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.97.164:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.97.164:8080 📡 PING-002.46-MS
@@ -996,5 +998,3 @@ vless://e0e31182-c51d-4a66-b2be-7d64bf49325d@172.67.204.118:443?security=tls&sni
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.133.165:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.133.165:2083 📡 PING-002.19-MS
 vless://6875a150-c0b1-48a0-b39d-e5a797e9861a@45.205.0.40:443?security=tls&sni=Hknbj.farzin.lol&type=grpc&fp=safari#🔒 VL-GRPC-TLS 🇺🇸 US-45.205.0.40:443 📡 PING-002.19-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.215.12:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.215.12:8080 📡 PING-002.19-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.132.22:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.132.22:8080 📡 PING-002.19-MS
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@193.9.49.142:443?security=tls&sni=vr4RlSu.kallepache.store&type=ws&host=vr4RlSu.kallepache.store&path=/graphql#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.142:443 📡 PING-002.19-MS
