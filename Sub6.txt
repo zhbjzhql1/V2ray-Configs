@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.132.22:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.132.22:8080 📡 PING-002.18-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.5.36:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.5.36:8080 📡 PING-002.18-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.207.172:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.207.172:8080 📡 PING-002.18-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.147.13:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.147.13:8080 📡 PING-002.18-MS
 vless://db0cd79e-5a22-4ce2-b784-03f8c9325cc4@172.67.213.13:2052?security=none&type=ws&host=mijml3.hamedigold.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.213.13:2052 📡 PING-002.18-MS
@@ -996,5 +998,3 @@ vless://1113a576-d328-447a-99a7-6fe72aac9596@104.21.67.2:443?security=tls&sni=HT
 vless://a4ce4ff7-327c-41a0-b2ff-a3c52da63f02@172.67.192.128:443?security=tls&sni=Photostar.shahabservices.com&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.192.128:443 📡 PING-001.90-MS
 vless://df9b2dda-98c7-4b95-acd6-047274297e7f@104.20.27.27:2083?security=tls&sni=liV2helm.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.27.27:2083 📡 PING-001.90-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.23.134.230:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.134.230:8080 📡 PING-001.90-MS
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.108:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.170.108:443 📡 PING-001.90-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@45.95.241.127:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇳🇱 NL-45.95.241.127:8080 📡 PING-001.90-MS

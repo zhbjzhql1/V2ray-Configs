@@ -1,3 +1,5 @@
+vless://bc746990-d2e5-4259-9129-92a85139a4d3@104.26.4.82:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.4.82:2087 📡 PING-001.55-MS
+vless://3ef59275-b57c-4ae9-a4e7-e2c03ad2bfa6@103.184.44.80:443?security=tls&sni=qpV2ray.rabinhood.net&type=grpc&serviceName=%40afv2ray,%40afv2ray,%40afv2ray,%40afv2ray,%40afv2ray,%40afv2ray,%40afV2ray,%40AfV2ray,%40Afv2ray,%40afv2ray,%40afv2ray,%40afv2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.80:443 📡 PING-001.55-MS
 vless://885a79e2-7878-4c07-bc02-e8e33956e380@172.67.229.247:2087?security=tls&sni=pol.zerozoro.cfd&type=ws&host=pol.zerozoro.cfd&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.229.247:2087 📡 PING-001.55-MS
 vless://e03be1d4-bd9a-45dd-a6cd-4ada8e9be94a@172.66.47.98:2053?security=tls&sni=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&type=ws&host=defcjkodfvgerjifkvsdfcedfcdv78d5f4jijijjh785696.bale.bio&path=%2Fbackup&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.98:2053 📡 PING-001.55-MS
 vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@104.18.10.128:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.10.128:2053 📡 PING-001.55-MS
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.49.5.114:989#%F0%9F%87%AA%F0%9
 vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMjI5LjM4IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiY2E2LnRlaG1lMTAwLmZ1biIsCiAgICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLAogICAgInBvcnQiOiAyMDg2LAogICAgInBzIjogIvCfj4FSRUxBWS0xNzIuNjcuMjI5LjM4LTM2NDkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-7571
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-8309
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-10800
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-8310
