@@ -1,3 +1,5 @@
+vless://b7337403-2e3c-43e6-b200-dd593d854f47@190.93.247.247:8443?security=tls&sni=grgg4569.v2logy.ir&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.247.247:8443 📡 PING-001.36-MS
+vless://f7b3dd04-ffbe-44ac-a968-cb0f4048eb9b@104.16.107.96:80?type=ws&host=4s.atomvip.top&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.107.96:80 📡 PING-001.36-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.202.78:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.202.78:8080 📡 PING-001.36-MS
 vless://6eab8941-b67d-4d27-bb55-d707d79727c3@188.114.99.213:2096?security=tls&sni=yekta.persiancalendar.monster&type=ws&host=calendar.persiancalendar.monster&path=%2Fw2&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.99.213:2096 📡 PING-001.36-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.19.251.54:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.251.54:2083 📡 PING-001.36-MS
@@ -996,5 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.41.136:8080?security=none&ty
 vless://7ca50c65-167a-47a9-9451-8ee0dc7d41e3@172.67.163.123:443?security=tls&sni=V2ray.SvnReallity.Online&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.163.123:443 📡 PING-001.29-MS
 vless://68332350-638f-43bc-e2d5-37451f81fd69@172.67.174.98:2087?security=tls&sni=2a04fc01h7t2ub4BB.i-v2rayng.cam&type=grpc&serviceName=@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray,@thunderv2ray&fp=random&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.174.98:2087 📡 PING-001.29-MS
 vless://aee7d20d-a52c-49a1-ac67-c66f15dec616@172.67.186.42:2083?security=tls&sni=jerard.mah-xray.cloud&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.186.42:2083 📡 PING-001.29-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.93.28:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.93.28:8080 📡 PING-001.29-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.194.198:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.194.198:8080 📡 PING-001.29-MS
