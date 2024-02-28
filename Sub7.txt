@@ -1,3 +1,5 @@
+vless://095569da-572d-4538-893d-9f554b51acfa@188.114.97.113:443?security=tls&sni=m236.marivan.buzz&type=ws&host=m236.marivan.buzz&path=%2Fv6145481573#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.113:443 📡 PING-001.46-MS
+vless://bf12f7c5-1c88-4f4c-b192-8ec933a4c06d@172.67.197.162:443?security=tls&sni=poyxhnx.v2pedia.xyz&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.197.162:443 📡 PING-001.46-MS
 vless://276b756f-2c4d-41f8-be53-80577c33f98a@104.31.16.65:2052?security=none&sni=s.s.turk-fun.fun&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.65:2052 📡 PING-001.46-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.135.111:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.135.111:8080 📡 PING-001.46-MS
 vless://c6ec3554-1557-4f50-aae3-09af5315d5ab@104.17.59.72:8080?security=none&type=ws&host=cdn-b100xn--b6gaceuorg.gk8k8s95.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.59.72:8080 📡 PING-001.46-MS
@@ -996,5 +998,3 @@ vless://77e86f3a-19e4-4177-ae72-66002f6ad6c0@104.21.15.230:2052?security=none&ty
 vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@104.16.32.142:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.32.142:2053 📡 PING-001.40-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.243.139:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.243.139:2083 📡 PING-001.40-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.171.224:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.171.224:8080 📡 PING-001.40-MS
-vless://f24904b6-c6fe-4379-8fd1-b97ee2139f86@104.22.32.78:2083?security=tls&sni=parspack.allhub.ltd&type=ws&host=de-05.allhub.ltd&path=/cdn&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.32.78:2083 📡 PING-001.40-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.113.154:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.113.154:8080 📡 PING-001.40-MS

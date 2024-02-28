@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.29.189:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.29.189:8080 📡 PING-159.42-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.26.245:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.26.245:8080 📡 PING-159.46-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.26.84:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.26.84:8080 📡 PING-159.48-MS
 vless://7597abe1-1d51-48ae-a52f-b4b613c2db90@51.75.77.237:443?security=tls&sni=de-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇩🇪 DE-51.75.77.237:443 📡 PING-159.50-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.24.241:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.24.241:8080 📡 PING-159.50-MS
@@ -996,5 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.16.128:8080?security=none&ty
 vless://b00b62d3-80a2-40f4-92f2-f93f6cbbc96e@104.21.64.117:8080?security=none&type=ws&host=DE.AWLONE.EU.ORG&path=%2F%40x2rayn_vpnCDN%3Fed%3D2090#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.64.117:8080 📡 PING-002.03-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.212.156:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.212.156:8080 📡 PING-002.03-MS
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@172.67.169.247:443?security=tls&sni=edgu.pureboy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.67.169.247:443 📡 PING-002.03-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@45.12.30.11:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.11:8080 📡 PING-002.03-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.182.92:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.182.92:8080 📡 PING-002.03-MS
