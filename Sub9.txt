@@ -1,3 +1,8 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.23.128.232:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.128.232:8080 📡 PING-001.57-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.23.143.113:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.143.113:8080 📡 PING-001.57-MS
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.66.44.53:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.53:2083 📡 PING-001.57-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.193.19:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.193.19:8080 📡 PING-001.57-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.67.215.70:2087?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🇷🇺 RU-45.67.215.70:2087 📡 PING-001.57-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.44.173:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.44.173:8080 📡 PING-001.57-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.28.91:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.28.91:8080 📡 PING-001.57-MS
 vless://8951821b-5360-49c6-a8f0-7d3b1444b583@104.21.69.32:443?security=tls&sni=vpnkingmeetzoom.dumiya.online&type=ws&host=vpnkingmeetzoom.dumiya.online&path=%2FVPNKING#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.32:443 📡 PING-001.57-MS
@@ -993,8 +998,3 @@ vless://3cd53df6-4a3f-4440-bfcf-818abd79cebf@154.197.75.98:80?Telegram=@V2RayTz,
 vless://e949e611-06bf-4d33-9e7a-db0413ecfa7e@104.18.202.232:80?Telegram=@V2RayTz,@V2RayTz&path=%2F&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws&alpn=@V2RayTz,@V2RayTz#%5B%E2%9D%97%EF%B8%8F%5D+%E2%9E%A0+%40V2RayTz+-+IR-MCI+%2C+MKH+%7C+25099
 vless://e949e611-06bf-4d33-9e7a-db0413ecfa7e@www.speedtest.net:80?path=%2F&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@190.93.247.155:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#[🇨🇷]t.me/ConfigsHub
-vless://ecdb7e4a-659c-400e-acd2-0f1e557a34d2@Netherland.irancloud.fun:893?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.110.215:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%281%29

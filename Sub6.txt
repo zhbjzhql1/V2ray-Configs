@@ -1,3 +1,8 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.1.91:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.1.91:8080 📡 PING-002.17-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.31.10:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.31.10:8080 📡 PING-002.17-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.143.42:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.143.42:8080 📡 PING-002.17-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.174.45:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.174.45:8080 📡 PING-002.17-MS
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@31.12.75.2:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql#🔒 VL-WS-NONE 🇷🇺 RU-31.12.75.2:80 📡 PING-002.17-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.10.69:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.10.69:8080 📡 PING-002.17-MS
 vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@104.19.244.250:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.244.250:2053 📡 PING-002.16-MS
 vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@172.66.44.82:443?security=tls&sni=edtunnel-b6t.pages.dev&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.82:443 📡 PING-002.16-MS
@@ -993,8 +998,3 @@ vless://6058a524-ec89-4707-a3f5-e0ffff76e609@104.21.32.163:80?security=none&type
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.188.129:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.188.129:8080 📡 PING-001.89-MS
 vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@172.67.174.120:80?security=none&type=ws&host=public.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B785.shop&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.174.120:80 📡 PING-001.89-MS
 vless://9326c0ee-8393-4bf6-bcff-2bd5462652bd@104.16.123.175:443?security=tls&sni=confignginxV2rayng.vpncustomize.Website&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.123.175:443 📡 PING-001.89-MS
-vless://7ca50c65-167a-47a9-9451-8ee0dc7d41e3@172.67.163.123:443?security=tls&sni=V2ray.SvnReallity.Online&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.163.123:443 📡 PING-001.89-MS
-vless://0bdb1407-0554-4834-97cd-ba3487af59b5@69.84.182.12:2095?security=none&type=ws&host=hi-sis.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.tech&path=%40ZEDMODEON-ZEDMODEON-JOINZEDMODEON-%40ZEDMODEON#🔒 VL-WS-NONE 🇺🇸 US-69.84.182.12:2095 📡 PING-001.89-MS
-vless://31470020-c0cd-469e-96bb-94f964acd5e5@172.67.217.196:443?security=tls&sni=rocket.hdtop.workers.dev&type=ws&host=rocket.hdtop.workers.dev&path=/mTozvrXgHdhZRBWFLJdJs1T&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.217.196:443 📡 PING-001.89-MS
-vless://4cc278b5-74b7-5d49-8f78-a412058cdbc3@104.16.30.14:443?security=tls&sni=satoshi.mom&type=ws&host=public.satoshi.mom&path=Telegram%40SINABIGO%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.30.14:443 📡 PING-001.89-MS
-vless://737c4d12-68f8-460e-b14b-b81cd9530eed@162.159.1.94:2096?security=tls&sni=2TelegramTMV2RAY.webv2ray.shop&type=ws&host=2TelegramTMV2RAY.webv2ray.shop&path=%2F%40Tmv2ray&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.1.94:2096 📡 PING-001.89-MS
