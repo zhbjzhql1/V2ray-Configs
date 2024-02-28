@@ -1,3 +1,13 @@
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%288%29
+
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%289%29
+
+404: Not Found
+vmess://ewogICAgImFkZCI6ICJobXMxODIuZ2x3ZWlkZi5zYnMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJnbHdlaWRmLnNicyIsCiAgICAiaWQiOiAiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjE1LjIxMi0xNjgyIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxR2ptSThXUWxGMHRmaERia0xxR2RO@passconf.xyz:8080#%F0%9F%87%BA%F0%9F%87%B8US-172.233.214.104-1003
+vmess://ewogICAgImFkZCI6ICIxNzIuNjQuMTk4LjE3NSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIm5ld2NhMS54bi0tbWVzNTNkZHlzdTBvM2dsLnRvcCIsCiAgICAiaWQiOiAiMWNmYWFkMTYtZDJiYS00YzQ5LWFmMDctZDdiOWYxMWY0M2QwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3huLS1tZXM1M2RkeXN1MG8zZ2wiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTcyLjY0LjE5OC4xNzUtMjM0MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.38.163:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.163-0488
 vmess://ewogICAgImFkZCI6ICIxMDguMTY1LjExMy45OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZWYyMmZhZDMtNjUyYS00OGZjLWU4MGEtNDZmYWEzYTZhNzg3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTEwOC4xNjUuMTEzLjk5LTA3MTkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://xxoo@us.blazeppn.info:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-138.197.5.103-1012
 trojan://telegram-id-directvpn@44.208.123.112:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%BA%F0%9F%87%B8US-44.208.123.112-0258
