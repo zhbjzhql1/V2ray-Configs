@@ -1,3 +1,4 @@
+vless://0f5af9f8-593b-4ecd-e523-a46f1e77a45d@104.24.207.237:443?security=tls&sni=woman.baba.pics&type=ws&host=woman.baba.pics&path=%2F%40MikasaVPN%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.207.237:443 📡 PING-000.84-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.151.182:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.151.182:8080 📡 PING-000.84-MS
 vless://c91c1c0a-62b2-449b-f187-81f4e8415125@104.24.185.137:2083?security=tls&sni=chykz.ykzchconect.top&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.185.137:2083 📡 PING-000.84-MS
 vless://d9ff0d0c-2e37-42b4-93ce-e3c13f9fea74@190.93.244.74:2087?security=tls&sni=tel.celebriteshop.ir&type=grpc&serviceName=%40celebriteshop+%2C+%40celebriteshop+%2C+%40celebriteshop+%2C+%40celebriteshop&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-190.93.244.74:2087 📡 PING-000.84-MS
@@ -997,4 +998,3 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.75.220:443?security=tls&sni=
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.189.133:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.189.133:8080 📡 PING-000.74-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.23.142.103:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.142.103:8080 📡 PING-000.74-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.152.31:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.152.31:8080 📡 PING-000.74-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.189.170:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.189.170:8080 📡 PING-000.74-MS
