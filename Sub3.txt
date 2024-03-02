@@ -1,3 +1,4 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.92.118.100:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🇺🇸 US-164.92.118.100:443 📡 PING-059.57-MS
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@154.17.25.205:49996?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&host=toujiediansigema.5112233.xyz&path=TG@juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇺🇸 US-154.17.25.205:49996 📡 PING-062.63-MS
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@154.21.80.28:57432?security=tls&sni=juzibaipiao.1919810.com&type=ws&host=juzibaipiao.1919810.com&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇺🇸 US-154.21.80.28:57432 📡 PING-062.98-MS
 vless://38e5e01a-b277-4ac2-ae65-00999b91ed0c@65.75.193.107:443?security=tls&sni=de.xujiang.link&type=ws&host=de.xujiang.link&path=%2Fargox-vl%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-65.75.193.107:443 📡 PING-063.39-MS
@@ -997,4 +998,3 @@ vless://13e22efe-0a8d-4bf1-8263-d66294032737@104.21.20.99:443?security=tls&sni=s
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.16.30.14:80?type=ws&host=41.%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%93%AD%E4%BA%861.tech&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.30.14:80 📡 PING-005.65-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.72.31:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.72.31:8080 📡 PING-005.65-MS
 vless://095569da-572d-4538-893d-9f554b51acfa@162.159.62.69:443?security=tls&sni=m236.marivan.buzz&type=ws&host=m236.marivan.buzz&path=%2Fv6145481573#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.62.69:443 📡 PING-005.65-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.196.160:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.196.160:8080 📡 PING-005.65-MS
