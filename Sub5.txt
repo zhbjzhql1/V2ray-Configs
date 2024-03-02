@@ -1,3 +1,5 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.214.228:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.214.228:8080 📡 PING-009.22-MS
+vless://2c524ab5-289d-41b0-8de9-272d30e1c7c0@104.21.19.158:443?security=tls&sni=parsconfig5.keepjackson3.workers.dev&type=ws&host=parsconfig5.keepjackson3.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.158:443 📡 PING-009.22-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.83.226:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.83.226:8080 📡 PING-009.22-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.193.18:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.193.18:8080 📡 PING-009.22-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@185.18.250.1:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.1:8080 📡 PING-009.22-MS
@@ -996,5 +998,3 @@ vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@108.165.216.66:80?security=none&typ
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.148.79:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.148.79:8080 📡 PING-008.86-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.2.9:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=fuck0yes%21#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.2.9:443 📡 PING-008.86-MS
 vless://1fcea3c5-d53c-4184-910b-9e38378ff14b@162.159.192.63:443?security=tls&sni=nsijdbd.rogstrx.xyz&type=ws&host=ksisbhdhdnd.rogstrx.xyz&path=%2F1fcea3c5-d53c-4184-910b-9e38378ff14b&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.63:443 📡 PING-008.86-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.212.242:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.212.242:8080 📡 PING-008.86-MS
-vless://1f7376c9-f025-4b81-a4d9-974915b8bba3@104.18.14.229:2095?security=none&type=ws&host=ios.net-server.com-mehdi.com-bmi.ir-servers.com-hetzner.net-console.monitor.bmibank-melli-saderat-tejarat-mehr-sepah-Price-New-null-site-an.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.229:2095 📡 PING-008.86-MS
