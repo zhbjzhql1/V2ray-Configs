@@ -1,3 +1,7 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@185.170.166.180:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇬🇧 GB-185.170.166.180:8080 📡 PING-008.70-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.27.187:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.27.187:8080 📡 PING-008.70-MS
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.78.27:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=Path%2FTelegram@v2ray_alpha%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.27:443 📡 PING-008.70-MS
+vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@188.114.99.29:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.99.29:2053 📡 PING-008.70-MS
 vless://6bfee399-5461-4940-998d-04eea7ac5d2e@172.67.132.73:2053?security=tls&sni=fall.yadakiasl.com&type=grpc&serviceName=shop&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.132.73:2053 📡 PING-008.70-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.153.90:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.153.90:8080 📡 PING-008.70-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.184.82:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.184.82:8080 📡 PING-008.70-MS
@@ -994,7 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.111.71:8080?security=none&ty
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.43.253:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.43.253:8080 📡 PING-008.64-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.84.246:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.84.246:8080 📡 PING-008.64-MS
 vless://bdad0d0b-15a0-4754-b1ba-72c696c83740@104.21.56.62:2083?security=tls&sni=vip.in01.tech&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.56.62:2083 📡 PING-008.64-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.179.165:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.179.165:8080 📡 PING-008.64-MS
-vless://5a70cc96-4ae9-4a8f-814f-54979afc33fc@172.67.194.115:2096?security=tls&sni=mrz-cdn.dooshvari.sbs&type=grpc&serviceName=چنلسازنده:@PersianV2rayNG-چنلسازنده:@PersianV2rayNG-چنلسازنده:@PersianV2rayNG-چنلسازنده:@PersianV2rayNG&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.194.115:2096 📡 PING-008.64-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.218.80:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.218.80:8080 📡 PING-008.64-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.184.151:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.184.151:8080 📡 PING-008.64-MS

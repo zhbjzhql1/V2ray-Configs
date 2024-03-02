@@ -1,3 +1,7 @@
+vless://95878aa5-a695-4b88-b502-55c05c998cf2@104.18.9.239:443?security=tls&sni=lg1.dtku41.xyz&type=ws&host=lg1.dtku41.xyz&path=%2Fugrlws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.239:443 📡 PING-009.19-MS
+vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:80?type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-172.67.161.1:80 📡 PING-009.19-MS
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@104.18.17.136:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.17.136:2083 📡 PING-009.19-MS
+vless://9286513c-8184-4020-bedd-e75344e75bd9@104.21.201.246:443?security=tls&sni=ie2-vless.sshmax.xyz&type=ws&host=ie2-vless.sshmax.xyz&path=%2Fvless&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.201.246:443 📡 PING-009.19-MS
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@194.152.44.193:2082?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql#🔒 VL-WS-NONE 🇳🇱 NL-194.152.44.193:2082 📡 PING-009.19-MS
 vless://246fe529-55e2-4361-8134-4d85f74dffdf@172.67.194.115:2087?security=tls&sni=gmV2raybo.snappfoodd.site&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.67.194.115:2087 📡 PING-009.18-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.74.228:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.74.228:8080 📡 PING-009.18-MS
@@ -994,7 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.177.134:8080?security=none&t
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.93.28:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.93.28:8080 📡 PING-008.82-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.205.176:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.205.176:8080 📡 PING-008.82-MS
 vless://a4ce4ff7-327c-41a0-b2ff-a3c52da63f02@104.21.68.89:443?security=tls&sni=Photostar.shahabservices.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.68.89:443 📡 PING-008.81-MS
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@172.67.178.175:80?security=none&type=ws&host=jpddbslscjdhd.%E8%B6%B3%E7%90%83%E8%B6%B3%E5%AD%90%E5%AD%90%E8%B6%B35.tech&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.178.175:80 📡 PING-008.81-MS
-vless://7f2281d3-0a4d-4dc0-915c-a67a4f43cfd0@104.22.16.171:443?security=tls&sni=god.lowswol.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.16.171:443 📡 PING-008.81-MS
-vless://d075151b-cd84-48da-9b9c-15bbee9594eb@104.24.235.246:8080?security=none&type=ws&host=cdn1.iran-mehr14.ir&path=%2FsjCuAfPHc0391hggPTZrS#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.235.246:8080 📡 PING-008.81-MS
-vless://1fcea3c5-d53c-4184-910b-9e38378ff14b@162.159.192.244:443?security=tls&sni=nsijdbd.rogstrx.xyz&type=ws&host=ksisbhdhdnd.rogstrx.xyz&path=%2F1fcea3c5-d53c-4184-910b-9e38378ff14b&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.244:443 📡 PING-008.81-MS
