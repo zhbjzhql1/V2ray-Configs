@@ -1,3 +1,6 @@
+vless://10c90a40-be6b-4f5c-a293-63c7d639739c@172.67.144.59:2095?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.144.59:2095 📡 PING-001.76-MS
+vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.38:443?security=tls&sni=worker-fancy-base-7d08.yajici1215.workers.DEV&type=ws&host=worker-fancy-base-7d08.yajici1215.workers.DEV&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.9.38:443 📡 PING-001.76-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.79.139:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.79.139:8080 📡 PING-001.76-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.21.199.74:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.199.74:8080 📡 PING-001.76-MS
 vless://22575ad3-d8ff-4512-b200-ef1a63bf3e08@104.21.20.148:443?security=tls&sni=cz1-vless.sshmax.xyz&type=ws&host=cz1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:443 📡 PING-001.76-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.221.22:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.221.22:8080 📡 PING-001.76-MS
@@ -995,6 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.131.82:8080?security=none&ty
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.215.5:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.215.5:8080 📡 PING-001.71-MS
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@31.43.179.28:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql#🔒 VL-WS-NONE 🇰🇿 KZ-31.43.179.28:80 📡 PING-001.71-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.110.138:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.110.138:8080 📡 PING-001.71-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.25.139:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.25.139:8080 📡 PING-001.71-MS
-vless://49c7c89e-1805-4ade-f2b0-f6cb4bddce5a@104.21.88.209:80?security=none&type=ws&path=%2F%2CTurk#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.88.209:80 📡 PING-001.71-MS
-vless://617860d3-61e0-442d-b8ac-20b39023991e@104.21.85.204:443?security=tls&sni=ch1-vless.sshmax.xyz&type=ws&host=ch1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.204:443 📡 PING-001.71-MS
