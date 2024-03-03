@@ -496,12 +496,24 @@ vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=118.xn--ok0ba23wca23lba986qumjx1g6pa134h6zc.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%28118%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=119.xn--ok0ba23wca23lba986qumjx1g6pa134h6zc.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%28119%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=120.xn--ok0ba23wca23lba986qumjx1g6pa134h6zc.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%28120%29
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
+vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 vless://0fd5ff3f-77a6-44c1-87e9-7e6bee16f9ea@ns7.cloudflare.com:443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=iranadmobe.net#app-ha
 
@@ -986,15 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.29.145:8080?security=none&ty
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.30.56:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.30.56:8080 📡 PING-098.70-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.31.139:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.31.139:8080 📡 PING-098.70-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.24.107:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.24.107:8080 📡 PING-098.70-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.31.93:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.31.93:8080 📡 PING-098.70-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.31.12:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.31.12:8080 📡 PING-098.70-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.16.44:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.16.44:8080 📡 PING-098.71-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.18.206:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.18.206:8080 📡 PING-098.72-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.28.197:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.28.197:8080 📡 PING-098.72-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.18.123:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.18.123:8080 📡 PING-098.73-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.19.208:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.19.208:8080 📡 PING-098.74-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.23.20:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.23.20:8080 📡 PING-098.74-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.30.15:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.30.15:8080 📡 PING-098.74-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.20.20:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.20.20:8080 📡 PING-098.75-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.27.143:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.27.143:8080 📡 PING-098.76-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.31.30:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.31.30:8080 📡 PING-098.76-MS
