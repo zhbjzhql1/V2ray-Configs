@@ -1,3 +1,5 @@
+vless://01e2594f-271a-4a73-8807-738a0e7c02f0@157.230.27.152:58632?security=none&type=ws&host=www.speedtest.net&path=%2F%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02%2C%40FREE_VPN02#🔒 VL-WS-NONE 🇩🇪 DE-157.230.27.152:58632 📡 PING-089.48-MS
+vless://691da42c-0a59-48e2-eb78-441b97ee14e4@146.19.233.85:443?security=tls&sni=de1.alphav2ray.link&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-146.19.233.85:443 📡 PING-089.49-MS
 vless://8cd1b9a8-1f8c-45c3-be80-59094c2091f3@178.128.193.212:2003?security=tls&sni=de2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇩🇪 DE-178.128.193.212:2003 📡 PING-089.62-MS
 vless://8b18e147-241e-4cee-803b-959601130c18@172.104.227.43:80?security=none&type=ws&host=shhproxyfrees.xn--69-pv2cl2k5x3fipr.org&path=/#🔒 VL-WS-NONE 🇩🇪 DE-172.104.227.43:80 📡 PING-089.83-MS
 vless://5775c59a-b87e-46bc-a87c-56a77da5328f@45.77.53.53:34372?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-45.77.53.53:34372 📡 PING-090.18-MS
@@ -996,5 +998,3 @@ vless://39c94e86-05be-4291-905d-b8ca1e387c11@104.16.4.103:8880?security=none&typ
 vless://6cc0f4a0-012d-44a8-92e6-08b6de0861ce@154.197.75.98:8080?security=none&type=ws&host=chanet24da.amirali0013.monster&path=%2F%40NIM_VPN_ir&alpn=@V2RayTz,@V2RayTz#🔒 VL-WS-NONE 🇸🇨 SC-154.197.75.98:8080 📡 PING-005.91-MS
 vless://1010501a-ca9a-479c-84d0-1308d97789b5@104.21.79.143:443?security=tls&sni=abbas-boveiry2.xihev78250.workers.dev&type=ws&host=abbas-boveiry2.xihev78250.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:443 📡 PING-005.91-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.221.209:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.221.209:8080 📡 PING-005.91-MS
-vless://bf12f7c5-1c88-4f4c-b192-8ec933a4c06d@104.21.13.32:443?security=tls&sni=poyxhnx.v2pedia.xyz&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.13.32:443 📡 PING-005.91-MS
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.67.151.223:443?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=%2Fyoutube-freecodes&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.151.223:443 📡 PING-005.91-MS

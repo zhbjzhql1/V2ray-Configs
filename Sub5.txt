@@ -1,3 +1,5 @@
+vless://8f89cd04-dd21-4af5-b671-6b0bcc0dca47@104.21.51.175:443?security=tls&sni=liq7pn.khan-milanvictory1278.site&type=ws&path=%40liq_vpn&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.175:443 📡 PING-005.52-MS
+vless://ec2e8ff7-e794-4ac4-9585-7ad28f188269@216.205.52.237:2053?security=tls&sni=ec2e8ffV2ray7-e794-4ac4-9585-7ad28f188269btoche.pages.dev&type=ws&host=btoche.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.237:2053 📡 PING-005.52-MS
 vless://a4fe4435-858d-444e-a25a-b6d24e75218e@104.16.123.91:8443?security=tls&sni=off.v2box.lol.&type=grpc&serviceName=geo.tv&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.123.91:8443 📡 PING-005.52-MS
 vless://a65eeff9-e5a5-45fb-a142-2210d98bcffd@162.159.136.234:443?security=tls&sni=hk3.servervless.de&type=ws&host=hk3.servervless.de&path=%2F%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.234:443 📡 PING-005.52-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@162.159.40.162:2083?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.40.162:2083 📡 PING-005.52-MS
@@ -996,5 +998,3 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.179.126:8080?security=none&t
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.201.77:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.201.77:8080 📡 PING-005.41-MS
 vless://607353ef-bb7f-40ac-90e4-7ffa5cd73867@104.25.63.151:2053?security=tls&sni=on.ircdn.world&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.63.151:2053 📡 PING-005.41-MS
 vless://d2b6815f-71d5-4ec8-906e-6cea041f5498@104.26.14.85:2087?security=tls&sni=ipcf.thisisipcf.wORkErS.DEV&type=ws&host=ipcf.thisisipcf.wORkErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2087 📡 PING-005.41-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.217.142:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.217.142:8080 📡 PING-005.41-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@194.87.58.61:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇨🇿 CZ-194.87.58.61:8080 📡 PING-005.40-MS
