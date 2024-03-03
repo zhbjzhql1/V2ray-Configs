@@ -1,3 +1,6 @@
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.197.154:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.197.154:8080 📡 PING-005.41-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.50.229:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.50.229:8080 📡 PING-005.41-MS
+vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@193.9.49.131:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇷🇺 RU-193.9.49.131:8080 📡 PING-005.41-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.13.60:443?security=tls&sni=963C1F6A-8485-443a-a386-4E6D34A64dc8.MRvi.ONline&type=ws&host=963c1f6a-8485-443a-a386-4e6d34a64dc8.mrvi.online&path=%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%40V2VIPCHANNEL%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.60:443 📡 PING-005.41-MS
 vless://c7e63cbd-0341-4d86-e8b3-ecd02d750d06@190.93.247.155:8880?security=none&type=ws&host=liV2helh.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&path=%2F%40LIGHTNING6#🔒 VL-WS-NONE 🇨🇷 CR-190.93.247.155:8880 📡 PING-005.41-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.222.126:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.222.126:8080 📡 PING-005.41-MS
@@ -995,6 +998,3 @@ vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.123.175:2083?security=tls&sn
 vless://97787cac-2572-47a2-a3d3-71364a32272d@172.67.15.112:80?security=none&type=ws&host=v22.smartyticket.click&path=%2Fgraphql#🔒 VL-WS-NONE 🇺🇸 US-172.67.15.112:80 📡 PING-005.31-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.66.44.16:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.66.44.16:8080 📡 PING-005.31-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.189.199:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.189.199:8080 📡 PING-005.31-MS
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.92.229:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.92.229:8080 📡 PING-005.31-MS
-vless://ec2e8ff7-e794-4ac4-9585-7ad28f188269@216.205.52.189:2053?security=tls&sni=ec2e8ffV2ray7-e794-4ac4-9585-7ad28f188269btoche.pages.dev&type=ws&host=btoche.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.189:2053 📡 PING-005.30-MS
-vless://a3e76574-9458-4783-905b-970cf0ccdcd1@104.17.17.17:443?security=tls&sni=ip6.melobigg.site&type=grpc&serviceName=@melo&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.17.17:443 📡 PING-005.30-MS
