@@ -1,4 +1,3 @@
-vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.25.106:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.25.106:8080 📡 PING-146.60-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.26.125:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.26.125:8080 📡 PING-146.66-MS
 vless://c74bb359-f326-4016-a0fa-30e62cae9c31@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-146.68-MS
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.17.224:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.64.17.224:8080 📡 PING-147.46-MS
@@ -998,3 +997,4 @@ vless://bb52ebc6-97a2-4aac-bb8d-42e3bfcde9c6@104.16.29.34:2086?security=none&typ
 vless://c8f492d0-4183-437a-90f7-16cc2cd0055a@104.16.25.8:8080?security=none&type=ws&host=arushi.diitreal.online&path=%2F%40Speedent_Net%2C%40Speedent_Net%2C%40Speedent_Net#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.25.8:8080 📡 PING-016.32-MS
 vless://75ae068c-f1b2-46d6-ab07-4a63452f5aee@104.18.200.203:2095?security=none&type=ws&host=f3.%E5%A4%A9%E7%A9%BA%E5%9C%A8%E7%87%83%E7%83%A7.website&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.200.203:2095 📡 PING-016.32-MS
 vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@141.101.114.226:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&path=tg%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.114.226:443 📡 PING-016.32-MS
+vless://594627e3-a602-42bd-bb76-01d21921541c@190.93.246.247:2053?security=tls&sni=y.1lagvpn13.cfd&type=grpc&serviceName=@v2rray1_ng#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.246.247:2053 📡 PING-016.32-MS
