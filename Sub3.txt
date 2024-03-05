@@ -1,4 +1,3 @@
-vless://e530ac94-d636-4d4d-84df-ecb5ed8c7fdc@162.159.134.234:2053?security=tls&sni=xx.1lagvpn13.cfd&type=grpc&serviceName=chaneltelgram:@v2rray1_ng&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2053 📡 PING-009.34-MS
 vless://74cb7bc6-8c17-499b-98d8-6cad68d4a383@172.67.149.123:2052?security=none&type=ws&host=de.hamrahdomains.lol&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.149.123:2052 📡 PING-009.33-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@172.64.162.215:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.64.162.215:8443 📡 PING-009.32-MS
 vless://939fcfa4-0d30-4f86-a1f7-13cc2dae002b@162.159.195.65:443?security=tls&sni=codm-http-server.ejlvovtt.workers.dev&type=ws&host=codm-http-server.ejlvovtt.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.65:443 📡 PING-009.32-MS
@@ -998,3 +997,4 @@ trojan://wkmY1R4EcP@45.76.130.173:443?security=tls&sni=z-v2-003289.kailib.com#%F
 vmess://ewogICAgImFkZCI6ICIxNzIuOTkuMTkwLjEwOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAibGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4es8J+Hp0dCLTE3Mi45OS4xOTAuMTA5LTExNzciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aWkxNmZtUFRtczhpY1luWXZ4VWZh@51.142.159.23:32790#%F0%9F%87%AC%F0%9F%87%A7GB-51.142.159.23-0756
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@v1.arvancode.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7GB-18.135.166.185-0747
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@wxwctxxx.arvancode.eu.org:443#%F0%9F%87%AC%F0%9F%87%A7GB-13.43.15.90-0763
