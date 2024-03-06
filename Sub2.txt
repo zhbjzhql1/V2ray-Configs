@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@194.116.173.21:9038#🔒 SS-TCP-NA 🇺🇸 US-194.116.173.21:9038 📡 PING-015.68-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bmFpNW5KZ1B4QVhCU3FIT1h1U1dT@68.183.196.168:31024#🔒 SS-TCP-NA 🇨🇦 CA-68.183.196.168:31024 📡 PING-015.34-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0c1o2OUZObUFQb3NDQmlENk1VcnlC@45.8.146.32:50370#🔒 SS-TCP-NA 🇺🇸 US-45.8.146.32:50370 📡 PING-009.51-MS
+ss://VPNCUSTOMIZE@188.114.98.224:443#🔒 SS-TCP-NA 🇳🇱 NL-188.114.98.224:443 📡 PING-002.16-MS
 ss://SVNTEAM=@104.21.69.44:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.69.44:8080 📡 PING-001.78-MS
 ss://SVNTEAM=@104.21.69.44:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.69.44:2096 📡 PING-001.72-MS
 ss://SVNTEAM=@172.67.204.84:8080#🔒 SS-TCP-NA 🇺🇸 US-172.67.204.84:8080 📡 PING-001.56-MS
@@ -994,7 +998,3 @@ vless://15c169bd-1b95-4c5e-ae44-c9e59fd80d07@172.67.204.84:8443?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.69.5:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.69.5:80 📡 PING-001.77-MS
 vless://8d9ed532-ec52-4539-a9f1-d675756c44bb@205.233.181.10:8880?security=none&type=ws&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇺🇸 US-205.233.181.10:8880 📡 PING-001.77-MS
 vless://54451792-534c-42a2-88f1-b94e434f7328@154.197.75.80:8880?security=none&type=ws&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇸🇨 SC-154.197.75.80:8880 📡 PING-001.77-MS
-vless://4d366f1e-1993-4048-b8e1-af7bbea91d21@162.159.128.233:2087?security=tls&sni=singleexkxv2ruqab2mq22eb2yffwrlnjisq4j4x0bu2lm5yalpyvjtwr7.tohid3aeed.com&type=ws&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.233:2087 📡 PING-001.77-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.20.49.64:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.20.49.64:80 📡 PING-001.77-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.21.171:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.21.171:80 📡 PING-001.77-MS
-vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=Telegram%40SINABIGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.193.36:2096 📡 PING-001.76-MS
