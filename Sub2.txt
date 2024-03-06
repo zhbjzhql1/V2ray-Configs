@@ -1,5 +1,3 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.49:2376#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.49:2376 📡 PING-022.81-MS
-ss://YWVzLTI1Ni1nY206YVNFLzI2QzlNamwrTHJuRXdYa0t2NkVySDl5ZklsdDlTZmZYQ0FFRENrcz0=@51.222.205.252:2443#🔒 SS-TCP-NA 🇨🇦 CA-51.222.205.252:2443 📡 PING-019.40-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bmFpNW5KZ1B4QVhCU3FIT1h1U1dT@68.183.196.168:31024#🔒 SS-TCP-NA 🇨🇦 CA-68.183.196.168:31024 📡 PING-013.96-MS
 ss://SVNTEAM=@104.18.203.232:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.203.232:8080 📡 PING-002.69-MS
 ss://VPNCUSTOMIZE@188.114.98.224:443#🔒 SS-TCP-NA 🇳🇱 NL-188.114.98.224:443 📡 PING-002.39-MS
@@ -998,3 +996,5 @@ vless://99bcf31c-4485-4e9b-ac44-2da5d199a40a@188.114.97.77:443?security=tls&sni=
 vless://795ba8a9-144a-483a-b179-950122fccaa2@162.159.130.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=qq&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:2096 📡 PING-002.42-MS
 vless://8c8b59bc-27f9-4b0c-8242-f1bd317b32d2@172.67.204.84:2086?security=none&type=ws&host=fr-fox.xn--0mq55f02fh9a40hbiq62cd7osi7ap79a.website.&path=%2FFOX_VPN66#🔒 VL-WS-NONE 🇺🇸 US-172.67.204.84:2086 📡 PING-002.42-MS
 vless://0d5fb553-eec2-43fc-9441-15d4a86169c9@104.25.82.236:443?security=tls&sni=thisisanom.ir&type=grpc&serviceName=@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.82.236:443 📡 PING-002.41-MS
+vless://8d9ed532-ec52-4539-a9f1-d675756c44bb@198.41.193.110:8880?security=none&type=ws&host=xn---qhantayawi--f-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.193.110:8880 📡 PING-002.41-MS
+vless://7e3762be-dab6-41e8-92eb-98d0dd89c37e@104.16.125.175:2086?security=none&type=ws&host=fox.%E4%BD%A0%E6%9C%89%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%85%89%E5%BD%A9%E7%9A%84%E9%97%AE%E9%A2%98.website.&path=%2FFOX_VPN66#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.125.175:2086 📡 PING-002.41-MS
