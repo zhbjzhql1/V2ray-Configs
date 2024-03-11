@@ -1,5 +1,11 @@
-à`ñ!¶ia¶il·)^è ÝtÒvg­jv¦zøÂ+µÊ'µéíÂ'm×¯Ç°Ûax­©lq©^ÖÈky-¡ø­íÙ^ãN
-¢Ñhºw¶+e{ø^iÖèw+-ÊW
+à`ñ!¶ia¶iay§fzÖ¡¶Ú^ªè¯
+íz{mÊ¢{^Û^Æßá¶i\ªìzÛ­Éµ¨m¶ªº+
+à`ñ!¶ia¶iay§fzÖ¡¶Ú^ªè¯
+íz{mÊ¢{^Û^Æßá¶i\ªìzÛ­Éµ¨m¶ªº+
+à`ñ!¶ia¶iay§fzÖ¡¶Ú^ªè¯
+íz{mÊ¢{^Û^Æßá¶i\ªìzÛ­Éµ¨m¶ªº+
+à`ñ!¶ia¶iay§fzÖ¡¶Ú^ªè¯
+íz{mÊ¢{^Û^Æßá¶i\ªìzÛ­Éµ¨m¶ªº+
 #profile-title: base64:VFZDIHwgRE9OQVRFRA==
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -992,9 +998,3 @@ ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@103.172.116.90:9042#🔒 SS-TCP-NA
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.90:9008#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9008 📡 PING-242.59-MS
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@103.172.116.90:9060#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9060 📡 PING-242.69-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3TWRVYVlMOTdsSnIyMXBEWGl6SHNk@207.148.70.162:54316#🔒 SS-TCP-NA 🇸🇬 SG-207.148.70.162:54316 📡 PING-242.72-MS
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@103.172.116.90:9030#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9030 📡 PING-242.85-MS
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.90:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9041 📡 PING-243.09-MS
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@103.172.116.90:9027#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9027 📡 PING-243.09-MS
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@103.172.116.90:9014#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9014 📡 PING-243.13-MS
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@103.172.116.90:9057#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9057 📡 PING-243.21-MS
-ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.90:9080#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9080 📡 PING-243.35-MS
