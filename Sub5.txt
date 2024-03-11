@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#%F0%9F%87%AB%F0%9F%87%B7FR-51.159.111.208-0812
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-3.11.0.68-0796
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#%F0%9F%87%AC%F0%9F%87%A7GB-77.72.5.150-0821
 trojan://telegram-id-privatevpns@35.176.232.34:22222?security=tls&sni=trojan.miwan.co.uk#%F0%9F%87%AC%F0%9F%87%A7GB-35.176.232.34-0210
