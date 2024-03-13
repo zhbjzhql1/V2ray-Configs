@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.66:8091#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:8091 📡 PING-048.28-MS
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.66:5004#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.66:5004 📡 PING-048.17-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.164:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.164:2375 📡 PING-048.11-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@172.233.152.76:8080#🔒 SS-TCP-NA 🇺🇸 US-172.233.152.76:8080 📡 PING-048.01-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.135:3389#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.135:3389 📡 PING-047.46-MS
@@ -996,5 +998,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.228.126:80?type=ws&host=us1.
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.60:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.212.60:80 📡 PING-014.09-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.224.233:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.224.233:80 📡 PING-014.08-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.226.148:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.226.148:80 📡 PING-014.07-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.225.203:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.225.203:80 📡 PING-014.06-MS
-vless://1167155e-92c2-4500-9b03-882d28359b3e@162.251.82.187:8880?security=none&type=ws&host=91.niloofargift.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-162.251.82.187:8880 📡 PING-014.06-MS
