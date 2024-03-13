@@ -1,3 +1,6 @@
+ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12011#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12011 📡 PING-246.69-MS
+ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12020#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12020 📡 PING-246.77-MS
+ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12042#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12042 📡 PING-247.63-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12040#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12040 📡 PING-248.18-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12025#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12025 📡 PING-249.37-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12003#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12003 📡 PING-249.85-MS
@@ -995,6 +998,3 @@ vless://6586fcfa-8332-4cd3-b62f-3f036b0c3c99@104.21.233.140:2095?security=none&t
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@172.64.109.109:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.64.109.109:8443 📡 PING-007.00-MS
 vless://5b2bad9a-139f-4985-891f-00956573c448@172.64.170.35:80?security=none&sni=hello-world-bitter-silence-09ff.conig57303.workers.dev&type=ws&host=hello-world-bitter-silence-09ff.conig57303.workers.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-NONE 🇺🇸 US-172.64.170.35:80 📡 PING-007.00-MS
 vless://6586fcfa-8332-4cd3-b62f-3f036b0c3c99@104.21.233.140:80?security=none&type=ws&host=edtun.iraniancpi.uk&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.140:80 📡 PING-007.00-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.224.179:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.224.179:80 📡 PING-006.94-MS
-vless://7f55b425-a623-439b-bbd5-0b1778162054@172.64.143.61:80?security=none&type=ws&host=Free1V2rayGod.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.site.&path=%40V2ray_God%3DTelegram%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.64.143.61:80 📡 PING-006.84-MS
-vless://6586fcfa-8332-4cd3-b62f-3f036b0c3c99@104.21.233.139:2082?security=none&type=ws&host=edtun.iraniancpi.uk&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.233.139:2082 📡 PING-006.74-MS
