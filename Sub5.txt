@@ -1,8 +1,8 @@
-vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?type=ws&path=%2Fsteel&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=steel.footballlovernews.com#steel-7wemi0le
-vmess://eyJhZGQiOiJnY29yZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZpbGltby1tb3ZpZS5pciIsImlkIjoiZGZmYmJjODYtNDM2MC00NzI3LTliMzYtOTE2MjUzNjlmNmFkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiSGFtcmFoZUF2YWwgREpWSyAoQE91dGxpbmVfVnBuKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuNzUuMjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqYW5ldHQuY2xpY2siLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiVGVsZWdyYW0gSUQgKEBPdXRsaW5lX1ZwbikgMjUiLCJzY3kiOiJhdXRvIiwic25pIjoiamFuZXR0LmNsaWNrIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://6cffb34f-2197-4037-8bbe-54cd90410922@jorum.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=jorum.toptechnonews.com&sni=jorum.toptechnonews.com&path=/nimws#jorum.toptechnonews.com_VLESS_WS
-vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@shaliest.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=shaliest.toptechnonews.com&sni=shaliest.toptechnonews.com&path=/nimws#shaliest.toptechnonews.com_VLESS_WS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Join+10+%3A+%28%40Outline_Vpn%29`**
+vless://cf8bb4ec-607a-4952-9439-6df496f1a70d@ring.minusober.com:443?type=ws&path=%2Fring&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ring.minusober.com#ring-bld9s725
+vless://ce526092-81c1-42be-8354-88e58946c1f3@monardas.aurorainiceland.com:443?encryption=none&security=tls&type=ws&host=monardas.aurorainiceland.com&sni=monardas.aurorainiceland.com&path=/nimws#monardas.aurorainiceland.com_VLESS_WS
+vless://db1eeace-797f-4d75-ac27-9a97acda853d@pikk.minusober.com:443?type=ws&path=%2Fpikk&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pikk.minusober.com#pikk-mafs45pk
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#Join+10+%3A+%28%40Outline_Vpn%29`**
 
 vmess://eyJ2IjoiMiIsInBzIjoiRC1CUk9XTi0xMDI1IiwiYWRkIjoiMTU3LjI0NS40LjE3MCIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1paGFud2ViaG9zdC5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiWUVFWTU3MTIiLCJhZGQiOiIxNzAuMTg3LjE2My44OSIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1paGFud2ViaG9zdC5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
