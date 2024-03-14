@@ -1,3 +1,4 @@
+vless://03708024-2089-498e-af82-e056bd447edd@185.112.149.68:2082?security=none&type=tcp&host=fast.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.112.149.68:2082 📡 PING-277.84-MS
 vless://31f87cd9-51ca-40c0-a447-7f9ca9beec9b@192.46.213.145:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇳 IN-192.46.213.145:2003 📡 PING-278.07-MS
 vless://905b79c5-0089-4699-a9c1-f820677e9c7f@5.10.248.50:1720?security=none&type=tcp&host=TirFx.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.10.248.50:1720 📡 PING-278.07-MS
 vless://11f160d0-7dfd-4d35-b02e-9aa554dffa32@212.80.11.107:51144?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.11.107:51144 📡 PING-278.34-MS
@@ -997,4 +998,3 @@ vless://a4552f1b-5636-4a6c-8b4c-8bc13f4b3cbd@104.26.9.224:2053?security=tls&sni=
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@45.131.211.245:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.245:443 📡 PING-005.27-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.75.206:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🇺🇸 US-172.67.75.206:80 📡 PING-005.27-MS
 vless://b404b4e8-9164-4c7e-acbd-ea8ec0aee464@172.67.206.177:2087?security=tls&sni=www.RxV2ray.sbs&type=grpc&serviceName=%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.206.177:2087 📡 PING-005.27-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.21.254:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.21.254:80 📡 PING-005.27-MS
