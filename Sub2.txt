@@ -1,3 +1,5 @@
+ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12039#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12039 📡 PING-237.08-MS
+ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12007#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12007 📡 PING-238.92-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#🔒 SS-TCP-NA 🇻🇳 VN-103.163.218.2:989 📡 PING-239.62-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12048#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12048 📡 PING-241.33-MS
 ss://YWVzLTEyOC1nY206OGU1YjgyMjktODI1NS00YzQ2LWFhMjMtMTQ2N2ZjNGExMGE2@183.240.180.228:12032#🔒 SS-TCP-NA 🇨🇳 CN-183.240.180.228:12032 📡 PING-242.98-MS
@@ -996,5 +998,3 @@ vless://FF45F361-BA08-4E36-DFB9-171D6F8CF228@188.241.176.20:60606?security=tls&s
 vless://1e48baec-70c9-47c2-a9d5-b72f632ef50b@50.116.23.96:443?security=tls&sni=us2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-50.116.23.96:443 📡 PING-022.71-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.91.100:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-3.96.91.100:22222 📡 PING-021.65-MS
 vless://8566097e-0a34-4d4c-ac70-038b98b19d42@35.183.4.61:49004?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇨🇦 CA-35.183.4.61:49004 📡 PING-021.63-MS
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.109.222:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.64.109.222:443 📡 PING-021.56-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.202.202:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-52.60.202.202:22222 📡 PING-021.35-MS
