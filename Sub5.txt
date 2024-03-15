@@ -1,8 +1,8 @@
-vless://1c3c61e6-752c-44cb-a736-8165fb4a4310@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#HamraheAval+RFGE+%28%40Outline_Vpn%29
-vless://b90324ad-e9ca-411b-ab35-05118d5564ba@cris.lm10football.com:443?type=ws&path=%2Fcris&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=cris.lm10football.com#cris.lm10football.com-7g1rblao
-vless://149400e4-6910-4a3f-8c4a-c5c175929b87@romb.minusober.com:443?type=ws&path=%2Fromb&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=romb.minusober.com#romb-e0j92suq
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@freee.outline-vpn.cloud:443?path=%2F%3Fed&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#Telegram+ID+%28%40Outline_Vpn%29+16
-
+vless://6586fcfa-8332-4cd3-b62f-3f036b0c3c99@104.26.14.85:2096?security=tls&sni=edtunnel.iraniancpi.uk&type=ws&host=edtunnel.iraniancpi.uk&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2096 📡 PING-004.97-MS
+vless://9ff5fcc9-05f1-43ed-bb67-03a0ab3c5020@92.38.145.145:443?security=tls&sni=gcore.com&type=ws&host=vmessprotocol-channel.com&path=%2F&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-92.38.145.145:443 📡 PING-004.93-MS
+vless://48f3cc67-2a25-41e8-9e2c-6e2cea92fb35@31.14.115.124:80?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-31.14.115.124:80 📡 PING-000.00-MS
+vless://d79a13d3-1ea7-4bdb-b803-8bf254131af7@87.236.215.129:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.215.129:443 📡 PING-000.00-MS
+vless://cbaaacb-aabc-caab-bdca-baccabbcbaac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 vmess://eyJ2IjoiMiIsInBzIjoiRC1CUk9XTi0xMDI1IiwiYWRkIjoiMTU3LjI0NS40LjE3MCIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1paGFud2ViaG9zdC5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiWUVFWTU3MTIiLCJhZGQiOiIxNzAuMTg3LjE2My44OSIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1paGFud2ViaG9zdC5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiRC1XSU5HRUQtMjUzNyIsImFkZCI6IjE1OS4yMDMuMTE0LjIyMiIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1paGFud2ViaG9zdC5jb20iLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
