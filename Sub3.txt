@@ -1,7 +1,3 @@
-vless://8950b608-865c-4eae-bc4f-d4eeccfd1b00@213.176.1.95:2004?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-213.176.1.95:2004 📡 PING-273.65-MS
-vless://02514d80-8007-47f7-8aaf-28c1da64f915@185.211.59.210:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.59.210:443 📡 PING-273.99-MS
-vless://ce4300b2-1e72-4c66-b00e-d959676f8483@91.247.171.179:7014?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-91.247.171.179:7014 📡 PING-274.22-MS
-vless://11f160d0-7dfd-4d35-b02e-9aa554dffa32@212.80.11.107:51144?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.11.107:51144 📡 PING-274.79-MS
 vless://51f563ab-954b-4670-8d00-832e4ace48c1@212.80.11.100:13441?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.11.100:13441 📡 PING-274.94-MS
 vless://07ffa30b-2366-4621-8c3a-aa7daeb70731@87.236.208.30:8080?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇬🇧 GB-87.236.208.30:8080 📡 PING-275.05-MS
 vless://c902f8ac-355b-415f-8865-481e2e0186fd@213.176.1.95:4001?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-213.176.1.95:4001 📡 PING-275.75-MS
@@ -998,3 +994,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@79.99.28.201:2096?security=tls&sni=
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.159:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.71.159:443 📡 PING-005.22-MS
 vless://b92700bd-be16-4a53-b4d0-45ee86db7a22@104.31.16.62:2083?security=tls&sni=ameri.yalda24.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.31.16.62:2083 📡 PING-005.22-MS
 vless://b6b02a7b-bd89-49c9-ad68-99c8192daf55@104.21.3.79:2087?security=tls&sni=clash.mmdargon.top&type=ws&host=clash.mmdargon.top&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.79:2087 📡 PING-005.22-MS
+vless://0d5fb553-eec2-43fc-9441-15d4a86169c9@104.25.82.151:443?security=tls&sni=thisisanom.ir&type=grpc&serviceName=@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.82.151:443 📡 PING-005.22-MS
+vless://09cc9531-9055-4d96-bdbb-24d5cefa4e82@104.18.0.226:443?security=tls&sni=ams.servervless.de&type=ws&host=ams.servervless.de&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.0.226:443 📡 PING-005.22-MS
+vless://a8f33c2b-1db6-4fb0-aeb2-fb0dd9c898e8@104.21.69.44:8080?security=none&type=ws&host=hack-de.xn--0mq55f02fh9a40hbiq62cd7osi7ap79a.website.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.69.44:8080 📡 PING-005.22-MS
+vless://144f9837-141c-4e7d-a6a3-1d1f66a4177c@104.16.4.103:2053?security=tls&sni=jkr.ni-ham.info&type=grpc&fp=firefox&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.4.103:2053 📡 PING-005.22-MS
