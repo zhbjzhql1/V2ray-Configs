@@ -1,3 +1,4 @@
+vless://0d4ec37c-5a94-47e9-9ed5-3f3eedb563c3@188.241.240.146:80?type=grpc&serviceName=wpadmin#🔒 VL-GRPC-NA 🇷🇴 RO-188.241.240.146:80 📡 PING-203.06-MS
 vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@47.245.56.207:2087?security=tls&sni=dns68.shift.cloudns.org&type=ws&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇯🇵 JP-47.245.56.207:2087 📡 PING-206.25-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.209.243.137:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-8.209.243.137:2083 📡 PING-208.98-MS
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@47.245.9.228:2083?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-47.245.9.228:2083 📡 PING-216.26-MS
@@ -997,4 +998,3 @@ vless://54451792-534c-42a2-88f1-b94e434f7328@103.184.44.239:8880?security=none&t
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.24.37:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.24.37:80 📡 PING-001.77-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.241.75:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.241.75:80 📡 PING-001.77-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.20.172:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.20.172:80 📡 PING-001.77-MS
-vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@156.229.48.47:443?security=tls&sni=burnaByhigHstar.CoM&type=ws&host=nb-fi.burnabyhighstar.com&path=%2Fhajmi%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-156.229.48.47:443 📡 PING-001.77-MS
