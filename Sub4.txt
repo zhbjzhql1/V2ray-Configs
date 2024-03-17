@@ -1,3 +1,12 @@
+vless://ef1d268c-221e-4d7a-828e-3ade2fb26d11@172.67.188.149:443?security=tls&sni=csub5.cpIfORpERsIa.uk&type=ws&host=csub5.cpIfORpERsIa.uk&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🇺🇸 US-172.67.188.149:443 📡 PING-008.65-MS
+vless://09fe0413-09d4-44ae-9190-a12f02b9141a@198.41.223.24:2053?security=tls&sni=mtnfinldefhdisjwidjsmperep0.amoozeshgah-com.com&type=ws&host=mtnfinldefhdisjwidjsmperep0.amoozeshgah-com.com&path=%2Fbackup&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.223.24:2053 📡 PING-008.65-MS
+vless://7cc460e9-83e3-4226-b6d8-3c7960719a71@162.159.133.234:8880?security=none&type=ws&host=xn--78-pv2cvta065cac9302fea377a148g.xyz.&path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.234:8880 📡 PING-008.65-MS
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.170.103:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.170.103:80 📡 PING-008.65-MS
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.241:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.241:443 📡 PING-008.64-MS
+vless://a3e87af4-d3b2-4b17-9414-542baf7a0f45@104.21.20.148:8880?security=none&type=ws&host=xn---qhantayawi--b-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:8880 📡 PING-008.64-MS
+vless://e9f82f61-3cce-428b-a8a7-0ebebb1d8315@205.233.181.53:8880?security=none&type=ws&host=xn---qhantayawi--c-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6#🔒 VL-WS-NONE 🇺🇸 US-205.233.181.53:8880 📡 PING-008.64-MS
+vless://2f48447c-837e-4791-8b94-06dbd6cbcb75@104.21.81.83:2087?security=tls&sni=sina.wuvcuv.WOrKErS.deV&type=ws&host=sina.wuvcuv.WOrKErS.deV&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.83:2087 📡 PING-008.64-MS
+vless://fe1281aa-5b5f-405c-cb72-b34e2c923f90@104.20.154.201:443?security=tls&sni=max-allnet.mpyana.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.154.201:443 📡 PING-008.64-MS
 vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@45.142.120.5:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&path=%40UCIRANIR-%40UCIRANIR%2FMicrosoft%3Fed%3D2047&fp=firefox#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:2053 📡 PING-008.64-MS
 vless://e77d1646-ad78-4bed-b45c-b8bbbabe99b5@104.21.42.250:443?security=tls&sni=sky.submub.sbs&type=ws&host=sky.submub.sbs&path=%2FTelegram%3A%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C%40GozargahVPN%2C&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.250:443 📡 PING-008.64-MS
 vless://a82ecae9-7f5c-4cbf-b8b9-69490ab775ac@172.67.170.143:2096?security=tls&sni=v2raymhcn.wagnervpn.com&type=grpc&serviceName=www.speedtest.net&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.170.143:2096 📡 PING-008.64-MS
@@ -989,12 +998,3 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443/?type=ws&encrypti
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.247.14:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%284%29
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%285%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%286%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@103.21.244.5:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%287%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%288%29
-
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.143:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray%20%289%29
-
