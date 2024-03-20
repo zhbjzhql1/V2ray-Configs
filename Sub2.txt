@@ -1,4 +1,3 @@
-vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=82.xn--ok0ba16ptybca55kda60gba378mzzada0899aha588dfa29fja.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%2882%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=83.xn--ok0ba16ptybca55kda60gba378mzzada0899aha588dfa29fja.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%2883%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=84.xn--ok0ba16ptybca55kda60gba378mzzada0899aha588dfa29fja.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%2884%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=85.xn--ok0ba16ptybca55kda60gba378mzzada0899aha588dfa29fja.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%2885%29
@@ -998,3 +997,4 @@ vless://4e02ab37-21fe-4efa-858a-5bbdfdd05e5e@104.18.12.130:2096?security=tls&sni
 vless://76f7bb12-c519-4f62-824a-becf57be32d7@172.67.163.103:8080?security=none&type=ws&host=joinsevernettdd4.xn--78-pv2cvta065cac9302fea377a148g.xyz.&path=%2Fjoin--ServerNett--ServerNett%3Fed%3D1048#🔒 VL-WS-NONE 🇺🇸 US-172.67.163.103:8080 📡 PING-005.65-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.70.98:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.70.98:80 📡 PING-005.65-MS
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.67.148.147:2096?security=tls&sni=pages.20230619.love&type=ws&host=pages.20230619.love&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.148.147:2096 📡 PING-005.64-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.18.192:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.18.192:80 📡 PING-005.64-MS
