@@ -1,3 +1,4 @@
+vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=15.xn--od1bqqqka304fba602vaa33c.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%2815%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=16.xn--od1bqqqka304fba602vaa33c.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%2816%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=17.xn--od1bqqqka304fba602vaa33c.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%2817%29
 vless://30bacb3e-a515-42bc-9e0b-5241f32e8080@190.93.246.241:80?path=%2F&security=none&encryption=none&host=18.xn--od1bqqqka304fba602vaa33c.info&type=ws#%F0%9F%87%BA%F0%9F%87%B8+%40v2raySHield++%7C++%2818%29
@@ -997,4 +998,3 @@ vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.67.251.99:80?security=none&type
 vless://bd582d2b-c10f-4c6e-9efd-db6cca113be1@141.101.123.143:2083?security=tls&sni=bIgshOw.thElasTofus.lol&type=ws&host=bIgshOw.thElasTofus.lol&path=%2Fshahdad&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.123.143:2083 📡 PING-006.09-MS
 vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@162.159.129.32:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.32:80 📡 PING-006.09-MS
 vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@172.67.76.142:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🇺🇸 US-172.67.76.142:80 📡 PING-006.04-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.3.145:80?type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.3.145:80 📡 PING-006.01-MS
