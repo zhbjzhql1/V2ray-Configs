@@ -1,3 +1,7 @@
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@sg21.vlessx.xyz:8443?path=fuck_yes%21&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#Fast+%283%29+%E2%9A%A1%EF%B8%8F
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@Instagram.vpn.cT.arvancode.eu.Org:443?path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&security=tls&encryption=none&host=Iran.ir.arvancode.eu.Org&fp=chrome&type=ws&sni=Iran.ir.arvancode.eu.Org#Fast+%284%29+%E2%9A%A1%EF%B8%8F
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Fast+%285%29+%E2%9A%A1%EF%B8%8F
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Fast+%286%29+%E2%9A%A1%EF%B8%8F
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#Fast+%287%29+%E2%9A%A1%EF%B8%8F
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Fast+%288%29+%E2%9A%A1%EF%B8%8F
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#Fast+%289%29+%E2%9A%A1%EF%B8%8F
@@ -994,7 +998,3 @@ vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@172.64.142.31:80?type=ws&host=vmess
 vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.64.109.186:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🇺🇸 US-172.64.109.186:80 📡 PING-010.66-MS
 vless://7f55b425-a623-439b-bbd5-0b1778162054@172.64.143.61:80?security=none&type=ws&host=Free1V2rayGod.xn--oor7hj4iyes9ldmi6b99k5zcm7ge8wfuhdo4cd8m61eqretu4en5hcvkerw.site.&path=%40V2ray_God%3DTelegram%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.64.143.61:80 📡 PING-010.64-MS
 vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@172.64.204.104:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🇺🇸 US-172.64.204.104:80 📡 PING-010.64-MS
-vless://07b195c2-3264-4e7e-bd3e-ac495dbb0033@172.64.170.35:8880?security=none&type=ws&host=user52.rogay76608.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.64.170.35:8880 📡 PING-010.64-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@172.64.162.215:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.64.162.215:8443 📡 PING-010.64-MS
-vless://fa74c6c6-5e0a-43f6-9997-ed0e10dc10bc@172.64.201.23:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🇺🇸 US-172.64.201.23:80 📡 PING-010.52-MS
-vless://17b815c2-1ccc-4597-ae4f-9c9f408602d7@162.251.82.187:2095?security=none&type=ws&host=24.shaadi.biz.id&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-162.251.82.187:2095 📡 PING-010.48-MS
