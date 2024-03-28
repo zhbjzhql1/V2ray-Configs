@@ -1,4 +1,3 @@
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.231.67:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.231.67:80 📡 PING-015.71-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.235.5:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.235.5:80 📡 PING-015.58-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.231.153:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.231.153:80 📡 PING-015.55-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.230.177:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.230.177:80 📡 PING-014.93-MS
@@ -998,3 +997,4 @@ vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.18.202.232:80?type=ws&host=369.
 vless://78f7cf68-adf0-4ce8-be18-0e599e25933c@104.21.32.7:2083?security=tls&sni=m.instagram.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.7:2083 📡 PING-001.64-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@190.93.244.147:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-190.93.244.147:80 📡 PING-001.64-MS
 vless://b7c7234e-2987-4de8-b115-73fabf609a0a@92.223.84.79:443?security=tls&sni=gcore.com&type=ws&host=vmess2.com&path=%2F&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇱🇺 LU-92.223.84.79:443 📡 PING-001.64-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.121.44:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.121.44:80 📡 PING-001.63-MS
