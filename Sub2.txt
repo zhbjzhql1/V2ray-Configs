@@ -1,3 +1,12 @@
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.215:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.212.215:80 📡 PING-014.08-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.231.153:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.231.153:80 📡 PING-014.07-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.237.62:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.237.62:80 📡 PING-014.04-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.236.217:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.236.217:80 📡 PING-014.00-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.180:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-198.41.212.180:80 📡 PING-013.97-MS
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.140:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.233.140:443 📡 PING-013.95-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.235.57:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.235.57:80 📡 PING-013.93-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.233.18:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.233.18:80 📡 PING-013.84-MS
+vless://575955d9-b69c-4f50-a867-6a51d3b57252@172.105.25.249:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-172.105.25.249:443 📡 PING-013.59-MS
 vless://575955d9-b69c-4f50-a867-6a51d3b57252@172.105.25.249:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-172.105.25.249:2003 📡 PING-012.53-MS
 vless://1c365890-f472-4457-b422-6f5a173e7aea@104.21.18.228:2096?security=tls&sni=dhdjejwkksjdjckdoelapqpqjqbendjcncndnwnwkw.varzesh7-liqgroup.site&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.228:2096 📡 PING-005.18-MS
 vless://d0817f33-a5c4-495a-9dc7-e5fe6b1986b1@23.227.60.164:2087?security=tls&sni=as.moienmusic.space&type=grpc&serviceName=Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY-Telegram%3A%40POLPROXY&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇨🇦 CA-23.227.60.164:2087 📡 PING-004.60-MS
@@ -989,12 +998,3 @@ vless://9a3248e7-6bb2-4f1a-94de-24a6bee5c431@172.67.204.239:443?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.234.121:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.234.121:80 📡 PING-001.42-MS
 vless://6894ca9d-6922-4a9a-b60e-69419b01847e@188.114.98.76:443?security=tls&sni=de1-vless.greenssh.xyz&type=ws&host=de1-vless.greenssh.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇳🇱 NL-188.114.98.76:443 📡 PING-001.42-MS
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@45.195.62.108:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=%2FproxyIP#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.108:443 📡 PING-001.41-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.67.30:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.67.30:80 📡 PING-001.40-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:80?security=none&type=ws&host=k.kp&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-151.101.128.144:80 📡 PING-001.39-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-151.101.0.144:443 📡 PING-001.32-MS
-vless://abaaccb-acab-baca-dcba-ccbbcbbcaaaa@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vless://d99a65e2-9f29-44dc-af0f-365029588d77@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
-vless://c7c8cc65-a0a1-4d52-8d9f-626915f385b7@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
-vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20WS%20@V2rayStore
-vless://a6fd1240-d87b-4ea2-bacd-ac329b54bc43@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
-vless://4a3a2a49-388c-4263-ba6a-893181d72b62@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
