@@ -1,5 +1,3 @@
-vless://17fd4223-dfe8-45fc-93c8-0a816f7bdefd@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20TCP%20@V2rayStore
-vless://301f4485-2d56-4d78-a30d-a55ca109e5ff@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://30d04308-8e1c-45d0-9b6a-f414865bafe0@fr2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://d99a65e2-9f29-44dc-af0f-365029588d77@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -998,3 +996,5 @@ vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.18.202.232:2053?encryption=none
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?encryption=none&host=fucken.oracle&path=%2F%3Fed%3D2048&security=tls&sni=www.data.gov.uk&type=ws#رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@cdn.user.com:80?encryption=none&host=ehda.sajaditsme.com&path=%2F%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @VmessProtocol | CA🇨🇦 | 0️⃣4️⃣
 vless://b7c7234e-2987-4de8-b115-73fabf609a0a@gcore.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=vmess2.com&path=%2F&security=tls&sni=gcore.com&type=ws#رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣
+vless://SVNTEAMm@185.146.173.59:80?encryption=none&host=SvnTeamV2rayGm7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @DailyV2RY | SE🇸🇪 | 0️⃣1️⃣
+vless://SVNTEAMm@185.146.173.59:80?encryption=none&host=SvnTeamV2rayNe7.7.7.7.ir.Com.Site.xn--fhq0laa256bac7403eea044azr5g.CoM.&path=%2FSvnTeam-TeleGram-ChaNnel-VIP%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @DailyV2RY | SE🇸🇪 | 0️⃣2️⃣
