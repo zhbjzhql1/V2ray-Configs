@@ -1,4 +1,3 @@
-vless://416aedde-3a3a-4fa3-b502-7bb5f722f397@104.16.60.8:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:80 📡 PING-001.42-MS
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.10:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-151.101.131.10:80 📡 PING-001.42-MS
 vless://f2279d14-ae49-4fce-9105-293cc8849c8d@104.31.16.136:8880?security=none&type=ws&host=humid.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.136:8880 📡 PING-001.41-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.74.202:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.74.202:80 📡 PING-001.39-MS
@@ -998,3 +997,4 @@ vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2096?encryption=none&f
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@zula.ir:443?encryption=none&host=test39.pages.dev&path=Path%2FTelegram+%3A+FreakConfig+%2F%3Fed%3D2048&security=tls&sni=test39.pages.dev&type=ws#رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣7️⃣
 vless://36f8119d-13db-45a2-b59a-a86d938d5dc8@154.197.75.80:80?host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&type=ws#رایگان | VLESS | @UnlimitedDev | DE🇩🇪 | 0️⃣1️⃣
 vless://36f8119d-13db-45a2-b59a-a86d938d5dc8@iranserver.com:80?encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048&security=none&type=ws#رایگان | VLESS | @UnlimitedDev | CA🇨🇦 | 0️⃣2️⃣
+vless://36f8119d-13db-45a2-b59a-a86d938d5dc8@bia-to2.unlimiteddev.site:80?encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&type=ws#رایگان | VLESS | @UnlimitedDev | CA🇨🇦 | 0️⃣3️⃣
