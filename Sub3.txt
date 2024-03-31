@@ -994,7 +994,7 @@ vless://b90324ad-e9ca-411b-ab35-05118d5564ba@104.21.64.111:443?security=tls&sni=
 vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.110.9:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.110.9:443 📡 PING-000.00-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.146.100:443?security=tls&sni=baipiao163.stunning-bassoon.pages.dev&type=ws&host=baipiao163.stunning-bassoon.pages.dev&path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.146.100:443 📡 PING-000.00-MS
 vless://bccbaaa-acab-cbaa-adbc-cccbbaabaacb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vless://d99a65e2-9f29-44dc-af0f-365029588d77@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
-vless://c7c8cc65-a0a1-4d52-8d9f-626915f385b7@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
-vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20WS%20@V2rayStore
-vless://a6fd1240-d87b-4ea2-bacd-ac329b54bc43@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
+vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@storeships.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=storeships.toptechnonews.com&sni=storeships.toptechnonews.com&path=/nimws#storeships.toptechnonews.com_VLESS_WS
+vless://2c091d43-9eca-4677-b04a-f56c9d7b606b@auto.minusober.com:443?type=ws&path=%2Fauto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=auto.minusober.com#auto-yq5rwqut
+vless://b90324ad-e9ca-411b-ab35-05118d5564ba@cris.lm10football.com:443?type=ws&path=%2Fcris&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=cris.lm10football.com#cris.lm10football.com-7g1rblao
+vless://f5a78514-1a94-486e-92a7-3bc9817095a6@nitriding.appreviewcenter.com:443?encryption=none&security=tls&type=ws&host=nitriding.appreviewcenter.com&sni=nitriding.appreviewcenter.com&path=/nimws#nitriding.appreviewcenter.com_VLESS_WS
