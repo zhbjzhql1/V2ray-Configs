@@ -1,6 +1,3 @@
-vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@172.67.208.209:2096?security=tls&sni=moon.norwaylovers.com&type=ws&path=%2Fmoon&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.208.209:2096 📡 PING-002.49-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.57:8443?security=tls&sni=8-2bw.pages.dev&type=ws&path=%40V2raySeven%40V2raySeven%40V2raySeven%40V2raySeven%2F%3Fed&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.57:8443 📡 PING-002.49-MS
-vless://006f17ed-4224-42bb-8701-7e588a3faf18@104.22.7.12:2053?security=tls&sni=dL.tOpgMen.MOnster.&type=ws&host=dL.tOpgMen.MOnster.&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.7.12:2053 📡 PING-002.49-MS
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2096?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.67.73.163:2096 📡 PING-002.48-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.241.52:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.241.52:443 📡 PING-002.48-MS
 vless://416aedde-3a3a-4fa3-b502-7bb5f722f397@104.17.102.66:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.102.66:80 📡 PING-002.48-MS
@@ -998,3 +995,6 @@ vless://cfc9153d-5c48-4599-9ff7-3805b81b7ade@104.168.107.230:8667?security=reali
 vless://7c679f68-f379-4f3b-b898-e8e3112f1595@104.168.107.230:9333?security=reality&flow=xtls-rprx-vision&sni=nachtzug.net&type=tcp&fp=chrome&pbk=33QiscjUlU-Gl_9JrQ5G3xoLEgpVAIhYa72G-LK9S04&sid=0eeb54f9f697f890#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9333 📡 PING-024.30-MS
 vless://89d67f6d-cde7-49fd-a453-af19dae40145@104.168.107.230:9633?security=reality&flow=xtls-rprx-vision&sni=fr.4cdn.de&type=tcp&fp=chrome&pbk=33QiscjUlU-Gl_9JrQ5G3xoLEgpVAIhYa72G-LK9S04&sid=0eeb54f9f697f890#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9633 📡 PING-024.26-MS
 vless://5d8569a9-a8cb-4c5e-9ea9-cc40de873a35@104.31.16.65:443?security=reality&sni=filTer-1tg.pAges.DeV&type=ws&host=FIltEr-1tg.pagEs.DeV&path=%2F%3Fed%3D2047#🔒 VL-WS-RLT 🏴‍☠️ NA-104.31.16.65:443 📡 PING-002.61-MS
+vless://aabacbc-acab-caba-dbac-ccabcaabbacb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vless://d99a65e2-9f29-44dc-af0f-365029588d77@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
+vless://c7c8cc65-a0a1-4d52-8d9f-626915f385b7@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
