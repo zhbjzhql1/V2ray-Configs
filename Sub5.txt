@@ -1,3 +1,4 @@
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.183.230:443?encryption=none&host=3k.pureboy.eu.org&path=TELEGRAM..%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣
 vless://bb4f8d48-b97b-4c2a-9f0d-ecfd5a6f52b7@194.5.54.206:55844?encryption=none&headerType=http&security=none&type=tcp#رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣5️⃣
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?encryption=none&host=w1.sylar8.eu.org&path=%D0%AF%CE%9EZ%CE%9BServer%2F%3Fed%3D2048&security=tls&sni=w1.sylar8.eu.org&type=ws#رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.64.89.170:443?encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&type=ws#رایگان | VLESS | @ShadowProxy66 | CA🇨🇦 | 0️⃣7️⃣
