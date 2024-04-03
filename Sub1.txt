@@ -1,3 +1,4 @@
+
 à`ñ!¶ia¶il·)^è ÝtÒvg­jv¦zøÂ+µÊ'µéíÂ'm×¯Ç°Ûax­©lq©^ÖÈky-¡ø­íÙ^ãN
 ¢Ñhºw¶+e{ø^iÖèw+-ÊW
 #profile-title: base64:VFZDIHwgRE9OQVRFRA==
@@ -997,4 +998,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORGcyWVdJeg==@95.164.35.90:8388#🔒 SS-TCP-
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.99.192:443#🔒 SS-TCP-NA 🇩🇪 DE-141.95.99.192:443 📡 PING-152.25-MS
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@135.125.172.153:443#🔒 SS-TCP-NA 🇫🇷 FR-135.125.172.153:443 📡 PING-152.36-MS
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.28:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.83.28:443 📡 PING-152.44-MS
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.83.8:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.83.8:443 📡 PING-152.48-MS
