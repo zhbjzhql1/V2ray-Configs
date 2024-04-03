@@ -1,3 +1,5 @@
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TVBraVplc2wvNEtXQm9Wb3hYaDBJQnNhRk9KM2VhQkFjcE9lbmlNM25iWT0=@45.131.108.215:8964#🔒 SS-TCP-NA 🇳🇱 NL-45.131.108.215:8964 📡 PING-093.13-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.216:7002 📡 PING-093.71-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWFiOWU4YThlNTgxYTE4@3.121.38.16:443#🔒 SS-TCP-NA 🇩🇪 DE-3.121.38.16:443 📡 PING-094.10-MS
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.234.69.244:16899#🔒 SS-TCP-NA 🇨🇦 CA-104.234.69.244:16899 📡 PING-094.13-MS
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041 📡 PING-095.35-MS
@@ -996,5 +998,3 @@ vless://ba8d85de-1ab1-4c23-8866-3b9b27546c18@85.9.99.30:7735?security=none&type=
 vless://bdb904d3-a032-4a1d-8fe3-0d3c8bc845fe@94.182.137.245:17317?security=none&type=tcp&host=Zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.137.245:17317 📡 PING-165.55-MS
 vless://85283cde-5710-446e-f9b9-58d0ae53c5f1@79.127.54.23:8081?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-79.127.54.23:8081 📡 PING-165.85-MS
 vless://8e9fbbbc-5594-42e7-b2e9-5b393604a5af@2.189.130.110:13424?security=none&type=ws&path=Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet-Telegram:@iranvipnet#🔒 VL-WS-NONE 🇮🇷 IR-2.189.130.110:13424 📡 PING-165.87-MS
-vless://73704f0f-c622-4cd4-b516-036c3e3ae687@185.126.9.123:49806?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.9.123:49806 📡 PING-165.93-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.74.41.136:2087?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇯🇵 JP-47.74.41.136:2087 📡 PING-165.94-MS
