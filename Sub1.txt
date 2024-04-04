@@ -996,5 +996,5 @@ trojan://5019a410-e7f4-11ee-b17a-1239d0255272@172.67.159.13:443?security=tls&sni
 trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@172.67.192.61:2087?security=tls&sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc#🔒 TR-GRPC-TLS 🇺🇸 US-172.67.192.61:2087 📡 PING-001.50-MS
 trojan://6x8HcghsjS@103.214.68.57:10003?sni=yes998.chickenkiller.com&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇳🇱 NL-103.214.68.57:10003 📡 PING-000.00-MS
 trojan://ccaabba-bcaa-baca-dcab-babccbaacacb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vless://0fdd8743-50fe-4615-ba4d-be3bd6d98cb3@tana.minusober.com:443?type=ws&path=%2Ftana&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=tana.minusober.com#tana-76sn2cr5
-vless://0d8a3822-24fa-4a55-bffb-443793582162@run.nextgentechnews.com:443?type=ws&path=%2Frun&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=run.nextgentechnews.com#run-c62m3xuw
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@KOSeMADAR-PUBLISHER.ddns.net:443?sni=q77gpucuontxt4hkbdg8.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  1
+vless://7d3b945d-0f23-4719-9fae-50033251e2fd@09303582303.ddns.net:443?sni=4n5c7jo0lca3g3upivhj.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  2
