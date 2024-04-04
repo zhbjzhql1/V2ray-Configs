@@ -976,25 +976,25 @@ trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxre
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.8:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.8:443 📡 PING-001.58-MS
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443 📡 PING-001.49-MS
 trojan://accaabb-acba-abac-dbac-acbacbcabcab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vless://03b0a82a-1a80-4900-ab44-78a922e5aba5@kana.minusober.com:443?type=ws&path=%2Fkana&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=kana.minusober.com#kana-fikz5ouw
-vless://f5a78514-1a94-486e-92a7-3bc9817095a6@nitriding.appreviewcenter.com:443?encryption=none&security=tls&type=ws&host=nitriding.appreviewcenter.com&sni=nitriding.appreviewcenter.com&path=/nimws#nitriding.appreviewcenter.com_VLESS_WS
-vless://a318d48d-9882-4d88-8c73-be6e0721d0f3@sweet.footballlovernews.com:443?type=ws&path=%2Fsweet&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=sweet.footballlovernews.com#sweet-dq9jjnkz
-vless://f4f69ee1-09df-4ca2-a002-89ee0ec8156a@accolade.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=accolade.toptechnonews.com&sni=accolade.toptechnonews.com&path=/nimws#accolade.toptechnonews.com_VLESS_WS
-vless://db1eeace-797f-4d75-ac27-9a97acda853d@pikk.minusober.com:443?type=ws&path=%2Fpikk&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=pikk.minusober.com#pikk-mafs45pk
-vless://43e00e4c-2316-4dc9-8262-cef31886dc56@marly.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=marly.toptechnonews.com&sni=marly.toptechnonews.com&path=/nimws#marly.toptechnonews.com_VLESS_WS
-vless://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@moon.norwaylovers.com:2096?type=ws&path=%2Fmoon&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=moon.norwaylovers.com#moon-ac5tjknx
-vless://66dfb5f2-1c63-4d82-94a7-0915bedd93b9@knocked.aurorainiceland.com:443?encryption=none&security=tls&type=ws&host=knocked.aurorainiceland.com&sni=knocked.aurorainiceland.com&path=/nimws#knocked.aurorainiceland.com_VLESS_WS
-vless://452de40b-8449-48aa-bbce-4ff653d1f00b@foal.aurorainiceland.com:2096?type=ws&path=%2Ffoal&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=foal.aurorainiceland.com#foal-nw2d5xtk
-vless://c49ad197-37b6-40a7-971d-05e6e8a0bdac@tere.minusober.com:443?type=ws&path=%2Ftere&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=tere.minusober.com#tere-c1puls8i
-vless://03728bdd-745c-4ef6-a01f-70b006d3bbae@thorianite.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=thorianite.toptechnonews.com&sni=thorianite.toptechnonews.com&path=/nimws#thorianite.toptechnonews.com_VLESS_WS
-vless://b867aa62-33f4-452a-a175-98b84fad295b@unlikelier.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=unlikelier.toptechnonews.com&sni=unlikelier.toptechnonews.com&path=/nimws#unlikelier.toptechnonews.com_VLESS_WS
-vless://ce526092-81c1-42be-8354-88e58946c1f3@monardas.aurorainiceland.com:443?encryption=none&security=tls&type=ws&host=monardas.aurorainiceland.com&sni=monardas.aurorainiceland.com&path=/nimws#monardas.aurorainiceland.com_VLESS_WS
-vless://cf8bb4ec-607a-4952-9439-6df496f1a70d@ring.minusober.com:443?type=ws&path=%2Fring&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ring.minusober.com#ring-bld9s725
-vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@steel.footballlovernews.com:443?type=ws&path=%2Fsteel&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=steel.footballlovernews.com#steel-7wemi0le
-vless://83a306b9-7ead-49db-a60a-b09588b517bd@return.footballlovernews.com:443?type=ws&path=%2Freturn&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=return.footballlovernews.com#return-aklgtbar
-vless://19477f96-ea81-4f5b-93e7-119a171a7813@safe.footballlovernews.com:443?type=ws&path=%2Fsafe&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=safe.footballlovernews.com#safe-dcokde76
-vless://d15f5947-f95c-4cc4-b8e0-20219e4bc2d1@divide.footballlovernews.com:443?type=ws&path=%2Fdivide&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=divide.footballlovernews.com#divide-r10fgt3g
-vless://392a24d2-b87c-498e-a97a-51f3027f05c6@tomat.minusober.com:443?type=ws&path=%2Ftomat&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=tomat.minusober.com#tomat-fvcpqbrx
-vless://9b55ef31-45a1-4ee7-b306-244571ac0b2e@ulm.minusober.com:443?type=ws&path=%2Fulm&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ulm.minusober.com#ulm-5jb70x9r
-vless://ff3c4db3-2259-479e-a0e0-7af7d1d429db@shaliest.toptechnonews.com:443?encryption=none&security=tls&type=ws&host=shaliest.toptechnonews.com&sni=shaliest.toptechnonews.com&path=/nimws#shaliest.toptechnonews.com_VLESS_WS
-vless://872fc34c-d2e2-4134-9e77-f2cd08a8b9d0@shift.footballlovernews.com:443?type=ws&path=%2Fshift&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=shift.footballlovernews.com#shift-icrdxjmq
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Fast+%281%29+%E2%9A%A1%EF%B8%8F
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@jp10.vlessx.xyz:8443?path=fuck_yes%21&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#Fast+%282%29+%E2%9A%A1%EF%B8%8F
+vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@sg21.vlessx.xyz:8443?path=fuck_yes%21&security=tls&encryption=none&host=pages.20230619.love&type=ws&sni=pages.20230619.love#Fast+%283%29+%E2%9A%A1%EF%B8%8F
+vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@Instagram.vpn.cT.arvancode.eu.Org:443?path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&security=tls&encryption=none&host=Iran.ir.arvancode.eu.Org&fp=chrome&type=ws&sni=Iran.ir.arvancode.eu.Org#Fast+%284%29+%E2%9A%A1%EF%B8%8F
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Fast+%285%29+%E2%9A%A1%EF%B8%8F
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Fast+%286%29+%E2%9A%A1%EF%B8%8F
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#Fast+%287%29+%E2%9A%A1%EF%B8%8F
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Fast+%288%29+%E2%9A%A1%EF%B8%8F
+vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#Fast+%289%29+%E2%9A%A1%EF%B8%8F
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#Fast+%2810%29+%E2%9A%A1%EF%B8%8F
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@18.232.106.7:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@3.81.46.245:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@54.157.235.59:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@44.195.128.184:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@3.237.232.3:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@44.203.244.222:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@54.91.234.239:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@3.239.22.139:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@54.91.143.242:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@54.174.224.19:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@3.89.114.235:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
+vless://9e1a11a4-5833-4cf9-a4e4-4833a78be0c9@54.159.117.195:2052?path=%3Fed%3D2048&security=none&encryption=none&type=ws#%F0%9F%94%A5+%40v2raySHield
