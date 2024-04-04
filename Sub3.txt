@@ -1,14 +1,3 @@
-vless://48cf0a3d-ceee-4239-bbe5-4313da9546db@es-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20TCP%20@V2rayStore
-vless://4b4e99ca-2b86-4a03-89ce-681ae9d73b69@sg-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20@V2rayStore
-vless://a858f540-242f-4aa1-a514-2d57877866ee@sg2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20@V2rayStore
-vless://4ebc6b52-af2f-4b10-ae8b-7d0b6d5e529f@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20@V2rayStore
-vless://411e6b72-30df-4397-aa04-2a8aca27dbdf@nl-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20TCP%20@V2rayStore
-vless://ee09cca8-c4b6-424f-abff-013076356c5c@nl2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20TCP%20@V2rayStore
-vless://211e6a9d-60d8-45ee-b2d1-e9a793c0b08a@ca-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20TCP%20@V2rayStore
-vless://17fd4223-dfe8-45fc-93c8-0a816f7bdefd@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20TCP%20@V2rayStore
-vless://301f4485-2d56-4d78-a30d-a55ca109e5ff@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
-vless://30d04308-8e1c-45d0-9b6a-f414865bafe0@fr2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
-vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://c0f6349f-b40d-4320-a75e-550bd81cb0f1@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://fc31e59b-a364-4b0b-afa3-fddf67d28020@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20TCP%20XTLS%20@V2rayStore
