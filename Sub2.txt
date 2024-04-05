@@ -1,3 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WXRBVW5iSGJOYlZmREx2VmZpWGZk@23.165.104.186:443#🔒 SS-TCP-NA 🇺🇸 US-23.165.104.186:443 📡 PING-030.89-MS
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.132:5004#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.132:5004 📡 PING-030.84-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@138.91.113.228:16899#🔒 SS-TCP-NA 🇺🇸 US-138.91.113.228:16899 📡 PING-028.20-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.135.11.73:16899#🔒 SS-TCP-NA 🇺🇸 US-66.135.11.73:16899 📡 PING-027.63-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.173.114.6:30128#🔒 SS-TCP-NA 🇺🇸 US-107.173.114.6:30128 📡 PING-026.96-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@157.254.231.189:16899#🔒 SS-TCP-NA 🇺🇸 US-157.254.231.189:16899 📡 PING-023.16-MS
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@138.91.113.228:30129#🔒 SS-TCP-NA 🇺🇸 US-138.91.113.228:30129 📡 PING-022.63-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@45.153.48.114:443#🔒 SS-TCP-NA 🇨🇦 CA-45.153.48.114:443 📡 PING-019.71-MS
 ss://UGFyc2FzaG9uYW0tMDo=@104.18.202.232:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.202.232:443 📡 PING-001.74-MS
@@ -992,9 +998,3 @@ vless://6395d316-c607-47b7-be2e-b0e72659b91d@172.67.69.236:443?security=tls&sni=
 vless://b0080418-ecc7-4b21-a395-c1a057bc3f87@104.25.255.25:443?security=tls&sni=xn--hgb3a0cs.irquran.shop&type=ws&host=xn--hgb3a0cs.irquran.shop&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=android&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.255.25:443 📡 PING-001.78-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.27.150:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.27.150:80 📡 PING-001.78-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.70.186:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.70.186:80 📡 PING-001.78-MS
-vless://c26a65de-82bc-4997-aca7-6f1fb157f74d@104.20.224.95:443?security=tls&sni=fan.kostala.org&type=ws&host=fan.kostala.org&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.224.95:443 📡 PING-001.77-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.153.236:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.153.236:80 📡 PING-001.77-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-91.193.58.119:2053 📡 PING-001.77-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.22.109:80?type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.109:80 📡 PING-001.77-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.69.154:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.69.154:80 📡 PING-001.77-MS
-vless://ca2d9996-0a16-49d0-b6ca-2d020473dcc2@104.26.14.85:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.14.85:80 📡 PING-001.77-MS
