@@ -1,4 +1,3 @@
-trojan://1b49909d-1adb-4fa0-8218-1ab2bae3eb28@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443 📡 PING-125.73-MS
 trojan://telegram-id-privatevpns@13.49.28.198:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.49.28.198:22222 📡 PING-125.96-MS
 trojan://984c9804-6558-426e-aeeb-c0a2a1ae346a@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443 📡 PING-130.38-MS
 trojan://5f97ac20-1bc5-440c-9ad4-dae28f4b82a1@94.131.117.240:443?#🔒 TR-TCP-NA 🇪🇸 ES-94.131.117.240:443 📡 PING-133.00-MS
@@ -998,3 +997,4 @@ vless://278e6bb1-6fa6-4173-8722-cda26ec6f789@172.67.134.153:443?security=tls&sni
 vless://44b68625-8022-452b-8c91-ee40abe7ff63@104.21.85.68:443?security=tls&sni=ppaL03.aLesSIA-beRNiER.wORkeRS.dEv&type=ws&host=ppaL03.alEssiA-bERNIer.wORKeRS.dEV&path=/7mIeBq1gL7p8gNfU?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.85.68:443 📡 PING-001.90-MS
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.125:80 📡 PING-001.90-MS
 vless://850d2f5b-8645-4787-a7fd-be99dfc8d47f@91.193.58.1:2082?security=none&type=ws&path=%2Fte#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.1:2082 📡 PING-001.90-MS
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.67.73.163:2083 📡 PING-001.90-MS
