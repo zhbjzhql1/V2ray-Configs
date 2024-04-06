@@ -1,3 +1,11 @@
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@103.172.116.79:9044#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9044 📡 PING-172.72-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20180#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20180 📡 PING-173.01-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20175#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20175 📡 PING-173.02-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20181#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20181 📡 PING-173.23-MS
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@103.172.116.103:9006#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9006 📡 PING-173.26-MS
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@103.172.116.103:9060#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9060 📡 PING-173.37-MS
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@103.172.116.103:9056#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9056 📡 PING-173.51-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20182#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20182 📡 PING-173.53-MS
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@103.172.116.103:9024#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9024 📡 PING-173.55-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXcnN6U1A0M1VBT2NGbGpEa2I4dkFM@185.174.137.72:57262#🔒 SS-TCP-NA 🇫🇮 FI-185.174.137.72:57262 📡 PING-173.78-MS
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@103.172.116.79:9000#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9000 📡 PING-173.78-MS
@@ -990,11 +998,3 @@ vless://06d6421a-0a64-4c39-8cbb-a81c2202bd1c@172.67.204.239:2053?security=tls&sn
 vless://d8edd35e-fb4a-4611-92f3-0d2f7d49eaa1@172.67.166.116:443?security=tls&sni=fkrhkwrhkwrwhkhk.htbsehebdfthet5htedthdr.workers.dev&type=ws&host=fkrhkwrhkwrwhkhk.htbsehebdfthet5htedthdr.workers.dev#🔒 VL-WS-TLS 🇺🇸 US-172.67.166.116:443 📡 PING-008.59-MS
 vless://5c423ba6-5451-44a3-bda8-7c7927e95c98@104.21.74.214:8443?security=tls&sni=joinnett85.servernet.cfd&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:8443 📡 PING-008.59-MS
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@104.21.69.44:443?security=tls&sni=ab-841-vpn.pages.dev&type=ws&host=ab-841-vpn.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:443 📡 PING-008.59-MS
-vless://0c4af6ac-5dac-4a5f-be32-51c0c3ee3646@45.94.169.99:2096?security=tls&sni=hopev2ray.accme.link&type=grpc&serviceName=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇦 UA-45.94.169.99:2096 📡 PING-008.59-MS
-vless://58172a35-8d87-431f-bd4f-ad051e90a52c@198.41.199.166:8080?security=none&type=ws&host=auXteV.nIGC-Ar.cOM&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.199.166:8080 📡 PING-008.59-MS
-vless://9286513c-8184-4020-bedd-e75344e75bd9@104.21.201.246:443?security=tls&sni=ie2-vless.sshmax.xyz&type=ws&host=ie2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.201.246:443 📡 PING-008.59-MS
-vless://498a38ae-09f0-45f8-a0d7-06ed9d0c302e@172.66.47.107:2096?security=tls&sni=skdjfsklhfgd7fgy493toksjfog.pages.dev&type=ws&path=Path%2FTelegram%40SINABIGO%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.107:2096 📡 PING-008.59-MS
-vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.193.36:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=Telegram...PROXY_MTM%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.193.36:2096 📡 PING-008.59-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.7.183:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.7.183:80 📡 PING-008.59-MS
-vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.147.142:443 📡 PING-008.59-MS
-vless://5faa94c6-ea27-4ea0-9e39-2de3d6ea9be1@104.21.33.85:8880?security=none&type=ws&host=channel-falcunargo.efa180b5d7.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.33.85:8880 📡 PING-008.59-MS
