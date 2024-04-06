@@ -1,9 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989#🔒 SS-TCP-NA 🇧🇦 BA-185.164.35.9:989 📡 PING-189.41-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTzhxZXJ5OFdFMkh4UjVxSTlVaDQy@195.2.76.71:60422#🔒 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422 📡 PING-191.22-MS
-ss://YWVzLTI1Ni1nY206MU5LcDVVUjBZUkUyOG1kZg==@37.140.241.40:55223#🔒 SS-TCP-NA 🇷🇺 RU-37.140.241.40:55223 📡 PING-191.32-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.181:989 📡 PING-191.36-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#🔒 SS-TCP-NA 🇷🇺 RU-45.139.24.63:57456 📡 PING-191.37-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@193.182.144.240:989#🔒 SS-TCP-NA 🇮🇱 IL-193.182.144.240:989 📡 PING-194.18-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.59.99:989#🔒 SS-TCP-NA 🇪🇬 EG-38.54.59.99:989 📡 PING-197.94-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#🔒 SS-TCP-NA 🇨🇾 CY-213.169.137.221:989 📡 PING-199.71-MS
 ss://YWVzLTI1Ni1nY206ZlZkb3Z2S0JsQzA2cE83cw==@195.20.17.224:34282#🔒 SS-TCP-NA 🇮🇱 IL-195.20.17.224:34282 📡 PING-202.57-MS
@@ -998,3 +992,9 @@ vless://2b9982ec-5ec8-589e-9b89-7521c95227fa@104.21.81.103:2053?security=tls&sni
 vless://4755a271-e240-41aa-b638-5bff727918e3@104.21.96.66:2087?security=tls&sni=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&type=ws&host=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.66:2087 📡 PING-001.43-MS
 vless://0eccbc6c-2a80-4e4a-b6ed-b9f8e98ebf01@104.16.42.21:2096?security=tls&sni=re6.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.42.21:2096 📡 PING-001.42-MS
 vless://5dc23bba-0e31-4016-895f-517ce4b7ccc0@104.21.40.63:443?security=tls&sni=glassiest.toptechnonews.com&type=ws&host=glassiest.toptechnonews.com&path=/nimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:443 📡 PING-001.42-MS
+vless://057d3f65-60bc-4b30-a1c4-43be161fbbd6@104.26.13.8:2096?security=tls&sni=alm.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2096 📡 PING-001.42-MS
+vless://729e9f33-82d4-45bb-93f5-5a016553e43a@104.21.81.223:443?security=tls&sni=de1.v2vless.xyz&type=ws&host=de1.v2vless.xyz&path=free/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.223:443 📡 PING-001.42-MS
+vless://3cc30f6a-56c0-4a31-ad05-d285c281e3d8@104.25.138.178:80?security=none&type=ws&host=join-to.unlimiteddev.motorcycles.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.138.178:80 📡 PING-001.42-MS
+vless://54ce1a74-7a13-470d-859b-88ffe8a9d234@104.18.39.123:2053?security=tls&sni=00f7e608b8c93f9b.miladbeyranvndmobilmilad.cfd&type=ws&host=33707228dee0f23a.miladbeyranvndmobilmilad.cfd&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:2053 📡 PING-001.42-MS
+vless://c110db8f-72c8-52a2-8ae9-dfbfd9704035@104.21.4.33:443?security=tls&sni=joinmahdiserver.pmyzdpx.wOrkErS.DEV&type=ws&host=joinmahdiserver.pmyzdpx.wOrkErS.DEV&path=vless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.4.33:443 📡 PING-001.42-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:2053?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&path=telegram%40sinabigo%40sinabigo%40sinabigo%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.88:2053 📡 PING-001.42-MS
