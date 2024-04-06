@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206ZlZkb3Z2S0JsQzA2cE83cw==@195.20.17.224:34282#🔒 SS-TCP-NA 🇮🇱 IL-195.20.17.224:34282 📡 PING-182.49-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.27.87:989#🔒 SS-TCP-NA 🇮🇱 IL-192.71.27.87:989 📡 PING-183.95-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.199.125:989#🔒 SS-TCP-NA 🇸🇬 SG-38.60.199.125:989 📡 PING-185.27-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@178.175.134.2:989#🔒 SS-TCP-NA 🇲🇩 MD-178.175.134.2:989 📡 PING-187.81-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.113.163:989#🔒 SS-TCP-NA 🇲🇾 MY-38.54.113.163:989 📡 PING-189.02-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.59.99:989#🔒 SS-TCP-NA 🇪🇬 EG-38.54.59.99:989 📡 PING-190.16-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#🔒 SS-TCP-NA 🇦🇲 AM-146.185.248.22:989 📡 PING-191.22-MS
@@ -994,7 +998,3 @@ vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.66.44.201:443?security=tls&sni=
 vless://f6c19fae-1db4-46db-f612-29eb9d40a53e@104.20.37.156:2052?security=none&type=ws&host=Cs.poloo.ir&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.37.156:2052 📡 PING-008.59-MS
 vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:8080?security=none&type=ws&host=workerr.d6dkppf4.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.216.166:8080 📡 PING-008.59-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-89.116.180.161:2096 📡 PING-008.59-MS
-vless://b076202e-0c04-4437-acca-a235e2123a75@162.159.135.234:80?security=none&type=ws&host=ShhProxyFreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.234:80 📡 PING-008.59-MS
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?security=tls&sni=edge.020770.xyz&type=ws&host=edge.020770.xyz&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.56.140:443 📡 PING-008.59-MS
-vless://954bfa93-fe65-4801-81f5-6a7ea5c27ddc@172.67.207.18:2083?security=tls&sni=alienntcl.edlaghiye.com&type=grpc&serviceName=xyz&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.207.18:2083 📡 PING-008.59-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇬🇧 GB-91.193.58.119:2053 📡 PING-008.59-MS
