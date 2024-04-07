@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989#🔒 SS-TCP-NA 🇧🇦 BA-185.164.35.9:989 📡 PING-122.51-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.181:989 📡 PING-122.59-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.178:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.178:989 📡 PING-123.44-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOEgyeEU2ZjB1YkdMZVN2WnJmUUlXUkRLRTFMZ1k=@94.131.108.133:8881#🔒 SS-TCP-NA 🇹🇷 TR-94.131.108.133:8881 📡 PING-123.53-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Z1NYTFRDckw4emVLYjJuNm1naEs4SjI2R1ZIV21aQTRweXk4NFB5ZzZFPQ==@45.67.32.147:13896#🔒 SS-TCP-NA 🇷🇺 RU-45.67.32.147:13896 📡 PING-123.93-MS
@@ -996,5 +998,3 @@ vless://9bb74f9c-6385-4e90-9d16-aadf009575f8@172.66.47.145:2053?security=tls&sni
 vless://589993b2-60c2-4377-876d-83a1d5bf6211@104.18.203.232:2096?security=tls&sni=h.protoeinpaitakht.com&type=ws&host=h.protoeinpaitakht.com&path=%2F%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:2096 📡 PING-005.38-MS
 vless://ed139c1e-660a-4845-aced-a7069dcb6e7d@104.21.70.5:8443?security=tls&sni=eyd.saeedgalaxy.xyz&type=ws&host=eyd.saeedgalaxy.xyz&path=%2F&fp=chrome&alpn=http%2F1.1%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.70.5:8443 📡 PING-005.38-MS
 vless://eaa0d1c9-c9b7-4a83-ba61-24c21aadca56@104.18.156.119:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.156.119:80 📡 PING-005.38-MS
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@172.67.182.110:443?security=tls&sni=w2.sylarsun.eu.org&type=ws&host=w2.sylarsun.eu.org#🔒 VL-WS-TLS 🇺🇸 US-172.67.182.110:443 📡 PING-005.38-MS
-vless://2e19015e-e622-4544-9c12-f42533ce11e8@104.21.24.116:443?security=tls&sni=REsilience.NiREvil.IR&type=ws&host=REsilience.NiREvil.IR&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.24.116:443 📡 PING-005.37-MS
