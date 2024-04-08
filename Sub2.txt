@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8080 📡 PING-126.12-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKb3VvSEYyWU5sbHNuSFZ2UzRaSW1E@13.53.93.151:23456#🔒 SS-TCP-NA 🇸🇪 SE-13.53.93.151:23456 📡 PING-127.61-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpONldyTXhGVGVabU1ZWFpYWW04UWY4@65.108.142.67:47146#🔒 SS-TCP-NA 🇫🇮 FI-65.108.142.67:47146 📡 PING-127.77-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2376 📡 PING-128.20-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8118 📡 PING-128.44-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#🔒 SS-TCP-NA 🇵🇪 PE-190.120.229.28:989 📡 PING-129.02-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.61:989 📡 PING-129.18-MS
@@ -994,7 +998,3 @@ vless://ac0db1d9-8695-4088-9d09-459a830a9a22@172.67.167.37:2087?security=tls&sni
 vless://a39deee6-2844-4c13-93c7-4cc5fbce4ae9@104.26.14.85:2053?security=tls&sni=h.protoeinpaitakht.com&type=grpc&serviceName=@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za,@HosseinStore_Za&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.14.85:2053 📡 PING-002.60-MS
 vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.177.7:443?security=tls&sni=hdfy4c2.iraniancpi.uk&type=ws&host=hdfy4c2.iraniancpi.uk&path=%2FMr6wzC2rxRWBtLTlTL&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.177.7:443 📡 PING-002.60-MS
 vless://2eb1dcbd-5013-4545-9756-d02cfb3a8f07@172.66.47.81:2083?security=tls&sni=20d608e5.mahdi-b0n.pages.dev&type=ws&host=20d608e5.mahdi-b0n.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.81:2083 📡 PING-002.60-MS
-vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.16.68.38:2086?type=ws&host=mag.zhaal.ir&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.68.38:2086 📡 PING-002.60-MS
-vless://97fca5e0-57b2-4768-bc9a-c289a9f36715@104.26.6.89:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=%40ipV2Ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.6.89:443 📡 PING-002.59-MS
-vless://7cdd2887-a68e-4027-be00-0347735a6075@104.20.19.145:443?security=tls&sni=c.protoeinpaitakht.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.19.145:443 📡 PING-002.59-MS
-vless://8c51bf40-3933-48df-a106-9053cbacc919@91.193.58.25:8080?security=none&type=ws&host=baraye-tarsidan-be-vaghte-bosidan.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.25:8080 📡 PING-002.59-MS
