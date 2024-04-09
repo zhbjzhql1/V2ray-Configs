@@ -1,3 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg==@213.183.44.17:8388#🔒 SS-TCP-NA 🇩🇪 DE-213.183.44.17:8388 📡 PING-160.63-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.211.161:989#🔒 SS-TCP-NA 🇮🇲 IM-192.71.211.161:989 📡 PING-161.05-MS
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.134:50942#🔒 SS-TCP-NA 🇰🇷 KR-222.112.15.134:50942 📡 PING-161.08-MS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8009 📡 PING-163.96-MS
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9042 📡 PING-164.56-MS
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037 📡 PING-164.95-MS
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.160:443 📡 PING-165.07-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2375 📡 PING-165.51-MS
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041 📡 PING-166.05-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMGI1Wm9FUm96S0c0ZHIwVmEzRFhiQ1VVUXh1VUJqSVo5RjgwcXFJdmYwPQ==@186.233.118.171:5600#🔒 SS-TCP-NA 🇧🇷 BR-186.233.118.171:5600 📡 PING-166.07-MS
@@ -991,10 +998,3 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443?security=tls&sni=
 vless://a51814bb-7783-4cfe-a629-6f0054fd7a9d@162.159.136.232:80?security=none&type=ws&host=TMCUSTOMIZE-TMCUSTOMIZE.v2ray.motorcycles&path=%2F%40VPNCUSTOMIZE#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.232:80 📡 PING-001.91-MS
 vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@162.159.136.234:2095?security=none&type=ws&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:2095 📡 PING-001.91-MS
 vless://2e19015e-e622-4544-9c12-f42533ce11e8@104.22.65.93:443?security=tls&sni=REsilience.NiREvil.IR&type=ws&host=REsilience.NiREvil.IR&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.65.93:443 📡 PING-001.91-MS
-vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:2086?type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🇺🇸 US-172.67.156.192:2086 📡 PING-001.91-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@167.68.5.90:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-167.68.5.90:8443 📡 PING-001.91-MS
-vless://40d3fdd7-e534-4762-a125-359484e522ef@172.67.164.241:443?security=tls&sni=PPAL03.mAGdAlena-GaYLOrd.WOrKerS.DEv&type=ws&host=ppaL03.mAGdAlENa-gaYLord.WORkeRs.dEv&path=/bOSTH7pKWfUlKJm9?ed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.164.241:443 📡 PING-001.91-MS
-vless://c6a979db-09de-4b47-88c2-fb89c0335049@172.64.140.33:443?security=tls&sni=moein.savarkaraan.ir&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.64.140.33:443 📡 PING-001.91-MS
-vless://850d2f5b-8645-4787-a7fd-be99dfc8d47f@91.193.58.1:2082?security=none&type=ws&path=%2Fte#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.1:2082 📡 PING-001.91-MS
-vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@162.159.4.8:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.4.8:443 📡 PING-001.91-MS
-vless://fb5cfe95-ee26-4399-be4b-36d648414b9c@172.67.147.31:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.147.31:80 📡 PING-001.91-MS
