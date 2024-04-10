@@ -1,3 +1,10 @@
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041 📡 PING-095.58-MS
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037 📡 PING-095.91-MS
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9042 📡 PING-097.74-MS
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@156.146.62.160:443#🔒 SS-TCP-NA 🇨🇭 CH-156.146.62.160:443 📡 PING-097.88-MS
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@104.234.69.244:16899#🔒 SS-TCP-NA 🇨🇦 CA-104.234.69.244:16899 📡 PING-099.59-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1NlJZWnlOSWQ1Um1vV1ROVHVtMG56@185.229.65.157:8234#🔒 SS-TCP-NA 🇳🇱 NL-185.229.65.157:8234 📡 PING-100.38-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🔒 SS-TCP-NA 🇦🇹 AT-95.164.9.144:2927 📡 PING-100.96-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@85.90.217.65:989#🔒 SS-TCP-NA 🇪🇸 ES-85.90.217.65:989 📡 PING-101.19-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MEN1cG5HOW1LN0dUcXZyN3JaRW5y@212.113.106.76:61992#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.76:61992 📡 PING-102.31-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cFdWYklWSXV3NExLOXd2TWdjSFc1@193.228.128.143:27981#🔒 SS-TCP-NA 🇪🇪 EE-193.228.128.143:27981 📡 PING-103.88-MS
@@ -991,10 +998,3 @@ vless://89420825-e589-4735-bee1-6dc636fca343@104.21.90.210:8443?security=tls&sni
 vless://f119bc6c-7d80-4f06-8a0c-b3a204dbd249@104.21.1.239:443?security=tls&sni=amir2.yalda24.com&type=ws&host=amir2.yalda24.com&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.1.239:443 📡 PING-006.40-MS
 vless://e206d2de-6122-4ec6-81cb-8ab7cb0834bd@172.67.66.177:443?security=tls&sni=burnabyhighstar.com&type=ws&host=hj-en.burnabyhighstar.com&path=%2Fhajmi%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.66.177:443 📡 PING-006.39-MS
 vless://e8ad197d-2766-41ed-ad70-ba111abeebb3@147.78.140.152:8080?security=none&type=ws&host=vigiLanTe823467DHasdfh3D.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs#🔒 VL-WS-NONE 🇧🇬 BG-147.78.140.152:8080 📡 PING-006.34-MS
-vless://b8ecee2e-45d2-52d1-8224-3743c12a7d1b@172.67.213.127:443?security=tls&sni=mahdiserver.qvpdpxd.wORkeRs.dEV&type=ws&host=mahdiserver.qvpdpxd.wORkeRs.dEV&path=vless-ws%2F%3Fed%3D2048&fp=ios&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.213.127:443 📡 PING-006.34-MS
-vless://16119723-bc37-4121-bd17-a8aea9be9886@172.66.44.106:2083?security=tls&sni=ahjksdaury9425yaohduiy9gsdr4.pages.dev&type=ws&path=Path%2FTelegram%40SINABIGO%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.66.44.106:2083 📡 PING-006.33-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@34.95.126.8:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-34.95.126.8:80 📡 PING-006.32-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.238.228.212:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.212:443 📡 PING-006.32-MS
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.21.12.184:8443?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.184:8443 📡 PING-006.29-MS
-vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@162.159.36.66:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.36.66:2053 📡 PING-006.29-MS
-vless://a6aa212b-a709-4d8e-aa92-c64387b45268@31.43.179.60:80?security=none&type=ws&host=kuikku1.namiraus.info&path=%2Fkuikkuvpn#🔒 VL-WS-NONE 🇰🇿 KZ-31.43.179.60:80 📡 PING-006.28-MS
