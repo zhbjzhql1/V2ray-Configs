@@ -1,3 +1,7 @@
+vless://a0396140-0289-4f80-b1bd-4db2319f1e49@188.75.79.40:2052?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.75.79.40:2052 📡 PING-253.27-MS
+vless://2513bd46-548c-481d-9082-7f1c690079fe@95.164.114.43:443?security=tls&sni=kz-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇰🇿 KZ-95.164.114.43:443 📡 PING-254.61-MS
+vless://4fc7295d-5da9-4f06-a590-ed643ed0ab3d@217.60.247.65:55403?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.247.65:55403 📡 PING-257.51-MS
+vless://aaa59b7d-6758-4f49-80d3-e88dbfb036a8@143.110.178.122:443?security=tls&flow=xtls-rprx-vision&sni=in-freevmess.privateip.net&type=tcp&path=%2f&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇳 IN-143.110.178.122:443 📡 PING-257.57-MS
 vless://8a1282c7-4c1a-b277-bb26-8afcabef659f@37.32.20.146:3333?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.32.20.146:3333 📡 PING-258.58-MS
 vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?security=none&type=ws&path=%2Fa#🔒 VL-WS-NONE 🇮🇳 IN-144.24.139.190:28852 📡 PING-258.65-MS
 vless://8fa58961-5896-499a-a074-de3fa9873f8d@85.133.137.251:8080?security=tls&sni=ir.starze.site&type=ws&path=/#🔒 VL-WS-TLS 🇮🇷 IR-85.133.137.251:8080 📡 PING-259.95-MS
@@ -994,7 +998,3 @@ vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@185.176.26.16:2053?security=tls&sni
 vless://a4ae0c40-bba4-489e-af8c-65d16117cacd@172.66.47.102:443?security=tls&sni=v2ray-tunnel.pages.dev&type=ws&path=path%2F%40vpn_proxy66#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.102:443 📡 PING-001.72-MS
 vless://850d2f5b-8645-4787-a7fd-be99dfc8d47f@91.193.58.1:2082?security=none&type=ws&path=%2Fte#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.1:2082 📡 PING-001.72-MS
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@104.16.96.231:2096?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=%2Ffreecodes#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.96.231:2096 📡 PING-001.72-MS
-vless://908aac8f-e6d7-48ea-99e1-5de09c712d71@172.67.170.71:2083?security=tls&sni=d.nonoall.com&type=grpc&fp=safari#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.170.71:2083 📡 PING-001.72-MS
-vless://5b2bad9a-139f-4985-891f-00956573c448@172.64.199.37:443?security=tls&sni=hello-world-bitter-silence-09ff.conig57303.workers.dev&type=ws&host=hello-world-bitter-silence-09ff.conig57303.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.199.37:443 📡 PING-001.72-MS
-vless://47df6fe1-cc2a-4f26-b748-08d902272bde@104.21.76.222:443?security=tls&sni=PpAL03.arNUlFo-kunZE.WORkerS.dEV&type=ws&host=PpAl03.arNULFO-KuNZe.worKErS.Dev&path=%2FTliEF3MtZCy15nxw%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.222:443 📡 PING-001.72-MS
-vless://bab69afd-f40f-4df6-a5f0-9500a126a703@172.67.171.65:443?security=tls&sni=fi3-vless.sshmax.xyz&type=ws&host=fi3-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇺🇸 US-172.67.171.65:443 📡 PING-001.72-MS
