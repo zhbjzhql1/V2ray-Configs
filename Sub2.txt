@@ -1,3 +1,11 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.77.92.181:443#🔒 SS-TCP-NA 🇯🇵 JP-35.77.92.181:443 📡 PING-148.97-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.10.194:443#🔒 SS-TCP-NA 🇯🇵 JP-52.195.10.194:443 📡 PING-149.04-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@185.172.113.182:810#🔒 SS-TCP-NA 🇯🇵 JP-185.172.113.182:810 📡 PING-150.54-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.225.184:443#🔒 SS-TCP-NA 🇯🇵 JP-52.195.225.184:443 📡 PING-150.73-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTFZENmxiRU5qekcxdmoxNUZ2cTdy@62.113.110.233:15174#🔒 SS-TCP-NA 🇷🇺 RU-62.113.110.233:15174 📡 PING-151.25-MS
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.63.69:9019#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9019 📡 PING-152.66-MS
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@213.183.63.69:9027#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9027 📡 PING-152.74-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.27.148:989#🔒 SS-TCP-NA 🇧🇬 BG-38.54.27.148:989 📡 PING-152.92-MS
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@213.183.63.69:9020#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9020 📡 PING-153.12-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.102:989 📡 PING-153.89-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.100:989 📡 PING-154.50-MS
@@ -990,11 +998,3 @@ vless://90ffd899-b232-4204-e5fa-6c63006b9fa0@190.93.244.170:443?security=tls&sni
 vless://7da383f5-e626-4f8a-8db9-00e736e9de26@172.67.156.210:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&path=%2F%3Fed%3D2047&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.156.210:2053 📡 PING-002.68-MS
 vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?security=tls&sni=1.irancloudflare.cab&type=ws&host=1.irancloudflare.cab&path=Path%2FTelegram%40NETMelliAnti%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:8443 📡 PING-002.68-MS
 vless://2e19015e-e622-4544-9c12-f42533ce11e8@104.20.66.92:443?security=tls&sni=REsilience.NiREvil.IR&type=ws&host=REsilience.NiREvil.IR&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.66.92:443 📡 PING-002.68-MS
-vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@172.67.156.192:8080?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.156.192:8080 📡 PING-002.68-MS
-vless://5b2bad9a-139f-4985-891f-00956573c448@172.64.199.37:443?security=tls&sni=hello-world-bitter-silence-09ff.conig57303.workers.dev&type=ws&host=hello-world-bitter-silence-09ff.conig57303.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.199.37:443 📡 PING-002.68-MS
-vless://240dae3e-75d4-4505-b918-a9cc57d85d0f@172.67.207.18:2096?security=tls&sni=alienntcl.edlaghiye.com&type=ws&host=alienntcl.edlaghiye.com&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.207.18:2096 📡 PING-002.68-MS
-vless://2e19015e-e622-4544-9c12-f42533ce11e8@185.176.26.8:443?security=tls&sni=hetzner.nirevil.ir&type=ws&host=hetzner.nirevil.ir&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.8:443 📡 PING-002.68-MS
-vless://0d6a8df8-0bb2-4224-b7fd-b75daea1db79@104.21.89.6:2096?security=tls&sni=abo2.zirrr.com.tr&type=ws&host=abo2.zirrr.com.tr&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.6:2096 📡 PING-002.67-MS
-vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@45.142.120.5:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&path=Path%2FTelegram%40LOCKEY%2F%3Fed%3D2048&fp=firefox#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.5:2053 📡 PING-002.67-MS
-vless://e2443e49-e0ce-4628-808f-76469b53cf66@172.67.208.42:443?security=tls&sni=net1.zxv.biz.id&type=ws&host=net1.zxv.biz.id&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.208.42:443 📡 PING-002.67-MS
-vless://831314cf-7242-49e2-9c8d-b927af8ecbb9@172.67.208.2:443?security=tls&sni=kfvknsdvnksdvnkl.fvdfgdfdvsdfgsdvfsdv.workers.dev&type=ws&host=kfvknsdvnksdvnkl.fvdfgdfdvsdfgsdvfsdv.workers.dev#🔒 VL-WS-TLS 🇺🇸 US-172.67.208.2:443 📡 PING-002.67-MS
