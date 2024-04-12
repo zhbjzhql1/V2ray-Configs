@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZmJlYjY2OGY0ODQxNGY2@45.139.24.63:57456#🔒 SS-TCP-NA 🇷🇺 RU-45.139.24.63:57456 📡 PING-143.01-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjhqZE9JS2t4UldNVWVPZlhQZW84@109.107.172.30:28190#🔒 SS-TCP-NA 🇳🇱 NL-109.107.172.30:28190 📡 PING-143.47-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.181:989 📡 PING-143.76-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#🔒 SS-TCP-NA 🇨🇴 CO-190.120.231.45:989 📡 PING-143.82-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOEgyeEU2ZjB1YkdMZVN2WnJmUUlXUkRLRTFMZ1k=@94.131.108.133:8881#🔒 SS-TCP-NA 🇹🇷 TR-94.131.108.133:8881 📡 PING-147.75-MS
@@ -996,5 +998,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.75.26:443?security=tls&sni=i
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@104.21.32.238:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=%2F%3Fed%3D%40Alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40Alpha_v2ray_fazayi&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.238:443 📡 PING-002.86-MS
 vless://25c499e5-cb45-4989-b25d-d80688f68518@104.21.73.15:443?security=tls&sni=terapkharkose.ephoria-roye-mari.sbs&type=ws&host=terapkharkose.ephoria-roye-mari.sbs&path=%2F&alpn=http%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.15:443 📡 PING-002.86-MS
 vless://a56b225a-5f29-4c39-ad3e-e7e6de0c5df4@104.21.84.25:80?security=none&type=ws&host=ireland.cf.cdn.artificialintelligence-turbooserver.com&path=%2Fimprove-ping%2Fb#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.84.25:80 📡 PING-002.86-MS
-vless://e4e7b149-8bd8-4266-8cbb-0987604dbc87@104.17.158.128:443?security=tls&sni=toujiediansigema.5112233.xyz&type=ws&path=TG%40juzibaipiao%E5%81%B7%E8%8A%82%E7%82%B9%E6%AD%BB%E5%90%97#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.158.128:443 📡 PING-002.86-MS
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.98.197:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org&path=%2Ffreecodes#🔒 VL-WS-TLS 🇳🇱 NL-188.114.98.197:443 📡 PING-002.86-MS
