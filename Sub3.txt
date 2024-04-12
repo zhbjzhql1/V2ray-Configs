@@ -1,3 +1,6 @@
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.16:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.16:80 📡 PING-252.72-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.5.223:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.5.223:8443 📡 PING-252.74-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.137.166:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.222.137.166:8443 📡 PING-252.74-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.12:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.12:80 📡 PING-252.75-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.184.198:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.222.184.198:8443 📡 PING-252.78-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.15:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.15:80 📡 PING-253.86-MS
@@ -995,6 +998,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@31.12.75.140:2053?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:2083?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.88:2083 📡 PING-005.21-MS
 vless://b404b4e8-9164-4c7e-acbd-ea8ec0aee464@172.67.66.177:2087?security=tls&sni=www.RxV2ray.sbs&type=grpc&serviceName=%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray%2C%40RxV2ray&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.66.177:2087 📡 PING-005.21-MS
 vless://2e19015e-e622-4544-9c12-f42533ce11e8@104.16.46.92:443?security=tls&sni=REsilience.NiREvil.IR&type=ws&host=REsilience.NiREvil.IR&path=%2F%3Fed%3D2048&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.46.92:443 📡 PING-005.21-MS
-vless://4a1cee44-aa11-48c3-a6b7-6bbcfba5714c@162.159.135.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.232:2052 📡 PING-005.21-MS
-vless://33c41da4-d771-43bc-bf39-9f558bf010b4@190.93.246.241:2053?security=tls&sni=mtnedjkqlaofrdCdfrgtGR.bazaars.pro&type=ws&host=mtnedjkqlaofrdCdfrgtGR.bazaars.pro&path=%2F#🔒 VL-WS-TLS 🇨🇷 CR-190.93.246.241:2053 📡 PING-005.21-MS
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.107.13:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.107.13:443 📡 PING-005.21-MS
