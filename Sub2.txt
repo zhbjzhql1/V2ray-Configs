@@ -1,10 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOEgyeEU2ZjB1YkdMZVN2WnJmUUlXUkRLRTFMZ1k=@94.131.108.133:8881#🔒 SS-TCP-NA 🇹🇷 TR-94.131.108.133:8881 📡 PING-136.31-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZGlwSGJuSUxqQnRRZ1F4MEl3dzVx@83.217.9.199:59393#🔒 SS-TCP-NA 🇹🇷 TR-83.217.9.199:59393 📡 PING-136.41-MS
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@45.89.52.66:9001#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9001 📡 PING-136.52-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsckpWWUhDaVpBM1ZkUmNrRVdRblNn@109.107.189.185:17397#🔒 SS-TCP-NA 🇷🇺 RU-109.107.189.185:17397 📡 PING-137.49-MS
-ss://YWVzLTI1Ni1nY206MU5LcDVVUjBZUkUyOG1kZg==@37.140.241.40:55223#🔒 SS-TCP-NA 🇷🇺 RU-37.140.241.40:55223 📡 PING-139.18-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.178:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.178:989 📡 PING-140.12-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989#🔒 SS-TCP-NA 🇧🇦 BA-185.164.35.9:989 📡 PING-140.39-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#🔒 SS-TCP-NA 🇨🇴 CO-190.120.231.45:989 📡 PING-140.99-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3NWRyQUw3UGZDSXdRMnljVXVvRHNWMkxz@212.113.106.243:13022#🔒 SS-TCP-NA 🇦🇹 AT-212.113.106.243:13022 📡 PING-141.12-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKOEVhcnFzZ2FMZjF2anFvNE1jRVJG@195.2.76.71:60422#🔒 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422 📡 PING-141.74-MS
@@ -998,3 +991,10 @@ vless://c750d95b-aea8-45b4-bc04-39ac2a383450@172.105.25.249:2003?security=tls&sn
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.238.40:80?type=ws&host=us1.rtacg.com&path=/&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.238.40:80 📡 PING-008.07-MS
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.26.13.31:80?security=none&type=ws&host=mahi.kosnanatfilterchi.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.31:80 📡 PING-006.67-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.194.110:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.194.110:80 📡 PING-006.48-MS
+vless://2c55bb70-b8a0-445d-acf3-9811e231f0e0@104.21.29.228:443?security=tls&sni=cdn.metiss.ir&type=ws&host=cdn.metiss.ir&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.29.228:443 📡 PING-005.71-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.136.141:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.136.141:80 📡 PING-005.45-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:2083?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.88:2083 📡 PING-005.45-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.255.23:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.255.23:80 📡 PING-004.94-MS
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.18.24.92:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.24.92:443 📡 PING-004.90-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.153.236:80?type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.153.236:80 📡 PING-004.64-MS
+vless://5b2bad9a-139f-4985-891f-00956573c448@172.64.199.37:443?security=tls&sni=hello-world-bitter-silence-09ff.conig57303.workers.dev&type=ws&host=hello-world-bitter-silence-09ff.conig57303.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.199.37:443 📡 PING-004.60-MS
