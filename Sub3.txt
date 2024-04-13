@@ -1,6 +1,3 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.99.54.60:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-192.99.54.60:443 📡 PING-018.37-MS
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80 📡 PING-018.20-MS
-vless://6d154bf6-d60c-11ee-aaa8-00505603e70d@172.67.158.12:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&path=%2Fwebsocket#🔒 VL-WS-TLS 🇺🇸 US-172.67.158.12:443 📡 PING-016.92-MS
 vless://c750d95b-aea8-45b4-bc04-39ac2a383450@172.105.25.249:443?security=tls&sni=ca-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇨🇦 CA-172.105.25.249:443 📡 PING-015.27-MS
 vless://c750d95b-aea8-45b4-bc04-39ac2a383450@172.105.25.249:2003?security=tls&sni=ca-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇨🇦 CA-172.105.25.249:2003 📡 PING-015.18-MS
 vless://0895c839-54e8-4522-cfa0-d1a5b1b34827@104.21.90.218:2086?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.90.218:2086 📡 PING-014.36-MS
@@ -998,3 +995,6 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@66.235.200.158:2083?security=tls&sn
 vless://e24db244-e275-40c4-915d-e08ce7cb79b7@172.67.209.54:443?security=tls&sni=ppal03.ivoRY-sMITham-V.workERS.DEv&type=ws&host=PpAl03.Ivory-SmItHAM-V.wORKers.deV&path=%2FMA-jM0R3-_NSGrAl%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.209.54:443 📡 PING-001.37-MS
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.47.59:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.59:443 📡 PING-001.37-MS
 vless://bdab18c1-d3f9-428c-a376-ca8cce0f1710@172.66.213.38:2082?security=none&type=ws&host=cdn54.nigc-ar.com&path=%2Fbackup#🔒 VL-WS-NONE 🇺🇸 US-172.66.213.38:2082 📡 PING-001.37-MS
+vless://53b0dad9-104a-4d39-95d5-8d7124c6541c@104.18.21.135:443?security=tls&sni=irancloidflare.pages.dev&type=ws&host=irancloidflare.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.21.135:443 📡 PING-001.37-MS
+vless://8b49889a-8f7c-532d-bd2d-60c1fb689a05@172.67.138.48:443?security=tls&sni=vless.mr-dragon-v2ray.workers.Dev&type=ws&host=vless.mr-dragon-v2ray.workers.Dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.138.48:443 📡 PING-001.37-MS
+vless://ce526092-81c1-42be-8354-88e58946c1f3@172.67.158.249:443?security=tls&sni=monardas.aurorainiceland.com&type=ws&path=%2Fnimws#🔒 VL-WS-TLS 🇺🇸 US-172.67.158.249:443 📡 PING-001.37-MS

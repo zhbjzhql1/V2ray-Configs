@@ -1,6 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@85.90.217.65:989#🔒 SS-TCP-NA 🇪🇸 ES-85.90.217.65:989 📡 PING-096.51-MS
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9041 📡 PING-097.24-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Q29CcVlaR2FNaXZObHpJaGpwSUg1@85.192.63.92:31212#🔒 SS-TCP-NA 🇩🇪 DE-85.192.63.92:31212 📡 PING-098.36-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZWY5akd2QXl6WExMbmpzc1JGcjhN@94.228.169.114:25663#🔒 SS-TCP-NA 🇦🇹 AT-94.228.169.114:25663 📡 PING-098.43-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWaUpxeENabW5pMDM1dUNUd0I5aTBS@45.82.13.138:15370#🔒 SS-TCP-NA 🇸🇪 SE-45.82.13.138:15370 📡 PING-098.83-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1NlJZWnlOSWQ1Um1vV1ROVHVtMG56@185.229.65.157:8234#🔒 SS-TCP-NA 🇳🇱 NL-185.229.65.157:8234 📡 PING-099.10-MS
@@ -998,3 +995,6 @@ vless://69698d6a-8c4c-4d63-a11d-b70e064d8fa6@15.156.226.178:22548?security=tls&s
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.82.236:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-99.79.82.236:22222 📡 PING-018.77-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.83.152:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-15.222.83.152:22222 📡 PING-018.77-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@167.114.67.25:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-167.114.67.25:443 📡 PING-018.49-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@192.99.54.60:443?security=tls&sni=Zmq3W3.taco-land.net&type=ws&host=Zmq3W3.taco-land.net&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-192.99.54.60:443 📡 PING-018.37-MS
+vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80 📡 PING-018.20-MS
+vless://6d154bf6-d60c-11ee-aaa8-00505603e70d@172.67.158.12:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&path=%2Fwebsocket#🔒 VL-WS-TLS 🇺🇸 US-172.67.158.12:443 📡 PING-016.92-MS
