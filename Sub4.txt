@@ -996,5 +996,5 @@ vmess://eyJhZGQiOiAiZnIyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0Ijog
 vmess://eyJhZGQiOiAiZnIzLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI0NTRmODRkZi03MjRkLTQ0MmEtYTRhMi02OThhNmQ2M2Y5NDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JhY2V2cG4iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwRnJhbmNlJTIwVm1lc3MlMjBXUyUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.17.58.44:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vpn.restia.love&type=ws&sni=vpn.restia.love#Telegram%28%40Outline_Vpn%29+78
-vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1.irancloudflare.cab&type=ws&sni=1.irancloudflare.cab#Telegram%28%40Outline_Vpn%29+57
-vless://6d154bf6-d60c-11ee-aaa8-00505603e70d@st-fr-1.brocdn.com:443?path=%2Fwebsocket&security=tls&encryption=none&type=ws&sni=st-fr-1.brocdn.com#Telegram%28%40Outline_Vpn%29+62
+vless://b01e3f02-d51b-43d8-af76-227a20fb0d0a@104.26.14.85:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1.irancloudflare.cab&type=ws&sni=1.irancloudflare.cab#Telegram%28%40Outline_Vpn%29+93
+vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.17.58.44:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=vpn.restia.love&type=ws&sni=vpn.restia.love#Telegram%28%40Outline_Vpn%29+61
