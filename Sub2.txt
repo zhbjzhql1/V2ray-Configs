@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.62:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.62:989 📡 PING-167.57-MS
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6379 📡 PING-167.72-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cFdWYklWSXV3NExLOXd2TWdjSFc1@193.228.128.143:27981#🔒 SS-TCP-NA 🇪🇪 EE-193.228.128.143:27981 📡 PING-167.82-MS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8881 📡 PING-168.06-MS
@@ -998,3 +997,4 @@ vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.153.23:8080?security=none&t
 vless://70ea7a10-de3e-4922-bc7c-4dd7c2cef882@172.66.46.246:443?security=tls&sni=newtunnel-2xm.pages.dev&type=ws&path=%2Fvless&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-172.66.46.246:443 📡 PING-005.68-MS
 vless://a978d3a8-2099-473d-830f-c0b0be4a78cd@162.159.135.234:8080?security=none&type=ws&host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.234:8080 📡 PING-005.67-MS
 vless://d978c26d-1c43-440b-b696-be950032ab6f@104.21.25.39:443?security=tls&sni=worker-winter-sea-7f30.jvxxmax5.workers.dev&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.39:443 📡 PING-004.42-MS
+vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.153.251:2082?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.251:2082 📡 PING-004.37-MS
