@@ -1,6 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZGlwSGJuSUxqQnRRZ1F4MEl3dzVx@83.217.9.199:59393#🔒 SS-TCP-NA 🇹🇷 TR-83.217.9.199:59393 📡 PING-136.23-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#🔒 SS-TCP-NA 🇲🇹 MT-171.22.254.17:989 📡 PING-136.68-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsckpWWUhDaVpBM1ZkUmNrRVdRblNn@109.107.189.185:17397#🔒 SS-TCP-NA 🇷🇺 RU-109.107.189.185:17397 📡 PING-137.98-MS
 ss://YWVzLTI1Ni1nY206MU5LcDVVUjBZUkUyOG1kZg==@37.140.241.40:55223#🔒 SS-TCP-NA 🇷🇺 RU-37.140.241.40:55223 📡 PING-138.15-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Z1NYTFRDckw4emVLYjJuNm1naEs4SjI2R1ZIV21aQTRweXk4NFB5ZzZFPQ==@45.67.32.147:13896#🔒 SS-TCP-NA 🇷🇺 RU-45.67.32.147:13896 📡 PING-138.29-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#🔒 SS-TCP-NA 🇮🇸 IS-37.235.49.152:989 📡 PING-138.30-MS
@@ -998,3 +995,6 @@ vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.196.117:2096?security=tls&sni
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.222.219.34:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-8.222.219.34:2086 📡 PING-253.74-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@119.17.25.40:37992?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-119.17.25.40:37992 📡 PING-253.79-MS
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.110.248:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.219.110.248:2096 📡 PING-253.80-MS
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.73.188:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-8.219.73.188:2086 📡 PING-253.85-MS
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.100.155:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.219.100.155:2096 📡 PING-253.90-MS
+vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?security=none&type=ws&path=%2Fa#🔒 VL-WS-NONE 🇮🇳 IN-144.24.139.190:28852 📡 PING-253.93-MS
