@@ -1,6 +1,3 @@
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@123.253.33.231:8443?security=tls&sni=vpn.restia.love&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇾 MY-123.253.33.231:8443 📡 PING-176.31-MS
-vless://c4d390ec-96a9-4a26-ac75-c6de58bc2f45@195.123.213.46:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇱🇻 LV-195.123.213.46:2003 📡 PING-178.28-MS
-vless://c4d390ec-96a9-4a26-ac75-c6de58bc2f45@195.123.213.46:443?security=tls&sni=ua-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇱🇻 LV-195.123.213.46:443 📡 PING-178.32-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.13:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.13:80 📡 PING-178.51-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.16:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.16:80 📡 PING-178.59-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.10:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.10:80 📡 PING-179.53-MS
@@ -998,3 +995,6 @@ vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@104.21.69.44:8443?security=tls&sni=
 vless://417ce651-8fd8-4667-b5cd-aa4980aff66a@172.67.148.154:443?security=tls&sni=v2ray-vmess-free.keitldp.workers.dev&type=ws&host=v2ray-vmess-free.keitldp.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.148.154:443 📡 PING-001.53-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.47.88:2053?security=tls&sni=ed9485634jkfhggh.pages.dev&type=ws&path=telegram%40sinabigo%40sinabigo%40sinabigo%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.88:2053 📡 PING-001.53-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.199:2096?security=tls&sni=8-2bw.pages.dev&type=ws&host=8-2bw.pages.dev&path=Telegram%40SINABIGO%40SINABIGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.199:2096 📡 PING-001.53-MS
+vless://284fd6b7-8e4a-4fd6-b96a-0a9b806bac65@172.67.156.210:2052?security=none&type=ws&host=Oo-01010101010-10101010101010101-m-1-1-1-1-010101010101.dl2NeXtflix-inbound3Html-irect2d-1.com&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.156.210:2052 📡 PING-001.53-MS
+vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@198.41.198.177:2052?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.198.177:2052 📡 PING-001.53-MS
+vless://c3215f6b-bd47-4123-989d-ee59baf7c1f2@104.16.61.8:443?security=tls&sni=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&type=ws&host=hello-world-holy-tooth-3ed5.gjfnoqp.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:443 📡 PING-001.53-MS
