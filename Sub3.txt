@@ -1,7 +1,3 @@
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@47.245.40.55:8080?security=none&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇯🇵 JP-47.245.40.55:8080 📡 PING-190.25-MS
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@123.253.33.231:8443?security=tls&sni=vpn.restia.love&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇲🇾 MY-123.253.33.231:8443 📡 PING-190.85-MS
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.17:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.17:80 📡 PING-190.90-MS
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.10:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.10:80 📡 PING-193.31-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@218.204.179.53:50394?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇨🇳 CN-218.204.179.53:50394 📡 PING-194.88-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.13:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.13:80 📡 PING-197.12-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.5:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.5:80 📡 PING-197.57-MS
@@ -998,3 +994,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa7@172.66.46.233:2096?security=tls&sni
 vless://78935828-127e-479f-9dbc-378c9de72481@104.27.72.33:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN%2C%40ViraV2ray%2C%40ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.72.33:2087 📡 PING-008.61-MS
 vless://fda14d7a-133e-4e32-acfb-62188fc91e32@104.21.72.249:443?security=tls&sni=bpb.feLix-gISlAsOn.WORkERs.dEv&type=ws&host=bPb.FElIx-GISLaSON.WoRKeRs.dev&path=%2FA_6KHU8Vu_P6XfjH%3Fed&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.249:443 📡 PING-008.61-MS
 vless://e2e869c8-b576-4a45-a7cd-8dbceddc2e18@172.67.204.84:2083?security=tls&sni=abcdefghijklmnopqrstuvwxyza.likeboukan1.top&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.204.84:2083 📡 PING-008.61-MS
+vless://ae8e1a57-75fc-4d8d-b186-bfa92e5473c0@69.84.182.111:2083?security=tls&sni=isa.kasler.sbs&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-69.84.182.111:2083 📡 PING-008.61-MS
+vless://14658863-40b8-40f0-8eac-6a5c37edf635@104.21.74.224:8443?security=tls&sni=aboltest.abol.sbs&type=grpc&serviceName=Pv%3A+%40Amircracker1100+Channel%3A+%40vpnantivirus1100+Pv%3A+%40Amircracker1100+Channel%3A+%40vpnantivirus1100+Pv%3A+%40Amircracker1100+Channel%3A+%40vpnantivirus1100&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.224:8443 📡 PING-008.61-MS
+vless://65638e89-6bb7-4462-9acd-5885e6940705@162.159.130.234:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.234:8443 📡 PING-008.60-MS
+vless://36769674-01b7-47d7-935f-ea50faff20a0@173.245.59.58:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-173.245.59.58:2052 📡 PING-008.60-MS
