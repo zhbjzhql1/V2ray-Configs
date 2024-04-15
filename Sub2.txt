@@ -1,3 +1,10 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:810 📡 PING-146.76-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg==@213.183.44.17:8388#🔒 SS-TCP-NA 🇩🇪 DE-213.183.44.17:8388 📡 PING-146.87-MS
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037 📡 PING-146.96-MS
+ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇫🇷 FR-51.195.149.115:45816 📡 PING-147.60-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8118 📡 PING-147.95-MS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7306#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7306 📡 PING-148.17-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5500 📡 PING-148.64-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#🔒 SS-TCP-NA 🇳🇴 NO-185.90.61.153:989 📡 PING-149.26-MS
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8008 📡 PING-149.51-MS
 ss://YWVzLTI1Ni1nY206M2I5a3RaR3p0Qw==@162.19.25.207:34232#🔒 SS-TCP-NA 🇫🇷 FR-162.19.25.207:34232 📡 PING-149.63-MS
@@ -991,10 +998,3 @@ vless://a541203c-725b-4bd9-b3c0-26933a3ed746@78.109.198.90:45994?security=none&t
 vless://5c402efa-95ff-49fd-a55c-fbc7770f9c06@94.182.129.21:58930?security=none&type=tcp&host=jr1YbGyG.ahvaz1.irancell.ir%2C+jr1YbGyG.speedtest1.shatel.ir%2C+jr1YbGyG.AHESPD2.mci.ir%2C+jr1YbGyG.intraspeedtest2.mobinnet.ir%2C+jr1YbGyG.st1.aminidc.com%2C+jr1YbGyG.speedtest.aionet.ir%2C+jr1YbGyG.esfahan1.irancell.ir%2C+jr1YbGyG.speedtest.faradez.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.129.21:58930 📡 PING-220.46-MS
 vless://fdef7b5a-c342-40c7-a01b-e1808bc4db3f@62.60.160.184:2021?security=none&type=tcp&host=Bama.ir&headerType=http#🔒 VL-TCP-NONE 🇭🇰 HK-62.60.160.184:2021 📡 PING-225.32-MS
 vless://2c880040-fb3d-43f2-8212-a116fedea70f@84.47.232.13:56171?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.232.13:56171 📡 PING-227.02-MS
-vless://a9a5c647-8f59-454c-a5b1-a1c198e4ac1e@5.44.42.121:443?security=tls&flow=xtls-rprx-vision&sni=amazon.oapdis.com&type=tcp&fp=safari#🔒 VL-TCP-TLS 🇦🇪 AE-5.44.42.121:443 📡 PING-233.09-MS
-vless://3e2f0a1d-3dd5-4b40-a898-fb9b24b2f953@45.92.93.134:44483?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-45.92.93.134:44483 📡 PING-233.14-MS
-vless://6d690e41-7224-4f22-a2ea-0a37708bc223@194.33.125.91:23546?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-194.33.125.91:23546 📡 PING-234.43-MS
-vless://2545ef69-3267-4b6b-90ed-cf76ff38f903@85.133.178.27:22443?type=ws&host=www.speedtest.net&path=%2F#🔒 VL-WS-NA 🇮🇷 IR-85.133.178.27:22443 📡 PING-234.44-MS
-vless://8fa58961-5896-499a-a074-de3fa9873f8d@85.133.137.251:8080?security=tls&sni=ir.starze.site&type=ws&path=%2F#🔒 VL-WS-TLS 🇮🇷 IR-85.133.137.251:8080 📡 PING-235.71-MS
-vless://9621c7a9-40b3-482a-9a27-fafa58e6c6a0@5.63.23.210:48710?security=none&type=tcp&host=radiojavanhd.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.63.23.210:48710 📡 PING-235.82-MS
-vless://ec7d2c42-7c76-4c02-8580-1ef23584cf94@85.133.179.8:2021?security=none&type=tcp&host=playstation.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.179.8:2021 📡 PING-237.87-MS
