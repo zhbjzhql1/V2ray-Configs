@@ -1,3 +1,8 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.217.91.121:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-8.217.91.121:80 📡 PING-209.57-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.242.17.250:2083?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.17.250:2083 📡 PING-209.81-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@38.207.161.206:39522?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-38.207.161.206:39522 📡 PING-211.00-MS
+vless://dd6a9ced-be20-48a8-94f7-69e0e2a9a234@94.182.87.163:5005?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.163:5005 📡 PING-211.03-MS
+vless://77eb93f8-b073-499f-b5a8-c32aef4a3208@94.182.87.162:1905?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.162:1905 📡 PING-211.60-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@129.227.139.137:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-129.227.139.137:80 📡 PING-211.63-MS
 vless://973819e9-0e8b-435c-b4a4-214f02a8810e@209.97.164.73:443?security=tls&sni=m.zoom.us&type=tcp&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇸🇬 SG-209.97.164.73:443 📡 PING-215.23-MS
 vless://ec191f49-6087-4302-859d-c2bcb0137fa7@94.182.87.164:9658?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.164:9658 📡 PING-217.89-MS
@@ -993,8 +998,3 @@ vless://58172a35-8d87-431f-bd4f-ad051e90a52c@185.162.228.3:8080?security=none&ty
 vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.140.22:80?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.140.22:80 📡 PING-005.37-MS
 vless://b1160a38-76f5-4097-e5cc-fd47e5496522@104.18.4.226:80?security=none&type=ws&host=wxjh72djqwdwjnddew.ferhatgocher.eu&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.4.226:80 📡 PING-005.37-MS
 vless://d9fbb945-026e-496a-976b-574f8d1324db@104.17.218.225:80?security=none&type=ws&host=proxystore11.kodaksho.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.218.225:80 📡 PING-005.37-MS
-vless://61817e64-10ca-47be-97e8-9d6ff6aa2a5d@172.67.147.142:443?security=tls&sni=rsfrndc.foriran.trade&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.147.142:443 📡 PING-005.37-MS
-vless://f69d4594-2d18-4266-abc4-eeb9c5604ca5@172.67.213.235:443?security=tls&sni=www.12reddddddd.bf&type=ws&host=www.12reddddddd.bf&path=%2F975e3406-9ac4-45fc-a12b-30fbe810c75f#🔒 VL-WS-TLS 🇺🇸 US-172.67.213.235:443 📡 PING-005.37-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.49.255:2086?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.49.255:2086 📡 PING-005.37-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.17.159.6:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.159.6:443 📡 PING-005.37-MS
-vless://e856cab7-a5c5-4bd5-a17b-6acdadb41d0c@23.227.60.218:80?path=ڪانالتلگراممونــ#🔒 VL-TCP-NA 🇨🇦 CA-23.227.60.218:80 📡 PING-005.37-MS
