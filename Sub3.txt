@@ -1,3 +1,5 @@
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.6:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.6:80 📡 PING-243.05-MS
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.2:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.2:80 📡 PING-243.21-MS
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.174.142:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-8.219.174.142:2086 📡 PING-244.73-MS
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.175.127:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-8.219.175.127:2086 📡 PING-244.95-MS
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.222.144.117:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.222.144.117:2096 📡 PING-245.10-MS
@@ -996,5 +998,3 @@ vless://6919ef9a-488d-4e6c-b0ce-06ba9dd52e0c@104.21.74.214:2096?security=tls&sni
 vless://d24fa132-9fa3-4e13-9829-83ee6fda8f53@104.21.35.251:2053?security=tls&sni=neth1.vipstore.world&type=ws&path=%2F&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.35.251:2053 📡 PING-005.30-MS
 vless://6b07c49d-5e28-4267-aeb4-a945ee6a98fb@104.16.120.158:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=%2Fchannel%3A%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP_%40VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.158:2083 📡 PING-005.30-MS
 vless://dd50b2c5-6655-4203-8fc2-bfcb9c2ea880@45.85.119.10:443?security=tls&sni=virapn--3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&fp=random#🔒 VL-GRPC-TLS 🇷🇴 RO-45.85.119.10:443 📡 PING-005.30-MS
-vless://d978c26d-1c43-440b-b696-be950032ab6f@104.21.25.39:2053?security=tls&sni=worker-winter-sea-7f30.jvxxmax5.workers.dev&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.39:2053 📡 PING-005.30-MS
-vless://ffffffff-bf32-4282-b875-eca220008daf@172.67.204.84:443?security=tls&sni=f.auto.r.exit.e.e.watashi-java.ir&type=ws&host=f.auto.r.exit.e.e.watashi-java.ir&path=Path%2FTelegram%40proxy_mtm%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.204.84:443 📡 PING-005.29-MS
