@@ -1,3 +1,4 @@
+vless://da0b1e50-0f9e-4df3-bbf7-308e7f0c937a@172.66.47.83:443?security=tls&sni=645c5706.te-gv2ray.pages.dev&type=ws&host=645c5706.te-gv2ray.pages.dev&path=%40gv2ray&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.83:443 📡 PING-005.24-MS
 vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.21.56.202:2052?security=none&type=ws&path=TELEGRAM...PROXY_MTM%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.56.202:2052 📡 PING-005.24-MS
 vless://a978d3a8-2099-473d-830f-c0b0be4a78cd@162.159.136.234:8080?security=none&type=ws&host=MdVpnSec.xn--85-pv2cl2k5x3fipr.org.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:8080 📡 PING-005.24-MS
 vless://de036dbb-e0f2-41a0-dedc-b337f9475bee@198.41.209.216:2096?security=tls&sni=p1.ajdv2zi.site&type=ws&host=p1.ajdv2zi.site&path=/V2rayZi&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.209.216:2096 📡 PING-005.24-MS
@@ -997,4 +998,3 @@ vless://4aa31401-4a58-439f-a673-c2feb1fd5caa@104.16.4.103:8880?type=ws&host=code
 vless://45584cf2-ae19-47c8-a3ef-50cbde1f8c04@104.16.97.46:8443?security=tls&flow=auto&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.97.46:8443 📡 PING-005.07-MS
 vless://ee7eaf8a-29d5-4db2-a68f-d18abfe1ac3f@104.26.13.81:2053?security=tls&sni=ssl.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.81:2053 📡 PING-005.06-MS
 vless://99bcf31c-4485-4e9b-ac44-2da5d199a40a@188.114.97.77:443?security=tls&sni=be1-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.77:443 📡 PING-005.06-MS
-vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@162.159.23.17:2096?security=tls&sni=korosh.orewasanji.fun&type=grpc&serviceName=korosh&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.23.17:2096 📡 PING-005.06-MS
