@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:2376 📡 PING-085.82-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaGJsbUpkSEFwcjVhZkJjQjFydFN0@136.244.81.170:20888#🔒 SS-TCP-NA 🇩🇪 DE-136.244.81.170:20888 📡 PING-086.01-MS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8009 📡 PING-086.35-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:810 📡 PING-086.76-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#🔒 SS-TCP-NA 🇱🇺 LU-92.38.163.53:989 📡 PING-086.82-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805 📡 PING-087.01-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3306#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3306 📡 PING-087.87-MS
@@ -994,7 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@221.161.19.212:25647?security=tls&s
 vless://93bdbc56-059a-4818-a6b8-f6229c27214e@103.9.77.6:443?security=tls&sni=vn-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇻🇳 VN-103.9.77.6:443 📡 PING-229.31-MS
 vless://968f0072-fdef-4c14-8607-8e0d16bd1d88@157.245.50.83:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-157.245.50.83:443 📡 PING-233.78-MS
 vless://f85326c1-0670-4a57-ad87-abe38d37376e@159.65.14.127:44216?security=none&type=ws&host=zoom.us&path=%2FFREE++by+Tharuwa+%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-159.65.14.127:44216 📡 PING-234.03-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.245.57.38:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇯🇵 JP-47.245.57.38:80 📡 PING-236.11-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@117.18.13.170:40269?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-117.18.13.170:40269 📡 PING-238.11-MS
-vless://6734f018-44b2-425c-95ca-0cc78d66fa82@172.235.6.38:443?security=tls&sni=in-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇮🇳 IN-172.235.6.38:443 📡 PING-241.49-MS
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.2:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.2:80 📡 PING-241.77-MS
