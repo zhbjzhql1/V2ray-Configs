@@ -1,3 +1,12 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.55.42:989#🔒 SS-TCP-NA 🇮🇲 IM-37.235.55.42:989 📡 PING-087.37-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@170.80.111.5:989#🔒 SS-TCP-NA 🇬🇹 GT-170.80.111.5:989 📡 PING-087.61-MS
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:6379 📡 PING-087.80-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdWNreW91YjF0Y2g=@158.101.217.208:12384#🔒 SS-TCP-NA 🇳🇱 NL-158.101.217.208:12384 📡 PING-088.19-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.211.161:989#🔒 SS-TCP-NA 🇮🇲 IM-192.71.211.161:989 📡 PING-088.61-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5600 📡 PING-088.66-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8118#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8118 📡 PING-089.20-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaGJsbUpkSEFwcjVhZkJjQjFydFN0@136.244.81.170:20888#🔒 SS-TCP-NA 🇩🇪 DE-136.244.81.170:20888 📡 PING-089.94-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805 📡 PING-090.64-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:810 📡 PING-090.69-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3306#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3306 📡 PING-091.52-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:3389 📡 PING-091.57-MS
@@ -989,12 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.154.96.33:443?security=tls&sni=c
 vless://3427529f-cb2d-4ecb-a22e-0a433969b412@94.182.87.164:9656?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.164:9656 📡 PING-214.01-MS
 vless://fe78ff6d-3b66-4a7d-a1f5-704e116a0eb4@139.162.39.206:2003?security=tls&sni=sg2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-139.162.39.206:2003 📡 PING-215.53-MS
 vless://2220fa0c-3050-45bc-e797-10814b7ac02d@157.245.159.67:16000?security=none&type=ws&host=zoom.us&path=%2FFREE++by+Tharuwa+%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-157.245.159.67:16000 📡 PING-215.75-MS
-vless://f85326c1-0670-4a57-ad87-abe38d37376e@159.65.14.127:44216?security=none&type=ws&host=zoom.us&path=%2FFREE++by+Tharuwa+%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-159.65.14.127:44216 📡 PING-216.05-MS
-vless://968f0072-fdef-4c14-8607-8e0d16bd1d88@157.245.50.83:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-157.245.50.83:443 📡 PING-216.22-MS
-vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-218.68-MS
-vless://973819e9-0e8b-435c-b4a4-214f02a8810e@209.97.164.73:443?security=tls&sni=m.zoom.us&type=tcp&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇸🇬 SG-209.97.164.73:443 📡 PING-220.61-MS
-vless://23480663-78fa-40d9-8f8e-b17feb510e53@139.162.50.211:443?security=tls&sni=sg-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.50.211:443 📡 PING-221.64-MS
-vless://fe78ff6d-3b66-4a7d-a1f5-704e116a0eb4@139.162.39.206:443?security=tls&sni=sg2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.39.206:443 📡 PING-222.61-MS
-vless://23480663-78fa-40d9-8f8e-b17feb510e53@139.162.50.211:2003?security=tls&sni=sg-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇸🇬 SG-139.162.50.211:2003 📡 PING-222.88-MS
-vless://93bdbc56-059a-4818-a6b8-f6229c27214e@103.9.77.6:443?security=tls&sni=vn-full.privateip.net&type=ws&path=%2fvless&allowInsecure=1#🔒 VL-WS-TLS 🇻🇳 VN-103.9.77.6:443 📡 PING-223.97-MS
-vless://2513bd46-548c-481d-9082-7f1c690079fe@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-225.91-MS
