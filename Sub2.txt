@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206ZTliNjBjZmEtMjc0ZS00Y2RkLTg4MWMtNmE1ZTZhZTA4ZjEw@146.235.43.89:7702#🔒 SS-TCP-NA 🇧🇷 BR-146.235.43.89:7702 📡 PING-133.39-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.89:989#🔒 SS-TCP-NA 🇷🇴 RO-194.14.217.89:989 📡 PING-133.70-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cFdWYklWSXV3NExLOXd2TWdjSFc1@193.228.128.143:27981#🔒 SS-TCP-NA 🇪🇪 EE-193.228.128.143:27981 📡 PING-133.73-MS
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.63.69:9019#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9019 📡 PING-134.80-MS
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@213.183.63.69:9025#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9025 📡 PING-134.98-MS
@@ -996,5 +998,3 @@ vless://429adeac-148e-4530-8be9-5a0c5235fbac@185.165.31.90:5610?security=none&ty
 vless://7753ffbc-29e3-49d5-90c8-110c01371ae1@95.128.155.239:2087?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-95.128.155.239:2087 📡 PING-211.52-MS
 vless://5aca7eb3-a3a0-40a0-a793-df5aafe9b4c7@193.107.48.53:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.107.48.53:443 📡 PING-211.89-MS
 vless://fe78ff6d-3b66-4a7d-a1f5-704e116a0eb4@139.162.39.206:443?security=tls&sni=sg2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.39.206:443 📡 PING-212.40-MS
-vless://78cc5d8f-99f8-4020-826f-e1219a79630d@217.60.249.87:2095?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-217.60.249.87:2095 📡 PING-212.99-MS
-vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-213.16-MS
