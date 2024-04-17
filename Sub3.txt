@@ -1,3 +1,6 @@
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.5:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.5:80 📡 PING-187.45-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.245.57.38:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇯🇵 JP-47.245.57.38:80 📡 PING-187.47-MS
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.13:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.13:80 📡 PING-187.50-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.9:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.9:80 📡 PING-187.57-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.4:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.4:80 📡 PING-187.59-MS
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@146.75.27.16:80?security=none&type=ws&path=%3Fed#🔒 VL-WS-NONE 🇲🇾 MY-146.75.27.16:80 📡 PING-187.80-MS
@@ -995,6 +998,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.37.111:443?security=tls&sni=
 vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@104.21.73.84:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.73.84:8443 📡 PING-001.84-MS
 vless://e8ad197d-2766-41ed-ad70-ba111abeebb3@147.78.140.152:8080?security=none&type=ws&host=vigiLanTe823467DHasdfh3D.%E7%BE%A9%E5%8B%99%E8%AD%A6%E5%93%A1.online.&path=%40daily_configs-%40daily_configs-%40daily_configs-%40daily_configs#🔒 VL-WS-NONE 🇧🇬 BG-147.78.140.152:8080 📡 PING-001.84-MS
 vless://bec7a922-2411-49f3-9038-4a11aa2f8342@190.93.247.155:443?security=tls&sni=dl1.spikevpn.cfd&type=grpc&serviceName=@spikevpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.247.155:443 📡 PING-001.84-MS
-vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.5.6:443?security=tls&sni=qifei2024.dns.army&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.5.6:443 📡 PING-001.84-MS
-vless://a099cb0a-e1a7-4fa9-9633-05e293e2f5fc@172.66.213.38:2087?security=tls&sni=hamrah.havafaza.shop&type=ws&host=hamrah.havafaza.shop&path=%2F24xB82nJf97xls34MWYmJR0XM&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.213.38:2087 📡 PING-001.84-MS
-vless://4d86eaee-0077-4f3f-b719-b1301777b590@104.26.4.123:443?security=tls&sni=ww.2023hk.eu.org&type=ws&host=ww.2023hk.eu.org&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.123:443 📡 PING-001.84-MS
