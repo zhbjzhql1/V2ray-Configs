@@ -1,5 +1,3 @@
-vless://70efb8a1-444f-4f4a-9420-c0fe2b34f05a@45.56.79.156:443?security=tls&sni=us2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-45.56.79.156:443 📡 PING-037.84-MS
-vless://70efb8a1-444f-4f4a-9420-c0fe2b34f05a@45.56.79.156:2003?security=tls&sni=us2-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-45.56.79.156:2003 📡 PING-037.39-MS
 vless://cea6a0fe-e987-4be3-9f5d-4ff2d5a3d43f@45.79.9.98:2003?security=tls&sni=us-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-45.79.9.98:2003 📡 PING-034.27-MS
 vless://cea6a0fe-e987-4be3-9f5d-4ff2d5a3d43f@45.79.9.98:443?security=tls&sni=us-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-45.79.9.98:443 📡 PING-034.25-MS
 vless://120bfa52-2f7d-4b0e-ff4a-59ed8d436e17@192.95.53.122:80?security=none&type=ws&host=viber.com&path=%2Fdl%2Findex.php#🔒 VL-WS-NONE 🇨🇦 CA-192.95.53.122:80 📡 PING-025.86-MS
@@ -998,3 +996,5 @@ vless://1582135f-ce66-4fcc-a231-4253db4ad098@162.159.134.233:8443?security=tls&s
 vless://1f5fdd77-8019-4236-a0a5-68fd92137691@172.67.184.122:8443?security=tls&sni=sni.drghabe.ir&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.184.122:8443 📡 PING-005.40-MS
 vless://53b0dad9-104a-4d39-95d5-8d7124c6541c@104.18.21.135:443?security=tls&sni=irancloidflare.pages.dev&type=ws&host=irancloidflare.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.21.135:443 📡 PING-005.40-MS
 vless://da6b3b85-65ca-4436-86ee-afb8b9fb5aa2@104.18.13.130:443?security=tls&sni=pc.v2oti.com&type=grpc&serviceName=%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.13.130:443 📡 PING-005.40-MS
+vless://4d86eaee-0077-4f3f-b719-b1301777b590@172.67.178.98:2082?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.178.98:2082 📡 PING-005.40-MS
+vless://c348e1f1-6716-4cfb-cab1-5b78a530b6b6@104.21.33.26:2087?security=tls&sni=arbabstar.lmxtinl.com&type=grpc&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.33.26:2087 📡 PING-005.40-MS
