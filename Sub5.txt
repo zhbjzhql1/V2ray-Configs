@@ -1,7 +1,3 @@
-vless://8853d6d9-57f5-439d-a903-55615932730b@172.66.45.7:443?security=tls&sni=ac67e643.servernett-1ov.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.45.7:443 📡 PING-001.40-MS
-vless://07640848-ea6d-49d1-b499-7eadd71bfd8f@172.67.147.52:443?security=tls&sni=PpaL03.treVer-hillS.worKErs.dEv&type=ws&host=pPAl03.TrEVer-HiLLs.WORKErs.deV&path=%2Fu5rTGfIdaQM-A-7Q%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.147.52:443 📡 PING-001.40-MS
-vless://7da383f5-e626-4f8a-8db9-00e736e9de26@172.67.156.210:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran8.nimoxof961.workers.Dev&path=%2F%3Fed%3D2047&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.156.210:2053 📡 PING-001.40-MS
-vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.162.231.227:443?security=tls&sni=kalafmobile.varzon-pc3.GAMErme.IR&alpn=h2&allowInsecure=1#🔒 VL-TCP-TLS 🇦🇲 AM-185.162.231.227:443 📡 PING-001.40-MS
 vless://4b68508e-456d-4949-96b5-113300640c05@104.18.203.232:443?security=tls&sni=1eE61c3F.WYVERNFrEE.pAGES.DEV&type=ws&host=1ee61C3F.wyVeRnFrEe.PAgES.dEV&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:443 📡 PING-001.40-MS
 vless://fab99d27-f7ec-4958-8759-ea6d1f160738@172.67.170.156:443?security=tls&sni=PPaL03.DeSTiNY-wiNdlER.WOrkers.deV&type=ws&host=pPAL03.DestInY-WiNdleR.workERS.dev&path=%2Fu-I-jbckSeXsTrPc%3Fed&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.170.156:443 📡 PING-001.40-MS
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.17.88.212:443?security=tls&sni=bPb.rAdicaLIzatioN.IR&type=ws&host=BPb.RADIcaLiZAtion.iR&path=%2FZiRNBN8yXECvWrQT%3Fed%3D2048&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.88.212:443 📡 PING-001.40-MS
@@ -998,3 +994,7 @@ vmess://ewogICAgImFkZCI6ICIxNTguNTEuMTIzLjExMSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.103:9046#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.103-3426
 trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com#%F0%9F%87%B0%F0%9F%87%B7KR-131.186.21.135-1137
 trojan://huge123456@h.iveze.com:60954?security=tls#%F0%9F%87%B0%F0%9F%87%B7KR-131.186.21.135-0104
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.230.9:989#%F0%9F%87%A8%F0%9F%87%B1CL-190.120.230.9-0686
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@45.89.52.66:9031#%F0%9F%87%B9%F0%9F%87%B7TR-45.89.52.66-0729
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.79:9038#%F0%9F%87%B8%F0%9F%87%ACSG-103.172.116.79-0687
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-0731
