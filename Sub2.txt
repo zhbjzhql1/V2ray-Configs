@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#🔒 SS-TCP-NA 🇱🇹 LT-195.238.126.84:9039 📡 PING-131.34-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.157.5:989#🔒 SS-TCP-NA 🇲🇦 MA-188.214.157.5:989 📡 PING-132.65-MS
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.63.69:9019#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9019 📡 PING-133.88-MS
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@213.183.63.69:9025#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9025 📡 PING-133.93-MS
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@213.183.63.69:9020#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9020 📡 PING-134.17-MS
@@ -996,5 +998,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@218.204.179.8:50394?security=tls&sn
 vless://e31fcddb-5184-4af7-9b90-427bdefca818@5.202.74.58:52160?security=none&type=tcp&host=telewebion.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.74.58:52160 📡 PING-319.08-MS
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.66.156:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.219.66.156:2096 📡 PING-321.19-MS
 vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80?security=none&type=ws&host=zula.ir&path=%2F#🔒 VL-WS-NONE 🇫🇮 FI-95.217.216.45:80 📡 PING-325.18-MS
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.66.156:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-8.219.66.156:2086 📡 PING-343.53-MS
-vless://1191c21c-7a93-425e-aa02-23c8b64d63cd@212.23.214.163:45700?security=none&type=ws&path=%40v2raand%2C%40v2raand%2C%40v2raand%2C%40v2raand#🔒 VL-WS-NONE 🇮🇷 IR-212.23.214.163:45700 📡 PING-359.31-MS

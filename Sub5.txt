@@ -1,3 +1,5 @@
+vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@188.114.97.46:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&path=%2F&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.46:2053 📡 PING-001.94-MS
+vless://b1160a38-76f5-4097-e5cc-fd47e5496522@104.18.4.226:80?security=none&type=ws&host=cmbneiud3i3jrfncve.amarinadubai.eu&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.4.226:80 📡 PING-001.94-MS
 vless://562e70ce-fd3b-4e59-89c1-05b86c9760c4@172.67.202.198:8443?security=tls&sni=zu3-G6Cd-servEr.OnfLashDRiVE.app&type=ws&host=zu3-g6CD-servEr.onfLASHdrIvE.aPP&path=%2F%40V2ray1_ng&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.202.198:8443 📡 PING-001.94-MS
 vless://0788e1f1-fac6-486e-b3fd-08de8980c6c5@104.19.99.230:443?security=tls&sni=BLoG.cHiCaGolAnd.iR&type=ws&host=bLOg.cHiCagOlAnd.iR&path=%2F%3Fed%3D2048&fp=random&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.99.230:443 📡 PING-001.94-MS
 vless://968802b6-7566-45f1-968d-9dc142eed33e@104.21.69.44:2096?security=tls&sni=re6.v2logy.xyz&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2096 📡 PING-001.93-MS
@@ -996,5 +998,3 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.137.105:9101#%F0%9F%87%BA%F0%9F%
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-0794
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.33:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.33-0421
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.33:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.33-0420
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.93:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.93-0430
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.137.42:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.42-0429
