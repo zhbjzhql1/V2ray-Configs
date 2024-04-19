@@ -1,3 +1,20 @@
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@103.172.116.90:9030#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9030 📡 PING-207.18-MS
+ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@103.172.116.103:9045#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9045 📡 PING-207.26-MS
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.79:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9038 📡 PING-207.29-MS
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.90:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9064 📡 PING-207.30-MS
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.103:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9041 📡 PING-207.52-MS
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@103.172.116.79:9014#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9014 📡 PING-207.55-MS
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@103.172.116.94:9030#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9030 📡 PING-207.61-MS
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@103.172.116.94:9057#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9057 📡 PING-207.74-MS
+ss://YWVzLTI1Ni1jZmI6N2hlUnFrUEczaGc0VW5SbQ==@103.172.116.103:9099#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9099 📡 PING-208.01-MS
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@103.172.116.90:9001#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9001 📡 PING-208.06-MS
+ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.94:9080#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9080 📡 PING-208.17-MS
+ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.79:9080#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9080 📡 PING-208.79-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.142.225.182:443#🔒 SS-TCP-NA 🇸🇬 SG-18.142.225.182:443 📡 PING-208.90-MS
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.90:9008#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9008 📡 PING-208.99-MS
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@103.172.116.94:9014#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9014 📡 PING-209.03-MS
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.94:9073#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9073 📡 PING-209.14-MS
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@103.172.116.103:9033#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9033 📡 PING-209.22-MS
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.103:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9097 📡 PING-209.30-MS
 ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.90:9015#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9015 📡 PING-209.32-MS
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.103:9073#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9073 📡 PING-209.35-MS
@@ -981,20 +998,3 @@ vless://cbaaabc-abca-aabc-cbda-bccbaaccbaba@127.0.0.1:8080?security=tls&type=tcp
 vless://cea6a0fe-e987-4be3-9f5d-4ff2d5a3d43f@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://70efb8a1-444f-4f4a-9420-c0fe2b34f05a@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://93bdbc56-059a-4818-a6b8-f6229c27214e@vn-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Vless%20WS%20@V2rayStore
-vless://81b3a81c-f098-4835-ab34-bc6560f15403@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
-vless://2513bd46-548c-481d-9082-7f1c690079fe@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
-vless://2f024052-9128-4d8e-944c-124ae738c0d7@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
-vless://63f2261a-17d8-44f8-bf93-837f1738b81c@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://532ce22b-91e2-4a05-9805-765b5dff2345@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://e7032fbd-34ca-46b2-9c07-238bc837d25d@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
-vless://96c437b3-c993-4217-b228-21fbb67d5ff8@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
-vless://c4d390ec-96a9-4a26-ac75-c6de58bc2f45@ua-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20WS%20@V2rayStore
-vless://60a1ba92-c2d8-4f39-b6ed-bacf45920cb3@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20WS%20@V2rayStore
-vless://0e469e8e-f3b4-4137-8e15-de85fa9a2cce@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
-vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
-vless://7d70bc41-7a14-42f2-96e8-9686c7444f6b@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
-vless://fcea439c-dda2-4d6a-9764-e32557f04f4a@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
-vless://b83d7f6e-7755-4790-be4d-bd62ff8929bf@in-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B3%20India%20Vless%20WS%20@V2rayStore
-vless://7421c12c-47c4-41cb-8abe-23d0d98eb141@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20WS%20@V2rayStore
-vless://19e84929-f022-406a-ae78-7d0a11c0dd14@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
-vless://efa5a1ba-b8c0-49b5-983a-a43cf3b88da2@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
