@@ -1,3 +1,11 @@
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.79:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9064 📡 PING-207.38-MS
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.90:9084#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9084 📡 PING-207.43-MS
+ss://YWVzLTI1Ni1jZmI6N2hlUnFrUEczaGc0VW5SbQ==@103.172.116.103:9099#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9099 📡 PING-207.43-MS
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@103.172.116.79:9037#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9037 📡 PING-207.46-MS
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@103.172.116.90:9020#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9020 📡 PING-207.64-MS
+ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@103.172.116.79:9032#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9032 📡 PING-207.68-MS
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.90:9007#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9007 📡 PING-207.69-MS
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@103.172.116.90:9042#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9042 📡 PING-207.72-MS
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@103.172.116.79:9097#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9097 📡 PING-207.73-MS
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.90:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9041 📡 PING-207.76-MS
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.79:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9038 📡 PING-207.81-MS
@@ -990,11 +998,3 @@ vless://040d8b44-e9a8-48d8-8427-f39f5b679756@104.17.169.114:80?security=none&typ
 vless://834ba8c5-a6a2-482f-b9f9-97bb86e52904@172.66.47.91:443?security=tls&sni=1bdf3e45.mahdiserver-3kd.pages.dev&type=ws&host=1bdf3e45.mahdiserver-3kd.pages.dev&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.91:443 📡 PING-002.56-MS
 vless://25423a93-0977-4439-bc10-edc73e14688c@172.66.47.129:443?security=tls&sni=82592964.joinmahdiserver-djl.pages.dev&type=ws&host=82592964.joinmahdiserver-djl.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.129:443 📡 PING-002.56-MS
 vless://54ce1a74-7a13-470d-859b-88ffe8a9d234@172.64.148.133:2053?security=tls&sni=00f7e608b8c93f9b.miladbeyranvndmobilmilad.cfd&type=ws&host=33707228dee0f23a.miladbeyranvndmobilmilad.cfd&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.64.148.133:2053 📡 PING-002.56-MS
-vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@172.67.31.117:443?security=tls&sni=srv12.xyzquant.cloud&type=grpc&serviceName=6eenmFpWJ6RknrPH6qK9&fp=safari#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.31.117:443 📡 PING-002.55-MS
-vless://962c4650-ca89-4af8-9e3b-c3f9510ba07a@172.67.191.234:8443?security=tls&sni=07.ev02-02-q2wx8ryz0vic3bfmd1sng7pjjn6lqk4p.tech&type=grpc&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.191.234:8443 📡 PING-002.55-MS
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.18.34.21:443?security=tls&sni=bpB.RAdicALiZaTioN.iR&type=ws&host=bpb.RADICaliZatIOn.IR&path=%2FNHtQZSf1mdr3TeZa%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.34.21:443 📡 PING-002.55-MS
-vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@104.17.247.203:443?security=tls&sni=api339.animationkidsart.ir&type=ws&host=api339.animationkidsart.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.247.203:443 📡 PING-002.55-MS
-vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@104.16.96.231:2096?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=%2Ffreecodes#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.96.231:2096 📡 PING-002.55-MS
-vless://9ce4324d-52df-4833-9fb5-7eaee76f1e1a@104.26.13.204:443?security=tls&sni=pardazesh.pages.dev&type=ws&host=pardazesh.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.204:443 📡 PING-002.55-MS
-vless://a0bd15ab-577a-47ea-940c-741319e89069@104.21.73.84:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.73.84:2087 📡 PING-002.54-MS
-vless://0a0b9604-f2a9-4d73-a698-8e2641d692ae@188.114.97.46:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran-uciran.dewiw37019.workers.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.46:2053 📡 PING-002.54-MS
