@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.157.5:989#🔒 SS-TCP-NA 🇲🇦 MA-188.214.157.5:989 📡 PING-131.91-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#🔒 SS-TCP-NA 🇵🇪 PE-190.120.229.28:989 📡 PING-131.93-MS
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.63.69:9019#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9019 📡 PING-132.66-MS
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@213.183.63.69:9027#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9027 📡 PING-132.95-MS
@@ -998,3 +997,4 @@ vless://e31fcddb-5184-4af7-9b90-427bdefca818@5.202.74.58:52160?security=none&typ
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.195.47:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-8.219.195.47:2086 📡 PING-289.62-MS
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.222.137.192:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-8.222.137.192:2086 📡 PING-294.53-MS
 vless://af67cb9c-f58b-4f80-bbc2-56d8d55afb9b@94.182.147.206:52079?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.147.206:52079 📡 PING-305.20-MS
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.66.156:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.219.66.156:2096 📡 PING-325.73-MS
