@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8118 📡 PING-142.01-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.113:989 📡 PING-142.18-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6alFzNzdlWEswemRmUEZ5THM5NWw2@52.151.70.6:39271#🔒 SS-TCP-NA 🇬🇧 GB-52.151.70.6:39271 📡 PING-144.62-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4TUR0bE8wdmY3VUlocUZLOGFaa2hK@52.151.73.254:60502#🔒 SS-TCP-NA 🇬🇧 GB-52.151.73.254:60502 📡 PING-144.78-MS
@@ -997,4 +998,3 @@ vless://8b3ea16a-eefe-4068-ee76-9fce9ab8adba@78.39.56.107:7050?security=none&typ
 vless://dd6a9ced-be20-48a8-94f7-69e0e2a9a234@94.182.87.163:5005?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.87.163:5005 📡 PING-271.15-MS
 vless://d6756760-8711-4eee-9f87-cd92df48d40e@217.60.249.74:2086?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-217.60.249.74:2086 📡 PING-271.72-MS
 vless://4eefa7ef-e7cc-49a0-a601-67db3d4021d9@5.145.119.41:2086?security=none&type=ws&host=ocean-game.ir&path=%2Fdash#🔒 VL-WS-NONE 🇮🇷 IR-5.145.119.41:2086 📡 PING-273.98-MS
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.84.102:2086?security=none&type=ws&host=node.vauth.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇸🇬 SG-8.219.84.102:2086 📡 PING-277.36-MS
