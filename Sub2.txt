@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.94:9073#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9073 📡 PING-169.28-MS
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.103:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9046 📡 PING-169.28-MS
 ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.103:9007#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9007 📡 PING-169.28-MS
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@103.172.116.90:9001#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9001 📡 PING-169.28-MS
@@ -998,3 +997,4 @@ vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.43.221:443?security=tls&sni=
 vless://1a850cf5-b69c-4ef7-a18a-4217117efd5c@190.93.247.155:2053?security=tls&sni=all2.savagev2ray.site&type=ws&host=all2.savagev2ray.site&path=%2F#🔒 VL-WS-TLS 🇨🇷 CR-190.93.247.155:2053 📡 PING-001.41-MS
 vless://8853d6d9-57f5-439d-a903-55615932730b@172.66.46.249:443?security=tls&sni=ac67e643.servernett-1ov.pages.dev&type=ws&host=ac67e643.servernett-1ov.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.46.249:443 📡 PING-001.41-MS
 vless://394fa9dc-368f-46f7-98c8-b541a4b63510@23.227.60.186:80?security=none&type=ws&host=bia-channel-hajimamad.timeclassic.ir&path=%40HAJIMAMADVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇨🇦 CA-23.227.60.186:80 📡 PING-001.41-MS
+vless://77188c17-6448-40cd-bd68-552b6753b79e@104.21.59.165:8880?security=none&type=ws&host=falcunargo.e806e7c5e1.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880 📡 PING-001.40-MS
