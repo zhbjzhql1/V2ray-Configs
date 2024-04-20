@@ -1,3 +1,4 @@
+vless://f0f67b84-2770-4413-8b26-cfb302fac247@104.21.66.93:443?security=tls&sni=v2fly.milik-fukada.eu.org&type=ws&host=v2fly.milik-fukada.eu.org&path=%2F@vano_ganzzz#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.93:443 📡 PING-002.18-MS
 vless://1d7c585d-b799-472c-bc52-2e3f16032e52@103.184.44.44:2052?type=ws&host=f9OInxpqOBuCrQNpMkCN.BlAcKMastER.OrG&path=/#🔒 VL-WS-NA 🇨🇳 CN-103.184.44.44:2052 📡 PING-002.18-MS
 vless://0843fd03-f2d1-455a-bdb7-6463a3c0a136@104.21.81.143:2087?security=tls&sni=kinghooman.vpnboy.cloud&type=ws&host=kinghooman.vpnboy.cloud&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.143:2087 📡 PING-002.18-MS
 vless://aa114e98-541e-4cf4-ab1b-a75911dae52a@172.66.47.78:443?security=tls&sni=8b155a5b.joinmahdiserver-o00.pages.dev&type=ws&host=8b155a5b.joinmahdiserver-o00.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.78:443 📡 PING-002.18-MS
@@ -997,4 +998,3 @@ vmess://eyJhZGQiOiJvYmRpaS5jZmQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6
 vless://0e26abf0-7e22-4a05-a898-023a1f21fcfd@www.speedtest.net:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=cgi&sni=ayo.chals.fun#%F0%9F%8C%99%D8%B3%D8%B1%D9%88%D8%B1+%D9%87%D8%A7%DB%8C+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA+%D8%AF%D8%B1+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40serversiran11
 vless://987fbb78-4f41-42ef-aa0a-0c179f2f9eee@discord.gg:80?path=%2F&security=none&encryption=none&host=%53%68%68%50%72%6f%78%79FreViP.%E5%85%8D%E8%B4%B9%E4%B8%8A%E7%BD%9185.org.&type=ws#[🇨🇦]t.me/ConfigsHub
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.237.74:443/?type=ws&encryption=none&host=current.ircp.online&path=%2F%3Fed%3D2048&security=tls&sni=current.ircp.online&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8C%90%20Iranian%20Cypherpunks%20VPN%0ATelegram--%3E%40Ln2Ray

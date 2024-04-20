@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@178.175.134.2:989#🔒 SS-TCP-NA 🇲🇩 MD-178.175.134.2:989 📡 PING-157.86-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#🔒 SS-TCP-NA 🇨🇾 CY-213.169.137.221:989 📡 PING-159.04-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🔒 SS-TCP-NA 🇷🇺 RU-217.196.103.206:29312 📡 PING-159.51-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#🔒 SS-TCP-NA 🇦🇲 AM-146.185.248.22:989 📡 PING-159.86-MS
@@ -997,4 +998,3 @@ vless://e9e2d63c-1cab-4605-b36d-fe52cc5130a7@162.159.135.234:2095?security=none&
 vless://cb74a4c3-f48d-4411-8f4c-2ffee5eab376@104.18.39.123:443?security=tls&sni=ae3b1077e4706405.koalalampour.space&type=ws&host=ead9935ad2d9ffaa.koalalampour.space&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.123:443 📡 PING-002.19-MS
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@173.245.59.100:443?security=tls&sni=watashi.free.jppublic.moh539.link&type=ws&host=watashi.free.jppublic.moh539.link&path=Path%2FTelegram%40SiNABiGO%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-173.245.59.100:443 📡 PING-002.19-MS
 vless://bcf809e7-075b-4820-8a62-bbff9d97abe4@172.67.26.118:80?security=none&type=ws&path=%2Fvless#🔒 VL-WS-NONE 🇺🇸 US-172.67.26.118:80 📡 PING-002.19-MS
-vless://f0f67b84-2770-4413-8b26-cfb302fac247@104.21.66.93:443?security=tls&sni=v2fly.milik-fukada.eu.org&type=ws&host=v2fly.milik-fukada.eu.org&path=%2F@vano_ganzzz#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.66.93:443 📡 PING-002.18-MS
