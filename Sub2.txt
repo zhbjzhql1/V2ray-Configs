@@ -1,9 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@103.172.116.79:9094#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9094 📡 PING-168.83-MS
-ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@103.172.116.90:9080#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9080 📡 PING-168.92-MS
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@103.172.116.90:9059#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9059 📡 PING-168.95-MS
-ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.79:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9046 📡 PING-168.98-MS
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@103.172.116.94:9001#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9001 📡 PING-168.99-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGcyVHhvSkFlaTJ0WGJVYWxnVDF1@152.42.216.240:48152#🔒 SS-TCP-NA 🇸🇬 SG-152.42.216.240:48152 📡 PING-169.02-MS
 ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@103.172.116.94:9024#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9024 📡 PING-169.06-MS
 ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.94:9015#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9015 📡 PING-169.08-MS
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@103.172.116.103:9094#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9094 📡 PING-169.17-MS
@@ -998,3 +992,9 @@ vless://9e966c38-3460-40d6-b18f-9a118808de8f@162.159.152.2:80?security=none&type
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.41:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.41:443 📡 PING-001.57-MS
 vless://13732170-05c7-4bd6-acd6-9ed74b4d1c1b@162.159.152.2:2096?security=tls&sni=kanal-falcunargo-rmarat.falcunar.asso.eu.org&type=ws&host=kanal-falcunargo-rmarat.falcunar.asso.eu.org&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2096 📡 PING-001.57-MS
 vless://040d8b44-e9a8-48d8-8427-f39f5b679756@172.67.193.36:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-172.67.193.36:80 📡 PING-001.57-MS
+vless://49002fd7-323d-47c4-9641-d7ced21d97f7@104.21.23.243:2096?security=tls&sni=cH.tOtFaRaNgHi.SbS&type=grpc&serviceName=%40V2rayNgMat%2C%40V2rayNgMat%2C%40V2rayNgMat%2C%40V2rayNgMat&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.23.243:2096 📡 PING-001.57-MS
+vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2087?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.136.208:2087 📡 PING-001.57-MS
+vless://1702734a-fe43-4b45-8a03-1ef12c5709e5@104.21.39.52:443?security=tls&sni=worker-super-cake-c026.gogoligogoli26.workers.dev&type=ws&host=worker-super-cake-c026.gogoligogoli26.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.39.52:443 📡 PING-001.57-MS
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?security=none&type=ws&host=luact.zahedan.eu.org&path=Path%2F%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:80 📡 PING-001.57-MS
+vless://c594e576-716f-4295-9d99-28584df1631e@104.21.10.245:2083?security=tls&sni=501a5ccciea704ae69e7595.18cf1c6ceea28x5f8f62f21a4.wOrkErs.DEv&type=ws&host=501a5ccciea704ae69e7595.18cf1c6ceea28x5f8f62f21a4.wOrkErs.DEv&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.10.245:2083 📡 PING-001.57-MS
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.46:443?security=tls&sni=fe3324c6.bpb-Ev.pagES.dev&type=ws&host=fe3324c6.Bpb-Ev.pAGEs.DeV&path=%2FsPfO374hRFPJERve%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.46:443 📡 PING-001.57-MS
