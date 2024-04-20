@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🔒 SS-TCP-NA 🇷🇺 RU-217.196.103.206:29312 📡 PING-172.45-MS
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.94:9073#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9073 📡 PING-172.66-MS
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.103:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9038 📡 PING-172.72-MS
 ss://YWVzLTI1Ni1jZmI6WnBORERLUnU5TWFnTnZhZg==@103.172.116.94:9015#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9015 📡 PING-172.72-MS
 ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@103.172.116.90:9050#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9050 📡 PING-172.74-MS
@@ -996,5 +998,3 @@ vless://9e2593c3-2087-4e40-ae96-26866f9ca6cb@162.159.137.232:80?security=none&ty
 vless://5429b24f-a38a-43df-a8e0-ffdae35656e7@162.159.153.2:8443?security=tls&sni=shah67.servernet.cfd&type=ws&host=shah67.servernet.cfd&path=%2Fjoin--severnett&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:8443 📡 PING-008.62-MS
 vless://f7e5ef24-5d66-459c-a190-242e7eb0f568@104.21.20.148:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:80 📡 PING-008.62-MS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-14.102.228.210:2096 📡 PING-008.62-MS
-vless://9ce4324d-52df-4833-9fb5-7eaee76f1e1a@104.26.12.204:443?security=tls&sni=pardazesh.pages.dev&type=ws&host=pardazesh.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.204:443 📡 PING-008.62-MS
-vless://1c6a9e90-520b-4559-9f47-a2c62e84f8cd@185.146.173.59:2095?security=none&type=ws&host=zedmodeon1.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FJOIN-ZEDMODEON-%40ZEDMODEON#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.59:2095 📡 PING-008.62-MS
