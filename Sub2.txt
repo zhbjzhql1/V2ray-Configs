@@ -1,3 +1,11 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#🔒 SS-TCP-NA 🇿🇦 ZA-41.203.4.34:989 📡 PING-214.77-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSWkRjandOQ0NkeHRWM000TVBWN2tU@157.230.43.93:45238#🔒 SS-TCP-NA 🇸🇬 SG-157.230.43.93:45238 📡 PING-215.13-MS
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@103.172.116.90:9019#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9019 📡 PING-215.79-MS
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.90:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9064 📡 PING-215.82-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#🔒 SS-TCP-NA 🇸🇬 SG-91.192.81.21:8388 📡 PING-215.83-MS
+ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@103.172.116.103:9032#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9032 📡 PING-215.91-MS
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@103.172.116.94:9018#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9018 📡 PING-215.93-MS
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@103.172.116.103:9030#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9030 📡 PING-216.18-MS
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@103.172.116.94:9038#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.94:9038 📡 PING-216.19-MS
 ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.90:9088#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9088 📡 PING-216.25-MS
 ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@103.172.116.90:9070#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9070 📡 PING-216.26-MS
@@ -990,11 +998,3 @@ vless://2b0addc0-d969-4aac-b3fa-ceb39abe0e17@172.64.95.119:8080?security=none&ty
 vless://b14e6774-c983-42d0-abc8-02d13b10aff0@104.18.50.39:2083?security=tls&sni=paris.prsico.ir&type=ws&host=paris.prsico.ir&path=%2Fwhois%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.50.39:2083 📡 PING-005.24-MS
 vless://13d40b6e-aba2-4d95-a506-5f05b0582cea@172.67.73.163:2053?security=tls&sni=lan.protoeinpaitakht.com&type=ws&host=lan.protoeinpaitakht.com&path=%2F%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za&fp=firefox&alpn=http/1.1,h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.73.163:2053 📡 PING-005.24-MS
 vless://5cbc1ea6-5dfd-4011-bd4b-0b49d3e74b30@162.159.130.234:2095?security=none&type=ws&host=join-zedmodeon-zedmodeon-zedmodeon.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=path#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:2095 📡 PING-005.24-MS
-vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=/DU-7-v-InqDKABjE?ed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.253.60:443 📡 PING-005.24-MS
-vless://4804f14b-c1f8-452d-a6ec-eff1490aeac9@172.67.81.238:443?security=tls&sni=hdfy6ca.iraniancpi.uk&type=ws&host=hdfy6ca.iraniancpi.uk&path=%2FBc5xLs413y7DNJYMWXN7kCm3lL&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.81.238:443 📡 PING-005.24-MS
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.17.94.171:2096?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=%E3%80%90TG%EF%BC%9A%40juzibaipiao%E3%80%91%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.94.171:2096 📡 PING-005.24-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@198.41.202.5:2053?security=tls&sni=zsf-5fa.pages.dev&type=ws&host=zsf-5fa.pages.dev&path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.202.5:2053 📡 PING-005.24-MS
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?security=tls&sni=www.arizona.edu&type=ws&host=binance.co.kp&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.133:443 📡 PING-005.24-MS
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.192.45:443?security=tls&sni=test35.pages.dev&type=ws&host=test35.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.192.45:443 📡 PING-005.24-MS
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@162.159.128.91:443?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=%E3%80%90TG%EF%BC%9A%40SiNABiGO%E3%80%91%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.91:443 📡 PING-005.24-MS
-vless://d360d11e-d426-4583-b55e-524ab1f0afa9@104.26.5.4:2096?security=tls&sni=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&type=ws&host=worker-gentle-waterfall-6de8.tigerhungry4.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.4:2096 📡 PING-005.24-MS
