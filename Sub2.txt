@@ -1,3 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQlN6Rk1QYkJ4Wkd4emhnR2RWeWtn@195.2.76.71:60422#🔒 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422 📡 PING-125.19-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxZ3BkeXpIajhyWlc5ZkR4eGtVSFJJ@217.196.103.206:29312#🔒 SS-TCP-NA 🇷🇺 RU-217.196.103.206:29312 📡 PING-125.50-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.178:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.178:989 📡 PING-126.97-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZHo1b1dYeSs5Y2I3blRyN3UrV3JWZm1ldUlyQ0NPbjNiYXJNSHZqU2Z3PQ==@95.174.94.76:6666#🔒 SS-TCP-NA 🇷🇺 RU-95.174.94.76:6666 📡 PING-130.76-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@178.175.134.2:989#🔒 SS-TCP-NA 🇲🇩 MD-178.175.134.2:989 📡 PING-136.63-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.121.87.147:989#🔒 SS-TCP-NA 🇲🇩 MD-192.121.87.147:989 📡 PING-138.28-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#🔒 SS-TCP-NA 🇦🇷 AR-190.103.176.29:989 📡 PING-141.55-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#🔒 SS-TCP-NA 🇦🇲 AM-146.185.248.22:989 📡 PING-143.20-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#🔒 SS-TCP-NA 🇳🇱 NL-89.19.216.18:8388 📡 PING-145.07-MS
@@ -992,9 +998,3 @@ vless://8e67a304-886d-46e4-837e-6e30121d16ea@185.146.173.59:80?security=none&typ
 vless://e57ea30c-9075-46fc-8636-3d2aa1aa99e6@172.67.190.251:2053?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2F%3Fed%3D2047#🔒 VL-WS-TLS 🇺🇸 US-172.67.190.251:2053 📡 PING-005.27-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.188:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.188:443 📡 PING-005.27-MS
 vless://0843fd03-f2d1-455a-bdb7-6463a3c0a136@172.67.161.118:2087?security=tls&sni=kinghooman.vpnboy.cloud&type=ws&host=kinghooman.vpnboy.cloud&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-172.67.161.118:2087 📡 PING-005.27-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.73.115:443?security=tls&sni=mmdvpn442vpn442.cicgof.workers.Dev&type=ws&host=mmdvpn442vpn442.cicgof.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.73.115:443 📡 PING-005.27-MS
-vless://30ead110-819f-415b-8851-249756786f05@104.24.37.148:2096?security=tls&sni=trv2rat-cd.iraniposhal.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.37.148:2096 📡 PING-005.26-MS
-vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@104.18.223.149:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.223.149:2052 📡 PING-005.26-MS
-vless://f4f69ee1-09df-4ca2-a002-89ee0ec8156a@104.21.40.63:443?security=tls&sni=accolade.toptechnonews.com&type=ws&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.40.63:443 📡 PING-005.26-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@104.19.125.91:8443?security=tls&sni=freeconfig.join-telegram-channel-free-v2rng.woRkeRs.dEV&type=ws&host=freeconfig.join-telegram-channel-free-v2rng.woRkeRs.dEV&path=%2Fjd.wxgqlfx.top%3A8443%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.125.91:8443 📡 PING-005.26-MS
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.0.5:443?security=tls&sni=D6F1d970.oxnEt-iR-xZu871.pAgeS.Dev&type=ws&host=D6F1d970.oXNet-iR-xZu871.PAGES.dEv&path=%2FyT9XekbLn2VyH8p3%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.5:443 📡 PING-005.26-MS
