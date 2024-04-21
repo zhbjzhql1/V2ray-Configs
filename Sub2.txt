@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206aHJId2IzWEp5MA==@80.253.246.4:1470#🔒 SS-TCP-NA 🇹🇷 TR-80.253.246.4:1470 📡 PING-163.50-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.178:989#🔒 SS-TCP-NA 🇦🇱 AL-31.171.153.178:989 📡 PING-164.38-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.100:989 📡 PING-164.45-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZHo1b1dYeSs5Y2I3blRyN3UrV3JWZm1ldUlyQ0NPbjNiYXJNSHZqU2Z3PQ==@95.174.94.76:6666#🔒 SS-TCP-NA 🇷🇺 RU-95.174.94.76:6666 📡 PING-164.53-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#🔒 SS-TCP-NA 🇬🇷 GR-192.71.166.102:989 📡 PING-164.55-MS
@@ -996,5 +998,3 @@ vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.21.56.202:2052?security=none&ty
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇹 LT-88.216.66.193:443 📡 PING-008.69-MS
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@172.64.80.1:8443?security=tls&sni=uD2kp0fx53e15EHUFNo2LJ7mHRsDgTYET8xzmA7tXh40tR606ogTx280VN.PaGEs.dEv&type=ws&host=uD2kp0fx53e15EHUFNo2LJ7mHRsDgTYET8xzmA7tXh40tR606ogTx280VN.PaGEs.dEv&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.64.80.1:8443 📡 PING-008.69-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.12:8443?security=tls&sni=qopyz.oxnetirz11.OnFLaShDRIVE.APP&type=ws&host=qopyz.oxnetirz11.OnFLaShDRIVE.APP&path=Telegram-%40V2ray_Alpha%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.12:8443 📡 PING-008.69-MS
-vless://d7f36d12-2ae1-42c0-9fd5-84d8f4efbb02@172.66.47.189:443?security=tls&sni=161f5c4e.mahdiserver-cmr.pages.dev&type=ws&host=161f5c4e.mahdiserver-cmr.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.189:443 📡 PING-008.69-MS
-vless://be9eda2d-cb3b-44ec-98a9-23c77b791bb2@103.184.45.251:2053?security=tls&sni=zedmodeon-zedmodeon-zedmodeon.zedmodeon-zedmodeon.shop&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.45.251:2053 📡 PING-008.69-MS
