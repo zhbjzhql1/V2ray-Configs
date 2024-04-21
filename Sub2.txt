@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WVJYSlA=@38.150.12.187:56068#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:56068 📡 PING-188.83-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WVJYSlA=@38.150.12.187:56069#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:56069 📡 PING-190.20-MS
 ss://YWVzLTEyOC1nY206VGVsZWdyYW0tWkVETU9ERU9O@78.153.149.211:25365#🔒 SS-TCP-NA 🇷🇺 RU-78.153.149.211:25365 📡 PING-192.29-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2WVJYSlA=@38.150.12.187:56070#🔒 SS-TCP-NA 🇭🇰 HK-38.150.12.187:56070 📡 PING-194.07-MS
@@ -997,4 +998,3 @@ vless://0a9997ee-9160-4e9e-a6a3-5c7479ad8e3b@45.205.0.50:80?security=none&type=w
 vless://f4ac1c93-4936-4c60-bf7d-3936cb2e1b49@172.67.206.177:2053?security=tls&sni=nl.RxV2ray.space&type=ws&host=nl.RxV2ray.space&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.206.177:2053 📡 PING-002.19-MS
 vless://67ac2966-c633-4fbe-92dd-8c666881c6de@104.19.154.58:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.154.58:8080 📡 PING-002.19-MS
 vless://107d3a95-e17e-4931-94b9-e42cdcabb05b@172.66.44.158:80?type=ws&host=MFvh5agb49bGYkqzTHqC.dl-onLiNeDOCtOR.BIO&path=/backup#🔒 VL-WS-NA 🇺🇸 US-172.66.44.158:80 📡 PING-002.19-MS
-vless://f95faa96-a601-4f08-83dd-37c20cc0e902@185.148.105.52:2083?security=tls&sni=join20.maznet.cfd&type=ws&host=join20.maznet.cfd&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:2083 📡 PING-002.19-MS
