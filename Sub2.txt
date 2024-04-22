@@ -1,3 +1,12 @@
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037 📡 PING-165.53-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989 📡 PING-165.96-MS
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-166.70-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#🔒 SS-TCP-NA 🇦🇹 AT-185.180.12.81:989 📡 PING-167.02-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#🔒 SS-TCP-NA 🇮🇸 IS-37.235.49.152:989 📡 PING-167.86-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGcyVHhvSkFlaTJ0WGJVYWxnVDF1@152.42.216.240:48152#🔒 SS-TCP-NA 🇸🇬 SG-152.42.216.240:48152 📡 PING-169.04-MS
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@103.172.116.79:9031#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9031 📡 PING-169.12-MS
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.90:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9041 📡 PING-169.14-MS
+ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@103.172.116.79:9032#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9032 📡 PING-169.15-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3306#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:3306 📡 PING-169.17-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7002 📡 PING-169.20-MS
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@103.172.116.103:9031#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.103:9031 📡 PING-169.21-MS
@@ -989,12 +998,3 @@ vless://a0bd15ab-577a-47ea-940c-741319e89069@172.67.25.165:2087?security=tls&sni
 vless://b97cdd0e-bba9-4391-b265-b72f80b670db@172.64.80.1:2052?type=ws&path=%2F#🔒 VL-WS-NA 🇺🇸 US-172.64.80.1:2052 📡 PING-002.26-MS
 vless://f7d2e53e-0728-49b0-89f7-ad730ee0cc49@104.21.20.26:2083?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.26:2083 📡 PING-002.26-MS
 vless://742cd304-be2a-4629-bdbc-ad87a22a5eb1@104.18.23.19:443?security=tls&sni=api2.shabazian.ir&type=ws&host=api2.shabazian.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.23.19:443 📡 PING-002.25-MS
-vless://62beb1d7-2750-4790-b9ad-a6b7d0151270@172.66.47.51:443?security=tls&sni=pardazesh2.pages.dev&type=ws&host=pardazesh2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.51:443 📡 PING-002.25-MS
-vless://46764e4a-65d2-4ea0-ad4e-105b6beaa357@172.67.171.46:443?security=tls&sni=pl2-vless.sshmax.xyz&type=ws&host=pl2-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🇺🇸 US-172.67.171.46:443 📡 PING-002.25-MS
-vless://4d86eaee-0077-4f3f-b719-b1301777b590@162.159.153.251:443?security=tls&sni=ww.2023hk.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.251:443 📡 PING-002.24-MS
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.21.19.124:443?security=tls&sni=bpb.raDicALIZATioN.Ir&type=ws&host=BPB.RadIcALIzAtioN.ir&path=%2F1zLtEofRKnskeEab%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.124:443 📡 PING-002.24-MS
-vless://7516842b-c33b-4f47-8e1f-ea0fff1c1dc7@190.93.247.155:443?security=tls&sni=all5.savagev2ray.site&type=ws&host=all5.savagev2ray.site&path=%2F#🔒 VL-WS-TLS 🇨🇷 CR-190.93.247.155:443 📡 PING-002.23-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.242:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.242:2053 📡 PING-002.23-MS
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@172.64.89.170:2096?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=Path%2F%3Fed%3D2048&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.64.89.170:2096 📡 PING-002.23-MS
-vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&path=%2Fwebsocket#🔒 VL-WS-TLS 🇺🇸 US-172.67.158.12:443 📡 PING-002.22-MS
-vless://184b1e9d-68e0-410d-8205-58c69ada6acf@104.21.69.44:2087?security=tls&sni=fragment2.karop.homes&type=grpc&serviceName=VPNHOMES&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2087 📡 PING-002.22-MS
