@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.63.69:9019#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9019 📡 PING-112.55-MS
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@213.183.63.69:9073#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9073 📡 PING-112.58-MS
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@213.183.63.69:9040#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9040 📡 PING-112.73-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@188.214.157.5:989#🔒 SS-TCP-NA 🇲🇦 MA-188.214.157.5:989 📡 PING-112.89-MS
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@213.183.63.69:9000#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9000 📡 PING-113.07-MS
@@ -996,5 +998,3 @@ vless://5fd6974f-ca32-45eb-c59f-36b7abfe00f9@104.18.202.232:2086?security=none&t
 vless://31942445-4849-4bbd-8366-5b2bc7fa5e56@172.67.163.103:8443?security=tls&sni=shsha.servernet.cfd&type=grpc&serviceName=%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett%2C%40ServerNett&fp=random&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.163.103:8443 📡 PING-001.57-MS
 vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.21.2.9:2096?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.9:2096 📡 PING-001.57-MS
 vless://648d41d2-ae83-4ee0-961a-a6c0acbece13@172.67.200.97:443?security=tls&sni=hashemjavid1367.hashemjavid1988.workers.dev&type=ws&host=hashemjavid1367.hashemjavid1988.workers.dev&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.67.200.97:443 📡 PING-001.57-MS
-vless://7675a0a3-7ad2-4650-a1c5-153bc95b6fe0@104.21.75.237:443?security=tls&sni=Ht-P-S-t-Me-V2ray-4e21.jOiN-pRivAtE.Ir&type=grpc&serviceName=%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420+%40ExpressVPN_420&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.75.237:443 📡 PING-001.57-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.137:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.137:443 📡 PING-001.57-MS
