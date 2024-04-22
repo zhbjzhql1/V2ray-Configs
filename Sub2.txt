@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpISEM4b0ljZ3RqU2VkWXdrWE85YTBT@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-083.14-MS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8118#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8118 📡 PING-083.94-MS
 ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇫🇷 FR-51.195.149.115:45816 📡 PING-084.42-MS
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443 📡 PING-085.34-MS
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NWdtd1lkOXdVZytOMWx0RWNrdE1uNFN1Mm96YnBLWStnSnVrN1JFQllIbz0=@78.141.204.68:54148#🔒 SS-TCP-NA 🇬🇧 GB-78.141.204.68:54148 📡 PING-086.31-MS
@@ -998,3 +996,5 @@ vless://d360d11e-d426-4583-b55e-524ab1f0afa9@172.67.70.92:2096?security=tls&sni=
 vless://ec880e3c-2817-4b89-9887-ccc1fb7e3a52@104.21.7.27:443?security=tls&sni=steel.footballlovernews.com&type=ws&host=steel.footballlovernews.com&path=%2Fsteel#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.27:443 📡 PING-005.73-MS
 vless://110184b3-37c8-4590-93ee-132cfb85c9c4@172.67.187.219:8880?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🇺🇸 US-172.67.187.219:8880 📡 PING-005.73-MS
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@104.16.60.8:2082?type=ws&host=h3.xn--gmq282ekfhyys3gs.com.&path=/#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:2082 📡 PING-005.72-MS
+vless://436e7428-381d-404e-ad67-915e98ce357d@172.66.45.6:443?security=tls&sni=43b35ef5.aminitiger.pages.dev&type=ws&host=43b35ef5.aminitiger.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.45.6:443 📡 PING-005.72-MS
+vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.136.234:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.136.234:2096 📡 PING-005.71-MS
