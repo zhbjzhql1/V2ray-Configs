@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.199.167.157:443#🔒 SS-TCP-NA 🇯🇵 JP-54.199.167.157:443 📡 PING-159.91-MS
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@213.183.63.69:9019#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9019 📡 PING-159.97-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.54.34:443#🔒 SS-TCP-NA 🇰🇷 KR-43.201.54.34:443 📡 PING-160.03-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#🔒 SS-TCP-NA 🇮🇸 IS-37.235.49.152:989 📡 PING-160.03-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.233.33:443#🔒 SS-TCP-NA 🇰🇷 KR-43.203.233.33:443 📡 PING-160.19-MS
 ss://YWVzLTEyOC1nY206MjRiMTQ2OGMtZTVjNS00ZmM5LTk1ZGEtMWMzM2RmNzM2NTg2@23.161.8.39:32175#🔒 SS-TCP-NA 🇭🇰 HK-23.161.8.39:32175 📡 PING-160.62-MS
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@213.183.63.69:9005#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9005 📡 PING-160.62-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1NlJZWnlOSWQ1Um1vV1ROVHVtMG56@185.229.65.157:8234#🔒 SS-TCP-NA 🇳🇱 NL-185.229.65.157:8234 📡 PING-160.72-MS
@@ -993,8 +998,3 @@ vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@104.26.0.204:443?security=tls&sni=w
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@45.80.111.10:80?security=none&type=ws&host=xw.r4d.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇩🇪 DE-45.80.111.10:80 📡 PING-008.85-MS
 vless://107d3a95-e17e-4931-94b9-e42cdcabb05b@185.146.173.20:80?security=none&type=ws&host=MFvh5agb49bGYkqzTHqC.dl-onLiNeDOCtOR.BIO&path=%2Fbackup#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.20:80 📡 PING-008.85-MS
 vless://0ddfb4dd-d1f0-4416-8d5b-dd00e6d10d66@172.67.171.89:443?security=tls&sni=dk3-vless.sshmax.xyz&type=ws&host=dk3-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🇺🇸 US-172.67.171.89:443 📡 PING-008.85-MS
-vless://b3dc92ae-bac0-47ab-9844-f701e7a54561@185.59.218.226:8880?security=none&type=ws&host=immaculate%E5%95%84%E6%9C%A8%E4%BC%8D%E8%BF%AA%E5%8E%BB%E8%90%A5%E5%9C%B0%E7%9A%87%E9%AA%A8%E7%81%B0watanmer.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NONE 🇷🇺 RU-185.59.218.226:8880 📡 PING-008.84-MS
-vless://f4ac1c93-4936-4c60-bf7d-3936cb2e1b49@104.21.77.101:2053?security=tls&sni=nl.RxV2ray.space&type=ws&host=nl.RxV2ray.space&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.101:2053 📡 PING-008.84-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.14:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.14:8443 📡 PING-008.84-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.19.58:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.19.58:2096 📡 PING-008.84-MS
-vless://7fd7c15d-95cd-4f5c-bf59-f21e5eb27580@104.21.2.84:2096?security=tls&sni=3k.dabee.top&type=ws&host=3k.dabee.top&path=%2Ffreecodes#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.84:2096 📡 PING-008.83-MS
