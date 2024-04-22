@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5001 📡 PING-165.73-MS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NWdtd1lkOXdVZytOMWx0RWNrdE1uNFN1Mm96YnBLWStnSnVrN1JFQllIbz0=@78.141.204.68:54148#🔒 SS-TCP-NA 🇬🇧 GB-78.141.204.68:54148 📡 PING-165.91-MS
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-166.16-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#🔒 SS-TCP-NA 🇦🇹 AT-185.180.12.81:989 📡 PING-167.45-MS
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@103.172.116.90:9098#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9098 📡 PING-169.15-MS
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@103.172.116.79:9064#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9064 📡 PING-169.15-MS
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ==@103.172.116.90:9033#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9033 📡 PING-169.19-MS
@@ -998,3 +994,7 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.30.212:2083?security=tls&sni=
 vless://0843fd03-f2d1-455a-bdb7-6463a3c0a136@104.21.81.143:2087?security=tls&sni=kinghooman.vpnboy.cloud&type=ws&host=kinghooman.vpnboy.cloud&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.143:2087 📡 PING-002.31-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.11:443 📡 PING-002.31-MS
 vless://75ecd186-ee6a-4362-ad04-b7f1c20dd168@188.114.98.224:2096?security=tls&sni=vaylafoodakor.atkfood.com&type=grpc&serviceName=%40v2rayN_OPENAVPN%2C%40v2rayN_OPENAVPN&fp=chrome#🔒 VL-GRPC-TLS 🇳🇱 NL-188.114.98.224:2096 📡 PING-002.30-MS
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.21.19.124:443?security=tls&sni=bpb.raDicALIZATioN.Ir&type=ws&host=BPB.RadIcALIzAtioN.ir&path=%2F1zLtEofRKnskeEab%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.19.124:443 📡 PING-002.30-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.61.136:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.61.136:443 📡 PING-002.30-MS
+vless://c2cb1048-c2c5-4b61-a99f-e7a7677bef79@162.159.153.2:8880?security=none&type=ws&host=dl3.%E4%BD%A0%E8%AE%93%E9%80%99%E5%80%8B%E5%9F%8E%E5%B8%82%E5%A4%B1%E6%95%97%E4%BA%86.tech.&path=%2Fdaily_configs%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:8880 📡 PING-002.30-MS
+vless://c1ce4c07-4e02-4475-82ad-944c474d7519@45.85.119.5:2052?type=ws&host=Free.poloo.ir&path=%2F#🔒 VL-WS-NA 🇷🇴 RO-45.85.119.5:2052 📡 PING-002.30-MS
