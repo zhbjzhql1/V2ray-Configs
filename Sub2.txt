@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@213.183.63.69:9003#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9003 📡 PING-132.61-MS
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@213.183.63.69:9031#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9031 📡 PING-132.85-MS
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@213.183.63.69:9020#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9020 📡 PING-132.97-MS
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@213.183.63.69:9025#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9025 📡 PING-133.07-MS
@@ -997,4 +998,3 @@ vless://74066387-e74c-4510-bbdf-6eb2bb206138@104.18.37.228:8080?security=none&ty
 vless://e6f873d6-a281-419e-9d34-41ee01c9fdad@172.67.184.33:2053?security=tls&sni=uciranir-uciranir-uciranirarvanclud-server1.cirapaj173.workers.dev&type=ws&host=uciranir-uciranir-uciranirarvanclud-server1.cirapaj173.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D69752&fp=firefox#🔒 VL-WS-TLS 🇺🇸 US-172.67.184.33:2053 📡 PING-002.33-MS
 vless://63abf3c7-7834-4de3-9046-1db20d6dccc8@172.67.183.26:2082?type=ws&host=akv2rayshop%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0.ephoria-maria.monster.&path=%2F#🔒 VL-WS-NA 🇺🇸 US-172.67.183.26:2082 📡 PING-002.33-MS
 vless://f5a78514-1a94-486e-92a7-3bc9817095a6@104.21.34.74:443?security=tls&sni=nitriding.appreviewcenter.com&type=ws&path=%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.74:443 📡 PING-002.33-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@104.21.59.165:8443?security=tls&sni=folani.iiipok.wORKERs.DeV&type=ws&host=folani.iiipok.wORKERs.DeV&path=%2Fjd.wxgqlfx.top%3A8443%2F%3Fed%3D2048&fp=random&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.165:8443 📡 PING-002.33-MS
