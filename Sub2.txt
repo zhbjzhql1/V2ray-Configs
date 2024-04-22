@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#🔒 SS-TCP-NA 🇦🇹 AT-185.180.12.81:989 📡 PING-103.59-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.62:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.62:989 📡 PING-103.75-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.60:989 📡 PING-103.90-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.61:989 📡 PING-104.18-MS
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9019 📡 PING-104.85-MS
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-105.11-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5001 📡 PING-105.13-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7002 📡 PING-105.17-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3306#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:3306 📡 PING-107.58-MS
@@ -992,9 +998,3 @@ vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.22:2082?security=none&t
 vless://a40742d3-0b12-4c73-80c2-333864a73d04@104.19.254.169:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.254.169:2087 📡 PING-005.41-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.219.195:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.219.195:443 📡 PING-005.41-MS
 vless://8853d6d9-57f5-439d-a903-55615932730b@172.66.46.249:443?security=tls&sni=ac67e643.servernett-1ov.pages.dev&type=ws&host=ac67e643.servernett-1ov.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.46.249:443 📡 PING-005.41-MS
-vless://8a608a40-c6b7-46b0-a12d-7cd9f7a36198@104.21.86.124:80?security=none&type=ws&path=%2FZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.86.124:80 📡 PING-005.41-MS
-vless://3ff3a373-ceb3-4847-8f93-5cb628700353@190.93.247.155:2096?security=tls&sni=hopev2ray.accme.link&type=grpc&serviceName=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇨🇷 CR-190.93.247.155:2096 📡 PING-005.41-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.14:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.14:8443 📡 PING-005.41-MS
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.68.173:2083?security=tls&sni=folani.iiipok.worKERS.DEV&type=ws&host=folani.iiipok.worKERS.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.68.173:2083 📡 PING-005.41-MS
-vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@162.159.138.232:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:2052 📡 PING-005.41-MS
-vless://96f246fb-4a66-4bdb-b614-7b0764e9f1a8@66.235.200.107:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.107:8443 📡 PING-005.41-MS
