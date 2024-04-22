@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@213.183.63.69:9027#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9027 📡 PING-132.52-MS
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@213.183.63.69:9040#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9040 📡 PING-132.64-MS
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@213.183.63.69:9003#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9003 📡 PING-132.72-MS
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@213.183.63.69:9020#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9020 📡 PING-132.83-MS
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@213.183.63.69:9000#🔒 SS-TCP-NA 🇧🇬 BG-213.183.63.69:9000 📡 PING-133.08-MS
@@ -996,5 +998,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.162.67:443?security=tls&sni=
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.21.211.74:443?security=tls&sni=current.iraniancp.click&type=ws&host=current.iraniancp.click&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.211.74:443 📡 PING-002.73-MS
 vless://c463729a-0f55-4a26-b076-c774590c4076@45.131.4.7:80?security=none&type=ws&host=bia-channel-hajimamadvpn.timeclassic.ir&path=%40HAJIMAMADVPN%3Fed%3D2048#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.7:80 📡 PING-002.73-MS
 vless://48a5617c-d778-4927-8437-6939ffe9aa9c@172.67.171.98:443?security=tls&sni=is2-vless.sshmax.xyz&type=ws&host=is2-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🇺🇸 US-172.67.171.98:443 📡 PING-002.73-MS
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.1:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.97.1:443 📡 PING-002.73-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.251:2053?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.251:2053 📡 PING-002.72-MS
