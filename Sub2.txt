@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🔒 SS-TCP-NA 🇸🇮 SI-192.71.244.150:989 📡 PING-123.84-MS
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9019 📡 PING-123.85-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-124.09-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989 📡 PING-124.68-MS
@@ -997,4 +998,3 @@ vless://e52d6cb4-f689-478d-cb79-9b76ab2fa4d9@104.21.33.26:2087?security=tls&sni=
 vless://b27137a7-4744-464d-aa05-9022aaf0b404@45.205.0.51:8880?security=none&type=ws&host=xn---qhantayawi--e-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6#🔒 VL-WS-NONE 🇺🇸 US-45.205.0.51:8880 📡 PING-003.24-MS
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:443?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.136.208:443 📡 PING-003.23-MS
 vless://13732170-05c7-4bd6-acd6-9ed74b4d1c1b@162.159.152.2:2096?security=tls&sni=kanal-falcunargo-rmarat.falcunar.asso.eu.org&type=ws&host=kanal-falcunargo-rmarat.falcunar.asso.eu.org&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:2096 📡 PING-003.23-MS
-vless://b0080418-ecc7-4b21-a395-c1a057bc3f87@188.114.98.220:443?security=tls&sni=xn--hgb3a0cs.irquran.shop&type=ws&host=xn--hgb3a0cs.irquran.shop&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=android&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇳🇱 NL-188.114.98.220:443 📡 PING-003.21-MS
