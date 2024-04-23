@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.83:8000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8000 📡 PING-074.38-MS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.83:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8091 📡 PING-074.40-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080 📡 PING-074.53-MS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.83:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:8090 📡 PING-074.53-MS
@@ -997,4 +998,3 @@ vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.142.229:443?security=tls&sni=
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.236.5.223:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇬 SG-47.236.5.223:8443 📡 PING-253.94-MS
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.210.64:2086?type=ws&host=node.vauth.workers.dev&path=/?ed%3D2048#🔒 VL-WS-NA 🇸🇬 SG-8.219.210.64:2086 📡 PING-253.96-MS
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.248.47:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=/?ed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.219.248.47:2096 📡 PING-253.96-MS
-vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.145.245:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.145.245:443 📡 PING-253.98-MS
