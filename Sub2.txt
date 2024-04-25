@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLVm1SSEJoYkpyY1lZVTMyM29BZ3NrYmpCVHcrRjBwT3lNS1krSUF6dFgwPQ==@159.223.234.119:1080#🔒 SS-TCP-NA 🇳🇱 NL-159.223.234.119:1080 📡 PING-089.05-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:9090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:9090 📡 PING-089.85-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpST0F0T2xsREFvS05VeFUyMXlTMWxp@46.151.25.197:30830#🔒 SS-TCP-NA 🇳🇱 NL-46.151.25.197:30830 📡 PING-089.90-MS
 ss://Y2hhY2hhMjAtcG9seTEzMDU6RyF5QndQV0gzVmFv@51.178.87.37:800#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:800 📡 PING-090.13-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:810 📡 PING-090.36-MS
@@ -996,5 +998,3 @@ vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.78.1:443?security=tls&sni=par
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.222.252.150:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.222.252.150:443 📡 PING-251.58-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.188.162:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.188.162:443 📡 PING-251.64-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.72.51:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.72.51:443 📡 PING-251.71-MS
-vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@47.236.121.7:8443?security=tls&sni=vpn.restia.love&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-47.236.121.7:8443 📡 PING-252.02-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.137.178:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇬 SG-8.222.137.178:8443 📡 PING-252.46-MS
