@@ -1,8 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dmtaTlViZThxbUw2MWFBSlVTRFkx@172.232.45.24:80#🔒 SS-TCP-NA 🇫🇷 FR-172.232.45.24:80 📡 PING-154.78-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYmVVaHlzSWpvbUZLMktkQjZ5b1NY@89.185.84.30:20228#🔒 SS-TCP-NA 🇬🇧 GB-89.185.84.30:20228 📡 PING-155.79-MS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOG5sdGptaklwZ0sxUGFv@220.195.133.253:19502#🔒 SS-TCP-NA 🇨🇳 CN-220.195.133.253:19502 📡 PING-155.93-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.55.42:989#🔒 SS-TCP-NA 🇮🇲 IM-37.235.55.42:989 📡 PING-157.04-MS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#🔒 SS-TCP-NA 🇺🇸 US-38.107.226.238:2376 📡 PING-157.15-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:5500 📡 PING-158.12-MS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.82.233:443#🔒 SS-TCP-NA 🇰🇷 KR-43.201.82.233:443 📡 PING-159.08-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989#🔒 SS-TCP-NA 🇱🇺 LU-92.38.163.53:989 📡 PING-159.20-MS
@@ -998,3 +993,8 @@ vless://dc295a00-f84d-4b3b-bbc4-7240c014105e@95.38.242.186:12649?security=none&t
 vless://9509ac33-1559-4565-9522-0e81138bc461@84.47.235.152:2095?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.152:2095 📡 PING-234.16-MS
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443 📡 PING-236.02-MS
 vless://affd626d-a2ed-4f9e-90bf-98197f15f522@178.239.154.45:22443?security=none&type=ws&host=www.speedtest.net&path=%2F#🔒 VL-WS-NONE 🇮🇷 IR-178.239.154.45:22443 📡 PING-236.08-MS
+vless://9a250c36-eee8-4cdb-93e6-4715becfc589@95.164.114.43:2003?security=tls&sni=kz-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇰🇿 KZ-95.164.114.43:2003 📡 PING-236.81-MS
+vless://2a4bfe79-b301-c477-a6a7-8929023b1e91@217.60.249.101:2095?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.249.101:2095 📡 PING-236.95-MS
+vless://bf2d4460-49d7-4107-a472-e91037fa9c7a@5.202.74.58:11268?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.74.58:11268 📡 PING-238.12-MS
+vless://3c03f801-929a-4701-94dc-20e159807aba@193.151.153.109:443?security=none&type=tcp&host=namava.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.153.109:443 📡 PING-238.32-MS
+vless://94dc2d19-7a22-468b-89ac-773bb2b3d3c7@185.233.13.90:2222?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.233.13.90:2222 📡 PING-240.91-MS
