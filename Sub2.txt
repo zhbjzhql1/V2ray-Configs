@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🔒 SS-TCP-NA 🇦🇹 AT-95.164.9.144:2927 📡 PING-089.09-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:805#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:805 📡 PING-089.44-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:810 📡 PING-089.54-MS
 ss://Y2hhY2hhMjAtcG9seTEzMDU6RyF5QndQV0gzVmFv@51.178.87.37:800#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:800 📡 PING-090.26-MS
@@ -998,3 +997,4 @@ vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.250.239:443?security=tls&sni=
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.222.137.192:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.222.137.192:443 📡 PING-248.92-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.161.129:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.161.129:443 📡 PING-248.93-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.228.157:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.228.157:443 📡 PING-248.95-MS
+vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.193.202:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.193.202:443 📡 PING-248.97-MS
