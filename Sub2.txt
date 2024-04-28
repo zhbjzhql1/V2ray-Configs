@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8881 📡 PING-126.29-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7002 📡 PING-126.46-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.62:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.62:989 📡 PING-127.53-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.60:989 📡 PING-127.62-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-128.43-MS
@@ -996,5 +998,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.221.154:443?security=tls&sni
 vless://a0bd15ab-577a-47ea-940c-741319e89069@104.22.0.87:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.0.87:2087 📡 PING-006.06-MS
 vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@172.67.175.204:443?security=tls&sni=pPAl03.jeSSy-pADbERg.worKErS.dEv&type=ws&host=pPaL03.JeSsy-pAdberg.wOrkers.dEv&path=%2FxK8n9LZBJL6OzN1M%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.67.175.204:443 📡 PING-005.89-MS
 vless://58d7075d-7fb8-4e03-b7e3-608f7f65a66d@172.66.47.133:443?security=tls&sni=pardazesh8.pages.dev&type=ws&host=pardazesh8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.66.47.133:443 📡 PING-005.84-MS
-vless://52c90a40-be6b-4f5c-a293-63c7d639739c@104.21.81.239:2083?security=tls&sni=dnsjvkyijgc8937.seminar-irani.ir&type=grpc&serviceName=2083vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.81.239:2083 📡 PING-005.74-MS
-vless://1f9bb705-e2ed-4042-9a96-3ed55f39d2ff@66.235.200.107:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.107:8443 📡 PING-005.44-MS
