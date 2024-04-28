@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtcG9seTEzMDU6RyF5QndQV0gzVmFv@51.178.87.37:800#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:800 📡 PING-090.71-MS
+ss://YWVzLTI1Ni1jZmI6VlA4WlB4UXBKdFpSQ2pmWg==@80.92.204.106:9080#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9080 📡 PING-091.72-MS
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.29:7307#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.29:7307 📡 PING-092.39-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZ1lHOTNISzdsbmpFdnUxeGFJMUFo@172.232.45.24:80#🔒 SS-TCP-NA 🇫🇷 FR-172.232.45.24:80 📡 PING-092.63-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#🔒 SS-TCP-NA 🇫🇷 FR-51.178.87.37:810 📡 PING-092.81-MS
@@ -996,5 +998,3 @@ vless://93bdbc56-059a-4818-a6b8-f6229c27214e@103.9.77.6:443?security=tls&sni=vn-
 vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.197.111:2086?type=ws&host=node.vauth.workers.dev&path=/?ed%3D2048#🔒 VL-WS-NA 🇸🇬 SG-8.219.197.111:2086 📡 PING-224.13-MS
 vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@8.222.224.163:8443?security=tls&sni=cf.xujiang.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇬 SG-8.222.224.163:8443 📡 PING-224.31-MS
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-224.31-MS
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.142.229:2086?type=ws&host=node.vauth.workers.dev&path=/?ed%3D2048#🔒 VL-WS-NA 🇸🇬 SG-8.219.142.229:2086 📡 PING-224.36-MS
-vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?security=none&type=ws&path=%2Fa#🔒 VL-WS-NONE 🇮🇳 IN-144.24.139.190:28852 📡 PING-225.52-MS

@@ -1,3 +1,5 @@
+vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.142.229:2086?type=ws&host=node.vauth.workers.dev&path=/?ed%3D2048#🔒 VL-WS-NA 🇸🇬 SG-8.219.142.229:2086 📡 PING-224.36-MS
+vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?security=none&type=ws&path=%2Fa#🔒 VL-WS-NONE 🇮🇳 IN-144.24.139.190:28852 📡 PING-225.52-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.156.6.97:10392?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-43.156.6.97:10392 📡 PING-226.93-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.199.220:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.199.220:443 📡 PING-229.07-MS
 vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80?security=none&type=ws&host=zula.ir&path=%2F#🔒 VL-WS-NONE 🇫🇮 FI-95.217.216.45:80 📡 PING-240.92-MS
@@ -996,5 +998,3 @@ vless://3ceb909a-1a8a-4d47-9593-4226f21b2825@172.67.218.84:2053?security=tls&sni
 vless://ac0050a2-f8bb-422f-abb3-06c5e3692a0f@104.21.73.91:2096?security=tls&sni=iisbv2rayli.666game.buzz&type=grpc&serviceName=@V2RayyNGvpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.73.91:2096 📡 PING-005.20-MS
 vless://6eb07174-1887-4d62-9909-011d928a0a0a@104.21.63.220:2087?security=tls&sni=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&type=ws&host=selinc------9-------selinc-------9------selinc.mjopnpex.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.63.220:2087 📡 PING-005.20-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.142.120.3:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.142.120.3:443 📡 PING-005.20-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.0:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.0:443 📡 PING-005.20-MS
-vless://c9eb0fe9-09dd-495c-a11a-0f2e580c9c94@172.67.132.56:2096?security=tls&sni=shahabbabadii.shahab-jahanbazi79.workers.dev&type=ws&host=shahabbabadii.shahab-jahanbazi79.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.132.56:2096 📡 PING-005.20-MS
