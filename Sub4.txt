@@ -1,3 +1,5 @@
+vless://f9021b31-e8bd-4b4d-a1d3-c9b0c1476c44@172.67.137.68:443?security=tls&sni=shopee.co.id.sg4.putrivpn.biz.id&type=ws&path=%2Fvlesscf&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.137.68:443 📡 PING-002.87-MS
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@199.181.197.115:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.115:443 📡 PING-002.87-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.11:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.11:443 📡 PING-002.87-MS
 vless://3cab1c4f-eaab-43d7-b40e-24b67ea55688@104.27.96.87:443?security=tls&sni=free.proxystore11.site&type=ws&host=free.proxystore11.site&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.96.87:443 📡 PING-002.87-MS
 vless://90a0c9d0-2a2e-4d32-91b0-3c92ebc02b0c@172.67.138.106:443?security=tls&sni=proxystore1.kodaksho.eu.org&type=ws&host=proxystore1.kodaksho.eu.org&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.138.106:443 📡 PING-002.87-MS
@@ -996,5 +998,3 @@ vless://9eb99213-f082-4b5e-87c1-0511798c7da2@tr-full.privateip.net:443?type=ws&e
 vless://9a250c36-eee8-4cdb-93e6-4715becfc589@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
 vless://31c8ace0-0495-4326-a47e-c3db49786ecc@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
 vless://3f599734-3f70-4b94-ae40-10abdd5a3954@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
-vless://ba7c1e18-3ee7-4eff-8ab3-5c73f2d5193c@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
-vless://200ae60c-8af8-46d7-89bc-97355273760d@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
