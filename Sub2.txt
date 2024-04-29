@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@217.30.10.18:9019#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9019 📡 PING-120.65-MS
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044 📡 PING-121.20-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#🔒 SS-TCP-NA 🇸🇮 SI-192.71.244.150:989 📡 PING-122.24-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7002 📡 PING-122.86-MS
@@ -997,4 +998,3 @@ vless://c0b3afcf-b7a1-44c5-a552-bb1329304b7f@172.66.47.89:443?security=tls&sni=p
 vless://b39d9e5a-f4ac-48c4-a311-ddaf5b5b85b9@162.159.128.233:2052?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9Bsuperspeed12.ff2ray.cfd.&path=%2F%3Fed%3D2053#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.128.233:2052 📡 PING-004.50-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.131:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.131:2096 📡 PING-004.49-MS
 vless://f56362e0-909f-4094-a15e-fb4b32b952cb@23.227.38.0:2083?security=tls&sni=ililoxnu.ziroxbioxa.onflashdRiVE.aPP&type=ws&host=ililoxnu.ziroxbioxa.onflashdRiVE.aPP&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.0:2083 📡 PING-004.35-MS
-vless://7fcdb95d-9088-4a6a-b2d7-b744321ccfb6@172.67.179.144:80?security=none&type=ws&host=ir.server.test.heydas.ipbot.com.heydasfrance.name.ng&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-172.67.179.144:80 📡 PING-004.34-MS
