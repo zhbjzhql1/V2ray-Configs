@@ -1,3 +1,4 @@
+vless://3a1bbcab-1713-4c27-a81b-2cd81cd0fee4@193.123.237.143:443?security=tls&flow=xtls-rprx-vision&sni=dcpqkr1.hnkkt.com&type=tcp#🔒 VL-TCP-TLS 🇰🇷 KR-193.123.237.143:443 📡 PING-177.39-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.146.8:11370?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.146.8:11370 📡 PING-177.48-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@132.145.95.170:39637?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-132.145.95.170:39637 📡 PING-177.52-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.171.182:11659?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.171.182:11659 📡 PING-177.58-MS
@@ -997,4 +998,3 @@ vless://0d656cf4-b63f-4e02-8225-b9b16b954187@104.18.203.232:2053?security=tls&sn
 vless://ac0050a2-f8bb-422f-abb3-06c5e3692a0f@104.21.73.91:2096?security=tls&sni=iisbv2rayli.666game.buzz&type=grpc&serviceName=@V2RayyNGvpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.73.91:2096 📡 PING-005.38-MS
 vless://c2ec17cc-e5a9-4f4a-88dc-496e3215dbab@104.18.158.102:443?security=tls&sni=sALAm-wOrD.pagEs.deV&type=ws&host=saLaM-Word.PaGeS.Dev&path=%2F&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.158.102:443 📡 PING-005.38-MS
 vless://92884c02-8b07-4519-b212-f917a14395c3@172.67.138.246:2096?security=tls&sni=selinc-------10-----selinc-----10----selinc.wxupwz.workers.dev&type=ws&host=selinc-------10-----selinc-----10----selinc.wxupwz.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.138.246:2096 📡 PING-005.38-MS
-vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@104.16.60.79:80?security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.79:80 📡 PING-005.38-MS
