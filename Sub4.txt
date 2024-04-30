@@ -1,3 +1,8 @@
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇱🇹 LT-89.116.180.161:443 📡 PING-001.52-MS
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@45.195.62.108:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.108:443 📡 PING-001.52-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.57:443 📡 PING-001.52-MS
+vless://7d140167-614e-47d8-8f05-8cf434ebc3d4@172.67.134.153:443?security=tls&sni=one.butterfly-galaxy.com&type=ws&path=%2Fone&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.134.153:443 📡 PING-001.52-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.41.94:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.41.94:443 📡 PING-001.52-MS
 vless://ee187c79-7594-4a97-96bc-ff717c61a919@172.67.187.219:443?security=tls&sni=yindunat.qaz.gay&type=ws&host=yindunat.qaz.gay&path=%2Fa#🔒 VL-WS-TLS 🇺🇸 US-172.67.187.219:443 📡 PING-001.52-MS
 vless://947391e1-408e-4ba2-8a56-05cd972082e5@104.16.245.78:8443?security=tls&sni=ri.aminivip2023.site&type=ws&host=ri.aminivip2023.site&path=%2FV2zed&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.245.78:8443 📡 PING-001.52-MS
 vless://411e02f8-af26-420b-9ed4-11607310d0ee@104.21.88.58:443?security=tls&sni=pPal03-1shANEH1.MR-ViDaL-kiLbacK.WOrKerS.dEv&type=ws&host=PPAl03-1SHaNEH1.mR-vIDal-kILbAck.WOrkERS.dEv&path=%2FUCMqznkXuEFrofTD%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.58:443 📡 PING-001.51-MS
@@ -993,8 +998,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@172.64.152.6:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇺🇸 US-172.64.152.6:443 📡 PING-001.31-MS
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.222.241:8080?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.222.241:8080 📡 PING-001.31-MS
 vless://5393b650-7b3e-4efd-91ca-6836f9d8f4bf@104.21.46.249:2096?security=tls&sni=pch-all.poshakbany.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.46.249:2096 📡 PING-001.31-MS
-vless://86cb9a9b-dc2e-45d6-b35d-7ce1daa32a15@172.64.229.31:8443?security=tls&sni=dns68.shift.cloudns.org&type=ws&host=dns68.shift.cloudns.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-172.64.229.31:8443 📡 PING-001.31-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.19.63.192:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.63.192:443 📡 PING-001.31-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.197.121.178:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.178:8443 📡 PING-001.31-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.174:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.174:443 📡 PING-001.31-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@164.38.155.63:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-164.38.155.63:443 📡 PING-001.31-MS
