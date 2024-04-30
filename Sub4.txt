@@ -1,4 +1,3 @@
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.28.225:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.28.225:80 📡 PING-001.79-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.41:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.65.217.41:443 📡 PING-001.79-MS
 vless://db1eeace-797f-4d75-ac27-9a97acda853d@104.21.27.231:443?security=tls&sni=folani.iiipok.WORKers.Dev&type=ws&host=folani.iiipok.WORKers.Dev&path=%2Fpikk.minusober.com%3A443%2Fpikk&fp=android&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.27.231:443 📡 PING-001.79-MS
 vless://5fe0c5a8-140e-4e7a-b451-d4912ae2586e@104.25.105.122:443?security=tls&sni=freedom.revil.link&type=ws&host=freedom.revil.link&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.105.122:443 📡 PING-001.79-MS
@@ -998,3 +997,4 @@ vless://f6ff0cc4-a9cf-4c13-aec0-d1a6618f8057@104.21.22.155:2053?security=tls&sni
 vless://47cd56cb-23cc-455e-8936-7dad092efb6d@104.31.16.50:2053?security=tls&sni=homepage.dr-salam.com&type=ws&host=homepage.dr-salam.com&path=%2Fbackup#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.50:2053 📡 PING-001.61-MS
 vless://8a608a40-c6b7-46b0-a12d-7cd9f7a36198@104.21.86.124:80?security=none&type=ws&path=%2FZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.86.124:80 📡 PING-001.61-MS
 vless://184b1e9d-68e0-410d-8205-58c69ada6acf@172.67.204.84:2087?security=tls&sni=fragment2.karop.homes&type=grpc&serviceName=VPNHOMES&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.204.84:2087 📡 PING-001.61-MS
+vless://9286513c-8184-4020-bedd-e75344e75bd9@104.21.201.246:443?security=tls&sni=ie2-vless.sshmax.xyz&type=ws&host=ie2-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.201.246:443 📡 PING-001.61-MS

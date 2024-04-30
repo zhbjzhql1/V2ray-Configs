@@ -1,4 +1,3 @@
-vless://e36fe023-7881-4d6a-a99a-725394c1f30f@141.105.130.77:55945?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.77:55945 📡 PING-182.51-MS
 vless://32be4b6d-4a84-4e0c-a77a-e850a6b3e225@89.221.224.166:443?security=tls&sni=is1.x2fast.net&type=ws&host=is1.x2fast.net&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇸 IS-89.221.224.166:443 📡 PING-185.19-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@118.220.141.210:14779?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-118.220.141.210:14779 📡 PING-185.94-MS
 vless://5d23f47a-0c7f-4280-82e5-5993d50e1f18@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003 📡 PING-186.39-MS
@@ -998,3 +997,4 @@ vless://be6f3bee-f21d-4035-a2c0-1fac85edc6c6@172.67.212.236:443?security=tls&sni
 vless://9e5a5563-1351-4ad7-8146-c1803de6ca70@88.216.66.123:80?security=none&type=ws&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇱🇹 LT-88.216.66.123:80 📡 PING-001.79-MS
 vless://f97386df-3700-4f58-bbdd-9ff2bce803f1@104.21.74.139:2096?security=tls&sni=geminal.aurorainiceland.com&type=ws&path=%2Fgeminal&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:2096 📡 PING-001.79-MS
 vless://d9f3966e-0821-407a-9e70-25c37cc3fd7a@190.93.247.155:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇨🇷 CR-190.93.247.155:8443 📡 PING-001.79-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.28.225:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.28.225:80 📡 PING-001.79-MS
