@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8881 📡 PING-123.77-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.61:989 📡 PING-124.79-MS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7306 📡 PING-125.52-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-125.61-MS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8881 📡 PING-125.78-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7002 📡 PING-127.06-MS
@@ -995,6 +998,3 @@ vless://bf2d4460-49d7-4107-a472-e91037fa9c7a@5.202.74.58:11268?type=tcp#🔒 VL-
 vless://4839bc0b-0c7a-4c6d-90d6-b2a4997fde89@212.80.18.60:41661?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.60:41661 📡 PING-189.17-MS
 vless://9509ac33-1559-4565-9522-0e81138bc461@84.47.235.152:2095?security=none&type=tcp&host=telewebion.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-84.47.235.152:2095 📡 PING-190.29-MS
 vless://e8616495-c1d4-4ab1-857d-6edeba99a531@85.9.99.224:4248?security=none&type=tcp&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.99.224:4248 📡 PING-190.59-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@152.32.252.175:8969?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-152.32.252.175:8969 📡 PING-190.90-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@118.193.44.62:49454?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-118.193.44.62:49454 📡 PING-191.65-MS
-vless://94dc2d19-7a22-468b-89ac-773bb2b3d3c7@185.233.13.90:2222?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.233.13.90:2222 📡 PING-192.19-MS
