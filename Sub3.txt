@@ -1,3 +1,4 @@
+vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@152.69.219.32:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-152.69.219.32:443 📡 PING-221.32-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.180.86:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇬 SG-8.222.180.86:2053 📡 PING-221.33-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.156.148:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.156.148:443 📡 PING-221.39-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.67.133:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.67.133:443 📡 PING-221.50-MS
@@ -997,4 +998,3 @@ vless://fd667cc8-7f4e-4ec4-ba4e-46d6209c128c@162.159.135.234:2096?security=tls&s
 vless://0a48e54b-659e-4b3c-95e6-14da04954f25@104.26.12.54:80?security=none&type=ws&host=ir.proxystorepanel.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.12.54:80 📡 PING-005.28-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.221:443 📡 PING-005.28-MS
 vless://9c29a930-2a50-4cd2-a710-7db21b8096b7@172.67.132.209:2087?security=tls&sni=re3.v2logy.xyz&type=grpc&fp=randomized&alpn=http/1.1#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.132.209:2087 📡 PING-005.28-MS
-vless://f8c12465-9693-4227-a2ea-bbe905c5ca97@188.114.99.29:8880?security=none&type=ws&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NONE 🇳🇱 NL-188.114.99.29:8880 📡 PING-005.28-MS
