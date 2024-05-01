@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5001 📡 PING-123.16-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7002 📡 PING-123.34-MS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8009 📡 PING-123.34-MS
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:6679 📡 PING-123.60-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:3306 📡 PING-123.76-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5500 📡 PING-123.77-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5003 📡 PING-123.87-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:8888#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8888 📡 PING-123.90-MS
@@ -993,8 +998,3 @@ vless://6c317171-a223-4466-ad3b-ec73f4267668@51.75.77.237:443?security=tls&sni=d
 vless://7a7d1976-87dd-44b1-b290-b815770bff35@195.123.213.46:2003?security=tls&sni=ua-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇱🇻 LV-195.123.213.46:2003 📡 PING-130.10-MS
 vless://c3d656d7-8634-4a10-a043-810659fc6d4a@194.87.45.173:3306?security=none&type=tcp#🔒 VL-TCP-NONE 🇪🇸 ES-194.87.45.173:3306 📡 PING-132.63-MS
 vless://e36fe023-7881-4d6a-a99a-725394c1f30f@141.105.130.77:55945?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.77:55945 📡 PING-133.05-MS
-vless://d03aa9a0-f43a-4d7d-89be-b558dedda405@5.182.86.128:443?security=tls&sni=nl07.abvpn.ru&type=ws&path=%2Fwebsocket&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-5.182.86.128:443 📡 PING-135.55-MS
-vless://32be4b6d-4a84-4e0c-a77a-e850a6b3e225@89.221.224.166:443?security=tls&sni=is1.x2fast.net&type=ws&host=is1.x2fast.net&path=%2Fws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇸 IS-89.221.224.166:443 📡 PING-135.70-MS
-vless://39b63f94-0d71-490a-e85e-81a45eb4156e@85.237.223.97:29713?security=none&type=tcp#🔒 VL-TCP-NONE 🇵🇱 PL-85.237.223.97:29713 📡 PING-136.23-MS
-vless://5d23f47a-0c7f-4280-82e5-5993d50e1f18@95.164.116.35:443?security=tls&sni=tr-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇹🇷 TR-95.164.116.35:443 📡 PING-136.79-MS
-vless://5d23f47a-0c7f-4280-82e5-5993d50e1f18@95.164.116.35:2003?security=tls&sni=tr-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇹🇷 TR-95.164.116.35:2003 📡 PING-137.09-MS
