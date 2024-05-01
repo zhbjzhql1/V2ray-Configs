@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@52.69.48.25:2377#🔒 SS-TCP-NA 🇯🇵 JP-52.69.48.25:2377 📡 PING-108.90-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.176.215.63:2377#🔒 SS-TCP-NA 🇯🇵 JP-18.176.215.63:2377 📡 PING-109.03-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.218.182:443#🔒 SS-TCP-NA 🇯🇵 JP-3.112.218.182:443 📡 PING-110.28-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#🔒 SS-TCP-NA 🇵🇦 PA-138.186.142.4:989 📡 PING-112.03-MS
 ss://YWVzLTI1Ni1nY206ZjhmN2FDemNQS2JzRjhwMw==@170.80.111.6:989#🔒 SS-TCP-NA 🇬🇹 GT-170.80.111.6:989 📡 PING-115.99-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@170.80.111.5:989#🔒 SS-TCP-NA 🇬🇹 GT-170.80.111.5:989 📡 PING-117.63-MS
@@ -995,6 +998,3 @@ vless://4bada4e0-0f18-4b3e-bdd9-94891134b9b1@8.222.180.86:2087?security=tls&sni=
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.170.223:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.170.223:443 📡 PING-246.50-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.222.249.98:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.222.249.98:443 📡 PING-246.50-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.245.187:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.245.187:443 📡 PING-246.52-MS
-vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.50.180:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.50.180:443 📡 PING-246.61-MS
-vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.100.155:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.100.155:443 📡 PING-246.61-MS
-vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@47.236.130.95:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-47.236.130.95:443 📡 PING-246.64-MS
