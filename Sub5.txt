@@ -1,3 +1,6 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.247:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.247:443 📡 PING-005.14-MS
+vless://95faeb0c-2eaf-4a76-9a30-0db9efd9ab51@172.67.146.84:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs%2CTelegram%3A%40Daily_Configs#🔒 VL-WS-NONE 🇺🇸 US-172.67.146.84:8880 📡 PING-005.14-MS
+vless://2e01ebcf-4bd6-4be4-9365-f5c623510512@66.235.200.0:80?security=none&type=ws&host=workerr.babray.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-66.235.200.0:80 📡 PING-005.14-MS
 vless://2cd43f95-7f19-4a94-acae-aa5ca0825724@173.245.49.216:2096?security=tls&sni=korosh.orewasanji.fun&type=grpc&serviceName=korosh&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇫🇷 FR-173.245.49.216:2096 📡 PING-005.14-MS
 vless://c58f045f-02e2-448c-af36-f6fbc62aba85@185.146.173.95:8880?security=none&type=ws&host=xn---qhantayawi--d-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=%2F%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C+%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6%2C%40LIGHTNING6#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.95:8880 📡 PING-005.14-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.2:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.2:8443 📡 PING-005.14-MS
@@ -995,6 +998,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.62.62:3389#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.105:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.105-0418
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.42:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.42-0396
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-1665
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.62.62:8090#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.62-1605
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.97-1647
-#profile-title: base64:VFZDIHwgTUlY
