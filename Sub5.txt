@@ -1,4 +1,3 @@
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.30.212:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.212:2083 📡 PING-008.50-MS
 vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@172.67.205.175:2096?security=tls&sni=web.v2ray-ab-841-vpn.WOrKers.dEV&type=ws&host=web.v2ray-ab-841-vpn.WOrKers.dEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.205.175:2096 📡 PING-008.50-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.24.198.161:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.198.161:80 📡 PING-008.50-MS
 vless://78340383-60c4-459b-9b43-fd951add3800@185.148.105.52:80?security=none&type=ws&host=ShhProxy-Free.xn--85-pv2cl2k5x3fipr.org.&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-185.148.105.52:80 📡 PING-008.50-MS
@@ -998,3 +997,4 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#%F0%9F%87%BA%F0%9F%8
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/v2raycollector
+#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector

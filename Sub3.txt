@@ -1,4 +1,3 @@
-vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.73.188:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.73.188:443 📡 PING-246.61-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.42.72:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.42.72:443 📡 PING-246.62-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.104.242:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.104.242:443 📡 PING-246.64-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.100.155:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.100.155:443 📡 PING-246.68-MS
@@ -998,3 +997,4 @@ vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.65.180:8080?sni=cdn-allxn--b
 vless://3ff3a373-ceb3-4847-8f93-5cb628700353@172.67.171.96:2096?security=tls&sni=hopev2ray.accme.link&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-172.67.171.96:2096 📡 PING-008.72-MS
 vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@172.67.84.80:2096?security=tls&sni=vpnct.arvancode.eu.org&type=ws&host=vpnct.arvancode.eu.org&path=Telegram-V2ray_Alpha%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-172.67.84.80:2096 📡 PING-008.72-MS
 vless://392a24d2-b87c-498e-a97a-51f3027f05c6@172.67.167.116:443?security=tls&sni=tomat.minusober.com&type=ws&path=%2Ftomat#🔒 VL-WS-TLS 🇺🇸 US-172.67.167.116:443 📡 PING-008.72-MS
+vless://0905460d-6edc-4a82-8ec8-6b76090b41c8@172.67.26.173:443?security=tls&sni=ARM64-V8A.pages.DEV&type=ws&host=ARM64-V8A.pages.DEV&path=%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🇺🇸 US-172.67.26.173:443 📡 PING-008.72-MS
