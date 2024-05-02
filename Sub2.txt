@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@13.41.18.255:443#🔒 SS-TCP-NA 🇬🇧 GB-13.41.18.255:443 📡 PING-099.48-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaG5BVU1mT1dJZ2pUOTE3eVlDRzd1@89.117.109.97:443#🔒 SS-TCP-NA 🇬🇧 GB-89.117.109.97:443 📡 PING-100.16-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.215:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.215:8080 📡 PING-100.97-MS
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7307 📡 PING-101.06-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7002 📡 PING-101.21-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplS1Q4Qkg0WnpUbVdvemxFOGlaU2hl@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-101.32-MS
@@ -995,6 +998,3 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@101.32.242.254:53821?security=tls&s
 vless://de8c56be-a31a-4dba-e4bb-ee5a7f5f84db@157.230.253.158:32559?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-157.230.253.158:32559 📡 PING-210.50-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.156.6.97:10392?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-43.156.6.97:10392 📡 PING-211.38-MS
 vless://f5112813-2735-469a-865e-ab0ef490a716@146.190.90.68:35703?security=none&type=ws&host=imo.im&path=%2FFREE++-++By+Tharuwa++%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-146.190.90.68:35703 📡 PING-211.70-MS
-vless://6748d18a-6ba1-48f5-b3ef-9cea211f05f7@188.212.98.5:2052?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.98.5:2052 📡 PING-213.22-MS
-vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-213.37-MS
-vless://de44b044-8f90-4e18-b742-16591667ff96@43.159.35.190:49142?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-43.159.35.190:49142 📡 PING-214.34-MS
