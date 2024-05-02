@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@212.192.9.220:998#🔒 SS-TCP-NA 🇳🇱 NL-212.192.9.220:998 📡 PING-102.63-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpST0F0T2xsREFvS05VeFUyMXlTMWxp@46.151.25.197:30830#🔒 SS-TCP-NA 🇳🇱 NL-46.151.25.197:30830 📡 PING-102.78-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:443 📡 PING-102.80-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RU8xQXMxMEVmZkRXNXN2WEF3Z3Zi@77.105.140.135:2562#🔒 SS-TCP-NA 🇳🇱 NL-77.105.140.135:2562 📡 PING-102.91-MS
@@ -998,3 +997,4 @@ vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@152.69.219.32:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.156.6.97:10392?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-43.156.6.97:10392 📡 PING-213.93-MS
 vless://38703b67-7a5d-4879-a059-04d20059d84d@152.42.232.0:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-152.42.232.0:80 📡 PING-214.06-MS
 vless://b5a18e83-7624-4966-de68-d11a9448f904@157.230.253.158:59327?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-157.230.253.158:59327 📡 PING-214.75-MS
+vless://6748d18a-6ba1-48f5-b3ef-9cea211f05f7@188.212.98.5:2052?security=none&type=tcp&host=fararu.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-188.212.98.5:2052 📡 PING-215.21-MS
