@@ -1,3 +1,6 @@
+vless://1ea40d23-e223-4be9-a830-036c9740b830@172.67.209.158:443?security=tls&sni=mamadtatardo442.my442vpn442.workers.dev&type=ws&host=mamadtatardo442.my442vpn442.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-172.67.209.158:443 📡 PING-008.42-MS
+vless://d78bbf7c-8e5c-493f-888d-9a421e39bc74@104.254.140.33:8080?security=none&type=ws&host=htamiz7.kaghazacharrangi.sbs&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-104.254.140.33:8080 📡 PING-008.42-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.221:443 📡 PING-008.42-MS
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.242.203:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.242.203:8080 📡 PING-008.42-MS
 vless://284fd6b7-8e4a-4fd6-b96a-0a9b806bac65@104.24.177.7:2052?security=none&type=ws&host=Oo-01010101010-10101010101010101-m-1-1-1-1-010101010101.dl2NeXtflix-inbound3Html-irect2d-1.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:2052 📡 PING-008.42-MS
 vless://e51b714f-18ab-4969-a82d-4500649320bd@172.67.129.247:8080?type=ws&host=maz.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.&path=%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet--%40Maznet#🔒 VL-WS-NA 🇺🇸 US-172.67.129.247:8080 📡 PING-008.42-MS
@@ -995,6 +998,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989#%F0%9F%87%A6%F0
 vmess://ewogICAgImFkZCI6ICIxODguMTE0Ljk3LjIiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJiZTItdm1lc3Muc3NobWF4Lnh5eiIsCiAgICAiaWQiOiAiNmQ5OTExYjAtNGUxNC00NGZiLTg4ODMtNTJkMTRmNTUwY2NhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfj4FSRUxBWS0xODguMTE0Ljk3LjItMDExMiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989#%F0%9F%87%A8%F0%9F%87%BECY-213.169.137.221-0699
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#%F0%9F%87%A6%F0%9F%87%B7AR-190.103.176.29-0717
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.4-0718
-trojan://6e28f704-29a0-4c86-b25b-dd090603c741@nl2-full.privateip.net:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-176.126.113.161-0137
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@80.92.204.106:9094#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-3450

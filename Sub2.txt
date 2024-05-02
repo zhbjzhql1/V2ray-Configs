@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@194.116.173.21:9038#🔒 SS-TCP-NA 🇺🇸 US-194.116.173.21:9038 📡 PING-071.98-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJQ1RPdFJPanJBcUlvdHNFWVRHOE5j@45.153.48.114:443#🔒 SS-TCP-NA 🇨🇦 CA-45.153.48.114:443 📡 PING-072.38-MS
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.225:8119#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8119 📡 PING-072.64-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.218:8000#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.218:8000 📡 PING-072.67-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.162.200.213:443#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.213:443 📡 PING-072.79-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.43:2376#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.43:2376 📡 PING-072.92-MS
@@ -995,6 +998,3 @@ vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.100.155:443?security=tls&sni=
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.219.199.220:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.219.199.220:443 📡 PING-247.61-MS
 vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.222.244.123:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.222.244.123:443 📡 PING-247.64-MS
 vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?security=none&type=ws&path=%2Fa#🔒 VL-WS-NONE 🇮🇳 IN-144.24.139.190:28852 📡 PING-247.65-MS
-vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@8.222.205.210:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-8.222.205.210:443 📡 PING-247.66-MS
-vless://0ebb1677-4902-476f-bc03-3e8c7ca6fd21@8.219.50.180:2096?security=tls&sni=node.vauth.workers.dev&type=ws&host=node.vauth.workers.dev&path=/?ed%3D2048#🔒 VL-WS-TLS 🇸🇬 SG-8.219.50.180:2096 📡 PING-247.79-MS
-vless://bb8dce2e-a97a-4fc7-a2a9-c823490094db@45.140.31.8:8443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-45.140.31.8:8443 📡 PING-247.80-MS
