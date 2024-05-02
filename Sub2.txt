@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplS1Q4Qkg0WnpUbVdvemxFOGlaU2hl@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-080.41-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7002 📡 PING-080.42-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:3306 📡 PING-080.57-MS
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443 📡 PING-080.59-MS
@@ -997,4 +998,3 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@101.32.242.254:53821?security=tls&s
 vless://71b9cd8f-2465-4d7c-ac6b-9189bf606827@159.89.199.154:443?security=tls&sni=aka.ms&type=tcp&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇸🇬 SG-159.89.199.154:443 📡 PING-222.57-MS
 vless://de44b044-8f90-4e18-b742-16591667ff96@43.159.35.190:49142?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-43.159.35.190:49142 📡 PING-222.59-MS
 vless://b5a18e83-7624-4966-de68-d11a9448f904@157.230.253.158:59327?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-157.230.253.158:59327 📡 PING-223.28-MS
-vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?security=none&type=ws&path=%2Fa#🔒 VL-WS-NONE 🇮🇳 IN-144.24.139.190:28852 📡 PING-223.76-MS
