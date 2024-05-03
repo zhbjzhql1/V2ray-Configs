@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.162.200.225:8882#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:8882 📡 PING-075.67-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.103:5001#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.103:5001 📡 PING-075.81-MS
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.111:6679#🔒 SS-TCP-NA 🇺🇸 US-69.50.93.111:6679 📡 PING-076.12-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.218:5003#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.218:5003 📡 PING-077.37-MS
@@ -998,3 +997,4 @@ vless://db533712-9a74-457d-be74-0ef9dc7ee2aa@193.151.158.138:9103?security=none&
 vless://94dc2d19-7a22-468b-89ac-773bb2b3d3c7@185.233.13.90:2222?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.233.13.90:2222 📡 PING-235.54-MS
 vless://0d5cdec3-ff6c-49cb-9d7d-206d7c7d1437@2.189.111.71:443?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-2.189.111.71:443 📡 PING-237.18-MS
 vless://e5d90af1-64fe-41f9-ab82-b3006b2e2a70@212.33.206.80:8478?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.80:8478 📡 PING-237.46-MS
+vless://f7917f2c-bfb2-4224-bd65-d0db5f48e28a@185.142.157.224:2053?security=none&type=ws&host=anten.ir&path=%5C#🔒 VL-WS-NONE 🇮🇷 IR-185.142.157.224:2053 📡 PING-239.10-MS
