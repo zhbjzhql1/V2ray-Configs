@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8008 📡 PING-074.98-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.120:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8119 📡 PING-074.98-MS
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:6379 📡 PING-075.01-MS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8090 📡 PING-075.05-MS
@@ -997,4 +998,3 @@ vless://1a06da84-88f7-4350-ac2f-336d676d7503@5.145.119.42:8880?security=none&typ
 vless://3c7bda64-e8e4-5e5b-d353-a88512f06547@94.182.134.45:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.134.45:443 📡 PING-171.29-MS
 vless://94dc2d19-7a22-468b-89ac-773bb2b3d3c7@185.233.13.90:2222?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.233.13.90:2222 📡 PING-172.22-MS
 vless://f7917f2c-bfb2-4224-bd65-d0db5f48e28a@185.142.157.224:2053?security=none&type=ws&host=anten.ir&path=%5C#🔒 VL-WS-NONE 🇮🇷 IR-185.142.157.224:2053 📡 PING-172.66-MS
-vless://58a2c602-2676-4172-b9da-d631b5e15f15@185.218.139.118:43633?security=none&type=grpc#🔒 VL-GRPC-NONE 🇮🇷 IR-185.218.139.118:43633 📡 PING-174.27-MS
