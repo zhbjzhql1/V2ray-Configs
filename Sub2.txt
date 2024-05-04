@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.35:7001#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.35:7001 📡 PING-074.59-MS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.213:7307#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.213:7307 📡 PING-074.64-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.67:8888#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.67:8888 📡 PING-074.89-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.28:3389 📡 PING-074.91-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.162.200.239:5004#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.239:5004 📡 PING-075.02-MS
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.117:8118#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:8118 📡 PING-075.03-MS
@@ -995,6 +998,3 @@ vless://07aa1cf9-9859-4690-ae4e-1d983fd9ad51@176.65.242.93:1325?security=none&ty
 vless://a6fd9a0b-dd37-4c48-82a5-346ac83e26a7@47.243.86.79:8443?security=tls&sni=jdbp606-cq9.pages.dev&type=ws&host=jdbp606-cq9.pages.dev&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.243.86.79:8443 📡 PING-234.44-MS
 vless://74f92f29-260a-4332-8121-8a94acaba18d@212.80.18.147:443?security=none&type=tcp&host=www.speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.80.18.147:443 📡 PING-234.63-MS
 vless://dd928f8b-e1ec-40d2-9aff-77d9e7d8d3f5@212.33.206.84:37753?security=none&type=tcp&host=www.sayad.top&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.84:37753 📡 PING-235.21-MS
-vless://5132f570-b9c0-48bb-8e0d-a430ba989379@94.182.136.183:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.136.183:8443 📡 PING-236.29-MS
-vless://6abb2c71-c761-4045-800e-c2d5b8b48e5b@85.9.98.60:7001?security=tls&sni=te2.v2masters.ru&type=ws&host=te2.v2masters.ru&path=%2Finvestors.spotify.com%3Fed%3D2560&fp=firefox&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇮🇷 IR-85.9.98.60:7001 📡 PING-236.39-MS
-vless://3c7bda64-e8e4-5e5b-d353-a88512f06547@94.182.134.45:443?security=none&type=tcp&host=divarcdn.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.134.45:443 📡 PING-236.46-MS
