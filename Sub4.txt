@@ -1,3 +1,4 @@
+vless://c14f397e-682b-4949-fbdd-96b6020e137a@190.93.246.241:2083?security=tls&sni=liV2helj.LIGHTNING6.IR&type=grpc&serviceName=@LIGHTNING6&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.246.241:2083 📡 PING-001.87-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.12.75.46:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-31.12.75.46:443 📡 PING-001.87-MS
 vless://5549ed2d-90a7-4ef3-8863-4ba490b3ee80@104.21.0.130:443?security=tls&sni=v2rayfast.parsabhramabady615.workers.dev&type=ws&host=v2rayfast.parsabhramabady615.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.0.130:443 📡 PING-001.87-MS
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.162.88:8080?sni=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=/&fp=%E9%9A%8F%E6%9C%BA#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.162.88:8080 📡 PING-001.87-MS
@@ -997,4 +998,3 @@ vless://5ed817dc-ec48-4621-c0fa-6b1204518016@104.22.73.145:8880?security=none&ty
 vless://e941f2c7-bc6a-457b-b86e-ba240caf7f20@104.21.32.109:2087?security=tls&sni=parsconfig4.queenm99881.workers.dev&type=ws&host=parsconfig4.queenm99881.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.109:2087 📡 PING-001.75-MS
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@154.197.121.13:8443?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.13:8443 📡 PING-001.75-MS
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@172.67.161.1:80?security=none&type=ws&host=workerr.hashdiler.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.161.1:80 📡 PING-001.75-MS
-vless://0e91a1ff-fd1d-41ad-a911-e3dd9b04fda3@188.114.97.6:443?security=tls&sni=fr1-vless.sshmax.xyz&type=ws&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.6:443 📡 PING-001.75-MS
