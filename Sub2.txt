@@ -1,3 +1,10 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.24:8118#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.24:8118 📡 PING-080.08-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.150:989 📡 PING-080.17-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.198:2375#🔒 SS-TCP-NA 🇬🇧 GB-172.99.190.198:2375 📡 PING-080.34-MS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.24:8882#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.24:8882 📡 PING-080.97-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.66:5600#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.66:5600 📡 PING-081.36-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.250.27:443#🔒 SS-TCP-NA 🇬🇧 GB-13.42.250.27:443 📡 PING-081.70-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.119.71:443#🔒 SS-TCP-NA 🇺🇸 US-34.219.119.71:443 📡 PING-081.89-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.113:989 📡 PING-082.03-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSnNySmV5Z1N3WDQ=@45.95.233.21:443#🔒 SS-TCP-NA 🇫🇷 FR-45.95.233.21:443 📡 PING-082.30-MS
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.24:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.24:6679 📡 PING-082.50-MS
@@ -991,10 +998,3 @@ vless://fc5348ee-1fb4-4050-af65-bba3580df5fd@95.164.114.43:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.247.29.92:34237?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-103.247.29.92:34237 📡 PING-213.47-MS
 vless://b5a18e83-7624-4966-de68-d11a9448f904@157.230.253.158:59327?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-157.230.253.158:59327 📡 PING-215.71-MS
 vless://de8c56be-a31a-4dba-e4bb-ee5a7f5f84db@157.230.253.158:32559?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-157.230.253.158:32559 📡 PING-215.85-MS
-vless://82a4bb3f-34b2-4755-a5ed-d237e3a3141f@152.42.232.0:443?security=tls&sni=aka.ms&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇬 SG-152.42.232.0:443 📡 PING-216.01-MS
-vless://8ca7ce9d-1c38-40b4-d8f1-5237230c3cfd@152.42.178.181:28844?security=none&type=ws&host=imo.im&path=%2FFREE++By+Tharuwa+%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-152.42.178.181:28844 📡 PING-216.12-MS
-vless://4c1e91a2-feb7-4734-b836-b8d68c639cfe@176.65.242.93:1116?security=none&type=grpc&serviceName=Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomoTelegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomo-Telegramjoin%3A%40servermomoTelegramjoin%3A%40servermomo-#🔒 VL-GRPC-NONE 🇮🇷 IR-176.65.242.93:1116 📡 PING-217.17-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@52.175.21.95:2053?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-52.175.21.95:2053 📡 PING-217.58-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.148.72.147:1443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-103.148.72.147:1443 📡 PING-217.64-MS
-vless://f2c48b2f-c581-4d7d-846e-8bd97d93bd65@194.246.114.54:443?security=tls&sni=hk-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇭🇰 HK-194.246.114.54:443 📡 PING-218.04-MS
-vless://38703b67-7a5d-4879-a059-04d20059d84d@152.42.232.0:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-152.42.232.0:80 📡 PING-219.07-MS
