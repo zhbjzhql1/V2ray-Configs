@@ -1,5 +1,3 @@
-vless://bf2d4460-49d7-4107-a472-e91037fa9c7a@5.202.74.58:11268?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.202.74.58:11268 📡 PING-174.12-MS
-vless://d5268a1a-f481-4438-9f51-122543f0545a@85.9.98.252:45694?security=none&type=tcp&host=idem.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.98.252:45694 📡 PING-178.76-MS
 vless://741fbb11-80d9-4684-a2a6-c558ccc4a84c@85.133.137.55:4002?security=none&type=ws&host=85.133.137.55#🔒 VL-WS-NONE 🇮🇷 IR-85.133.137.55:4002 📡 PING-178.88-MS
 vless://eb7af5aa-84c8-409b-9362-a84c6ec2313f@212.33.206.78:8080?security=none&type=tcp&host=colorlib.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-212.33.206.78:8080 📡 PING-180.79-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@132.226.172.226:46730?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-132.226.172.226:46730 📡 PING-181.46-MS
@@ -998,3 +996,5 @@ vless://17b5036e-0fbf-451c-8794-5f3d115178e9@104.18.13.130:443?security=tls&sni=
 vless://6024b2c4-5f46-42bb-a5b4-82c0ea7ae73f@77.37.33.82:443?security=tls&sni=5us2.pqjc.buzz&type=ws&path=%2Fpq%2Fus2&fp=safari#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.82:443 📡 PING-001.62-MS
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.201:443?security=tls&sni=D6F1D970.oxNeT-ir-XZU871.PageS.DeV&type=ws&host=d6f1D970.oxNEt-Ir-xZu871.pAGES.DeV&path=%2FXt9O5m2Tcr8DTegz%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.201:443 📡 PING-001.62-MS
 vless://5b2bad9a-139f-4985-891f-00956573c448@104.16.31.34:80?security=none&type=ws&host=hello-world-bitter-silence-09ff.conig57303.workers.DEV&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.31.34:80 📡 PING-001.62-MS
+vless://e6a047f0-734b-4bd7-82aa-367f2d88f4a4@104.21.94.125:443?security=tls&sni=httpstmev2rayvmessfree.raminramin006.workers.dev&type=ws&host=httpstmev2rayvmessfree.raminramin006.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.125:443 📡 PING-001.62-MS
+vless://d2be2507-a944-4e5f-a788-80ae95247a18@188.114.98.224:2096?security=tls&sni=SAmV2ray.naziitness.com&type=grpc&serviceName=abc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.224:2096 📡 PING-001.62-MS
