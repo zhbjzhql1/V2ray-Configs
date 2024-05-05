@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.215:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.215:8080 📡 PING-080.85-MS
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:6379 📡 PING-080.90-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.248:8080 📡 PING-080.96-MS
 ss://YWVzLTI1Ni1nY206c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443 📡 PING-080.98-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplS1Q4Qkg0WnpUbVdvemxFOGlaU2hl@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-080.99-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.44:5003#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.44:5003 📡 PING-081.00-MS
@@ -995,6 +998,3 @@ vless://b5a18e83-7624-4966-de68-d11a9448f904@157.230.253.158:59327?security=none
 vless://38703b67-7a5d-4879-a059-04d20059d84d@152.42.232.0:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-152.42.232.0:80 📡 PING-222.63-MS
 vless://f5112813-2735-469a-865e-ab0ef490a716@146.190.90.68:35703?security=none&type=ws&host=imo.im&path=%2FFREE++-++By+Tharuwa++%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-146.190.90.68:35703 📡 PING-223.14-MS
 vless://ee187c79-7594-4a97-96bc-ff717c61a919@144.24.139.190:28852?security=none&type=ws&path=%2Fa#🔒 VL-WS-NONE 🇮🇳 IN-144.24.139.190:28852 📡 PING-224.34-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.75.101.0:3443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.75.101.0:3443 📡 PING-224.50-MS
-vless://806a4b63-f00e-4b93-983b-51dbcebc49f1@152.69.219.32:443?security=tls&sni=pardazesh6.pages.dev&type=ws&host=pardazesh6.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-152.69.219.32:443 📡 PING-224.72-MS
-vless://de44b044-8f90-4e18-b742-16591667ff96@101.32.242.254:53821?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇸🇬 SG-101.32.242.254:53821 📡 PING-225.42-MS
