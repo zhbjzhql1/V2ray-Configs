@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:8000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:8000 📡 PING-074.51-MS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.20:7306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:7306 📡 PING-074.68-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#🔒 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080 📡 PING-074.69-MS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.26:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.26:8090 📡 PING-074.70-MS
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:445#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:445 📡 PING-074.99-MS
@@ -996,5 +998,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@146.56.150.165:46452?security=tls&s
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@140.238.13.96:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-140.238.13.96:443 📡 PING-187.95-MS
 vless://21116a95-eaff-4e2a-baf1-0228ec568b72@94.182.136.46:4041?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.136.46:4041 📡 PING-188.78-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.206.254:59158?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.206.254:59158 📡 PING-189.16-MS
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-nL.pAgEs.dEv&type=ws&host=ViRgInIaVpN-Nl.PaGeS.DeV&path=%2F%3Fed#🔒 VL-WS-TLS 🇮🇷 IR-188.121.118.55:443 📡 PING-189.20-MS
-vless://5132f570-b9c0-48bb-8e0d-a430ba989379@94.182.136.183:8443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.136.183:8443 📡 PING-189.60-MS
