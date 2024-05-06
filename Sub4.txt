@@ -1,4 +1,3 @@
-vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@162.159.7.226:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.7.226:443 📡 PING-001.72-MS
 vless://0f706d06-85b6-4e85-a954-63da05f79760@140.99.233.23:80?type=ws&host=m.speedur.site&path=%2Fspeed#🔒 VL-WS-NA 🇩🇪 DE-140.99.233.23:80 📡 PING-001.72-MS
 vless://6d895438-6d30-4d44-9542-7fb350058b9a@172.67.204.215:443?security=tls&sni=EXPrEsSvpNfRee021.ExPREsSvPNFREE022.worKeRs.DeV&type=ws&host=eXPResSvPNFReE021.expResSvPNFreE022.wORKErS.DEv&path=%2FPlDdnKeNXiVuLR3X%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.215:443 📡 PING-001.72-MS
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.23.165:80?security=none&type=ws&host=us1.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.23.165:80 📡 PING-001.72-MS
@@ -998,3 +997,4 @@ vless://bcf809e7-075b-4820-8a62-bbff9d97abe4@170.114.45.6:443?security=tls&sni=s
 vless://c0fbd664-9693-4cc0-aa73-9247dbbadbeb@172.67.141.169:443?security=tls&sni=bed7nemarz.ribon88568.workers.dev&type=ws&host=bed7nemarz.ribon88568.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.169:443 📡 PING-001.50-MS
 vless://36fb1a9c-9c5d-4326-92d1-4b7005177f1b@104.18.202.232:2082?security=none&type=ws&host=erwhwhr%E2%99%A1alibaba.discord.com.aparat.com.abrarvan.zula.irewqgw-%E2%99%A1bmwnet2.goldcartsodiofol.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:2082 📡 PING-001.50-MS
 vless://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.17.245.1:443?security=tls&sni=hdfy8c1.foriran.nl&type=ws&host=hdfy8c1.foriran.nl&path=/PvSPM3IicU6D349brWUw6a&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.1:443 📡 PING-001.50-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@108.162.192.141:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.141:443 📡 PING-001.50-MS
