@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.248:8080 📡 PING-081.06-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@212.192.9.220:998#🔒 SS-TCP-NA 🇳🇱 NL-212.192.9.220:998 📡 PING-081.23-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.44:5003#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.44:5003 📡 PING-081.47-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5601 📡 PING-081.50-MS
@@ -998,3 +997,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.77.114.251:22222?security=tls&sn
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@65.75.194.18:13888?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-65.75.194.18:13888 📡 PING-068.26-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:443 📡 PING-069.81-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@149.28.201.214:49355?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-149.28.201.214:49355 📡 PING-071.06-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@172.82.16.99:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.82.16.99:443 📡 PING-071.42-MS
