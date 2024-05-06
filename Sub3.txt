@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.242.31:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-52.60.242.31:22222 📡 PING-074.71-MS
 vless://ff884731-2476-44aa-855c-a5384085672d@92.38.168.14:80?security=none&type=ws&host=mamanodamind.com&path=/ws#🔒 VL-WS-NONE 🇺🇸 US-92.38.168.14:80 📡 PING-076.53-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.65.165.75:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-159.65.165.75:8443 📡 PING-077.64-MS
 vless://ff884731-2476-44aa-855c-a5384085672d@80.93.223.61:80?security=none&type=ws&host=mamanodamind.com&path=%2Fws#🔒 VL-WS-NONE 🇺🇸 US-80.93.223.61:80 📡 PING-078.94-MS
@@ -997,4 +998,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.7.143:443?security=tls&sni=b
 vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@172.66.44.212:443?security=tls&sni=pardazeshvpn-tg20.pages.dev&type=ws&host=pardazeshvpn-tg20.pages.dev&path=%2F&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.212:443 📡 PING-001.97-MS
 vless://bc2a87ed-6753-47cd-9938-6a844ffe1a71@104.21.43.22:80?security=none&type=ws&host=a.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.43.22:80 📡 PING-001.97-MS
 vless://f6ff0cc4-a9cf-4c13-aec0-d1a6618f8057@172.67.205.127:2053?security=tls&sni=alfredo.zmv2ray.site&type=grpc&serviceName=@Alfred_Config&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.205.127:2053 📡 PING-001.97-MS
-vless://6024b2c4-5f46-42bb-a5b4-82c0ea7ae73f@77.75.199.38:443?security=tls&sni=p8us4.pqjc.buzz&type=ws&path=%2Fpq%2Fus4&fp=firefox#🔒 VL-WS-TLS 🇬🇧 GB-77.75.199.38:443 📡 PING-001.97-MS

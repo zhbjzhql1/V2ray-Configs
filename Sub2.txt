@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.225:8091#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8091 📡 PING-073.10-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.106:5500#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.106:5500 📡 PING-073.14-MS
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.225:7306#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7306 📡 PING-073.21-MS
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.225:7307#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7307 📡 PING-073.25-MS
@@ -997,4 +998,3 @@ vless://c036e15b-338a-4e72-a0c2-3ec23a7daefc@138.124.184.173:443?security=tls&sn
 vless://c036e15b-338a-4e72-a0c2-3ec23a7daefc@138.124.184.173:2003?security=tls&sni=us-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-138.124.184.173:2003 📡 PING-073.33-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.208.58.98:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-44.208.58.98:22222 📡 PING-074.42-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.98.246:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-3.98.98.246:22222 📡 PING-074.47-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.60.242.31:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇨🇦 CA-52.60.242.31:22222 📡 PING-074.71-MS
