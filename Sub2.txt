@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.37:8118#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.37:8118 📡 PING-083.42-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.103:8080#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.103:8080 📡 PING-083.49-MS
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.149:9101#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.149:9101 📡 PING-084.41-MS
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@154.47.20.240:443#🔒 SS-TCP-NA 🇯🇵 JP-154.47.20.240:443 📡 PING-104.66-MS
@@ -997,4 +998,3 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@101.32.242.254:53821?security=tls&s
 vless://b5a18e83-7624-4966-de68-d11a9448f904@157.230.253.158:59327?security=none&type=ws&host=store.steampowered.com&path=%2F#🔒 VL-WS-NONE 🇸🇬 SG-157.230.253.158:59327 📡 PING-168.80-MS
 vless://8ca7ce9d-1c38-40b4-d8f1-5237230c3cfd@152.42.178.181:28844?security=none&type=ws&host=imo.im&path=%2FFREE++By+Tharuwa+%280767597317%29#🔒 VL-WS-NONE 🇸🇬 SG-152.42.178.181:28844 📡 PING-168.82-MS
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@139.162.49.215:443?security=tls&sni=sg3-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇸🇬 SG-139.162.49.215:443 📡 PING-169.00-MS
-vless://a46a732f-5488-4f73-b040-9297ba7d1351@176.97.77.198:8880?security=none&type=ws&host=magic.freedomundead.shop&path=%2FXaleph#🔒 VL-WS-NONE 🇸🇪 SE-176.97.77.198:8880 📡 PING-169.43-MS
