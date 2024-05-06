@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.43:443#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.43:443 📡 PING-076.87-MS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.99:8091#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.99:8091 📡 PING-076.89-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.43:2376#🔒 SS-TCP-NA 🇺🇸 US-142.202.48.43:2376 📡 PING-077.07-MS
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.218:7306#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.218:7306 📡 PING-077.08-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.218:7001#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.218:7001 📡 PING-077.09-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.35:7001#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.35:7001 📡 PING-077.66-MS
 ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@194.116.173.21:9038#🔒 SS-TCP-NA 🇺🇸 US-194.116.173.21:9038 📡 PING-079.73-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.218:8080#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.218:8080 📡 PING-079.89-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.218:2376#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.218:2376 📡 PING-079.93-MS
@@ -992,9 +998,3 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@3.64.163.50:443?security=tls&sni=9p
 vless://f46ad8d7-f22c-40fc-d0b2-5db602a6d815@82.165.77.122:2083?security=tls&sni=vkvd127.mycdn.me&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇩🇪 DE-82.165.77.122:2083 📡 PING-158.84-MS
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@5.75.236.28:443?security=tls&sni=admin2.pythonic-ai.com&type=ws&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-5.75.236.28:443 📡 PING-159.23-MS
 vless://3f926686-dd36-4d3e-bc63-99eae58ddd10@95.164.88.77:443?security=none&type=tcp&host=france24.com&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-95.164.88.77:443 📡 PING-159.28-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@121.181.87.111:12405?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=TG%40ZDYZ2#🔒 VL-WS-TLS 🇰🇷 KR-121.181.87.111:12405 📡 PING-159.41-MS
-vless://b620525a-5e9b-49d7-ca9e-c30d03b928b0@162.19.189.17:8443?security=tls&sni=snapppay.ir&type=grpc&serviceName=vpn_xw.t.me&fp=chrome#🔒 VL-GRPC-TLS 🇫🇷 FR-162.19.189.17:8443 📡 PING-159.81-MS
-vless://abdbc885-7650-4e56-a2fb-726a39bd4a08@94.130.111.214:80?security=none&type=tcp&host=zula.ir&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-94.130.111.214:80 📡 PING-160.11-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.1.234:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-3.69.1.234:22222 📡 PING-160.46-MS
-vless://0c6b59f7-b4de-4125-b968-dabcbbfdbe9c@79.137.205.123:443?security=none&type=tcp&host=sourceforge.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-79.137.205.123:443 📡 PING-160.49-MS
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@141.145.200.125:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr2329-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-141.145.200.125:443 📡 PING-161.44-MS
