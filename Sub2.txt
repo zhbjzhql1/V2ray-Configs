@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.162.200.189:9101#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.189:9101 📡 PING-074.60-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.225:8000#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8000 📡 PING-075.20-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.225:7002#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7002 📡 PING-075.24-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.225:7001#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7001 📡 PING-075.25-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.225:9090#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:9090 📡 PING-075.26-MS
@@ -996,5 +998,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.242.79.71:80?security=none&type=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.126.211:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-3.69.126.211:22222 📡 PING-155.85-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@144.24.206.147:443?security=tls&flow=xtls-rprx-vision&sni=b2-9fr5232-96bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇫🇷 FR-144.24.206.147:443 📡 PING-155.99-MS
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@3.64.163.50:443?security=tls&sni=9pgcn69xy7i539t1wtli.khodavakili.buzz&type=ws&host=dl.khodavakili.buzz&path=%2Fkos_madar_publisher#🔒 VL-WS-TLS 🇩🇪 DE-3.64.163.50:443 📡 PING-156.24-MS
-vless://9dac273d-4e42-48fc-8486-aac2f93ead36@185.143.233.120:443?security=tls&sni=virgool.io&type=ws&host=rulsvitalone-b4091c32c5-app.apps.ir-thr-ba1.arvancaas.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.233.120:443 📡 PING-156.29-MS
-vless://070e7068-223b-43e8-84ca-8f47a6f3f12a@46.226.163.253:123?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-46.226.163.253:123 📡 PING-156.83-MS
