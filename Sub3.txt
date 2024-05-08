@@ -1,5 +1,3 @@
-vless://c6c360c7-dd1d-4ad2-80bb-d24a2455b410@146.75.74.87:443?security=tls&sni=ec2-iranc-cal02.global.ssl.fastly.net&type=ws&host=ec2-iranc-cal02.global.ssl.fastly.net&path=%2FGTTYQA9#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.87:443 📡 PING-074.87-MS
-vless://d4224d90-3dda-48b0-81f8-1f4d99eedf83@192.248.148.199:443?security=tls&sni=ss.irandll.fun&type=ws&host=irandll.fun&path=%2FTelegram-%40metavpnn&fp=firefox&alpn=http%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-192.248.148.199:443 📡 PING-074.99-MS
 vless://076d187c-dda9-4bef-93ed-b34d3fb65738@165.22.126.162:31638?security=none&type=ws&host=google.com&path=%2Fzula.ir#🔒 VL-WS-NONE 🇬🇧 GB-165.22.126.162:31638 📡 PING-075.01-MS
 vless://48bd0de9-cc25-427f-f8e9-a13e89ddc53e@192.248.149.199:42683?security=none&type=tcp&host=uplod.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-192.248.149.199:42683 📡 PING-075.14-MS
 vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.126.104:443?security=tls&flow=xtls-rprx-vision&sni=b295-23us129-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.126.104:443 📡 PING-075.16-MS
@@ -998,3 +996,5 @@ vless://0a3f9255-fcd9-4b63-9617-be755149a77e@172.67.188.241:443?security=tls&sni
 vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.17.58.44:443?security=tls&sni=vpn.restia.love&type=ws&host=vpn.restia.love&path=Path%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.58.44:443 📡 PING-001.70-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.212:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.212:8443 📡 PING-001.70-MS
 vless://98bb933c-921c-4c3c-84be-91aae07832b0@162.159.135.234:2082?security=none&type=ws&host=cH.tOtFaRaNgHi.SbS&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.135.234:2082 📡 PING-001.70-MS
+vless://ad19c2cb-202e-4126-a004-265737ca4006@162.159.152.2:8443?security=tls&sni=telegram-falcunargo-turky.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-turky.falcunar.asso.eu.org&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.2:8443 📡 PING-001.70-MS
+vless://feed264d-a3dd-41e8-a081-dd5b54902700@104.22.0.87:2096?security=tls&sni=re7.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.0.87:2096 📡 PING-001.70-MS
