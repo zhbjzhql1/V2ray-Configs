@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUb2lYVmw1eGgxZGRrU05LcXBpOEtj@92.243.27.51:9802#🔒 SS-TCP-NA 🇫🇷 FR-92.243.27.51:9802 📡 PING-082.74-MS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.6:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.6:5500 📡 PING-082.91-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:3389 📡 PING-083.00-MS
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.47:6379#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.47:6379 📡 PING-083.03-MS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:2375 📡 PING-083.07-MS
@@ -996,5 +998,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.185:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.109:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.109:443 📡 PING-084.72-MS
 vless://a441c487-ac28-4826-c9f9-cc169db7b869@185.164.163.178:10849?security=none&type=tcp&path=%2Fhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocolhttps%3A%2F%2Ft.me%2FVmessProtocol&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-185.164.163.178:10849 📡 PING-084.82-MS
 vless://88845e47-23a5-4049-8e8c-2ea49f0c11a1@51.178.236.123:43633?security=none&type=kcp#🔒 VL-KCP-NONE 🇫🇷 FR-51.178.236.123:43633 📡 PING-084.86-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.181:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.181:443 📡 PING-084.89-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.108:443?security=tls&sni=kk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.108:443 📡 PING-084.92-MS
