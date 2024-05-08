@@ -976,25 +976,25 @@ vmess://eyJhZGQiOiAiY2EtZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAi
 vmess://eyJhZGQiOiAiZnIyLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIzYWI5MmJlMy0yZDJiLTQwODAtODcxZi04OWVkNmJkMWNkMGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1JBQ0VWUE4iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwRnJhbmNlJTIwVm1lc3MlMjBXUyUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 vmess://eyJhZGQiOiAiZnIzLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI0NTRmODRkZi03MjRkLTQ0MmEtYTRhMi02OThhNmQ2M2Y5NDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JhY2V2cG4iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiJUYwJTlGJTg3JUFCJUYwJTlGJTg3JUI3JTIwRnJhbmNlJTIwVm1lc3MlMjBXUyUyMEBWMnJheVN0b3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
-vless://cbaaabc-aabc-baca-cabd-bcbbcccaaaab@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-19-ORDIBEHESHT-1403 🕑 07:30
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.146.254.39:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-129.146.254.39:443 📡 PING-052.17-MS
-vless://66a719d2-30fb-4866-93b0-0ed602e65a55@159.223.207.182:57446?security=none&type=ws&host=telegram.org&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-159.223.207.182:57446 📡 PING-052.24-MS
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.147.168:443?security=tls&flow=xtls-rprx-vision&sni=767w1-45dc0-9ocf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.147.168:443 📡 PING-052.26-MS
-vless://cab438c4-9c5a-43fd-a623-ce81cb93085c@192.9.246.112:8443?security=tls&sni=hk.twittei.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-192.9.246.112:8443 📡 PING-052.47-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@150.230.47.17:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-150.230.47.17:443 📡 PING-052.47-MS
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.126.104:443?security=tls&flow=xtls-rprx-vision&sni=b295-23us129-6bh.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.126.104:443 📡 PING-052.76-MS
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.153.213.8:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-129.153.213.8:443 📡 PING-052.86-MS
-vless://7122e760-0b3b-11ef-8008-1239d0255272@23.158.72.133:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-23.158.72.133:80 📡 PING-053.03-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:443 📡 PING-053.16-MS
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@108.181.22.195:443?security=tls&flow=xtls-rprx-vision&sni=yfus.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.22.195:443 📡 PING-053.33-MS
-vless://d962c240-0c41-11ef-8cb5-1239d0255272@23.158.72.133:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=ws&path=%2Fvlws#🔒 VL-WS-TLS 🇺🇸 US-23.158.72.133:443 📡 PING-054.01-MS
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@154.17.6.196:51297?security=tls&sni=us1.rtacg.com&type=ws&host=us1.rtacg.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-154.17.6.196:51297 📡 PING-054.28-MS
-vless://86dba4c3-9fcc-4152-99a6-18b144d804fc@108.181.24.29:443?security=tls&flow=xtls-rprx-vision&sni=jsdownloadus.xn--4gq62f52gopi49k.com&type=tcp&fp=edge#🔒 VL-TCP-TLS 🇺🇸 US-108.181.24.29:443 📡 PING-054.29-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@172.82.16.99:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.82.16.99:443 📡 PING-058.28-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@149.28.201.214:49355?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-149.28.201.214:49355 📡 PING-060.99-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.146.46.164:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-129.146.46.164:443 📡 PING-061.88-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.232.216:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-34.255.232.216:22222 📡 PING-087.08-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.17.1.216:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-52.17.1.216:22222 📡 PING-087.45-MS
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@51.38.86.3:2053?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇫🇷 FR-51.38.86.3:2053 📡 PING-093.82-MS
-vless://2e698174-4c93-49c3-8532-df4c46800383@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-093.89-MS
-vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?type=tcp#🔒 VL-TCP-NA 🇫🇷 FR-51.195.149.115:26475 📡 PING-093.92-MS
+vless://caaabbc-baac-bcaa-cdab-cbccaabbabac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-19-ORDIBEHESHT-1403 🕑 08:28
+vless://7122e760-0b3b-11ef-8008-1239d0255272@23.158.72.133:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-23.158.72.133:80 📡 PING-058.82-MS
+vless://86dba4c3-9fcc-4152-99a6-18b144d804fc@108.181.24.29:443?security=tls&flow=xtls-rprx-vision&sni=jsdownloadus.xn--4gq62f52gopi49k.com&type=tcp&fp=edge#🔒 VL-TCP-TLS 🇺🇸 US-108.181.24.29:443 📡 PING-059.96-MS
+vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@108.181.22.195:443?security=tls&flow=xtls-rprx-vision&sni=yfus.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-108.181.22.195:443 📡 PING-060.14-MS
+vless://e3b2d928-1cff-401e-8324-825d378c20ab@142.171.33.100:59886?security=none&sni=us.950509.xyz&type=ws&path=%2Ffree#🔒 VL-WS-NONE 🇺🇸 US-142.171.33.100:59886 📡 PING-060.25-MS
+vless://de44b044-8f90-4e18-b742-16591667ff96@192.69.90.203:35658?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇺🇸 US-192.69.90.203:35658 📡 PING-060.53-MS
+vless://d962c240-0c41-11ef-8cb5-1239d0255272@23.158.72.133:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=ws&path=%2Fvlws#🔒 VL-WS-TLS 🇺🇸 US-23.158.72.133:443 📡 PING-061.03-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.146.254.39:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-129.146.254.39:443 📡 PING-061.44-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@91.149.239.64:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.64:443 📡 PING-062.64-MS
+vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.147.168:443?security=tls&flow=xtls-rprx-vision&sni=767w1-45dc0-9ocf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.147.168:443 📡 PING-065.12-MS
+vless://66a719d2-30fb-4866-93b0-0ed602e65a55@159.223.207.182:57446?security=none&type=ws&host=telegram.org&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-159.223.207.182:57446 📡 PING-066.63-MS
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.153.213.8:443?security=tls&sni=hk010.ylks.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-129.153.213.8:443 📡 PING-066.71-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:443 📡 PING-066.75-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.17.1.216:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-52.17.1.216:22222 📡 PING-067.21-MS
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.232.216:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇮🇪 IE-34.255.232.216:22222 📡 PING-067.33-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@154.17.6.196:51297?security=tls&sni=us1.rtacg.com&type=ws&host=us1.rtacg.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-154.17.6.196:51297 📡 PING-067.63-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@65.75.194.18:13888?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-65.75.194.18:13888 📡 PING-067.90-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.146.46.164:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-129.146.46.164:443 📡 PING-071.03-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@149.28.201.214:49355?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-149.28.201.214:49355 📡 PING-071.06-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@172.82.16.99:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.82.16.99:443 📡 PING-071.22-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.254.66.75:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-47.254.66.75:443 📡 PING-072.95-MS
+vless://b8e38072-1b65-4d5d-8038-3156b712785a@146.75.74.83:443?security=tls&sni=gogoli01.global.ssl.fastly.net&type=ws&host=gogoli01.global.ssl.fastly.net&path=%2FGR66ARR#🔒 VL-WS-TLS 🇬🇧 GB-146.75.74.83:443 📡 PING-074.55-MS
