@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.215:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.215:8080 📡 PING-100.82-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5000 📡 PING-100.95-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@193.29.139.248:8080#🔒 SS-TCP-NA 🇳🇱 NL-193.29.139.248:8080 📡 PING-100.99-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#🔒 SS-TCP-NA 🇫🇷 FR-51.159.111.208:989 📡 PING-101.04-MS
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#🔒 SS-TCP-NA 🇳🇱 NL-109.201.152.181:443 📡 PING-101.26-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5601 📡 PING-101.29-MS
@@ -995,6 +998,3 @@ vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.126.104:443?security=tls&flo
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@150.230.47.17:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-150.230.47.17:443 📡 PING-052.49-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.254.66.75:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-47.254.66.75:443 📡 PING-053.12-MS
 vless://7122e760-0b3b-11ef-8008-1239d0255272@23.158.72.133:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇺🇸 US-23.158.72.133:80 📡 PING-053.14-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.153.103.203:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-43.153.103.203:443 📡 PING-053.34-MS
-vless://a182932d-7b23-4a03-8b84-b4e7f39ee8d7@152.70.147.168:443?security=tls&flow=xtls-rprx-vision&sni=767w1-45dc0-9ocf2.xn--4gq62f52gppi29k.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇺🇸 US-152.70.147.168:443 📡 PING-053.40-MS
-vless://86dba4c3-9fcc-4152-99a6-18b144d804fc@108.181.24.29:443?security=tls&flow=xtls-rprx-vision&sni=jsdownloadus.xn--4gq62f52gopi49k.com&type=tcp&fp=edge#🔒 VL-TCP-TLS 🇺🇸 US-108.181.24.29:443 📡 PING-053.51-MS
