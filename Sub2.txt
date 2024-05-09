@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@169.197.142.216:7002#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.216:7002 📡 PING-017.29-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:5500#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:5500 📡 PING-017.27-MS
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.66:8008#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.66:8008 📡 PING-016.91-MS
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.66:8091#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.66:8091 📡 PING-016.80-MS
@@ -997,4 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.207:443?security=tls&sn
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.31.19:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇳🇱 NL-79.99.31.19:2087 📡 PING-008.71-MS
 vless://b7e13552-a221-43ad-86e7-ee047ae9ac00@172.67.214.179:443?security=tls&sni=ch.bo3kot.com&type=grpc&serviceName=%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray%2C%40MxV2ray&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.214.179:443 📡 PING-008.71-MS
 vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083 📡 PING-008.71-MS
-vless://d6bae88d-6671-4825-8a6d-dfbd712bf49b@104.21.69.44:2053?security=tls&sni=han.protoeinpaitakht.com&type=ws&host=han.protoeinpaitakht.com&path=%2F%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za%2C%40HosseinStore_Za&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2053 📡 PING-008.71-MS
