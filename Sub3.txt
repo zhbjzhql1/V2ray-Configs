@@ -1,3 +1,5 @@
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@129.146.46.164:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-129.146.46.164:443 📡 PING-071.07-MS
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@154.17.6.196:51297?security=tls&sni=us1.rtacg.com&type=ws&host=us1.rtacg.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-154.17.6.196:51297 📡 PING-071.53-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@91.149.239.64:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.64:443 📡 PING-072.80-MS
 vless://66a719d2-30fb-4866-93b0-0ed602e65a55@159.223.207.182:57446?security=none&type=ws&host=telegram.org&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-159.223.207.182:57446 📡 PING-072.81-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@172.82.16.99:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.82.16.99:443 📡 PING-072.88-MS
@@ -996,5 +998,3 @@ vless://d5aae20c-a7be-416e-806b-70a21ad20f52@172.67.159.193:443?security=tls&sni
 vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.146.173.59:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=%40frev2ray%2C%40frev2ray&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.59:443 📡 PING-001.69-MS
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.21.59.165:2053?security=tls&sni=folani.iiipok.WoRkeRS.deV&type=ws&host=folani.iiipok.WoRkeRS.deV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.165:2053 📡 PING-001.69-MS
 vless://9286513c-8184-4020-bedd-e75344e75bd9@104.21.201.246:443?security=tls&sni=ie2-vless.sshmax.xyz&type=ws&host=ie2-vless.sshmax.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.201.246:443 📡 PING-001.69-MS
-vless://d3484b27-0cdf-469b-953e-1066d4e488f8@104.21.89.84:443?security=tls&sni=configsenator.amirmohamad-na2006.workers.dev&type=ws&host=configsenator.amirmohamad-na2006.workers.dev&path=%2F&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.84:443 📡 PING-001.69-MS
-vless://3bb98504-d50d-40ef-9999-ec94523bf422@104.21.86.162:2052?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.86.162:2052 📡 PING-001.69-MS
