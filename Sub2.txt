@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.198:2375#🔒 SS-TCP-NA 🇬🇧 GB-172.99.190.198:2375 📡 PING-076.62-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.150:989 📡 PING-076.99-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.113:989 📡 PING-077.05-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@13.42.250.27:443#🔒 SS-TCP-NA 🇬🇧 GB-13.42.250.27:443 📡 PING-077.97-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.169.81.155:443#🔒 SS-TCP-NA 🇬🇧 GB-18.169.81.155:443 📡 PING-078.31-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#🔒 SS-TCP-NA 🇵🇦 PA-138.186.142.4:989 📡 PING-078.57-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@13.41.44.237:443#🔒 SS-TCP-NA 🇬🇧 GB-13.41.44.237:443 📡 PING-078.61-MS
@@ -994,7 +998,3 @@ vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?security=tls&sni
 vless://de44b044-8f90-4e18-b742-16591667ff96@35.201.203.106:443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🇹🇼 TW-35.201.203.106:443 📡 PING-197.49-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@210.111.176.108:20082?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-210.111.176.108:20082 📡 PING-198.52-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.186.188:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-45.8.186.188:443 📡 PING-200.03-MS
-vless://d8d8fadb-ed26-4a33-9447-46592861f5db@85.133.151.136:35349?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.133.151.136:35349 📡 PING-201.09-MS
-vless://b31a85e3-bd49-4144-ea57-5f9da82e8ba7@13.55.157.2:33306?security=none&flow=none&type=ws&host=media-exp1.licdn.com&path=%252F#🔒 VL-WS-NONE 🇦🇺 AU-13.55.157.2:33306 📡 PING-202.26-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.129.171.137:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.129.171.137:443 📡 PING-202.48-MS
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.218.156.91:80?security=none&type=ws&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed#🔒 VL-WS-NONE 🇭🇰 HK-8.218.156.91:80 📡 PING-204.39-MS
