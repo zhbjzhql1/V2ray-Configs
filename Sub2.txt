@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@157.175.106.22:443#🔒 SS-TCP-NA 🇧🇭 BH-157.175.106.22:443 📡 PING-252.66-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@3.28.3.134:443#🔒 SS-TCP-NA 🇦🇪 AE-3.28.3.134:443 📡 PING-256.64-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.112.135.231:443#🔒 SS-TCP-NA 🇦🇪 AE-51.112.135.231:443 📡 PING-257.92-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989#🔒 SS-TCP-NA 🇿🇦 ZA-41.203.4.34:989 📡 PING-276.47-MS
@@ -997,4 +998,3 @@ vless://ada7333c-b5ee-48f0-8cae-80de363e863a@104.21.25.46:443?security=tls&sni=b
 vless://db055023-cbec-4e18-a6af-d10259933b01@104.21.25.86:443?security=tls&sni=uk1-vless.sshmax.xyz&type=ws&host=uk1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.86:443 📡 PING-001.73-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.42:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.42:443 📡 PING-001.73-MS
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.106.126:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.106.126:2053 📡 PING-001.73-MS
-vless://eb201923-0e39-4425-bd0f-6244cd24ef2a@188.114.96.223:443?security=tls&sni=zaq11000d.b835a8094d.workers.dev&type=ws&host=zaq11000d.b835a8094d.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.223:443 📡 PING-001.73-MS
