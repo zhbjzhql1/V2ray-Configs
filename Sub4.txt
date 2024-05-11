@@ -1,3 +1,5 @@
+vless://64b2f336-f8bd-4c8b-9744-5699da10f025@162.159.138.232:2095?security=none&type=ws&host=ac.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.232:2095 📡 PING-005.06-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.135.9.144:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.144:443 📡 PING-005.06-MS
 vless://102e76a5-0f4c-4d71-b018-a76985e4617b@104.21.8.238:2087?security=tls&sni=hamedmrx.kijenov996.workers.dev&type=ws&host=hamedmrx.kijenov996.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.238:2087 📡 PING-005.06-MS
 vless://52a49c8b-680d-4e13-9799-7fb384d5c88b@104.21.78.235:443?security=tls&sni=fast-cd.iraniposhal.ir&type=ws&host=fast-cd.iraniposhal.ir&path=%2F&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.78.235:443 📡 PING-005.06-MS
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@185.146.173.12:443?security=tls&sni=mositr.freenods.sbs&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.12:443 📡 PING-005.06-MS
