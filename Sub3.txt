@@ -1,3 +1,4 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.94.86.147:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇨🇦 CA-64.94.86.147:2053 📡 PING-001.07-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.32:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.32:8443 📡 PING-001.07-MS
 vless://02e75d78-58ad-4a73-afca-24b781d8fdfd@104.21.99.250:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.99.250:8443 📡 PING-001.07-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.222:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.222:443 📡 PING-001.07-MS
@@ -997,4 +998,3 @@ vless://211e6a9d-60d8-45ee-b2d1-e9a793c0b08a@ca-full.privateip.net:443?type=tcp&
 vless://17fd4223-dfe8-45fc-93c8-0a816f7bdefd@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20TCP%20@V2rayStore
 vless://301f4485-2d56-4d78-a30d-a55ca109e5ff@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
 vless://30d04308-8e1c-45d0-9b6a-f414865bafe0@fr2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
-vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20@V2rayStore
