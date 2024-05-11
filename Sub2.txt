@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLT3VUQjdDMWUvR1IweWYzWDZYTzVaRDFIbzBpaHFvd1lTcWJXb0k1a3JBPQ==@3.79.35.159:8080#🔒 SS-TCP-NA 🇩🇪 DE-3.79.35.159:8080 📡 PING-156.00-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjczNNalZpTzBydHU0ek1sdHJRditKRVZlSTl2V0o1TFk4YjdMakxmOWtZPQ==@18.199.150.31:8080#🔒 SS-TCP-NA 🇩🇪 DE-18.199.150.31:8080 📡 PING-158.05-MS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.218.182:443#🔒 SS-TCP-NA 🇯🇵 JP-3.112.218.182:443 📡 PING-158.76-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989#🔒 SS-TCP-NA 🇦🇷 AR-190.103.176.29:989 📡 PING-179.36-MS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.202.41.139:443#🔒 SS-TCP-NA 🇰🇷 KR-43.202.41.139:443 📡 PING-179.52-MS
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.225:7002 📡 PING-179.95-MS
@@ -995,6 +998,3 @@ vless://02610d91-def0-40cf-9f55-bf5620788a7a@172.64.146.80:80?security=none&type
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.16.123.175:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.123.175:2083 📡 PING-002.61-MS
 vless://85d14a78-afc6-4490-85c8-9f2a16fb063f@104.21.94.60:443?security=tls&sni=n31nl.rashopfa.ir&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.94.60:443 📡 PING-002.61-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.231:2053 📡 PING-002.61-MS
-vless://041f929a-63f6-4af1-a492-8cbff5797b8a@172.67.69.236:2096?security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.236:2096 📡 PING-002.61-MS
-vless://516b2500-f741-4550-f7b7-9fe15d261798@172.67.156.156:8443?security=tls&sni=mBm.MtM2000.iR&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.156:8443 📡 PING-002.61-MS
-vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.20.141.7:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.20.141.7:2096 📡 PING-002.61-MS
