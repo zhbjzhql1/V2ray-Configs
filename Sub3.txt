@@ -1,3 +1,5 @@
+vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=Bia.alLhub.Ltd&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.33.78:443 📡 PING-002.52-MS
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.5.79:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.5.79:2053 📡 PING-002.52-MS
 vless://7e242645-1ae4-4d39-b3dc-18b03292d980@88.216.66.123:2095?security=none&type=ws&host=zedmodeon2.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🇱🇹 LT-88.216.66.123:2095 📡 PING-002.52-MS
 vless://c0197135-3415-45ad-992f-870f36d3c9b2@104.21.74.139:443?security=tls&sni=psychologist.aurorainiceland.com&type=ws&path=%2Fnimws&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.74.139:443 📡 PING-002.52-MS
 vless://49ad4594-867c-4699-a659-c2753fa70e4d@172.67.203.100:2083?security=tls&sni=damavand.top-speed.pw&type=grpc&serviceName=damavand.top-speed.pw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.203.100:2083 📡 PING-002.52-MS
@@ -996,5 +998,3 @@ vless://455837b7-0e72-4cf5-9e88-a8e1d6731022@hk-full.privateip.net:443?type=ws&e
 vless://3c978af6-f7c1-4857-aab1-8ae33452d49c@nl-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20WS%20@V2rayStore
 vless://40e357c2-06f4-433a-b6cc-5d5c8b487e1d@nl2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Vless%20WS%20@V2rayStore
 vless://9453105f-df45-4464-a579-a7654d11ca2a@ca-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Vless%20WS%20@V2rayStore
-vless://8ce67527-6c25-4165-9a83-d88ac0b87f00@jp-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20WS%20@V2rayStore
-vless://f25be958-7d9d-4e4b-a3e4-d82c3b06d16a@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
