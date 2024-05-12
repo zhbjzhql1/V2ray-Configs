@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8888 📡 PING-106.03-MS
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9101 📡 PING-106.64-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-107.03-MS
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5500 📡 PING-107.68-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:4444 📡 PING-108.00-MS
@@ -996,5 +998,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.232:8443?security=tls&sni=
 vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.134.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.234:2083 📡 PING-005.55-MS
 vless://9b55ef31-45a1-4ee7-b306-244571ac0b2e@172.67.167.116:443?security=tls&sni=ulm.minusober.com&type=ws&path=%2Fulm#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.167.116:443 📡 PING-005.55-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@66.81.247.19:443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-66.81.247.19:443 📡 PING-005.55-MS
-vless://cc9c76a5-6636-4201-fb00-b45078789eac@172.66.213.5:8080?security=none&type=ws&host=v2rayfast_7.xn--78-pv2cvta065cac9302fea377a148g.website.&path=%2FVipfast7%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.213.5:8080 📡 PING-005.55-MS
-vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@188.114.97.1:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:2087 📡 PING-005.55-MS
