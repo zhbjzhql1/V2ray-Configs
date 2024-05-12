@@ -1,3 +1,4 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.103:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.103:2096 📡 PING-001.84-MS
 vless://1dcde10b-e9ba-4343-a3b6-4d7655802206@104.19.247.91:8880?security=none&type=ws&host=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.247.91:8880 📡 PING-001.84-MS
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.200:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.200:2053 📡 PING-001.84-MS
 vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@188.42.88.36:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇱🇺 LU-188.42.88.36:80 📡 PING-001.84-MS
@@ -997,4 +998,3 @@ trojan://telegram-id-privatevpns@35.181.136.180:22222?alpn=http%2F1.1&headerType
 trojan://telegram-id-privatevpns@3.78.199.53:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣4️⃣
 trojan://telegram-id-privatevpns@3.122.35.0:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | DE🇩🇪 | 0️⃣5️⃣
 trojan://telegram-id-privatevpns@51.21.16.119:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣6️⃣
-trojan://telegram-id-privatevpns@13.51.52.209:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣7️⃣
