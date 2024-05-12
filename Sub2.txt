@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.7:49032#🔒 SS-TCP-NA 🇰🇷 KR-125.141.26.7:49032 📡 PING-167.75-MS
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:4444 📡 PING-168.71-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8888 📡 PING-168.80-MS
 ss://YWVzLTI1Ni1nY206ekJqbW1JTWZxdXpyaVNUMQ==@139.59.123.43:21592#🔒 SS-TCP-NA 🇸🇬 SG-139.59.123.43:21592 📡 PING-169.16-MS
@@ -997,4 +998,3 @@ vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.32:80?security=none&typ
 vless://570e8149-5271-41cb-8422-36039926a23e@104.18.27.94:80?security=none&type=ws&host=esetsecuritylicense.cxlrazo.workers.dev&path=%2F%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.27.94:80 📡 PING-001.68-MS
 vless://5c9ec094-61af-4225-b5b5-0d1ddd96ac0f@162.159.153.2:2096?security=tls&sni=telegram-falcunargo-eston.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-eston.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2096 📡 PING-001.68-MS
 vless://d4e4f972-15fb-4748-85ef-f5c77438ee91@162.159.137.232:2096?security=tls&sni=poy-uk.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.137.232:2096 📡 PING-001.68-MS
-vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.106.126:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.106.126:2053 📡 PING-001.68-MS
