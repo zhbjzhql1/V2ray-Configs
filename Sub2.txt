@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZzBLa01qYkdkSkVo@176.105.252.178:998#🔒 SS-TCP-NA 🇮🇹 IT-176.105.252.178:998 📡 PING-101.89-MS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:4444 📡 PING-102.21-MS
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9101 📡 PING-102.23-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5000 📡 PING-103.86-MS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7001 📡 PING-104.01-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5004 📡 PING-104.11-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5004#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5004 📡 PING-104.25-MS
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9102 📡 PING-104.29-MS
@@ -993,8 +998,3 @@ vless://a0bd15ab-577a-47ea-940c-741319e89069@162.159.135.234:2083?security=tls&s
 vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.73.241:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443 📡 PING-001.78-MS
 vless://3e29199c-5d03-4859-bd64-640308a030b2@172.67.142.248:8443?security=tls&sni=mahdi.hackers85.monster&type=ws&host=mahdi.hackers85.monster&path=%2F%40hackers85&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.142.248:8443 📡 PING-001.78-MS
 vless://5b5c09a5-1c52-43c5-bb42-e54578cf76f5@188.42.89.197:2095?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#🔒 VL-WS-NONE 🇱🇺 LU-188.42.89.197:2095 📡 PING-001.78-MS
-vless://94916e61-b3bf-4b46-ae11-c987d2f186dc@104.21.59.18:80?security=none&sni=join-midas-x-x---join-midas-x-x--join-midas-x-x--join-midas-x-x.join-midas-x-x-a14.workers.dev&type=ws&host=join-midas-x-x---join-midas-x-x--join-midas-x-x--join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.18:80 📡 PING-001.78-MS
-vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.64.81:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.64.81:8080 📡 PING-001.77-MS
-vless://65855cda-b08a-4738-9c5c-9588fc91f68e@104.18.37.228:8080?security=none&type=ws&host=de.%E8%BF%87%E6%BB%A4%E5%99%A8.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.37.228:8080 📡 PING-001.77-MS
-vless://f9e0b36b-f1d5-4f3f-87dd-1e14919915b9@172.67.70.92:443?security=tls&sni=c.cm8.rr.nu&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:443 📡 PING-001.77-MS
-vless://77188c17-6448-40cd-bd68-552b6753b79e@104.21.59.165:8880?security=none&type=ws&host=falcunargo.e806e7c5e1.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8880 📡 PING-001.77-MS
