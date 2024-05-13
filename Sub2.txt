@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9037 📡 PING-135.53-MS
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9043 📡 PING-136.00-MS
+ss://YWVzLTI1Ni1nY206ZWVORXhaUUpQdkhCaE9KVw==@95.164.116.101:35152#🔒 SS-TCP-NA 🇹🇷 TR-95.164.116.101:35152 📡 PING-137.95-MS
 ss://YWVzLTI1Ni1nY206bXBLb1lRdGtGNFh6M1RyWg==@62.113.115.180:21309#🔒 SS-TCP-NA 🇷🇺 RU-62.113.115.180:21309 📡 PING-138.65-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Z1NYTFRDckw4emVLYjJuNm1naEs4SjI2R1ZIV21aQTRweXk4NFB5ZzZFPQ==@45.67.32.147:13896#🔒 SS-TCP-NA 🇷🇺 RU-45.67.32.147:13896 📡 PING-139.14-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzSVo4MERac0FDOVpTc2hTNjlnWXFs@194.26.229.18:50744#🔒 SS-TCP-NA 🇷🇺 RU-194.26.229.18:50744 📡 PING-139.43-MS
@@ -995,6 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.250.148:443?security=tls&sni
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?security=tls&sni=BIa-pAIN-bAche.PagEs.DeV&type=ws&host=BiA-pAIN-bACHE.pAges.DEv&path=Tel-%40Telegram-------V2rayi_net%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.54.150:443 📡 PING-002.63-MS
 vless://c5f73a29-1252-4bde-a5f5-6f2c9d9b8185@172.67.171.69:80?security=none&type=ws&host=Fr2-vless.sshmax.xyz.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.69:80 📡 PING-002.63-MS
 vless://b81edee6-a129-4160-ad29-488f0b5d81b4@104.24.180.16:2087?security=tls&sni=vpn-ocean4.cdn-user2.workers.dev&type=ws&host=vpn-ocean4.cdn-user2.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.180.16:2087 📡 PING-002.63-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:8443 📡 PING-002.63-MS
-vless://f6c380e9-1892-458f-adb9-fdd710525906@188.114.98.224:2095?security=none&type=ws&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.224:2095 📡 PING-002.63-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.99:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.99:443 📡 PING-002.63-MS
