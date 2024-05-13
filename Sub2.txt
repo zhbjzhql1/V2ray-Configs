@@ -1,3 +1,5 @@
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@85.90.217.65:989#🔒 SS-TCP-NA 🇪🇸 ES-85.90.217.65:989 📡 PING-133.04-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZWY5akd2QXl6WExMbmpzc1JGcjhN@94.228.169.114:25663#🔒 SS-TCP-NA 🇦🇹 AT-94.228.169.114:25663 📡 PING-135.67-MS
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@45.89.52.66:9037#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9037 📡 PING-135.93-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMHAyMnpwVml1Y1dMWXpaZlRrWVRR@77.105.166.253:30754#🔒 SS-TCP-NA 🇫🇷 FR-77.105.166.253:30754 📡 PING-135.96-MS
 ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg==@45.89.52.66:9043#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9043 📡 PING-137.03-MS
@@ -996,5 +998,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.59.37:2053?security=tls&sni=
 vless://65855cda-b08a-4738-9c5c-9588fc91f68e@188.114.97.1:8080?security=none&type=ws&host=cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.bazaar.ir.dontbow.store.&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.1:8080 📡 PING-002.82-MS
 vless://f971c939-32e0-40ca-b4d9-f444fddb45f2@172.66.46.221:443?security=tls&sni=9a6d6fd5.joinmahdiserver-an3.pages.dev&type=ws&host=9a6d6fd5.joinmahdiserver-an3.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.221:443 📡 PING-002.82-MS
 vless://2b2268a7-5f8f-4947-a5a2-018340df3e1c@172.67.171.49:443?security=tls&sni=de3-vless.sshmax.xyz&type=ws&host=de3-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443 📡 PING-002.82-MS
-vless://ddb00f36-d544-4e35-afbf-64297aa68d03@104.21.81.236:2083?security=tls&sni=sisana.muzres.WoRkeRS.DEv&type=ws&host=sisana.muzres.WoRkeRS.DEv&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.236:2083 📡 PING-002.82-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.254.140.111:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-104.254.140.111:443 📡 PING-002.82-MS
