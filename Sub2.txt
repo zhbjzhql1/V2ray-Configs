@@ -1,3 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMHAyMnpwVml1Y1dMWXpaZlRrWVRR@77.105.166.253:30754#🔒 SS-TCP-NA 🇫🇷 FR-77.105.166.253:30754 📡 PING-098.37-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1NlJZWnlOSWQ1Um1vV1ROVHVtMG56@185.229.65.157:8234#🔒 SS-TCP-NA 🇳🇱 NL-185.229.65.157:8234 📡 PING-099.07-MS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5000 📡 PING-099.75-MS
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044 📡 PING-100.48-MS
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003 📡 PING-100.66-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#🔒 SS-TCP-NA 🇦🇹 AT-185.180.12.81:989 📡 PING-100.80-MS
@@ -995,6 +998,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&sni
 vless://dd777f39-2996-4269-b88f-0b64436d0274@104.31.16.133:2096?security=tls&sni=joincha5nnel.jokerv2ray.store&type=ws&host=capitalnet.jokerv2ray.store&path=/&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.133:2096 📡 PING-001.68-MS
 vless://6924304c-a21b-4be1-b1d0-2325b4798f32@185.146.173.77:8880?security=none&type=ws&host=1.1.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.CoM.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.77:8880 📡 PING-001.67-MS
 vless://7e333f65-09bc-4ecb-bb47-b9e9aead2742@162.159.135.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2096 📡 PING-001.67-MS
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws&host=sdgf.bdfstt.sbs&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.57:443 📡 PING-001.67-MS
-vless://cc63b584-be6e-42a7-a3ad-bce6b285b166@104.18.32.69:80?security=none&type=ws&host=moham.net.93djh3qwtest.comxn--jhdcjhwe2381.jhdjhw3.hjdwhcedcxhws3h.wirenew.fpsvpn.SHOP.&path=%2Fnew_proxy_channel%3Fed%3D2560#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.32.69:80 📡 PING-001.67-MS
-vless://1315a6ea-302c-4e73-97bd-73d14546f3ab@185.146.173.231:80?security=none&type=ws&host=xnjsn.snjsj.sjsjeje.sjsjsjs.sjsjjs.sjsksks.sksksk.sjsjs.jskv2raykekw.jwjw.sksos.ZmV2ray.Site.&path=%2FFreeV2ray%2C%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.231:80 📡 PING-001.67-MS
