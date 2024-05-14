@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9102 📡 PING-108.20-MS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.215:5001#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.215:5001 📡 PING-108.57-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.217.232:989#🔒 SS-TCP-NA 🇱🇻 LV-46.183.217.232:989 📡 PING-108.96-MS
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989 📡 PING-111.25-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#🔒 SS-TCP-NA 🇫🇮 FI-37.143.129.230:989 📡 PING-113.96-MS
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MkYzeDY1M0dIS1RsV0J0ZUFMT1BQbFN3d0FQYzF2em9EQ0QvZUU3MDJVVT06d2xvYXhBZ1ZCN3dYK1pPZjdIaHN4RWFBTHFtN0M5bGtibTRqa0xqOUVTND0=@65.21.181.91:8080#🔒 SS-TCP-NA 🇫🇮 FI-65.21.181.91:8080 📡 PING-114.91-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@85.90.217.65:989#🔒 SS-TCP-NA 🇪🇸 ES-85.90.217.65:989 📡 PING-115.42-MS
@@ -998,3 +994,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.146:443?security=tls&sni=
 vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23cb@104.24.166.211:2053?security=tls&sni=isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.166.211:2053 📡 PING-005.87-MS
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.21.45.154:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.45.154:8443 📡 PING-005.86-MS
 vless://0d7aa073-1a28-4bad-8943-3da7b4750856@104.21.82.17:443?security=tls&sni=us2.v2vless.xyz&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.82.17:443 📡 PING-005.84-MS
+vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.154.63:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.154.63:2053 📡 PING-005.83-MS
+vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.199.241:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.199.241:443 📡 PING-005.79-MS
+vless://570e8149-5271-41cb-8422-36039926a23e@104.18.26.94:443?security=tls&sni=esetsecuritylicense.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense.cxlrazo.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.26.94:443 📡 PING-005.79-MS
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.147:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.147:8443 📡 PING-005.78-MS
