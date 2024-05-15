@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToycWw2WWtEcWdEUDhUQ2YySEZGTUZU@3.67.70.16:23456#🔒 SS-TCP-NA 🇩🇪 DE-3.67.70.16:23456 📡 PING-092.90-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTVl6WHotaFNIekdidXYtRUJ5RmtR@49.12.217.112:1061#🔒 SS-TCP-NA 🇩🇪 DE-49.12.217.112:1061 📡 PING-092.93-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:5000 📡 PING-093.77-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVeG00QUR3ZnRLZFhxNXFSQTRaZkhT@49.13.10.50:1194#🔒 SS-TCP-NA 🇩🇪 DE-49.13.10.50:1194 📡 PING-093.80-MS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.158.56.196:8882#🔒 SS-TCP-NA 🇩🇪 DE-23.158.56.196:8882 📡 PING-094.39-MS
@@ -996,5 +998,3 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@185.18.250.185:2053?security=tls&sn
 vless://4705c695-0722-4f19-cf99-6a03f6840f86@172.67.150.27:443?security=tls&sni=0321.gexiao1994.top&type=ws&path=%2Fcfvless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.150.27:443 📡 PING-006.32-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@167.68.11.46:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-167.68.11.46:443 📡 PING-006.30-MS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.203.221.185:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-52.203.221.185:22222 📡 PING-006.29-MS
-vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.41.176:2087?security=tls&sni=LzPmJySw22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.41.176:2087 📡 PING-006.29-MS
-vless://8b19d0e8-7fb6-4000-af96-1319b38e9022@185.146.173.100:8880?security=none&type=ws&host=xn---qhndlayawi--d-9v2rayqtr75q95bklb97ndla44yjnsp99007hkhja.zmv2ray.site.&path=/FreeV2RAYTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config@V2ray#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.100:8880 📡 PING-006.28-MS
