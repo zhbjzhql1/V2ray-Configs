@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@103.172.116.90:9041#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.90:9041 📡 PING-169.60-MS
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA==@103.172.116.79:9046#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9046 📡 PING-169.63-MS
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@103.172.116.79:9042#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9042 📡 PING-169.64-MS
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@103.172.116.79:9044#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9044 📡 PING-169.66-MS
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@103.172.116.79:9040#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9040 📡 PING-169.74-MS
 ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#🔒 SS-TCP-NA 🇵🇱 PL-217.30.10.70:9044 📡 PING-169.82-MS
 ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ==@103.172.116.79:9026#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9026 📡 PING-169.85-MS
@@ -994,7 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.99:443?security=tls&sni=cf
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.30.51:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.51:2087 📡 PING-002.08-MS
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@162.159.137.102:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.137.102:8080 📡 PING-002.08-MS
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@172.67.219.62:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.219.62:8443 📡 PING-002.08-MS
-vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.203.134:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.203.134:8080 📡 PING-002.08-MS
-vless://2b39449c-1063-44ce-93e4-21a984029ae7@172.67.180.67:8443?security=tls&sni=mehrdad-Spain.Zargarr.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.180.67:8443 📡 PING-002.08-MS
-vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.24.0.233:8880?security=none&type=ws&host=cherry.berry.strawberry.%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E5%9C%A8%E8%AF%A5%E6%AD%BB%E7%9A%84%E5%9C%B0%E7%8B%B1%E9%87%8C.shop.&path=%2FTelegram%3A%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%40sectun%2C%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.0.233:8880 📡 PING-002.08-MS
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.80:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.80:443 📡 PING-002.08-MS
