@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9042 📡 PING-170.69-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxaG9iclpybWdBeVpDQlJGMDIyd2dQ@46.250.237.91:443#🔒 SS-TCP-NA 🇬🇧 GB-46.250.237.91:443 📡 PING-171.03-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#🔒 SS-TCP-NA 🇸🇪 SE-121.127.46.147:989 📡 PING-172.54-MS
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.79:9073#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9073 📡 PING-172.56-MS
@@ -998,3 +997,4 @@ vless://f12a7728-ab1b-4d88-a71c-deb8f0bcc4f3@162.159.138.232:8080?security=none&
 vless://1da545b0-2395-4d5c-abe8-8aee6671c859@162.159.133.234:443?security=tls&sni=BPB-worKEr-paNel-aQX.paGES.DEV&type=ws&host=BpB-WOrkEr-panEl-aqx.paGES.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.133.234:443 📡 PING-009.15-MS
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.57:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.57:443 📡 PING-009.14-MS
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@172.67.91.112:2096?security=tls&sni=qopyz.oxnetirz11.onFLashDrIVE.app&type=ws&host=qopyz.oxnetirz11.onFLashDrIVE.app&path=vless-ws%2F%3Fed%3D2048&fp=firefox&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.91.112:2096 📡 PING-009.14-MS
+vless://2803a524-0eaf-40d4-b601-b61099a598b4@172.67.66.177:8880?security=none&type=ws&host=football.barcelona.xn--g6qp0de1duz4a3t1behn.shop.&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:8880 📡 PING-009.14-MS
