@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.59.21.130:443#🔒 SS-TCP-NA 🇫🇷 FR-37.59.21.130:443 📡 PING-102.69-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQVFTSXFDZXppbnprR1RtenE2WnFa@46.249.38.251:5061#🔒 SS-TCP-NA 🇳🇱 NL-46.249.38.251:5061 📡 PING-102.87-MS
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.166:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.59.166:443 📡 PING-102.98-MS
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:3389 📡 PING-103.45-MS
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.195.96:443#🔒 SS-TCP-NA 🇫🇷 FR-51.158.195.96:443 📡 PING-103.51-MS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8882 📡 PING-103.53-MS
@@ -995,6 +998,3 @@ vless://f3e5b317-b526-432c-9129-22bc3d3f1dc5@5.75.231.243:443?security=reality&s
 vless://cb0c566c-413b-40f0-eff0-e4200d06bdac@91.107.133.107:8080?security=reality&flow=xtls-rprx-vision&sni=mdundo.com&type=tcp&fp=chrome&pbk=r2wbFJJEArYV2LdDkDId_b8pJB3iKE4S1J0O33FfDkg&sid=dbf8a4#🔒 VL-TCP-RLT 🇩🇪 DE-91.107.133.107:8080 📡 PING-110.15-MS
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@157.90.145.163:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-157.90.145.163:443 📡 PING-110.22-MS
 vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=mNXhz9oVUOChfXonV3TJcv_IB1-epvPy0OXR--qY82E&sid=758910ee7eab4a1b#🔒 VL-TCP-RLT 🇩🇪 DE-128.140.49.220:443 📡 PING-110.24-MS
-vless://418e0595-b419-4fc3-85c0-7980b90dab3b@88.99.121.221:443?security=reality&flow=xtls-rprx-vision&sni=www.openoffice.org&type=tcp&fp=chrome&pbk=b0DWGZOa5BHQWCcvTAC-ELSa8d1065zX1eefzPigQiY&sid=4c9dbb0cb1f36dab#🔒 VL-TCP-RLT 🇩🇪 DE-88.99.121.221:443 📡 PING-110.25-MS
-vless://984a49b5-b665-489c-d5cc-ea83344b2a60@64.190.63.222:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=Telegramid:@iranbaxvpn&fp=chrome&pbk=p5kiSqbiwBFi1rfz_Kg2xzo2BoZlAiLefStzmQmLJyE&sid=87d2d4c5#🔒 VL-GRPC-RLT 🇩🇪 DE-64.190.63.222:443 📡 PING-111.08-MS
-vless://77540057-4504-43f7-b229-765f9b7bf35d@5.75.197.175:443?security=reality&flow=xtls-rprx-vision&sni=search.itunes.apple.com&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-5.75.197.175:443 📡 PING-111.18-MS
