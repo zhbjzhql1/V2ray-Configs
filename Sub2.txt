@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9030 📡 PING-135.12-MS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.150:989 📡 PING-135.12-MS
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🔒 SS-TCP-NA 🇪🇸 ES-5.188.181.201:9037 📡 PING-135.15-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToycWw2WWtEcWdEUDhUQ2YySEZGTUZU@3.67.70.16:23456#🔒 SS-TCP-NA 🇩🇪 DE-3.67.70.16:23456 📡 PING-135.64-MS
@@ -998,3 +997,4 @@ vless://9326c0ee-8393-4bf6-bcff-2bd5462652bd@49.12.193.246:443?security=reality&
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@95.164.36.59:2096?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-95.164.36.59:2096 📡 PING-140.45-MS
 vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=reality&flow=xtls-rprx-vision&sni=none.felinefreedom.site&type=tcp&fp=chrome&pbk=It8T_WWejuo-QOwZsYWbe5gRBDQOLXp9wfnWDo_FIFQ&sid=4e69ed37#🔒 VL-TCP-RLT 🇩🇪 DE-167.235.130.134:443 📡 PING-140.48-MS
 vless://54ce117a-fd26-4b2e-b540-15f95ba3cc63@159.69.25.131:443?security=reality&sni=www.xbox.com&type=grpc&fp=chrome&pbk=1_NaRFGvbJUim7_qlQ8Dibh_27d3X_p_w2xUvrGZlhg&sid=751ba1a6#🔒 VL-GRPC-RLT 🇩🇪 DE-159.69.25.131:443 📡 PING-140.68-MS
+vless://a2db6566-32c7-4e6e-89d7-b258ff55959f@111.251.143.57:5442?security=reality&flow=xtls-rprx-vision&sni=www.yam.com&type=tcp#🔒 VL-TCP-RLT 🇹🇼 TW-111.251.143.57:5442 📡 PING-141.32-MS

@@ -1,4 +1,3 @@
-vless://a2db6566-32c7-4e6e-89d7-b258ff55959f@111.251.143.57:5442?security=reality&flow=xtls-rprx-vision&sni=www.yam.com&type=tcp#🔒 VL-TCP-RLT 🇹🇼 TW-111.251.143.57:5442 📡 PING-141.32-MS
 vless://f3e5b317-b526-432c-9129-22bc3d3f1dc5@5.75.231.243:443?security=reality&sni=Ftp.debian.org&type=grpc&fp=chrome&pbk=QUyXIx6S7HgIqh3oryjejQl8zgWwnKWJpoWINluG22A&sid=ee6bce0a#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.231.243:443 📡 PING-141.59-MS
 vless://df0a1a21-1560-4507-af00-9d4808203ef5@167.235.239.54:12575?security=reality&sni=yahoo.com&type=grpc&fp=chrome&pbk=lZmwsF9yvdjti0mAxQ6pGUQuqR8SxOnrSXcuKKokVn4&sid=6d1a45f6#🔒 VL-GRPC-RLT 🇩🇪 DE-167.235.239.54:12575 📡 PING-141.61-MS
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@157.90.145.163:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-157.90.145.163:443 📡 PING-141.94-MS
@@ -998,3 +997,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.191:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.191:8443 📡 PING-009.02-MS
 vless://e1ad1088-c7ab-4c06-83b1-27c8188e631b@104.18.14.229:443?security=tls&sni=cpanel.pharmaweb.info&type=ws&host=cpanel.pharmaweb.info&path=/wws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.229:443 📡 PING-009.02-MS
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.139:443 📡 PING-009.02-MS
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.181:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.181:8443 📡 PING-009.02-MS
