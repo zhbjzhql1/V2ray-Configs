@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7307 📡 PING-147.30-MS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:2375 📡 PING-147.44-MS
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@198.244.231.25:443#🔒 SS-TCP-NA 🇬🇧 GB-198.244.231.25:443 📡 PING-147.52-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.135.124.179:443#🔒 SS-TCP-NA 🇬🇧 GB-18.135.124.179:443 📡 PING-147.79-MS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.150:989 📡 PING-148.03-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@13.43.168.154:443#🔒 SS-TCP-NA 🇬🇧 GB-13.43.168.154:443 📡 PING-148.31-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6V1E4YnVQNkxtUmJRR2FDb09KcjB1@172.233.56.110:50876#🔒 SS-TCP-NA 🇳🇱 NL-172.233.56.110:50876 📡 PING-148.89-MS
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8881 📡 PING-149.29-MS
@@ -993,8 +998,3 @@ vless://47f9be0a-24eb-44c1-931d-9a6244d1b5d6@91.194.11.168:443?security=tls&sni=
 vless://3df4aabf-29d7-457e-f228-016156fc686a@138.197.175.155:443?security=tls&sni=imn90-plkdefss5487-jhnvgfdf.ssaaddaaffmmoottaahhaarrii.store&type=ws&host=imn90-plkdefss5487-jhnvgfdf.ssaaddaaffmmoottaahhaarrii.store&path=/#🔒 VL-WS-TLS 🇨🇦 CA-138.197.175.155:443 📡 PING-063.61-MS
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.133.249:443?security=tls&sni=ada3.qowch.com&type=ws&path=%2Fusers%3Fed&fp=chrome&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.133.249:443 📡 PING-065.56-MS
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.244.43:443?security=tls&sni=mt1.nabsk.com&type=ws&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.244.43:443 📡 PING-065.68-MS
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.213.22.113:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-18.213.22.113:22222 📡 PING-066.75-MS
-vless://5621b36b-91ed-4a0e-92f9-8204a50cec7a@5.161.53.108:35911?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-5.161.53.108:35911 📡 PING-068.42-MS
-vless://378ac207-38d3-4401-ba96-3a7931968bc5@148.113.175.147:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇨🇦 CA-148.113.175.147:80 📡 PING-069.07-MS
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@150.136.241.40:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-150.136.241.40:8443 📡 PING-070.16-MS
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.138.37:443?security=tls&sni=ada36.qvqag.com&type=ws&alpn=http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇺🇸 US-5.161.138.37:443 📡 PING-071.62-MS
