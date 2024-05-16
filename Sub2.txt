@@ -1,3 +1,8 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakE1WW1NeA==@185.231.205.80:1443#🔒 SS-TCP-NA 🇫🇷 FR-185.231.205.80:1443 📡 PING-082.05-MS
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.6.202:8008#🔒 SS-TCP-NA 🇬🇧 GB-145.239.6.202:8008 📡 PING-082.07-MS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakE1WW1NeA==@[::ffff:b9e7:cd50]:1443#🔒 SS-TCP-NA 🇫🇷 FR-[::ffff:b9e7:cd50]:1443 📡 PING-082.10-MS
+ss://YWVzLTI1Ni1nY206S2tEelkxMDFPZQ==@51.195.149.115:45816#🔒 SS-TCP-NA 🇬🇧 GB-51.195.149.115:45816 📡 PING-082.11-MS
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@198.244.231.27:443#🔒 SS-TCP-NA 🇬🇧 GB-198.244.231.27:443 📡 PING-082.13-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@13.42.126.221:443#🔒 SS-TCP-NA 🇬🇧 GB-13.42.126.221:443 📡 PING-082.52-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.171.75.197:443#🔒 SS-TCP-NA 🇬🇧 GB-18.171.75.197:443 📡 PING-082.88-MS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFEyT0dRMA==@95.164.37.226:1443#🔒 SS-TCP-NA 🇬🇧 GB-95.164.37.226:1443 📡 PING-083.04-MS
@@ -993,8 +998,3 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@37.123.193.101:17473?security=tls&s
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@172.82.16.99:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-172.82.16.99:443 📡 PING-072.42-MS
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@150.230.47.17:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-150.230.47.17:443 📡 PING-073.61-MS
 vless://cab438c4-9c5a-43fd-a623-ce81cb93085c@192.9.246.112:8443?security=tls&sni=hk.twittei.link&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-192.9.246.112:8443 📡 PING-074.64-MS
-vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@54.69.94.141:443?security=tls&sni=e130917c-1b58-4136-b2d9-76dc920e0add.add97ee8-0f14-48a3-b2cd-979c56742e64.loseyourip.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇺🇸 US-54.69.94.141:443 📡 PING-077.91-MS
-vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-51.195.149.115:26475 📡 PING-078.19-MS
-vless://2d13f516-a9bc-42c0-ab12-b17c130f3440@198.244.190.189:443?security=tls&sni=uk-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇬🇧 GB-198.244.190.189:443 📡 PING-078.39-MS
-vless://434928ec-5b3f-4c8c-b0e1-6cda5c0c6856@83.229.75.180:110?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇬🇧 GB-83.229.75.180:110 📡 PING-078.53-MS
-vless://2d13f516-a9bc-42c0-ab12-b17c130f3440@198.244.190.189:2003?security=tls&sni=uk-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇬🇧 GB-198.244.190.189:2003 📡 PING-078.92-MS
