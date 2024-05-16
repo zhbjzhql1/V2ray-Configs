@@ -1,6 +1,3 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.209:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.209:443 📡 PING-001.02-MS
-vless://a83feb00-0a0b-40b5-a525-07e2b406a95b@104.20.104.209:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.104.209:80 📡 PING-001.01-MS
-vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?security=tls&sni=joinchannel.jokerv2ray.store&type=ws&host=capitalnet.jokerv2ray.store&path=/&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.12:2096 📡 PING-001.01-MS
 vless://d7f36d12-2ae1-42c0-9fd5-84d8f4efbb02@172.66.44.67:443?security=tls&sni=161f5c4e.mahdiserver-cmr.pages.dev&type=ws&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.67:443 📡 PING-001.01-MS
 vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.67.249.75:80?type=ws&path=/graphql#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.249.75:80 📡 PING-001.01-MS
 vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@141.101.113.89:443?security=tls&sni=watashi.free.hkpublic.moh539.link&type=ws&host=watashi.free.hkpublic.moh539.link#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.113.89:443 📡 PING-001.01-MS
@@ -998,3 +995,6 @@ vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@104.16.60.8:2053?security=tls&sni=i
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.203.196:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.203.196:2083 📡 PING-000.73-MS
 vless://211f783a-ab76-4a47-a760-f70d1cb682a6@104.26.7.89:443?security=tls&sni=xiv2ray.irandtehran.org&type=grpc&serviceName=%40xiv2ray&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.7.89:443 📡 PING-000.73-MS
 vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@188.114.97.1:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:2087 📡 PING-000.73-MS
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@188.42.145.66:2083?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.66:2083 📡 PING-000.72-MS
+vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@104.21.3.182:443?security=tls&sni=jAVIdshAh.PageS.deV&type=ws&host=JAvIdsHAH.PaGes.DEV&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.182:443 📡 PING-000.72-MS
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.221:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.221:443 📡 PING-000.72-MS
