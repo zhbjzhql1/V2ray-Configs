@@ -1,3 +1,4 @@
+vless://c5180d4d-c6ea-4055-a554-1dac02ff9598@188.114.98.224:2096?security=tls&sni=vaylafoodakor.atkfood.com&type=ws&host=vaylafoodakor.atkfood.com&path=%2FAMVPN+Telegram+Channel#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:2096 📡 PING-009.38-MS
 vless://850e1920-7a02-4cd3-8072-dd338eea7b0f@172.67.204.84:2086?security=none&type=ws&host=nl4.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.204.84:2086 📡 PING-009.38-MS
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.26.13.140:443?security=tls&sni=bia-PAIN-bAche.Pages.DeV&type=ws&host=bIa-PaiN-BAcHE.PageS.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:443 📡 PING-009.37-MS
 vless://37d0b151-023e-4729-9994-45a7d9df5fd1@172.67.4.12:8443?security=tls&sni=pardazeshvpn-tg23.pages.dev&type=ws&host=pardazeshvpn-tg23.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.4.12:8443 📡 PING-009.36-MS
@@ -997,4 +998,3 @@ vless://77a571fb-4fd2-4b37-8596-2b7d9728bb5c@172.67.148.99:8880?security=none&ty
 vless://f61b9661-baef-4feb-a449-cfbdec6c3d37@172.67.136.169:2053?security=tls&sni=varda.manwe.ir&type=ws&host=varda.manwe.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.169:2053 📡 PING-008.57-MS
 vless://ddb00f36-d544-4e35-afbf-64297aa68d03@172.67.165.200:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.165.200:2096 📡 PING-008.57-MS
 vless://855d54f7-944d-4f04-9171-1ee5ab1d8b60@104.21.54.238:2086?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.54.238:2086 📡 PING-008.57-MS
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=Telegram-V2ray_Alpha%3Fed%3D2560#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.159:8443 📡 PING-008.57-MS
