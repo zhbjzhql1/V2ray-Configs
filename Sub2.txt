@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakE1WW1NeA==@185.231.205.80:8388#🔒 SS-TCP-NA 🇫🇷 FR-185.231.205.80:8388
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5601#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5601
 ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@54.157.24.8:443#🔒 SS-TCP-NA 🇺🇸 US-54.157.24.8:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:3306
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.89:8000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8000
@@ -996,5 +998,3 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mtn.anahid.beauty:2053?sni=dl2.khod
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@niaa.ddns.net:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 8
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@ir8.seeb.shop:2053?sni=dl2.khodavakili.lol&type=grpc&mode=gun&alpn=h2&serviceName=kos_madar_publisher&security=tls&encryption=none#server mtn 9
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgop7cjp05p2q0.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  10
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
-vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
