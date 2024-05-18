@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#🔒 SS-TCP-NA 🇩🇪 DE-217.182.198.219:2376
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.89:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8881
 ss://Y2hhY2hhMjAtcG9seTEzMDU6OTE4MWMyZDctZjBiNC00NTMwLWE5MDQtMzgyMjZlZTA2MTMz@52.48.76.168:587#🔒 SS-TCP-NA 🇮🇪 IE-52.48.76.168:587
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:6379
@@ -997,4 +998,3 @@ trojan://8c3d5b6b-63a5-477c-9745-86166c99acd3@nl2-full.privateip.net:443#%F0%9F%
 trojan://9e2285c4-0480-4428-9d6e-000918f5c6ce@ca-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
 trojan://6c8012af-5f91-4f59-af10-a3d8a1b587cc@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
 trojan://f927f836-2e1a-402a-b756-b079d921ad6d@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
-trojan://da2416a4-343d-4936-99f1-9aea94569e9e@fr-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
