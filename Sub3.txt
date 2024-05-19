@@ -1,3 +1,5 @@
+trojan://f318f3c2-dc11-4053-8bc5-f46dd2bf6489@it-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Trojan%20@V2rayStore
+trojan://806419d6-e80a-47d8-9945-68f36e6554a8@ua-full.privateip.net:443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Trojan%20@V2rayStore
 trojan://50d57640-74b5-485c-b04e-931803b169a7@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
@@ -996,5 +998,3 @@ vless://d674009a-4a87-4180-a8fe-9a54f66bd7c9@104.18.106.64:443?security=tls&sni=
 vless://e00a9dba-fa4c-4e07-c868-3eb02c3a905f@104.22.32.78:8880?security=none&type=ws&host=free.poloo.ir&path=%2Ftelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2Ctelegram-%40cyberse_bot%2CCyV2ray%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.32.78:8880
 vless://cca319c7-d0d3-46bc-be9f-cf9eabd7b7f7@63.141.128.17:443?security=tls&sni=classify6.appclouddeveloper.com&type=grpc&serviceName=5e56daa0&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🇺🇸 US-63.141.128.17:443
 vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.138.232:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2087
-vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.130.233:2083?security=tls&sni=freev2fwfjkn.mahdi-zarei1436.workers.dev&type=ws&host=freev2fwfjkn.mahdi-zarei1436.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.233:2083
-vless://a636c0fd-c580-469c-b32b-a8be341e0f15@104.21.28.8:8443?security=tls&sni=free3.riflvpn.tech&type=grpc&serviceName=f&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.28.8:8443

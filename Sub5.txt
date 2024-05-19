@@ -1,3 +1,5 @@
+vless://2a3263e2-891c-4446-b474-a8c63acb6e25@173.245.58.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.154:2096
+vless://3ab92be3-2d2b-4080-871f-89ed6bd1cd0d@172.233.245.20:443?security=tls&sni=fr2-full.privateip.net&type=ws&path=%2fVLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-172.233.245.20:443
 vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.21.62.144:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:2083
 vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.22.33.78:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.22.33.78:8443
 vless://7108df3e-e7b3-44a5-8195-1657f103ea18@172.67.141.172:2095?security=none&type=ws&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.nofiltering2.SBS.&path=%2F%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.141.172:2095
@@ -996,5 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.95:443?security=tls&sni=cf
 vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@104.21.32.65:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.65:443
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@104.21.84.110:443?security=tls&sni=test51.pages.dev&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.84.110:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.79:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.219.5.130:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-154.219.5.130:443
-vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@217.163.76.59:443?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇬🇧 GB-217.163.76.59:443
