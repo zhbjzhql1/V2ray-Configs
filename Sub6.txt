@@ -1,3 +1,5 @@
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@54.69.94.141:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-54.69.94.141:443
+vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.244.18:443?security=tls&sni=MaManE-filTErChI.PagEs.dEV&type=ws&host=MamAne-FiLTerCHi.pageS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.71.168:443?security=tls&sni=bbF9c21A.tEchNETBPb.PAGEs.DEV&type=ws&host=BbF9c21a.TeCHneTBPb.pAges.dev&path=%2Fl4f75fvmxHpFk3nc%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.168:443
 vless://4ad7a8cf-bd7a-4da0-b862-c0b6f91ab583@51.75.30.8:443?security=tls&sni=fr.vpnbase.net&type=ws&path=/ssl#🔒 VL-WS-TLS 🇫🇷 FR-51.75.30.8:443
 vless://e85b96b9-7f21-46f3-8b7b-104e964e9b75@162.159.153.2:8443?security=tls&sni=join-sho-falcunargo-nl.falcunar.uk.eu.org&type=ws&host=join-sho-falcunargo-nl.falcunar.uk.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:8443
@@ -996,5 +998,3 @@ ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.225.246.221:30129#%F0%9F%87%BA%F0%9F%87
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.225.246.221:16899#%F0%9F%87%BA%F0%9F%87%B8US-66.225.246.221-0633
 ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#%F0%9F%87%BA%F0%9F%87%B8US-154.3.8.151-0630
 ss://YWVzLTI1Ni1nY206N2dhVFRsVzczRw==@51.222.157.179:49602#%F0%9F%87%A8%F0%9F%87%A6CA-51.222.157.179-0629
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@75.102.51.26:16899#%F0%9F%87%BA%F0%9F%87%B8US-75.102.51.26-0634
-ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@204.93.164.41:16899#%F0%9F%87%BA%F0%9F%87%B8US-204.93.164.41-0631
