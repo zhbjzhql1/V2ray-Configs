@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3RlVUUkhWWTRRQVM3SWNWWm1KcFVi@194.26.229.18:50744#🔒 SS-TCP-NA 🇷🇺 RU-194.26.229.18:50744
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.111.114.133:5498#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:5498
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxaG9iclpybWdBeVpDQlJGMDIyd2dQ@46.250.237.91:443#🔒 SS-TCP-NA 🇬🇧 GB-46.250.237.91:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFEyT0dRMA==@95.164.37.226:1443#🔒 SS-TCP-NA 🇬🇧 GB-95.164.37.226:1443
@@ -997,4 +998,3 @@ vless://2e066f54-8f75-43a8-ad2b-c10b59fe5f9b@jp-full.privateip.net:443?type=ws&e
 vless://d8062a4c-4fe9-49cf-b273-dfcdd78bca0a@fr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://fc29b2cf-da56-4ea5-aab8-e25ab40702eb@fr2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20WS%20@V2rayStore
-vmess://eyJhZGQiOiAiNDcuMjQyLjIyLjE3MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiM2IxMDcyY2UtZDA5Ni00NmMyLWEzZTctMDhiNGY1ODUzOGY1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDI4NjgxLCAicHMiOiAiJUYwJTlGJTg3JUFEJUYwJTlGJTg3JUIwJTIwSG9uZyUyMEtvbmclMjBWbWVzcyUyMEBWMnJheVN0b3JlIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
