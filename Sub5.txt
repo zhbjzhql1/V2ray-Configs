@@ -1,3 +1,6 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@27.50.48.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.108:443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-216.116.134.43:2053
+vless://b97cdd0e-bba9-4391-b265-b72f80b670db@188.114.96.1:2052?type=ws&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-188.114.96.1:2052
 vless://ee689ec5-0670-4c08-91d1-631b8d569182@199.59.242.150:443?security=tls&sni=all.vpncustomize.cam&type=grpc&serviceName=‌&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-199.59.242.150:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.135.9.15:8443?security=tls&sni=xin313.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.15:8443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.178.127:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.178.127:443
@@ -995,6 +998,3 @@ vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@23.227.60.118:80?security=none&type
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.122.89:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.122.89:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.141.99:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.141.99:2087
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.122.103.10:45171?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-193.122.103.10:45171
-vless://a6fa9485-41e7-4bfb-9c6d-8336b5a66f47@188.114.96.1:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:2087
-vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@162.159.135.233:443?security=tls&sni=PORiYa-WaRPHidDIFy-PANel.pAGeS.deV&type=ws&host=poRiYa-WARpHiddIFy-PAnel.pAgeS.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.233:443
-vless://9d69192f-e358-4419-be45-97e8cbbc9ab0@85.198.14.125:23760?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.198.14.125:23760
