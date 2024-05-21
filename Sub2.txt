@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.26:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.26:8119
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:8888#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8888
 ss://YjBlNmEyYzktZTY2Ny00ZTQyLTljYjMtNzdkN2RiM2U3MzZiOg==@172.67.193.39:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.193.39:443
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.225:3306#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.225:3306
@@ -997,4 +998,3 @@ trojan://db73cd0c-b88e-46bc-b67b-8a35aed6f18f@us-full.privateip.net:443#%F0%9F%8
 trojan://abec4b16-8fee-420f-b728-538fdd7b3d08@us2-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Trojan%20@V2rayStore
 trojan://5a92d674-308c-4d95-b283-28383e63a59b@vn-full.privateip.net:443#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%20Trojan%20@V2rayStore
 trojan://3d787f5e-3b06-42d2-b2fc-2b405103d717@tr-full.privateip.net:443#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Trojan%20@V2rayStore
-trojan://7e5afc69-27f0-404a-90aa-4cbbd77f5555@kz-full.privateip.net:443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Trojan%20@V2rayStore

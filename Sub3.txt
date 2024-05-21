@@ -1,3 +1,4 @@
+trojan://7e5afc69-27f0-404a-90aa-4cbbd77f5555@kz-full.privateip.net:443#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Trojan%20@V2rayStore
 trojan://9d6ed251-713f-4f50-a4d3-7fd1fbb88938@uk-full.privateip.net:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Trojan%20@V2rayStore
 trojan://ed95372a-1942-4f80-bb35-de361c4e1dcd@uk2-full.privateip.net:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Trojan%20@V2rayStore
 trojan://e42b5412-0fda-4684-9fc6-d5ff1c4354ac@de-full.privateip.net:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Trojan%20@V2rayStore
@@ -997,4 +998,3 @@ vless://a0e33e35-ad8d-4226-8d95-3c2fec5f23c5@104.18.149.233:2053?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.84.68:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.84.68:443
 vless://13732170-05c7-4bd6-acd6-9ed74b4d1c1b@162.159.153.2:2096?security=tls&sni=kanal-falcunargo-rmarat.falcunar.asso.eu.org&type=ws&host=kanal-falcunargo-rmarat.falcunar.asso.eu.org&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2096
 vless://0504ee23-2718-4c28-93c0-040af1c57632@172.67.205.127:2096?security=tls&sni=Kerman.Ptsls.Com.&type=grpc&serviceName=TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config,TEL:@Alfred_Config&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.205.127:2096
-vless://78935828-127e-479f-9dbc-378c9de72481@104.27.72.33:2087?security=tls&sni=vira-v2-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.72.33:2087
