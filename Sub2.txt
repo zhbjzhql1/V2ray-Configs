@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.87:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:8080
 ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@66.225.246.221:30129#🔒 SS-TCP-NA 🇺🇸 US-66.225.246.221:30129
 ss://YzNjMjBkYjctZDMyYi00NTRhLTk4NDMtZWMyMmQwNjRhODQyOg==@172.67.147.94:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.147.94:443
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.19:5004#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.19:5004
@@ -997,4 +998,3 @@ vless://bc57bcc6-f827-4b08-adf2-326e1a5e5aa1@de2-full.privateip.net:443?type=tcp
 vless://ac7c3732-7676-4965-8e74-d41a70319a9e@au-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://970a7f46-00c3-4ddc-8299-eadc5026ff32@ua-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://3dee9636-9663-404d-a9d9-459d9e6d4459@es-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://73057ad9-20d6-4ae1-ac5f-821eca70229d@sg-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore

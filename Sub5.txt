@@ -1,3 +1,4 @@
+vless://ee689ec5-0670-4c08-91d1-631b8d569182@199.59.242.150:443?security=tls&sni=all.vpncustomize.cam&type=grpc&serviceName=‌&fp=chrome&alpn=h2&allowInsecure=1#🔒 VL-GRPC-TLS 🇺🇸 US-199.59.242.150:443
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.22.13.192:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.13.192:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.157.96:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.157.96:8443
 vless://dd777f39-2996-4269-b88f-0b64436d0274@23.227.60.12:2096?security=tls&sni=joinchannel.sameasyou.sbs&type=ws&host=capitalnet.sameasyou.sbs&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.60.12:2096
@@ -997,4 +998,3 @@ vless://5c402efa-95ff-49fd-a55c-fbc7770f9c06@94.182.129.21:58930?security=none&t
 vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@45.205.0.50:443?security=tls&sni=PoRiya-WarPHiDDify-PaNEL.PaGeS.DEV&type=ws&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.50:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.192.17:443?security=tls&sni=73Ff2B24.BPb-PaneL-B1Q.paGes.dEV&type=ws&host=73ff2b24.bpB-PaneL-b1q.pAGeS.deV&path=%2FzHBqkSqKz0ngh49p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.17:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.164.215:443?security=tls&sni=xin222.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.164.215:443
-vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.64.198.219:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.198.219:443
