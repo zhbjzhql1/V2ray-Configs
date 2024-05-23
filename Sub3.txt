@@ -1,4 +1,3 @@
-vless://3dee9636-9663-404d-a9d9-459d9e6d4459@es-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://73057ad9-20d6-4ae1-ac5f-821eca70229d@sg-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://3fea1b33-2b0e-42ab-9b83-66cb6116227f@sg2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -998,3 +997,4 @@ vless://4d815963-8b34-4b71-a01a-c57c7bdc0a70@162.159.135.232:8443?security=tls&s
 vless://edffff01-df77-42f3-9d02-359a449ab98e@104.25.23.180:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.23.180:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.145.178:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.178:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.40.234:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/?ed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.40.234:443
+vless://8a7982ff-7696-4f2c-9265-46f6ff45d5f5@104.25.16.194:2083?security=tls&sni=beni.l7933208.workers.dev&type=ws&host=beni.l7933208.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.16.194:2083

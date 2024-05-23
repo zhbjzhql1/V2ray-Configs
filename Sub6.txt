@@ -1,4 +1,3 @@
-vless://3f34c8f4-ca63-4df7-a0cb-78e7faaf8fc8@185.148.105.52:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.99.119:443?security=tls&sni=73fF2B24.BPb-paneL-b1Q.PagEs.DEV&type=ws&path=/M7OU55KeTRvP46UJ?ed&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.119:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.178.228.8:10010?security=tls&sni=hk313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-158.178.228.8:10010
 vless://feb31976-2a9d-40ec-e346-d9d7fcd38027@104.21.51.57:443?security=tls&sni=behemoth.wavap50279.workers.dev&type=ws&host=behemoth.wavap50279.workers.dev&path=/downloader/30836&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.57:443
@@ -998,3 +997,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@138.3.215.231:44784?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.26.94:2053?security=tls&sni=jp116.ylks01.eu.org&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@138.2.10.249:34237?security=tls&sni=v116.ylks.link&type=ws&path=%2F%3Fed#@Hope_Net-join-us-on-Telegram
 vless://f05c5553-c457-453a-c3a6-709b1ff763f4@45.140.31.105:48480?security=none&type=tcp&host=fast.com&headerType=http#@Hope_Net-join-us-on-Telegram
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.188.95:48888?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#@Hope_Net-join-us-on-Telegram
