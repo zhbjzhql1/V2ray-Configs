@@ -1,3 +1,4 @@
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@79.99.30.190:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.30.190:8443
 vless://f7d2e53e-0728-49b0-89f7-ad730ee0cc49@104.21.20.26:2083?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.26:2083
 vless://561bc9ae-9d67-4a67-cd72-e3d3f80dbed3@172.67.214.110:443?security=tls&sni=rammstein.tagnovolta.workers.dev&type=ws&host=rammstein.tagnovolta.workers.dev&path=/downloader/59316&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.214.110:443
 vless://9f639d5a-bcfc-4512-ac01-83ee5188502a@104.21.96.54:8443?security=tls&sni=earth2.sportstreams.info&type=ws&host=earth2.sportstreams.info&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.54:8443
@@ -997,4 +998,3 @@ vless://118e23b4-1990-4edc-a35b-004aa46f96ee@104.26.13.8:80?security=none&type=w
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@4.255.56.137:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-4.255.56.137:443
 vless://664f5f11-1231-486d-b416-b7b3ecdae76a@104.19.130.28:443?security=tls&sni=HETZNER-D.pages.DEV&type=ws&host=HETZNER-D.pages.DEV&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.130.28:443
 vless://f177e178-96e2-4ea3-a603-e90cea3c4a7c@104.31.16.8:80?security=none&type=ws&host=FuRnItURE.MAHdAviAt.Uk&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.8:80
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.243.169.63:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.243.169.63:2053
