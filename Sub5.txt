@@ -1,3 +1,4 @@
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@104.16.67.38:443?security=tls&sni=ada3.qowch.com&type=ws&host=ada3.qowch.com&path=users%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.67.38:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@108.162.192.198:443?security=tls&sni=bia-PaiN-baCHE.PAGeS.DeV&type=ws&host=bia-pAin-bAChE.PaGeS.dEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.198:443
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.137.198:443?security=tls&sni=3k.pureboy.eu.org&type=ws&host=3k.pureboy.eu.org&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.198:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.26:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.26:443
@@ -997,4 +998,3 @@ vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?security=tls&sni=c
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.192.144:80?security=none&type=ws&host=binance.co.kp#🔒 VL-WS-NONE 🇺🇸 US-151.101.192.144:80
 vless://750d1331-b6c9-4012-a13f-c3ae21f13681@81.12.96.245:11059?security=none&type=tcp&host=subscene.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-81.12.96.245:11059
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws&host=sdgf.bdfstt.sbs&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.57:443
-vless://2d8af6f4-ebc2-4ff9-b423-d9ad543c29a2@188.114.96.1:8880?security=none&type=ws&host=654747578685543986654987665498765489766536548763217654432765417.eeb1b765a2f1aa.workers.dev&path=Telegram%20channel%20%3A%20%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.1:8880
