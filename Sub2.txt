@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.20:7306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:7306
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZXlSSVI2bTA3Qkx1b3IxaE5zTGRm@165.22.238.239:44386#🔒 SS-TCP-NA 🇨🇦 CA-165.22.238.239:44386
+ss://NzU5OTI0NWUtMDYwNS00MzY1LWFlMjktNjAyN2U1MzEyYjc2Og==@188.114.97.1:443#🔒 SS-TCP-NA 🏴‍☠️ NA-188.114.97.1:443
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.162.200.181:8118#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:8118
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNDE4NTQ4Ny00MmM3LTRlZjYtOGQxOS1kYzhlNmViMTg5MWM=@223.111.154.58:40460#🔒 SS-TCP-NA 🇨🇳 CN-223.111.154.58:40460
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.202.41.139:443#🔒 SS-TCP-NA 🇰🇷 KR-43.202.41.139:443
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@198.244.231.28:443#🔒 SS-TCP-NA 🇬🇧 GB-198.244.231.28:443
@@ -994,7 +998,3 @@ ss://aes-256-gcm:8f4237cf-3d4b-4f21-872e-e9ba9f94a2d0@us-full.privateip.net:8443
 ss://aes-256-gcm:0a28bc10-1454-4d45-af23-65c1be96028f@us2-full.privateip.net:8443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Shadowsocks%20@V2rayStore
 ss://chacha20-poly1305:72c66281-3383-464e-989b-976156d3ce02@uk-full.privateip.net:2087#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:681abe1b-309a-4bd1-b92a-5aa76f6c5c69@de-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:6154d5bd-e89f-4720-b808-667d2894ff64@de2-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:b5c8f572-1b96-4f12-bcc8-666154410448@es-full.privateip.net:8443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Shadowsocks%20@V2rayStore
-ss://chacha20-poly1305:3d5bf618-0166-4274-9224-f6931bf5364b@sg2-full.privateip.net:2087#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:dc076e05-4161-4c8c-8788-ce35343176e9@hk-full.privateip.net:8443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Shadowsocks%20@V2rayStore
