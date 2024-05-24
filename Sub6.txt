@@ -1,4 +1,3 @@
-vless://7767dcb7-8f55-4fb0-8d65-aeb021d5f730@104.17.21.178:2096?security=tls&sni=kanal.metesla.site&type=grpc&serviceName=@global_net_vpn&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.21.178:2096
 vless://f7d2e53e-0728-49b0-89f7-ad730ee0cc49@104.21.20.26:2083?security=tls&sni=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&type=ws&host=uciran-uciran-uciran-uciran-uciran-uciran-uciran.wamivah516.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.26:2083
 vless://d45f63b6-5503-48a0-91ee-f2c0624ab047@104.26.14.85:443?security=tls&sni=fi2.v2vless.xyz&type=ws&host=fi2.v2vless.xyz&path=/telegram.@vpnAndroid2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
 vless://8d2b1217-c750-4fe6-9d07-7325cf1e300b@172.64.150.28:443?security=tls&sni=help.melov2ray.shop&type=grpc&serviceName=melov2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.64.150.28:443
@@ -998,3 +997,4 @@ vless://d89ee4ba-7122-4509-b3f3-004b3119e0fa@85.133.151.198:10088?security=none&
 vless://ee64b5b2-7e16-4e97-8260-c277b5ae088b@217.60.252.121:6710?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-217.60.252.121:6710
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.24.185.137:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.185.137:443
 vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sni=tnetplus.pages.dev&type=ws&host=tnetplus.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.161.104:2096
+vless://36496095-e07f-4e0a-9697-409f761d1f67@162.159.138.232:2087?security=tls&sni=ShprxyV2ray.digitalciity.Tech&type=ws&host=ShprxyV2ray.digitalciity.Tech&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.232:2087
