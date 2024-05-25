@@ -1,4 +1,3 @@
-vless://1e5de110-c081-498b-8c0e-44e475593476@108.165.216.234:2053?security=tls&sni=nhtfjyytf.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.216.234:2053
 vless://f61b9661-baef-4feb-a449-cfbdec6c3d37@104.26.3.0:2053?security=tls&sni=varda.manwe.ir&type=ws&host=varda.manwe.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.3.0:2053
 vless://10c31b4f-a4b1-4887-eeb5-2f077c971049@172.67.223.8:8443?security=tls&sni=v2vu2.rayvenstorm.com&type=ws&path=%2Fxx&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.8:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.200:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.200:443
@@ -998,3 +997,4 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.16.161:443?security=tls&sni=
 vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@172.67.181.89:443?security=tls&sni=vpn442telegram.wucwej.workers.Dev&type=ws&host=vpn442telegram.wucwej.workers.Dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.181.89:443
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@104.17.230.135:443?security=tls&sni=us2.hnkkt.top&type=ws&path=/gsjc/us2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.230.135:443
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.40.183:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.40.183:443
+vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@104.25.233.225:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.25.233.225:2096
