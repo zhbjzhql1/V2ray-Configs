@@ -1,3 +1,4 @@
+vless://77da42ff-322a-4b94-9a0c-e22f99d0c822@190.93.247.155:2053?security=tls&sni=varzesh3org.vip-svg.sbs&type=ws&host=varzesh3org.vip-svg.sbs&path=%2FTelegram+-+@Vpnmasi+-+Telegram+-+@Vpnmasi#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.155:2053
 vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@94.131.120.237:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-94.131.120.237:20569
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.233.236:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.233.236:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@79.99.31.19:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇳🇱 NL-79.99.31.19:8443
@@ -997,4 +998,3 @@ vless://614cef89-a0a2-4afb-b4e8-8cc6fda8f792@104.22.30.97:2095?type=ws&host=完�
 vless://5621b36b-91ed-4a0e-92f9-8204a50cec7a@5.161.53.108:35911?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇺🇸 US-5.161.53.108:35911
 vless://34190107-f315-4ddf-d6d4-7f9f87af715b@95.217.216.45:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🇫🇮 FI-95.217.216.45:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.216:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.216:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.119.131:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.119.131:443
