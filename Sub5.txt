@@ -1,6 +1,3 @@
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.173:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.173:8443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@147.78.140.193:2096?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.193:2096
-vless://104380d8-f859-421a-bd11-29b2c9fbfa99@172.66.44.55:443?security=tls&sni=famil-5c8.pages.dev&type=ws&host=famil-5c8.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.55:443
 vless://f922a88b-d4f5-4371-924e-c0335c990569@173.245.58.31:2087?security=tls&sni=ConneCtion-Ir-021.digiv2ray1.store&type=ws&host=ConneCtion-Ir-021.digiv2ray1.store&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.31:2087
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.153.80.208:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&host=tg.dns68.cloudns.nz&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-43.153.80.208:443
 vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.130.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.130.233:443
@@ -998,3 +995,6 @@ vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.119:8443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.177.67:61153?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-146.56.177.67:61153
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.66.47.90:443?security=tls&sni=BIA-PAIN-bAChE.PaGes.dev&type=ws&host=bia-paIn-bAcHe.PaGES.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.90:443
 vless://ffcb16ff-bb76-48b3-a44c-06bdf35e8482@104.21.45.136:443?security=tls&sni=free.itsvpns.app&type=ws&host=free.itsvpns.app&path=/wsfree&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.136:443
+vless://041f929a-63f6-4af1-a492-8cbff5797b8a@104.26.14.16:2096?security=tls&sni=telegram-falcunargo-emiratess.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emiratess.falcunar.asso.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:2096
+vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.18.11.114:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.11.114:80
+vless://90c4ac08-b257-4cc1-968b-8aa77bbb8f88@104.21.83.250:2083?security=none&type=tcp#🔒 VL-TCP-NONE 🏴‍☠️ NA-104.21.83.250:2083
