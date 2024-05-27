@@ -1,3 +1,4 @@
+trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@172.207.124.212:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.124.212:443
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443
 trojan://a5da0a9c-97e2-4179-a51a-66566b677740@94.130.130.70:8080?security=tls&sni=server-64283.prod.hosts.ooklaserver.net&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-94.130.130.70:8080
 trojan://telegram-id-privatevpns@3.66.67.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.66.67.6:22222
@@ -997,4 +998,3 @@ vless://9b524948-1212-4f43-8b5d-9c5ebcc8ea6c@104.21.47.137:2087?security=tls&sni
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@185.146.173.29:443?security=tls&sni=us1.hnkkt.top&type=ws&path=/gsjc/us1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.29:443
 vless://ff2a337f-b215-49e1-8b1e-d7734b648c4a@104.21.60.254:2083?security=tls&sni=all1.mebird1.fun&type=ws&host=all1.mebird1.fun&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.60.254:2083
 vless://e018df1f-76c9-4075-8e19-58795c1c7f99@104.22.75.105:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.75.105:443
-vless://2d8af6f4-ebc2-4ff9-b423-d9ad543c29a2@188.114.96.1:8880?security=none&type=ws&host=654747578685543986654987665498765489766536548763217654432765417.eeb1b765a2f1aa.workers.dev&path=Telegramchannel%3A%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.1:8880
