@@ -1,4 +1,3 @@
-vless://01ab9337-f478-4765-9534-88f009f83ddb@129.146.254.39:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-129.146.254.39:443
 vless://f8847568-e981-4816-884d-ffd6dc2c6ee2@185.18.250.21:8080?security=none&type=ws&path=%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray%2Fmelov2ray#🔒 VL-WS-NONE 🇨🇭 CH-185.18.250.21:8080
 vless://62f6b891-7988-4392-88c7-14134bb3ffa9@172.67.218.140:2083?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.140:2083
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.20.156.248:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=/?ed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.156.248:443
@@ -998,3 +997,4 @@ vless://a6251a9c-91f5-4f3f-b3dd-4fc81f7e20c2@185.146.173.77:8080?security=none&t
 vless://f9488ae9-1789-4595-b496-92e278cd937a@185.146.173.1:2095?security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.像鸟一样自由.online.&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.1:2095
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.27.94:8443?security=tls&sni=jp226.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.94:8443
 vless://2321a662-adbb-49b6-9c3d-51fcef59c70d@193.227.99.66:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇲🇹 MT-193.227.99.66:8443
+vless://a4b948aa-84a9-4914-d6fe-a3d1f0a8d60b@172.67.178.124:2083?security=tls&sni=cloudpod1.cyberscaler.com&type=ws&host=cloudpod1.cyberscaler.com&path=%2Fcars-online-sale%2F&fp=chrome&alpn=http%2F1.1%2Ch2&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.124:2083
