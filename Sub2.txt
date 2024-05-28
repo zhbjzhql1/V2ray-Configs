@@ -1,3 +1,6 @@
+ss://YTM4NzNlYjktMGM1NC00NmM0LWFiYmYtYWU5Zjg4MGQzNjE5Og==@162.19.228.119:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.228.119:443
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@103.172.116.79:9024#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9024
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.81:6679#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.81:6679
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989#🔒 SS-TCP-NA 🇨🇴 CO-190.120.231.45:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxcTdSTkthSWsyd1lPOGZFUG1FWDB2V1E3VmErUVJUQQ==@91.192.81.21:8388#🔒 SS-TCP-NA 🇸🇬 SG-91.192.81.21:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVJpTQ==@95.164.47.219:8388#🔒 SS-TCP-NA 🇩🇪 DE-95.164.47.219:8388
@@ -995,6 +998,3 @@ trojan://a5da0a9c-97e2-4179-a51a-66566b677740@94.130.130.70:8080?security=tls&sn
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
 trojan://wkmY1R4EcP@209.250.246.191:443?security=tls&sni=z-v2-003294.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇳🇱 NL-209.250.246.191:443
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@112.26.33.81:12052?sni=china3.one.edu.kg&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-112.26.33.81:12052
-trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.10:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.10:443
-trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443
