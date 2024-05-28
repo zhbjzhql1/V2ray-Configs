@@ -1,3 +1,7 @@
+trojan://qjIPNzdyWS@104.21.69.44:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.21.69.44:8080
+trojan://maradona_vpn@185.174.138.209:443?security=tls&sni=teo.history-paint.art&type=ws&host=teo.history-paint.art&path=%2Fwss24142%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🇷🇺 RU-185.174.138.209:443
+trojan://82414d89-aa27-4c35-b653-93cb9c5fc7b6@95.164.46.235:443?#🔒 TR-TCP-NA 🇮🇹 IT-95.164.46.235:443
+trojan://241f01b9-8dfc-474f-8342-3fbd5c46417e@104.21.51.242:2087?sni=grpcfr.arminhadadi.site&type=grpc&serviceName=grpc&allowInsecure=1#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.51.242:2087
 trojan://wkmY1R4EcP@216.128.147.13:443?security=tls&sni=z-v2-003274.kailib.com#🔒 TR-TCP-TLS 🇺🇸 US-216.128.147.13:443
 trojan://GSYYULACz0@104.18.203.232:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.&path=%2Fnew_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel-new_proxy_channel%2Fnew_proxy_channel%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:8080
 trojan://1ZTbMoSRnm@172.67.10.53:2083?security=tls&sni=mikasa.megafair.store&type=ws&host=mikasa.megafair.store&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.10.53:2083
@@ -994,7 +998,3 @@ vless://e999ef63-e15f-415d-810a-c16bd245bf74@104.17.248.203:443?security=tls&sni
 vless://519fbed1-5b69-4114-876c-3b560e767cfd@193.151.148.201:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.148.201:443
 vless://73f0da18-c165-4dd6-9a1c-d33f8d124186@104.18.202.232:2082?security=none&type=ws&host=%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B7.novaball.LINK.&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.202.232:2082
 vless://75769ab7-ebd9-49b7-af04-e542a45638b7@104.24.13.34:443?security=tls&sni=getdata.nigc-ar.com&type=ws&host=getdata.nigc-ar.com&path=/20650/download&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.13.34:443
-vless://9f0d517d-45d5-5596-b235-7dc981821997@172.67.187.38:2053?security=tls&sni=esetsecuritylicense.mrgimsy.worKeRs.DeV&type=ws&host=esetsecuritylicense.mrgimsy.worKeRs.DeV&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.187.38:2053
-vless://03e8d234-e793-424d-9d8e-45c04a1eb684@172.67.185.129:2083?security=tls&sni=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&type=ws&host=ousgyyzsjbolbolsweden.stay-out-of-my-territory.shop&path=%2F&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.185.129:2083
-vless://95a91266-42f3-41bc-8555-1596e44c9929@37.152.182.38:18312?security=none&type=tcp&host=Zula.ir&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-37.152.182.38:18312
-vless://dd72f90e-d0d1-4e9e-af3d-ec0442c36d8a@95.217.27.124:39264?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-95.217.27.124:39264

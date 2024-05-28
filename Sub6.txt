@@ -1,3 +1,7 @@
+vless://8952c47b-cf77-49b5-b961-2038596f6b97@85.9.108.43:47068?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.108.43:47068
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@64.94.86.123:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇨🇦 CA-64.94.86.123:8443
+vless://582e8282-931f-4061-a1ff-29428569f075@89.116.46.1:8080?security=none&type=ws&host=2.v2ray.mihanyas.ir.mbj.farsroid.com.列列男事的事列上赛男78.mmdargon.Top.#🔒 VL-WS-NONE 🇩🇪 DE-89.116.46.1:8080
+vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@185.146.173.29:443?security=tls&sni=us1.hnkkt.top&type=ws&path=/gsjc/us1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.29:443
 vless://61958b98-d52a-420e-bb42-a3fd22985895@104.17.245.203:2096?security=tls&sni=italia.dalixw.fun&type=grpc&serviceName=.....&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.245.203:2096
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.144:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.144:8443
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@154.197.121.254:8443?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.254:8443
@@ -994,7 +998,3 @@ vless://78dcde94-5b99-4dc0-a0a7-43c92df4f76b@45.152.112.197:80?security=none&typ
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.49:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.49:2083
 vless://89b6ddc8-da0a-4efd-93e5-9275ead14e18@162.159.1.169:2096?security=tls&sni=new2.4four4.top.&type=ws&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.1.169:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.76.195:2086?security=none&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.76.195:2086
-vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.21.89.230:443?security=tls&sni=suratquran18.xyz&type=ws&path=%2Fcurrent_time&fp=safari&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.89.230:443
-vless://85ac002e-cda3-42b4-8a6a-3997ff664d76@188.114.99.99:2087?security=tls&sni=dl.parhamtraberthos.ir&type=ws&host=dl.parhamtraberthos.ir&path=%2Fnew_proxy_channel%3Fed%3D2560&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.99:2087
-vless://80d743d5-40a5-4ce0-b660-e3f5859e2c99@162.159.135.234:2087?security=tls&sni=configngnixV2rayng.shhproxy.cfd&type=ws&host=configngnixV2rayng.shhproxy.cfd&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.135.234:2087
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.153:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.153:2087
