@@ -1,3 +1,5 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.188:443?security=tls&sni=MAHdIServER-2VR.PAgeS.Dev&type=ws&host=maHdIsErver-2Vr.pAGEs.dEv&path=%2FLP15HLh25g9sf9Pz%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.188:443
+vless://92c12734-d19e-40a1-f7a2-1735711d039b@172.67.134.112:443?security=tls&sni=slayer.mestavorze.workers.dev&type=ws&host=slayer.mestavorze.workers.dev&path=/downloader/32185&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.112:443
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@104.18.203.232:2053?security=tls&sni=folani.iiipok.WOrKErS.DEv&type=ws&host=folani.iiipok.WOrKErS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.203.232:2053
 vless://7f55b425-a623-439b-bbd5-0b1778162054@185.146.173.96:80?security=none&type=ws&host=v2raygodvip--free24.Azaronline.Org.&path=%2F#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.96:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.249.112:443?security=tls&sni=EA6530e9.nXZu-61iuaN-xD.PageS.DEV&type=ws&host=EA6530e9.nXzu-61iuAn-XD.PaGEs.dEV&path=%2F..TeleGram..%40Free_V2rng..%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.249.112:443
@@ -996,5 +998,3 @@ vless://9066bb7e-e9f0-49dc-bd72-22d07c0cf525@172.67.128.83:2096?security=tls&sni
 vless://a71a41ad-c986-4ed1-93b8-fcddb110bb48@136.244.64.101:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-136.244.64.101:8080
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@141.101.115.11:2082?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-141.101.115.11:2082
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@146.56.42.31:48652?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-146.56.42.31:48652
-vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@104.24.196.20:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.196.20:2053
-vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.19.251.69:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.251.69:2087

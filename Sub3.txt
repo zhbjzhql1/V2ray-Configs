@@ -1,3 +1,5 @@
+trojan://telegram-id-directvpn@3.10.97.96:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.10.97.96:22222
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.57:12034?sni=china3.one.edu.kg#🔒 TR-TCP-NA 🇭🇰 HK-91.199.84.57:12034
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.12:443
 trojan://NISHIKUITAN222@192.9.177.204:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=%2F#🔒 TR-WS-TLS 🇦🇺 AU-192.9.177.204:443
 trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
@@ -996,5 +998,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@174.136.206.95:57757?security=tls&s
 vless://aba1d422-8ea1-4934-a685-b6df5ab46c41@104.21.52.225:2087?security=tls&sni=dl4.mn-g.ir&type=ws&host=dl4.mn-g.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.52.225:2087
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.165.25:2083?security=tls&sni=aut331.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.165.25:2083
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.64.144:80?security=none&type=ws&host=binance.co.kp#🔒 VL-WS-NONE 🇺🇸 US-151.101.64.144:80
-vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@185.174.138.112:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.112:443
-vless://e85b96b9-7f21-46f3-8b7b-104e964e9b75@162.159.153.2:8443?security=tls&sni=join-sho-falcunargo-nl.falcunar.uk.eu.org&type=ws&host=join-sho-falcunargo-nl.falcunar.uk.eu.org&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:8443
