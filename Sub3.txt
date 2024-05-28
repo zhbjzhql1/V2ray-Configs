@@ -1,6 +1,3 @@
-trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.62:4003?security=tls&sni=nl1.chuqiangtou.net&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-149.50.75.62:4003
-trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?security=tls&sni=de1.trojanvpn.de&type=ws&host=de1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.204.84:2083
-trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@20.2.161.199:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.161.199:443
 trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.19.171.36:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.36:443
 trojan://c38d26dc-8cdc-4540-9187-a971fe9968cb@95.164.116.35:443?#🔒 TR-TCP-NA 🇹🇷 TR-95.164.116.35:443
@@ -998,3 +995,6 @@ vless://23c3c429-3cc4-480b-a444-35010f06e72e@104.18.13.130:443?security=tls&sni=
 vless://87f7cb00-a064-4173-9c04-70ab944b2ace@92.223.76.24:80?security=none&type=ws&path=%2F%40v2ray_configs_pool#🔒 VL-WS-NONE 🇭🇰 HK-92.223.76.24:80
 vless://d5aae20c-a7be-416e-806b-70a21ad20f52@172.67.159.193:443?security=tls&sni=PPAL03.MIss-GonzaLO-hOEGEr.WorKeRs.DEV&type=ws&host=PPal03.misS-gOnZAlo-hoEGeR.WOrKERs.DEV&path=%2FJukua2PWR_aDc8iX%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.159.193:443
 vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@172.66.213.38:2096?security=tls&sni=mci.ircf.space&type=grpc&serviceName=(&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2096
+vless://c1978266-958c-4aa3-ba34-7eacac75aca1@104.18.14.19:443?security=tls&sni=bpb-worker-panel3.pages.dev&type=ws&host=bpb-worker-panel3.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.19:443
+vless://d9a66cc5-0e40-459f-b7aa-6272e46839ee@104.24.197.20:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:2053
+vless://d39ab667-829c-4db5-95d8-d8232dfb0b1b@46.102.137.45:4440?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-46.102.137.45:4440
