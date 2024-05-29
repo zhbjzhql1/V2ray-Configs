@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.120:8882#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.120:8882
+ss://YzBmYmQ2NjQtOTY5My00Y2MwLWFhNzMtOTI0N2RiYmFkYmViOg==@104.21.46.197:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.46.197:443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2376
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.43:5499#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:5499
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#🔒 SS-TCP-NA 🇳🇱 NL-89.19.216.18:8388
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5aHc5NGZpTHlmRklpcUVCL29KSXE5NlB6ZXpYMU8zRk9DQVJsTGJDTnpZPQ==@188.213.128.62:443#🔒 SS-TCP-NA 🇨🇭 CH-188.213.128.62:443
@@ -995,6 +998,3 @@ trojan://TeleGram-VPNCTVIP@164.38.155.61:443?security=tls&sni=trojan-ws.vpnctvip
 trojan://NISHIKUITAN222@61.247.83.116:39308?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=/#🔒 TR-WS-TLS 🇰🇷 KR-61.247.83.116:39308
 trojan://62b9172d-cc3a-4001-8172-7804fbf1a09b@146.19.247.183:443?sni=aka.ms&type=ws&host=de1.trojanvpn.xyz&path=%2F#🔒 TR-WS-NA 🇩🇪 DE-146.19.247.183:443
 trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
-trojan://telegram-id-privatevpns@51.44.3.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.3.124:22222
-trojan://telegram-id-directvpn@13.51.131.70:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.131.70:22222
-trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
