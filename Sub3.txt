@@ -1,3 +1,7 @@
+trojan://trojan@185.146.173.94:80?security=tls&sni=freevpn.ahadadi796.workers.dev&type=ws&host=freevpn.ahadadi796.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇸🇪 SE-185.146.173.94:80
+trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
+trojan://telegram-id-privatevpns@52.214.93.103:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.214.93.103:22222
+trojan://UtO9m5wsDz@18.141.137.36:49465?security=none&type=ws&host=m.instagram.com&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-18.141.137.36:49465
 trojan://a5da0a9c-97e2-4179-a51a-66566b677740@136.243.85.167:443?security=tls&sni=speedtestc.dastresan.net.prod.hosts.ooklaserver.net&type=tcp#🔒 TR-TCP-TLS 🇩🇪 DE-136.243.85.167:443
 trojan://telegram-id-directvpn@52.60.193.175:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-52.60.193.175:22222
 trojan://NISHIKUITAN222@47.236.164.215:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.236.164.215:443
@@ -994,7 +998,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.4.57:2053?security=tls&sni=j
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.42.139:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.42.139:443
 vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@172.67.199.23:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.199.23:443
 vless://8d1f8810-7b11-4901-9de7-80bed2563765@5.75.203.170:443?security=none&type=ws&host=vpn-mikey.欢迎访欢迎访问中.website.&path=/@Vpn_Mikey،@Vpn_Mikey#🔒 VL-WS-NONE 🇩🇪 DE-5.75.203.170:443
-vless://9af28087-87e6-44ae-a6e0-51852ecab457@104.21.44.13:8443?security=tls&sni=store.mtahaa.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.44.13:8443
-vless://ddb00f36-d544-4e35-afbf-64297aa68d03@188.114.97.2:2096?security=tls&sni=sisana.muzres.wOrKerS.DEV&type=ws&host=sisana.muzres.wOrKerS.DEV&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.2:2096
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@43.154.74.39:30958?security=tls&sni=v313.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-43.154.74.39:30958
-vless://58e1a8ae-d8ae-4d71-885d-eeaea5f967e2@185.146.173.94:80?security=none&type=ws&host=1.v2raY.mIhANYAs.Ir.mBj.FArSrOId.COm.XN--fHq0La447aAC5504dEa701axR1G.IsVphp.iR.&path=%2Fvless#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:80

@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.125.11:443#🔒 SS-TCP-NA 🇫🇷 FR-141.95.125.11:443
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8009
+ss://YWVzLTI1Ni1nY206MDZnWktrZUMySg==@23.94.76.55:51981#🔒 SS-TCP-NA 🇺🇸 US-23.94.76.55:51981
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak5tT0dFMA==@146.19.106.89:8388#🔒 SS-TCP-NA 🇨🇦 CA-146.19.106.89:8388
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989#🔒 SS-TCP-NA 🇭🇷 HR-46.183.184.61:989
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MkxJQUpGQkdPeWlQNW1jVVNYbVRUTW9jOUdZUnQwRVdtN0VrOFNFcUNvND06YXVvSUpqK0ZJRFB3ZTFGR3FUUmMybnlPL3FYNXlJbzBGcEk2Kzk3RGpaZz0=@172.104.147.211:17443#🔒 SS-TCP-NA 🇩🇪 DE-172.104.147.211:17443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dE4ySllZZUVRc2VzLW1vekpUOEJB@77.105.146.212:1080#🔒 SS-TCP-NA 🇩🇪 DE-77.105.146.212:1080
@@ -994,7 +998,3 @@ trojan://2997aacd-4f1b-42fb-b225-c1596f9ca5c1@173.245.49.31:443?security=tls&sni
 trojan://NISHIKUITAN222@8.219.77.222:2083?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.77.222:2083
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
 trojan://telegram-id-privatevpns@13.37.182.97:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.37.182.97:22222
-trojan://trojan@185.146.173.94:80?security=tls&sni=freevpn.ahadadi796.workers.dev&type=ws&host=freevpn.ahadadi796.workers.dev&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇸🇪 SE-185.146.173.94:80
-trojan://9yu6m5okr@104.21.50.5:443?security=tls&sni=production.tj.ojan.workers.dev&type=ws&host=production.tj.ojan.workers.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.50.5:443
-trojan://telegram-id-privatevpns@52.214.93.103:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.214.93.103:22222
-trojan://UtO9m5wsDz@18.141.137.36:49465?security=none&type=ws&host=m.instagram.com&path=%2F#🔒 TR-WS-NONE 🇸🇬 SG-18.141.137.36:49465
