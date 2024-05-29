@@ -1,7 +1,3 @@
-trojan://auto@172.66.44.131:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
-trojan://telegram-id-directvpn@15.157.158.179:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.157.158.179:22222
-trojan://NISHIKUITAN222@61.247.83.116:39308?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=/#🔒 TR-WS-TLS 🇰🇷 KR-61.247.83.116:39308
-trojan://tIErrUuX7j@172.67.187.246:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.187.246:2053
 trojan://telegram-id-directvpn@13.39.115.32:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-13.39.115.32:22222
 trojan://auto@104.18.12.229:2053?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.12.229:2053
 trojan://NISHIKUITAN222@8.219.144.168:443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.144.168:443
@@ -998,3 +994,7 @@ vless://d95892d5-1db2-4558-aa7c-151b7044ca96@89.116.46.1:80?security=none&type=w
 vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.169.207:2083?security=tls&sni=folani.iiipok.WORKerS.DeV&type=ws&host=folani.iiipok.WORKerS.DeV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.169.207:2083
 vless://5cf13b6a-f84e-44ad-9938-3ffc66a679ac@185.146.173.79:8080?security=none&type=ws&host=mahanvips%E6%B3%A2%E6%96%AF%E7%B6%B2arbazansaouli%E6%B3%A2%E6%96%AF%E7%B6%B2%E8%B7%AF1.mahanteamvips.top.&path=%2FMahanVip%3Fed%3D2053#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.79:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.30.171:2053?security=tls&sni=jp022.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.30.171:2053
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.130:2096?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.130:2096
+vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.21.4.115:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.4.115:2087
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.12.54:443?security=tls&sni=PrOXySTORePANeL.eU.ORg&type=ws&host=pROXYSTorepAnEl.Eu.OrG&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
+vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@104.21.74.214:2087?security=tls&sni=al.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.74.214:2087
