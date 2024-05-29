@@ -1,3 +1,4 @@
+trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
 trojan://telegram-id-privatevpns@51.44.3.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.44.3.124:22222
 trojan://telegram-id-directvpn@13.51.131.70:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.51.131.70:22222
 trojan://iI72baKdja@45.85.119.200:2096?security=tls&sni=nleaaaaaa.piabolictash.online&type=grpc&serviceName=https://t.me/ViipNetwork&alpn=h2,http/1.1#🔒 TR-GRPC-TLS 🇷🇴 RO-45.85.119.200:2096
@@ -997,4 +998,3 @@ vless://ada7333c-b5ee-48f0-8cae-80de363e863a@104.21.25.46:443?security=tls&sni=b
 vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.126.175:8880?security=none&type=ws&host=falcunargo.1035ed931e.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.126.175:8880
 vless://698bdf81-9777-41cc-9cc1-81a2fc43bd08@172.67.180.238:8080?security=none&type=ws&host=cloudmehranmmdv1ray.v3rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.MahDi3Mm.onliNe.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.180.238:8080
 vless://09ceaa87-3cd5-491a-b734-e4ca15e89d35@104.16.208.90:8443?security=tls&sni=v2net-iran-v2ray-nl.morgensport.nl&type=ws&host=v2net-iran-v2ray-nl.morgensport.nl&path=/V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.208.90:8443
-vless://e0f52d31-566b-437d-9961-1865e38d10fb@172.67.66.177:8880?security=none&type=ws&host=up.sourceforge.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:8880

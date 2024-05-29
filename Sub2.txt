@@ -1,3 +1,4 @@
+ss://ZDRjNGVjYWMtNTg1Ni00NWVjLWIyMGUtYTlmMTgzNDNiODlkOg==@104.16.61.8:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.61.8:80
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.142.120:8882#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.120:8882
 ss://YzBmYmQ2NjQtOTY5My00Y2MwLWFhNzMtOTI0N2RiYmFkYmViOg==@104.21.46.197:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.46.197:443
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2376
@@ -997,4 +998,3 @@ trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.
 trojan://TeleGram-VPNCTVIP@164.38.155.61:443?security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT&type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2FproxyIP%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🇬🇧 GB-164.38.155.61:443
 trojan://NISHIKUITAN222@61.247.83.116:39308?security=tls&sni=t331.ylks.link&type=ws&host=t331.ylks.link&path=/#🔒 TR-WS-TLS 🇰🇷 KR-61.247.83.116:39308
 trojan://62b9172d-cc3a-4001-8172-7804fbf1a09b@146.19.247.183:443?sni=aka.ms&type=ws&host=de1.trojanvpn.xyz&path=%2F#🔒 TR-WS-NA 🇩🇪 DE-146.19.247.183:443
-trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443

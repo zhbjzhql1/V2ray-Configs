@@ -1,3 +1,4 @@
+vless://e0f52d31-566b-437d-9961-1865e38d10fb@172.67.66.177:8880?security=none&type=ws&host=up.sourceforge.sbs&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:8880
 vless://4d4da811-c5f3-4e73-a64a-232042b19fb7@185.146.173.94:2082?path=/TEL#🔒 VL-TCP-NA 🇸🇪 SE-185.146.173.94:2082
 vless://4437af3d-9d06-4f36-86c6-bd41638a6657@104.21.77.3:443?security=tls&sni=pPAl03.fredeRIQuE-sTEuBeR.woRkERs.dEV&type=ws&host=PPaL03.FredERIQUE-STeubER.workERS.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.3:443
 vless://e3ed372d-dd6a-4f11-9aeb-b53fd0478577@45.12.30.16:80?security=none&type=ws&host=rZ0nao.Dl-vScODE.COm&path=/backup#🔒 VL-WS-NONE 🇷🇴 RO-45.12.30.16:80
@@ -997,4 +998,3 @@ vless://5357a880-962d-4d37-8466-0bd382bc0ea0@104.21.47.221:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@146.70.175.177:80?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇳🇱 NL-146.70.175.177:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.43.179.209:443?security=tls&sni=jp313.ylks01.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.209:443
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=/http#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
-vless://893f44a8-d955-4e0d-b37e-b1d24cac52f3@5.160.152.108:18312?security=none&type=tcp&host=Zula.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.152.108:18312
