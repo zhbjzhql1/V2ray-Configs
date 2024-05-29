@@ -1,3 +1,5 @@
+vless://02e75d78-58ad-4a73-afca-24b781d8fdf5@45.8.211.142:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇷🇺 RU-45.8.211.142:8443
+vless://ca9e46f9-6545-47ce-a6f5-66ad998092d0@66.235.200.67:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.67:8443
 vless://e1270c63-1697-436e-8c71-32f1d22b795d@104.21.88.53:443?security=tls&sni=nl1.v2vless.xyz&type=ws&host=nl1.v2vless.xyz&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.88.53:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.103:2096?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.103:2096
 vless://446bef91-46ec-4feb-b8f1-79a4597b1801@172.67.149.105:443?security=tls&sni=PPal03.ShemAr-cOLlins.workerS.dEv&type=ws&host=ppal03.SHEMAR-COLlIns.WORkeRS.dEv&path=%2FxMf1-J7xXpfxrLnk%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.105:443
@@ -996,5 +998,3 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@23.227.39.107:443?security=tls&sni=
 vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80?security=none&type=ws&host=private-codmhttp.teqqlzdw.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.80.70:80
 vless://1043dcf4-b8a4-45de-bb61-e64535939ebc@172.67.73.163:8080?security=none&type=ws&host=vipserverservice.snapp.ir.com.org.spd.spod.xn--chinese-fs4l.xn--blqw2a5no5ed8cm6xw0gw2i6ooehteuz1wcw61apn4a.com.&path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng%3Fed%3D80#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:8080
 vless://d62cfbb9-5431-4b6f-bd1e-d51164dbaebc@172.67.129.146:443?security=tls&sni=kiNgaRIAMehr2.PAGeS.DeV&type=ws&host=kINgarIaMeHR2.pAGes.dEV&path=%2Ftelegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.129.146:443
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.54:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.54:8443
-vless://36c18437-2956-49c5-b129-7a087efc6bca@104.24.65.199:443?security=tls&sni=grpc.havafaza.shop&type=grpc&serviceName=GrizzlyVPM%2F%3Fed%3D2048#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.65.199:443
