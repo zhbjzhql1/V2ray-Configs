@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySDRVWWtLRGppVjlGYlpNUEU4YzV6@46.226.164.2:16006#🔒 SS-TCP-NA 🇭🇰 HK-46.226.164.2:16006
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.111.114.133:445#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:445
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.183:5001#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.183:5001
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:4444
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.87.222:2375#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:2375
@@ -998,3 +996,5 @@ trojan://telegram-id-directvpn@99.81.91.213:22222?security=tls&sni=trojan.burger
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.17.215.4:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.4:443
 trojan://auto@104.18.34.21:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.34.21:443
 trojan://auto@104.20.18.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.168:2083
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
+trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:2083
