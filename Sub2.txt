@@ -1,3 +1,7 @@
+ss://NTMzNWQxNmUtN2U0Mi00YzliLTkzYTMtOWU4M2JmZDMwNzNkOg==@172.67.168.60:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.168.60:80
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.15:989#🔒 SS-TCP-NA 🇲🇰 MK-46.183.185.15:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYeU01eDZwNENKOGRsYjB5OW1WSEJL@188.94.155.82:35152#🔒 SS-TCP-NA 🇰🇿 KZ-188.94.155.82:35152
+ss://ZDc3OTA2YTEtNTlmZC00MjIyLWJhOWUtM2RlODM0YmIzM2UyOg==@172.67.181.89:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.181.89:443
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.204.76:443#🔒 SS-TCP-NA 🇫🇷 FR-162.19.204.76:443
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.207:7001#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.207:7001
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.111.114.133:8091#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:8091
@@ -994,7 +998,3 @@ trojan://auto@3.35.139.150:8443?security=tls&sni=vip.123789.pp.ua&type=ws&host=v
 trojan://ac92cc40-17de-11ef-8e1b-1239d0255272@51.38.65.155:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-51.38.65.155:443
 trojan://dc5e0a60-17de-11ef-b78a-1239d0255272@51.210.182.170:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇫🇷 FR-51.210.182.170:443
 trojan://auto@104.18.1.89:443?security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.1.89:443
-trojan://telegram-id-privatevpns@63.34.192.157:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-63.34.192.157:22222
-trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
-trojan://maradona_vpn@185.174.138.209:443?security=tls&sni=teo.history-paint.art&type=ws&host=teo.history-paint.art&path=%2Fwss24142%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🇷🇺 RU-185.174.138.209:443
-trojan://saMgiangGt@104.21.92.190:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.92.190:443
