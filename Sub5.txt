@@ -1,3 +1,7 @@
+vless://3ae2d20d-2354-47da-9ce9-b921f8793164@65.109.241.5:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.241.5:443
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.66.216.0:2053?security=tls&sni=BiAaAa.PAgeS.deV&type=ws&host=BIaAaA.pAGEs.Dev&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.216.0:2053
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.197.121.178:8443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.178:8443
+vless://070cc7f7-26b5-486e-95e6-c532a0cd07ca@188.114.96.2:80?security=none&type=ws&host=allllll.top-speed.pw&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.2:80
 vless://cffb6eba-a33e-469f-9be0-b68cfec018e4@104.18.14.19:8880?security=none&type=ws&host=falcunargo.d369616395.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.14.19:8880
 vless://91864f04-bfd1-47a7-eb1c-df46924c7bd6@190.93.244.170:443?security=tls&sni=www.GozargahVPN.top&type=ws&host=www.GozargahVPN.top&path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.170:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.186:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.186:443
@@ -994,7 +998,3 @@ vless://7f55b425-a623-439b-bbd5-0b1778162054@188.114.97.0:80?security=none&type=
 vless://217bc39d-11a0-4634-864c-9178d91a9267@104.26.14.85:443?security=tls&sni=pages1-d24.pages.dev&type=ws&host=pages1-d24.pages.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.231:2053?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.231:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.1:2053?security=tls&sni=Worker-Dry-Heart-073a.Eqoniqaq.Workers.Dev&type=ws&host=workEr-dRy-heaRt-073A.eqoniqAq.workeRs.dEv&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.1:2053
-vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@188.114.98.224:2087?security=tls&sni=gerMnV2ray.naziitness.coM.&type=ws&host=gerMnV2ray.naziitness.coM.#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:2087
-vless://3f266d25-21aa-4498-bb1a-ce6d1d327aaf@104.21.21.137:443?security=tls&sni=freedom14.geraxex389.workers.dev&type=ws&host=freedom14.geraxex389.workers.dev&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.21.137:443
-vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.3:8880?security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:8880
-vless://80d7094c-619b-4208-b844-05861a1c7439@104.21.26.245:443?security=tls&sni=eXpreSSvPNFrEE021.sADrAFARoKhi3333.wOrKeRs.dev&type=ws&host=ExPrESsVPNFREe021.SADrafAroKHi3333.woRKERs.Dev&path=%2FVbPMX1cFskR6m_C-%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.26.245:443
