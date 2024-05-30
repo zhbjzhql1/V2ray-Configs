@@ -520,16 +520,17 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
 vless://a2359222-1ba4-4362-a4bc-ec678a3e7326@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
 vless://1f9bdc4c-b45f-425e-bc14-20fbefc5ee74@us2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
-vless://85a93916-1348-4643-aed5-4184c1829043@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
+vless://5d19853b-93ed-4718-b228-2979cf38cc28@tr-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Vless%20WS%20@V2rayStore
+vless://dd6688db-9ea8-4cb2-bc97-78af94f82081@kz-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Vless%20WS%20@V2rayStore
 vless://711cb43b-b46d-400a-a6de-063bab0af142@uk-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
 vless://1e864882-3a3d-4f70-aa10-b1a2714f6b98@uk2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20Vless%20WS%20@V2rayStore
 vless://cfc2f38a-5402-42d8-ba22-cd6111b0d04e@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
 vless://4d6fa72f-62cf-4b4a-92b1-a7dbf354e4c6@de2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Vless%20WS%20@V2rayStore
 vless://1b470f0c-4c0e-4eab-80e7-b4810b85ac8e@au-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Vless%20WS%20@V2rayStore
-vless://5556a3da-77a5-4bbf-a335-55d2e7ddd262@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
+vless://79126b5a-7e08-4e64-8f7a-7d59ef330669@it-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Vless%20WS%20@V2rayStore
 vless://bc14b176-c672-4f20-b73c-9fb882224ded@ua-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20WS%20@V2rayStore
 vless://1ac0b613-ea29-4a6d-96d0-e5d59fdf4078@es-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Vless%20WS%20@V2rayStore
-vless://be3fb84a-e45a-4923-ad74-c76e597be43b@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
+vless://41632df1-92bc-40af-8382-5d46f7725a9a@sg-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://3a545c46-3e0b-40b8-bacc-dbebf79f23f1@sg2-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20WS%20@V2rayStore
 vless://0d687a8f-3ae0-4636-9ffc-fd5c03565b76@id-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20WS%20@V2rayStore
@@ -997,4 +998,3 @@ vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@13.57.182.91:443?security=tls&sni=e
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.143.88:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.143.88:443
 vless://dbd36ab1-5830-4a1f-883c-ec27df11d4ca@104.21.50.234:8443?security=tls&sni=worker-tight-tree-d647.kanal3200.workers.dev&type=ws&host=worker-tight-tree-d647.kanal3200.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.50.234:8443
 vless://72c90a40-be6b-4f5c-a293-63c7d639739c@172.67.192.28:2083?security=tls&sni=dns.seminar-irani.ir.&type=grpc&serviceName=2083vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.192.28:2083
-vless://12ef2fb8-4c06-4e9e-b1b6-0dbde357790b@172.67.193.36:2087?security=tls&sni=arguvpnnn.v2raycfz.cloud&type=grpc&serviceName=www.speedtest.net&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.193.36:2087
