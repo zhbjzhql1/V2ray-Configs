@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3306#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:3306
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.120:5498#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:5498
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:8882
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.71.141:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.71.141:80
@@ -998,3 +997,4 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.165.25:2083?security=tls&sni
 vless://4b1d9f3a-6cdf-49e8-929b-5e5cedae5d31@104.21.12.61:443?security=tls&sni=freedom15.maber99212.workers.dev&type=ws&host=freedom15.maber99212.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.61:443
 vless://dfc79b00-a51a-45cf-9c0a-d061a01295b4@172.67.134.196:443?security=tls&sni=pAHlAvi-184.pAGEs.DeV&type=ws&host=PaHLAvi-184.PAgES.dEV&path=%2F0FvQcMNpiX0szmMx%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.134.196:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@91.217.139.121:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-91.217.139.121:8443
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@199.181.197.39:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.39:443
