@@ -1,8 +1,3 @@
-vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@104.16.114.74:2095?security=none&type=ws&host=it1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.114.74:2095
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.83.20:2053?security=tls&sni=aut226.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.83.20:2053
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.37.198:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.37.198:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.120.227:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.227:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.213:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.213:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.184:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.184:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@150.66.24.104:34237?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇯🇵 JP-150.66.24.104:34237
 vless://1ac0b613-ea29-4a6d-96d0-e5d59fdf4078@172.233.120.173:2003?security=tls&sni=es-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇪🇸 ES-172.233.120.173:2003
@@ -998,3 +993,8 @@ vless://42105331-ef5c-4c53-a18b-8c2efaa34f2c@162.159.44.205:80?security=none&typ
 vless://ffea89e6-3d42-4714-90e8-73be6ce45111@104.26.5.57:443?security=tls&sni=vps-aby.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.5.57:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@162.159.138.26:443?security=tls&sni=bIa-PAin-bache.PageS.deV&type=ws&host=biA-PAIn-bAChE.PaGeS.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.26:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.8.7:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.8.7:80
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.155.195:8443?security=tls&sni=zdy226.kpcloud.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.155.195:8443
+vless://1a29526b-4617-49eb-8660-5bb369254459@172.66.47.25:8443?security=tls&sni=pardazeshvpn-tg63.pages.dev&type=ws&host=pardazeshvpn-tg63.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.25:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.106:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.106:443
+vless://03a9c9ee-1e6e-4779-8171-b2aac2357d0c@104.17.175.151:8443?security=tls&sni=Tigoo.dignity-19.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.175.151:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.218:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.218:443

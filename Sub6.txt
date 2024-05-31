@@ -1,8 +1,3 @@
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@103.184.44.62:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇨🇳 CN-103.184.44.62:2053
-vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@172.66.47.90:443?security=tls&sni=BIA-PAIN-bAChE.PaGes.dev&type=ws&host=bia-paIn-bAcHe.PaGES.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.90:443
-vless://b04859a9-1156-4d22-8873-60980d5b599d@104.21.72.252:8080?security=none&type=ws&host=connectix.eo-wee3242343-rewre-efwe-f-ewffew-f-ewa-f290fwa-fawfe.online&path=/connectix#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.72.252:8080
-vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.64.170.159:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.170.159:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.8.211.95:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-45.8.211.95:443
 vless://83eb4ecc-b8b8-438a-8377-5f837880eb86@104.17.88.212:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.88.212:443
 vless://c72ce5a5-6419-4356-82d3-440fdf3136b1@104.20.104.209:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.104.209:80
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@104.21.18.147:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.18.147:443
@@ -998,3 +993,8 @@ vless://ecfd98b5-6fd6-4612-9869-eaa18e79bf4d@185.146.173.244:443?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.233:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-193.9.49.233:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.132.244.52:22338?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-43.132.244.52:22338
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.197:443
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@31.43.179.146:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.146:443
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.39:443
+vless://439e2f9e-079e-4369-a712-22b942afeadd@104.21.80.183:443?security=tls&sni=download.seyfilm.ir&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.183:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.173:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.173:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.145.142:443?security=tls&sni=kk222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇷🇺 RU-188.42.145.142:443
