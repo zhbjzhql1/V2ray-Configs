@@ -1,3 +1,4 @@
+ss://YzAxOTcxMzUtMzQxNS00NWFkLTk5MmYtODcwZjM2ZDNjOWIyOg==@104.21.74.139:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.74.139:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dE4ySllZZUVRc2VzLW1vekpUOEJB@77.105.146.212:1080#🔒 SS-TCP-NA 🇩🇪 DE-77.105.146.212:1080
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.42:8080#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:8080
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7307
@@ -997,4 +998,3 @@ vless://3c95c3eb-522a-46a0-a49a-14e10c03fbf8@172.67.180.15:443?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.103.7:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.103.7:443
 vless://63c7ebe1-c295-4066-a8a7-fe161e857335@104.22.51.45:80?security=none&type=ws&host=SvnProBotV2rayTkOne6.9.6.9.ir.shop.com.xn--fhqpqv8rrth13sbaaac958pc94anf0d8gmha8i.Com.&path=/SvnProBot-V2ray69Speed.ir.shop.com?ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.51.45:80
 vless://f4674168-f45c-45ed-8e6c-78ed71d3114f@66.235.200.1:2087?security=tls&sni=mAh3.irAnWeB.ShOP&type=ws&host=mAh3.irAnWeB.ShOP&path=/@mahsa_net+@azadi_az_inja_migzare&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.1:2087
-vless://c3c20db7-d32b-454a-9843-ec22d064a842@172.67.147.94:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir2.kehib41931.workers.dev&path=%2F-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.147.94:443
