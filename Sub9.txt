@@ -1,3 +1,6 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.13:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.13:8443
+vless://20334828-5963-4417-8c52-3f8bc08a074b@104.21.52.57:443?security=tls&sni=vless.mac2win.top&type=ws&host=vless.mac2win.top&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.52.57:443
+vless://fb301d2e-4430-4b41-95d6-764460b8ef13@104.24.34.101:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.34.101:2053
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.80.220:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.80.220:2080
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.34.111:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.34.111:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.249.162:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.249.162:443
@@ -995,6 +998,3 @@ vless://bfa993e8-b8dd-4ad9-9a04-a73ed5a71f70@luciana.ns.cloudflare.com:443/?type
 vless://d4e62913-3e19-4525-b9fd-28dfe68d019b@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=o4sghq.boopiyta.top&path=%2Fwss&security=tls&sni=o4sghq.boopiyta.top#[🇺🇸]t.me/ConfigsHub`
 vless://1019d534-4613-4d7b-95a1-2f8ed792e080@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=p717w0.simpateen.top&path=%2Fwss&security=tls&sni=p717w0.simpateen.top#[🇺🇸]t.me/ConfigsHub`
 vless://c1570e67-f5dd-4e25-bfdb-ff1ff0a41dbd@brady.ns.cloudflare.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=2p4clu.wotipoon.website#[🇺🇸]t.me/ConfigsHub`
-vless://281a23a9-85db-4cc0-a228-4b988d500487@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=sfe7rv.gipoonta.top&path=%2Fwss&security=tls&sni=sfe7rv.gipoonta.top#[🇨🇦]t.me/ConfigsHub`
-vless://5646b153-c811-458d-8a87-3f802f41f6c5@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=3guqtx.tensoapp.website&path=%2Fwss&security=tls&sni=3guqtx.tensoapp.website#[🇨🇦]t.me/ConfigsHub`
-vless://6d40f27d-5b8f-42c5-9b0e-0bfadac576f9@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=tkw09r.rimtiop.top&path=%2Fwss&security=tls&sni=tkw09r.rimtiop.top#[🇨🇦]t.me/ConfigsHub`

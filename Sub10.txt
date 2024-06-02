@@ -1,3 +1,6 @@
+vless://281a23a9-85db-4cc0-a228-4b988d500487@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=sfe7rv.gipoonta.top&path=%2Fwss&security=tls&sni=sfe7rv.gipoonta.top#[🇨🇦]t.me/ConfigsHub`
+vless://5646b153-c811-458d-8a87-3f802f41f6c5@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=3guqtx.tensoapp.website&path=%2Fwss&security=tls&sni=3guqtx.tensoapp.website#[🇨🇦]t.me/ConfigsHub`
+vless://6d40f27d-5b8f-42c5-9b0e-0bfadac576f9@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=tkw09r.rimtiop.top&path=%2Fwss&security=tls&sni=tkw09r.rimtiop.top#[🇨🇦]t.me/ConfigsHub`
 vless://010ca30e-5d90-4f1f-a616-ba1ba7046251@brady.ns.cloudflare.com:443/?type=ws&encryption=none&host=f12xc0.wotipoon.website&path=%2Fwss&security=tls&sni=f12xc0.wotipoon.website#[🇨🇦]t.me/ConfigsHub`
 vless://d0aef488-7cfe-4edd-9a26-1c3337159f5c@AstroVPN-official.AstroVPN-official.workers.dev:443?path=%2FJoin-Telegram-Channel-@AstroVPN_official&security=tls&encryption=none&host=ua1.vless.site&sni=ua1.vless.site&type=ws#[🇨🇦]t.me/ConfigsHub`
 vless://bd793ed4-84c8-4521-9e76-a2a743d7662e@kinsta.mostafahasanpour.ir:1999?type=tcp&path=%2Fkinsta_service&host=online.ir&headerType=http&security=none#[🏁]t.me/ConfigsHub`
