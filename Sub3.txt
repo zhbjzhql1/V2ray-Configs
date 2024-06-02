@@ -1,3 +1,4 @@
+ss://ZjA2YWMzMDMtZTYyNi00NTFkLWJjZmMtZWU4MjVlZTY5Mzk4Og==@104.19.189.243:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.19.189.243:443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.51:5499#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.51:5499
 ss://YzdiYzhkOTMtNWFiMS00OTY0LTgyOTgtODYzZjczYzI1MDMyOg==@172.67.204.84:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:80
 ss://ODU0NWM0NGYtYjFiNC00Mjk1LWFlOTgtZjBiNjMwMWE1MzdmOg==@172.66.46.214:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.46.214:2053
@@ -997,4 +998,3 @@ vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=realit
 vless://542d58cb-bf0f-4143-a133-66a3502aa967@70.34.209.183:7594?security=reality&sni=dash.cloudflare.com&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&fp=chrome&pbk=QDtaRWxxRlS8XMpjbJwza6RjV6Uv3Y6QcssbmIhBOSA&sid=2a0bb25d#🔒 VL-GRPC-RLT 🇸🇪 SE-70.34.209.183:7594
 vless://b0753dbe-6187-4d7f-8931-4c0d1a975104@[::ffff:5fa4:243b]:8443?security=reality&sni=104.21.70.42&type=tcp&host=at1.x2fast.net&headerType=http&fp=chrome&pbk=Iqqixc1Fcq2knbl1IbuKOHuZn2QDQIgri2J1acmDuTw&sid=bbe1ba3d62f09e09#🔒 VL-TCP-RLT 🇦🇹 AT-[::ffff:5fa4:243b]:8443
 vless://b524a41e-c80d-4743-a280-353aeb04078a@104.168.107.230:9631?security=reality&flow=xtls-rprx-vision&sni=ftp.debian.org&type=tcp&fp=chrome&pbk=8BiQIRM0TBZUpRwiB6vsfTPOj4AJoYd1dvX65GhfFW4&sid=a41cc82f29d6308c#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9631
-vless://44b1db28-a819-4914-9c6f-ee7c7599a894@135.181.202.101:10559?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=JTt7Au4cLeKLnQfD8O-yO19nS5u2CgP3fIO1DHlej1c&sid=c5f1f156#🔒 VL-TCP-RLT 🇫🇮 FI-135.181.202.101:10559
