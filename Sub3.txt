@@ -1,3 +1,4 @@
+ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@104.21.79.143:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.79.143:2083
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:7001
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.197:5003
 ss://YzNjMjBkYjctZDMyYi00NTRhLTk4NDMtZWMyMmQwNjRhODQyOg==@172.67.196.25:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.196.25:443
@@ -997,4 +998,3 @@ vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.18.11.114:80?security=none&type
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.174.190:443
 vless://cb1b1fd0-8c81-4803-a58d-03c8cab97539@188.114.96.1:2053?security=tls&sni=sinaazizporrr.bebzamhatmailir.worKeRS.dev&type=ws&host=sinaazizporrr.bebzamhatmailir.worKeRS.dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.1:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.87:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.87:443
-vless://0eab9ab8-d0f0-4823-8af9-d1f95db842e8@178.239.154.119:3013?security=none&type=tcp&host=subscene.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-178.239.154.119:3013
