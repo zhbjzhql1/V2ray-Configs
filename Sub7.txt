@@ -1,3 +1,4 @@
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.137.88:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.137.88:443
 vless://8143f965-0aee-4122-bb34-aa7d3aacc493@104.19.159.53:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.159.53:80
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.162.88:8080?security=none&type=ws&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.162.88:8080
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.122.175:443?security=tls&sni=bIa-PAIN-bACHe.paGeS.Dev&type=ws&host=biA-PaiN-bACHe.pagES.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.122.175:443
@@ -997,4 +998,3 @@ vless://98268aee-f8c1-41f1-8c9f-0273ada3af8c@45.205.0.50:8443?security=tls&sni=p
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.75.14:443?security=tls&sni=bypassfilter.nuktsv.workers.dev&type=ws&host=bypassfilter.nuktsv.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.75.14:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@154.219.5.130:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-154.219.5.130:443
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.16.60.79:2052?security=none&type=ws&host=workerr.hashdiler.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.60.79:2052
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.178.185:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.185:443
