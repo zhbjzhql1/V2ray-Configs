@@ -1,3 +1,4 @@
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
 vless://de837bd2-0abb-438d-87a2-0649d0703579@62.60.141.6:5016?security=none&type=tcp&host=nobitex.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.141.6:5016
 vless://d9b3134e-007e-41e0-a146-8c53977e27f5@104.25.221.166:443?security=tls&sni=academivpn1-bo7.pages.dev&type=ws&host=academivpn1-bo7.pages.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.221.166:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?type=ws&host=binance.co.kp#🔒 VL-WS-NA 🇺🇸 US-151.101.131.1:80
@@ -997,4 +998,3 @@ vless://b981829e-9bd1-4a7d-880d-9169fc2bd275@104.21.96.87:443?security=tls&sni=p
 vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:8443?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.136.208:8443
 vless://0f0f7cc8-edcd-436d-bf9d-f7bfdb6ed9ca@104.21.60.209:2082?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.60.209:2082
 vless://c838f915-90f6-4b3b-9b89-e8cce84d4f26@104.21.7.50:80?security=none&type=ws&host=6.v2ray.bm.nedayevarzesh.ir.newsless.ir.xn--48jyb6ec1ad.tech.irapulsplus.sbs&path=%2Ftelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.50:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@130.250.137.186:2082?security=none&type=ws&path=%2Fblue#🔒 VL-WS-NONE 🇺🇸 US-130.250.137.186:2082

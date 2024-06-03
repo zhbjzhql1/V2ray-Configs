@@ -1,3 +1,4 @@
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.98.79:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.98.79:443
 vless://845532a6-1f1b-405f-a3b7-cdd736a67543@188.114.96.3:2087?security=tls&sni=liV2rayb.lightningv.ir&type=grpc&serviceName=/@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-@LiV2ray&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.96.3:2087
 vless://b4f9c540-3911-4826-a274-e8d6d0cf8de1@104.21.57.195:2096?security=tls&sni=sinaazizpor.cozwao.WOrkERS.dev&type=ws&host=sinaazizpor.cozwao.WOrkERS.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.195:2096
 vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?security=none&type=ws&host=nl54.vlessx.us&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:2095
@@ -997,4 +998,3 @@ vless://7dee9736-d32f-4ac9-f22a-831b81a0b101@190.93.246.225:8880?security=none&t
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@34.1.15.24:443?security=tls&sni=v222.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇫🇷 FR-34.1.15.24:443
 vless://f1c0ba66-9682-4e0a-950b-c239eacdd4cb@190.93.247.155:2053?security=tls&sni=ads.zed-zoon.tech&type=grpc&serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-190.93.247.155:2053
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.210.107.246:8443?security=tls&sni=vless.pagess.filegear-sg.me&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.210.107.246:8443
-vless://08855417-a94d-5591-9abe-4ed223e8a857@172.67.132.126:443?security=tls&sni=happy.callofip.com&type=ws&host=happy.callofip.com&path=%2Fgrpc&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.132.126:443
