@@ -1,6 +1,3 @@
-vless://32ed86c3-cc13-4e8f-ca3e-8e2c9b8dc151@5.42.79.229:47302?security=reality&sni=greenpepper.ir&type=tcp&fp=chrome&pbk=38vXocs7hnTyB_rE0rgZue9pTSXXyZXIePoEaEX1GgE&sid=64#🔒 VL-TCP-RLT 🇸🇪 SE-5.42.79.229:47302
-vless://1d392b76-07e0-4490-ac60-4c1efefedff0@45.67.32.147:34500?security=reality&sni=yandex.ru&type=http&path=%2Fdetails&fp=random&pbk=lLLKkcHjHsbdgjmOmJ9tsjh5R0nFEvKI9Ye5Gd9YeD4&sid=2c508a3e#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:34500
-vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?security=reality&sni=*.danishshakeel.me&type=grpc&serviceName=@ipV2Ray&fp=firefox&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&sid=45796768#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.139.192:443
 vless://b0107817-029c-432c-ad4d-bd1e9e1c3471@65.108.58.248:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@VPNwedbaz--@vpnwedbaz&fp=firefox&pbk=RL6RJY-vbjYIUpDulvSJ8LHI9zCsJ0ICWWY5I-coWwE&sid=cac59972#🔒 VL-GRPC-RLT 🇫🇮 FI-65.108.58.248:443
 vless://24595bd0-45b0-4cac-8857-6e70a6cd135d@104.21.7.241:443?security=reality&sni=mihanyas.ir&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray&fp=chrome&pbk=Lp6j3qTZyMyHxLIwQ16jUdis7PX3o44y5p8RE6CRxmA&sid=d7b5ea99#🔒 VL-GRPC-RLT 🏴‍☠️ NA-104.21.7.241:443
 vless://501ad7a2-6387-4c12-b4f2-7803e7ec9974@95.164.68.37:8443?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=UPDaAp6tkfjOWDDIAJXNtNqRRriaSQm_C8mcAQQP8nw&sid=fabb696169ae2a95#🔒 VL-TCP-RLT 🇩🇪 DE-95.164.68.37:8443
@@ -998,3 +995,6 @@ vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.21.59.95:443?security=tls&sni=w
 vless://edffff01-df77-42f3-9d02-359a449ab98e@172.67.135.195:8443?security=tls&sni=off.v2box.lol.&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.135.195:8443
 vless://e0d87846-4659-40b1-bb31-bffefc606062@185.18.250.232:443?security=tls&sni=CeR5Vwj.gsgsgsg.shop&type=httpupgrade&host=CeR5Vwj.gsgsgsg.shop&path=/JfDhd3XZsdZ97Ign&fp=chrome&alpn=http/1.1#🔒 VL-HTTPUPGRADE-TLS 🇨🇭 CH-185.18.250.232:443
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-162.19.228.119:80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@172.67.70.191:8443?security=tls&sni=xin002.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.191:8443
+vless://8952c47b-cf77-49b5-b961-2038596f6b97@85.9.111.69:47068?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.111.69:47068
+vless://e848dbe4-530e-4d33-8802-172bbb721d59@5.182.36.218:8080?security=none&type=tcp#🔒 VL-TCP-NONE 🇨🇭 CH-5.182.36.218:8080
