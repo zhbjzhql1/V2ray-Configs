@@ -1,3 +1,5 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.138:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.138:443
+vless://e7da87c9-4677-4e51-a285-e0decec4b385@104.31.16.65:2053?security=tls&sni=Pm.RxV2ray.space&type=ws&host=Pm.RxV2ray.space&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.65:2053
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@185.165.205.3:443?security=tls&sni=SANdWORM.PAGES.DeV&type=ws&host=SaNdWorM.paGes.DEv&path=/NUx3f5M3thQHsamp&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.165.205.3:443
 vless://4e6965f9-2364-4ef6-98c6-02998a224e32@104.21.86.162:443?security=tls&sni=mon1.api-tel.ir&type=grpc&serviceName=okala.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.86.162:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.22.189:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.22.189:8080
@@ -996,5 +998,3 @@ vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.191.40:2083?security=tls&sni=
 vless://5bdf790f-0af2-4481-a624-41b66e7e3489@188.114.99.99:443?security=tls&sni=cdn.ircp.online&type=ws&host=cdn.ircp.online&path=%2F%40ln2ray%3Fed&fp=firefox&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.99.99:443
 vless://ae53d90e-618d-448a-96c5-66cdb0374077@37.27.26.224:2080?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-37.27.26.224:2080
 vless://4437af3d-9d06-4f36-86c6-bd41638a6657@104.21.77.3:443?security=tls&sni=pPAl03.fredeRIQuE-sTEuBeR.woRkERs.dEV&type=ws&host=PPaL03.FredERIQUE-STeubER.workERS.DeV&path=%2Fs_32l-L18cLsxQMv%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.77.3:443
-vless://932857b6-e094-4a31-ab66-ab45ae9d0d7a@185.148.105.52:2083?security=tls&sni=join20.maznet.cfd&type=ws&host=join20.maznet.cfd&path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:2083
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@165.154.113.120:11451?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇭🇰 HK-165.154.113.120:11451
