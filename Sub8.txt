@@ -1,3 +1,4 @@
+vless://2cb02f6c-b29d-4f57-b347-f81a681d77bc@140.99.233.58:2053?security=tls&sni=v2rayfree1.iraninjas.site&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇩🇪 DE-140.99.233.58:2053
 vless://636b1684-b26c-4a9c-bc6e-8e1197a36d74@104.21.40.164:2086?security=none&type=ws&host=workerr.hashdiler.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.40.164:2086
 vless://5b0b7620-879d-407f-9678-c3eadc7ba7c5@49.13.159.121:80?type=ws&host=vkvd127.mycdn.me#🔒 VL-WS-NA 🇩🇪 DE-49.13.159.121:80
 vless://10716279-b1ee-41d8-b63e-87782088305b@195.85.59.161:443?security=tls&sni=MAMANe-fiLTERChi.pAges.DEv&type=ws&host=MamANe-FILTeRcHi.paGEs.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇾 CY-195.85.59.161:443
@@ -997,4 +998,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.129.52:443?security=tls&sni
 vless://b330823e3b654d2a89fc5a65584614a5@172.67.190.127:80?security=none&type=ws&host=holand-telegram1.1.1.1.shop.ir.com.xn--gmqy8gvtb111b6b123kgm4aq4n.com.&path=%2FSpdnet-TeleGram-ChaNnel-VIP%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.190.127:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.249.58:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.249.58:443
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&sni=w1.sylar8.eu.org&type=ws&host=w1.sylar8.eu.org#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.189.219:443
-vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.30:443?security=tls&sni=sss.propa.website&type=ws&host=propa.website&path=/mhdshws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.30:443
