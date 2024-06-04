@@ -1,3 +1,8 @@
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.93:5500#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.93:5500
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.183:8119#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.183:8119
+ss://ZDZmNzk2MzAtYWE5NC00NTM2LWIyZWYtODk5YjVhY2IzYjQ5Og==@104.16.61.8:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.61.8:8080
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.30.198:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.30.198:80
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989#🔒 SS-TCP-NA 🇩🇰 DK-192.36.27.116:989
 ss://YzNjMjBkYjctZDMyYi00NTRhLTk4NDMtZWMyMmQwNjRhODQyOg==@172.67.196.25:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.196.25:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.51:6697
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2376
@@ -993,8 +998,3 @@ vmess://eyJhZGQiOiAiZnIzLWZ1bGwucHJpdmF0ZWlwLm5ldCIsICJhaWQiOiAiMCIsICJob3N0Ijog
 vmess://eyJhZGQiOiAianAtdjJyYXkuaXByYWNldnBuLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImhvc3QiOiAiIiwgImlkIjogIjNhMGM2YTgxLTIzNmItNGU3My1hYzIyLWE1ODA1NDllZGJmOSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA4MyIsICJwcyI6ICIlRjAlOUYlODclQUYlRjAlOUYlODclQjUlMjBKYXBhbiUyMDAlMjBAVjJyYXlTdG9yZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
 vless://bbaccaa-abca-cbaa-cbda-cabbbacacbca@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-15-KHORDAD-1403 🕑 17:21
-vless://0aec0e6f-5a12-4405-a742-b8e2f26a381f@164.90.162.16:6969?security=reality&sni=cdn.discordapp.com&type=h2&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-H2-RLT 🇩🇪 DE-164.90.162.16:6969
-vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?security=reality&sni=*.danishshakeel.me&type=grpc&serviceName=@ipV2Ray&fp=firefox&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&sid=45796768#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.139.192:443
-vless://9dbd60d1-1cbd-4db1-b7fa-8de75e0cb6bf@103.231.75.235:2087?security=reality&sni=www.cloudflare.com&type=grpc&serviceName=xyz&fp=chrome&pbk=nV4R_i8m6IsyTww44mGkJ4CrlIJYWOi7tqPCX1qr9T8&sid=ddcde71a286c9aaa#🔒 VL-GRPC-RLT 🇹🇷 TR-103.231.75.235:2087
-vless://a2db6566-32c7-4e6e-89d7-b258ff55959f@66.132.161.34:17231?security=reality&flow=xtls-rprx-vision&sni=itunes.apple.com&type=tcp#🔒 VL-TCP-RLT 🇺🇸 US-66.132.161.34:17231
-vless://a62b1ebe-21cc-468f-aa0e-98d212881d33@45.140.167.94:8443?security=reality&sni=104.21.70.42&type=grpc&serviceName=grpc&fp=chrome&pbk=DhQtiEuqmi3N0OAUFncUdSgV0WABfzS2wUHfmy7yViw&sid=4cedd4c199a5b100#🔒 VL-GRPC-RLT 🇬🇧 GB-45.140.167.94:8443
