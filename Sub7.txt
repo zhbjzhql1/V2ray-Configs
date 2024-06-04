@@ -1,7 +1,3 @@
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.74.119:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.74.119:2083
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.157.96:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.157.96:8443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.171.158:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.171.158:80
-vless://439e2f9e-079e-4369-a712-22b942afeadd@172.67.153.28:443?security=tls&sni=download.seyfilm.ir&type=ws&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.28:443
 vless://bb60ea48-70e1-414a-b441-86a5e40686de@193.151.154.243:1106?security=none&type=tcp&host=creativecommons.org&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.151.154.243:1106
 vless://7fdaf33f-00a0-4331-8668-813c7f0f0cb2@49.13.225.84:443?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-49.13.225.84:443
 vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.136.232:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.232:80
@@ -998,3 +994,7 @@ vless://9612358d-f5eb-4c7a-ba0c-638c55d73cdc@104.18.13.149:2052?security=none&ty
 vless://ca9e46f9-6545-47ce-a6f5-66ad998092d0@66.235.200.67:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=%2F&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.67:8443
 vless://a84f9dab-939e-425f-9072-f05027480fe0@104.16.232.20:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.232.20:80
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.228.84.37:443?security=tls&sni=kkul8.azurewebsites.net&type=ws&host=kkul8.azurewebsites.net&path=%2F#🔒 VL-WS-TLS 🇨🇦 CA-52.228.84.37:443
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?security=none&type=ws&path=%2Fhttp#🔒 VL-WS-NONE 🇫🇷 FR-51.75.30.8:80
+vless://d863d446-d17b-4105-b372-dcc53581fb3f@185.83.183.155:42147?security=none&type=tcp&host=amirzaplus.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.83.183.155:42147
+vless://9025aac9-703f-4ba8-9d0e-33986fc375fd@104.16.123.175:8880?security=none&type=ws&host=falcunargo.1035ed931e.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.123.175:8880
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.28.15:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2Ftelegram-proxy_mtm%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.28.15:443
