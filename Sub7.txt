@@ -1,3 +1,8 @@
+vless://23bd42e2-a005-45f8-84ba-342fe317a2ef@152.42.208.82:20603?security=none&type=tcp&host=m.zoom.us&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇸🇬 SG-152.42.208.82:20603
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@151.101.2.219:443?security=tls&sni=sAnDwORm.pAGeS.dEV&type=ws&host=sANdWOrm.paGEs.dev&path=/MkDRgI4CUJpkpgyo&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.2.219:443
+vless://268780bd-fe2c-4a19-a1ad-a16fbabadab2@85.9.103.28:17841?security=none&type=tcp&serviceName=@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,@ViraV2ray,&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.103.28:17841
+vless://ab9d484a-98cd-4032-9931-a015366c41fc@172.67.163.123:80?security=none&type=ws&host=RandomTwo6.9.6.9.ir.shop.com.pvbuy.Ir.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.123:80
+vless://85e83afb-187f-4015-9e55-2cc4f093ee51@162.159.130.234:2095?security=none&type=ws&host=shhi.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.234:2095
 vless://8b19d0e8-7fb6-4000-af96-1319b38e9022@185.146.173.100:8880?security=none&type=ws&host=xn---qhndlayawi--d-9v2rayqtr75q95bklb97ndla44yjnsp99007hkhja.zmv2ray.site.&path=/FreeV2RAYTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_ConfigTEL@Alfred_Config@V2ray#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.100:8880
 vless://1bab0961-b22c-411f-b955-09c4aed2d2c1@23.227.39.158:443?security=tls&sni=fr1.hnkkt.top&type=ws&path=/gsjc/fr1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.158:443
 vless://c57db8e2-555e-4c48-b262-ec20b4ae6a50@172.67.178.69:2083?security=tls&sni=selinc--3--3--3--selinc.eubda.workers.dev&type=ws&host=selinc--3--3--3--selinc.eubda.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.69:2083
@@ -993,8 +998,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.92.67:443?security=tls&sni=m
 vless://ed0dc7de-364f-4228-abf6-b027890bcd93@104.26.11.222:8443?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.222:8443
 vless://dba8f4ae-3b89-457b-b7e8-3361811efca4@94.176.183.6:443?security=tls&sni=vipclassc2.serveminecraft.net&type=ws&host=vipclassc2.serveminecraft.net&path=%2FVIPCLASSC&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇫🇷 FR-94.176.183.6:443
 vless://e6a09d33-2b59-4a34-a720-fa4d5c46dcad@172.67.171.49:443?security=tls&sni=de1.vless.site&type=ws&host=de1.vless.site&path=/vless#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.171.49:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.99.169:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.99.169:80
-vless://01ab9337-f478-4765-9534-88f009f83ddb@8.219.78.188:2053?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-8.219.78.188:2053
-vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@172.67.156.210:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.210:8443
-vless://b76248ca-b5ac-468a-98a0-da27d1ae073d@162.159.1.94:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.1.94:80
-vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.180.238:8443?security=tls&sni=folani.iiipok.WorKERS.dEv&type=ws&host=folani.iiipok.WorKERS.dEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.180.238:8443
