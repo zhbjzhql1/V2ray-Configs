@@ -1,3 +1,4 @@
+vless://bbaccaa-abca-cbaa-cbda-cabbbacacbca@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-15-KHORDAD-1403 🕑 17:21
 vless://0aec0e6f-5a12-4405-a742-b8e2f26a381f@164.90.162.16:6969?security=reality&sni=cdn.discordapp.com&type=h2&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#🔒 VL-H2-RLT 🇩🇪 DE-164.90.162.16:6969
 vless://ac554074-ad55-41c6-9fc1-5af16ace00f1@49.13.139.192:443?security=reality&sni=*.danishshakeel.me&type=grpc&serviceName=@ipV2Ray&fp=firefox&pbk=jSxs7VtFMN2tQOo9dKG63UHNfjqcXt-krPDrEfer1n4&sid=45796768#🔒 VL-GRPC-RLT 🇩🇪 DE-49.13.139.192:443
 vless://9dbd60d1-1cbd-4db1-b7fa-8de75e0cb6bf@103.231.75.235:2087?security=reality&sni=www.cloudflare.com&type=grpc&serviceName=xyz&fp=chrome&pbk=nV4R_i8m6IsyTww44mGkJ4CrlIJYWOi7tqPCX1qr9T8&sid=ddcde71a286c9aaa#🔒 VL-GRPC-RLT 🇹🇷 TR-103.231.75.235:2087
@@ -997,4 +998,3 @@ vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.206.176.5:443?security=tls&sni=d
 vless://43b69ee0-cdac-4ed9-b7c3-45d8c31e3d41@31.47.51.15:2053?security=tls&sni=htevbl.imamhassan.info&type=ws&host=htevbl.imamhassan.info&path=%2FqlJPWkdG5duY1xMy4RvQjdFiL&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-31.47.51.15:2053
 vless://ffb792e9-f974-48f9-9914-4441481b43a3@104.24.196.20:8080?security=none&type=ws&host=fire.abrarvan.xyz&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.196.20:8080
 vless://f0719911-2e64-47bc-ac2c-18f6d3f2eb75@104.23.135.255:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.135.255:8443
-vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.12.82:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.12.82:2087
