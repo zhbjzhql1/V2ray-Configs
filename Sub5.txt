@@ -1,3 +1,4 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@27.50.48.108:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇬 SG-27.50.48.108:443
 vless://77de458b-5d58-4379-927a-7e749b2d17f8@172.67.197.82:443?security=tls&sni=test.gold15.ir&type=grpc&serviceName=fast.com&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.197.82:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.101.156:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.101.156:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.75.172:443?security=tls&sni=zdy332.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.75.172:443
@@ -997,4 +998,3 @@ vless://1148c7b4-4a39-4e31-80a3-dd2dc91e34a5@190.93.246.241:2087?security=tls&sn
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.64.68.137:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=%2Fws%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.68.137:443
 vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.120.213:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.120.213:2087
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.123.233.169:39803?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇷 KR-193.123.233.169:39803
-vless://05ec0064-1013-4c4b-a7d1-0c561c2a232a@188.114.96.81:80?security=none&type=ws&host=V2ray.motorcycles.Elmahstyle.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.81:80
