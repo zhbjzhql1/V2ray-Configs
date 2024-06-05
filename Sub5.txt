@@ -1,5 +1,3 @@
-vless://2f4d8ee0-496e-4107-9dc6-2c31eaf1a2e6@194.247.187.130:22305?security=none&type=tcp#🔒 VL-TCP-NONE 🇩🇪 DE-194.247.187.130:22305
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.12:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.12:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.185.161.168:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-147.185.161.168:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.91.246:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.91.246:443
 vless://61b8beb5-c2f5-4bae-9046-658bd8cba724@104.16.102.112:2087?security=tls&sni=cloud-lb1.cyberscaler.com&type=ws&host=cloud-lb1.cyberscaler.com&path=%2Fqwertu&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.102.112:2087
@@ -998,3 +996,5 @@ vless://a0d40c77-6b7f-4687-83ce-879ebfb3bdab@188.165.24.213:4040?security=none&t
 vless://e35e7272-db34-41ae-baab-e8af09e80d2e@104.17.180.185:2083?security=tls&sni=Coc.unique69.com&type=ws&host=Coc.unique69.com.&path=%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za&fp=firefox#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.180.185:2083
 vless://69256407-66b7-45eb-ad2b-8e879407291f@172.67.73.98:80?type=ws&host=subce.ribiwa9933.workers.dev#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.73.98:80
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@77.37.33.107:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇩🇪 DE-77.37.33.107:8443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.106.116:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.106.116:443
+vless://e42d1e2e-c305-4330-b15c-d48b77d00d37@87.107.164.103:2020?security=none&type=tcp&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-87.107.164.103:2020
