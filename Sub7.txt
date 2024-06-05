@@ -1,4 +1,3 @@
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.11.182:2053?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.11.182:2053
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.11:443?security=tls&sni=whmm.meRlINNz.LiNK&type=ws&host=whmm.meRlINNz.LiNK&path=vless-ws%2F%3Fed&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.0.11:443
 vless://234b7bfa-49d6-436b-fb8b-8805503209a7@188.114.98.224:2053?security=tls&sni=sima.danesh.shop&type=grpc&serviceName=wearestand#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.224:2053
 vless://2f7491f6-c12a-46d4-88fe-79436ed03b44@104.21.19.124:80?type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.19.124:80
@@ -998,3 +997,4 @@ vless://89894929-d005-45a6-92bd-468a8ecad6af@46.102.132.29:32942?security=none&t
 vless://815724d3-0d61-4761-be07-471441d42be5@104.22.33.78:80?security=none&type=ws&host=holland.列列男事的事列上赛男78.shop&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.31.105:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.31.105:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.112.146:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.112.146:80
+vless://ed139c1e-660a-4845-aced-a7069dcb6e7d@190.93.247.130:8443?security=tls&sni=eyd.Saeedgalaxy.xyz&type=ws&host=eyd.saeedgalaxy.xyz&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.247.130:8443
