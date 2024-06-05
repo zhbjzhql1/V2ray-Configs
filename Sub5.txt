@@ -1,4 +1,3 @@
-vless://a8fa7b1c-a5b0-449b-97f6-e86ae43b95bb@172.64.86.128:8080?security=none&type=ws&host=jogol.amvpn.www.speedtest.net.zula.ir.stopsef.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.atkfood.com.&path=%2FAmVpn-AmVpn-AmVpn-AmVpn-AmVpnn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.86.128:8080
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.209:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.209:443
 vless://0a587c9d-41a6-4384-fdd6-e0482dcddffb@159.69.103.16:443?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-159.69.103.16:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@91.149.239.198:443?security=tls&sni=hk313.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.198:443
@@ -998,3 +997,4 @@ vless://53b0dad9-104a-4d39-95d5-8d7124c6541c@104.18.20.135:443?security=tls&sni=
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@121.186.190.151:38106?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-121.186.190.151:38106
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.236.174.206:2053?security=tls&sni=v222.ylkszy.eu.org&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇸🇬 SG-47.236.174.206:2053
 vless://f22918c0-1985-11ee-9bdf-1239d0255272@104.19.155.206:2087?security=tls&sni=us5.socifiles.com&type=grpc&serviceName=vlgrpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.155.206:2087
+vless://9613ffe2-ebb9-461a-a820-a0c4811044f6@104.24.176.7:2087?security=tls&sni=Net.1lagvpn13.cfd&type=grpc&serviceName=@L_AGVPN13&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.176.7:2087

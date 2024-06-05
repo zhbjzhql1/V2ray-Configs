@@ -1,4 +1,3 @@
-vless://9c620d16-004c-423f-a853-e2d97488c326@104.21.58.10:443?security=tls&sni=V.telegramchanneljoinbede.com.&type=grpc&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.58.10:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@198.41.223.60:8080?security=none&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.60:8080
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@108.165.216.4:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.4:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.31.16.6:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.6:8443
@@ -998,3 +997,4 @@ vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@173.245.58.154:2087?security=tls&sn
 vless://f23f2f26-99e5-44bb-bb5b-19de97c1d6d4@104.16.178.157:443?security=tls&sni=free.sw.moh539.link&type=ws&host=free.sw.moh539.link&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.178.157:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.90:443?security=tls&sni=kk005.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.90:443
 vless://bef03301-0488-4ecd-8561-78d95d27ef4e@185.146.173.92:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.92:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.220.203:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.220.203:443

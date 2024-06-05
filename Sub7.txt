@@ -1,4 +1,3 @@
-vless://97492659-ca83-489e-acd5-eeb598b3fc28@104.24.246.154:2083?security=tls&sni=salavati.globalnetchanell.site&type=grpc&serviceName=@global_net_vpn#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.246.154:2083
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@103.232.213.208:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇯🇵 JP-103.232.213.208:443
 vless://8a7ec621-d27b-4e08-9433-f2076b2b63c0@104.18.114.100:8080?security=none&type=ws&host=n1.shirazpc.site&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.114.100:8080
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.121.216:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.121.216:443
@@ -998,3 +997,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:104.22.68.66]:2053?security
 vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.51.20:2083?security=tls&sni=amovpn6.fqservers.com&type=ws&host=amovpn6.fqservers.com&path=/channel:@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP_@VPNAMOHELP&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.20:2083
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@173.245.59.153:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.153:443
 vless://cbc09938-fc18-4a87-aa3e-32c800b3a42c@65.109.242.175:59034?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.242.175:59034
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.104:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.104:443
