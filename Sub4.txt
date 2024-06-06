@@ -1,3 +1,4 @@
+trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
 trojan://f2e3b2f8-f3a7-4218-85f3-1a4842130226@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
@@ -997,4 +998,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.57.159:443?security=tls&sni=
 vless://5a2f17fc-5b8e-4091-8754-6e5783f335c9@104.21.220.87:80?security=none&type=ws&host=bia-to-channel4.unlimiteddev.shop&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.220.87:80
 vless://6dc254fd-c36e-413f-ad4b-39bb76e420ed@66.235.200.107:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.107:8443
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@162.159.195.143:443?security=tls&sni=syq-8y3.pages.dev&type=ws&host=syq-8y3.pages.dev&path=%2F%3Fed%3D2048&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.143:443
-vless://9f3d6a0a-492c-47dc-b2c5-6889eabeb940@104.21.44.86:443?security=tls&sni=vip.alonext.com&type=grpc&serviceName=@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2,@berice_v2&fp=chrome&alpn=h2,http/1.1,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.44.86:443

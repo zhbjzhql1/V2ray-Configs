@@ -1,3 +1,4 @@
+vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.16.0.35:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=TELEGRAM...PROXY_MTM%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.0.35:2052
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.229.249:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.229.249:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@18.216.55.100:443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-18.216.55.100:443
 vless://55341cc4-d38a-42d2-b5a7-61fcc77b56f1@173.245.58.154:2087?security=tls&sni=Tigoo.dignity-19.com&type=grpc&serviceName=Psp&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.154:2087
@@ -997,4 +998,3 @@ vless://934e8a1a-3a81-496e-86cc-bd31b06f03d4@94.182.147.148:80?security=none&typ
 vless://3fefc100-faed-43ad-b087-d47ddfe75121@162.159.48.84:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.48.84:443
 vless://dc00f1f8-05b2-4bc0-b851-d4dfe5089329@172.67.132.72:80?security=none&type=ws&host=workerr.aasihmin.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.72:80
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.15.19:2087?security=tls&sni=MpHnPvWn22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.15.19:2087
-vless://d480372f-6596-4177-ae85-28af07adf1cb@172.67.206.221:2053?security=tls&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&host=selinc--5--selinc--5--selinc.muosqv.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.206.221:2053

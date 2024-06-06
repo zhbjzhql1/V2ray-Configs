@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.225:8119#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.225:8119
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.27.150:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.27.150:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#🔒 SS-TCP-NA 🇦🇹 AT-95.164.9.144:2927
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjMwZGE1NC0zMTdmLTQ3MjYtOThiZC04YmM4ZWM4MTQwYzk=@139.59.119.251:20182#🔒 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20182
@@ -997,4 +998,3 @@ trojan://dff13728-ee03-475b-b6e3-b7c3fa5fa772@au-full.privateip.net:443#%F0%9F%8
 trojan://a102dc28-df1b-42bd-a394-f6c29c3e8586@it-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Trojan%20@V2rayStore
 trojan://c592fc63-624c-4709-94cf-edd80124d318@ua-full.privateip.net:443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Trojan%20@V2rayStore
 trojan://ff254d52-9133-4ac9-ac1a-b7072d76b89f@es-full.privateip.net:443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Trojan%20@V2rayStore
-trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
