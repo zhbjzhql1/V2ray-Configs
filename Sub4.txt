@@ -1,3 +1,6 @@
+trojan://c592fc63-624c-4709-94cf-edd80124d318@ua-full.privateip.net:443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Trojan%20@V2rayStore
+trojan://d0a9ccc6-9ecd-40a3-8833-d2509b2759a8@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://b48b4d1b-9c5a-4c9d-8297-251bae2a23e6@id-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Trojan%20@V2rayStore
 trojan://f2e3b2f8-f3a7-4218-85f3-1a4842130226@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://0d0addf9-8579-445c-b519-00a339a3f0c0@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
@@ -995,6 +998,3 @@ vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.24.0.234:443?security=tls&sni=b
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.125.245:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.125.245:443
 vless://09bc241a-cb13-433d-b33f-bbfe0f874ea1@104.16.79.239:2083?security=tls&sni=443.kasler.lol&type=grpc&serviceName=Google.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.79.239:2083
 vless://2868e726-512b-402f-9678-bb273fda53fa@172.67.132.6:2096?security=tls&sni=channel.v2bamdad.tech&type=grpc&serviceName=BBjszEZzABSQuqxj4FxIzvwxUDoX&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.132.6:2096
-vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev&path=%2FDU-7-v-InqDKABjE%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.253.60:443
-vless://1622d31e-9023-4f1a-b553-9d10d7d2da90@45.94.169.134:443?security=tls&sni=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com&type=ws&host=free-sweden-c8f4261f9f46e6465709e17ebea7a92b.mitowear.com#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.134:443
-vless://ed0dc7de-364f-4228-abf6-b027890bcd93@104.26.11.222:8443?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.11.222:8443
