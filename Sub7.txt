@@ -1,3 +1,5 @@
+vless://10aecf00-ad54-49d5-9643-e356b5a16bab@104.21.20.205:443?security=tls&sni=selinc-selinc-selinc-selinc.kuhkf.workers.dev&type=ws&host=selinc-selinc-selinc-selinc.kuhkf.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=safari&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.205:443
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@141.11.202.17:2083?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F#🔒 VL-WS-TLS 🇫🇷 FR-141.11.202.17:2083
 vless://190f5f47-2009-4284-86f2-191968addef4@185.148.105.52:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D223555&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.52:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.19.8.35:443?security=tls&sni=BiA-paiN-BacHe.PAGeS.DEV&type=ws&host=bIA-PaiN-bacHe.PageS.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.8.35:443
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.252.237:2053?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-47.242.252.237:2053
@@ -996,5 +998,3 @@ vless://7cd1ef99-28ac-4c24-b61a-91eb3dd688b3@173.245.58.100:80?security=none&typ
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.37.198:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.37.198:443
 vless://2391e9b5-f28c-4093-986e-2aff7c332dd4@172.64.86.215:2052?security=none&type=ws&host=nl6.vlessx.us&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.86.215:2052
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.25.39.111:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.39.111:80
-vless://ebd7ac6b-1613-487f-8229-aab5e264352e@172.67.171.50:80?security=none&type=ws&host=Ie2.vless.site.&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.171.50:80
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.32:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.32:8443
