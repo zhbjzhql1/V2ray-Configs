@@ -1,4 +1,3 @@
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.138.117:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.117:443
 vless://4755a271-e240-41aa-b638-5bff727918e3@104.21.96.66:2087?security=tls&sni=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&type=ws&host=selinc---4---selinc---4---selinc---selinc.borywdo.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.66:2087
 vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@104.19.80.93:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.80.93:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.135.9.144:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-185.135.9.144:443
@@ -998,3 +997,4 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.122.244:443?security=tls&sni
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.64:443
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.212.110:2087?security=tls&sni=KxQhHtGc22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.212.110:2087
 vless://9eed4ef6-fd5e-40d5-8f2c-4e90c92011ca@172.67.156.210:8443?security=tls&sni=re1.v2logy.xyz&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.210:8443
+vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.31.16.213:8880?type=ws&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.31.16.213:8880

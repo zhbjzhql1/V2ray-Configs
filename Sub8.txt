@@ -1,4 +1,3 @@
-vless://a73a7c3f-de06-457a-979d-30a7e7a19b0b@172.67.2.238:80?security=none&type=ws&host=worker-flat-block-16c8.academi-vpn-3-13.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.2.238:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.128:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.104.128:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.0.48:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.0.48:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.68:443?security=tls&sni=MAHdIServER-2VR.PAgeS.Dev&type=ws&host=maHdIsErver-2Vr.pAGEs.dEv&path=%2FLP15HLh25g9sf9Pz%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.68:443
@@ -998,3 +997,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@130.250.137.196:2053?security=tls&s
 vless://b04859a9-1156-4d22-8873-60980d5b599d@104.21.72.252:8080?security=none&type=ws&host=connectix.eo-wee3242343-rewre-efwe-f-ewffew-f-ewa-f290fwa-fawfe.online&path=/connectix#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.72.252:8080
 vless://8436d06d-8a2e-4b23-b743-de65b9c6c741@172.67.176.83:443?security=tls&sni=mahdiserver.xidit31510.workers.dev&type=ws&host=mahdiserver.xidit31510.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.176.83:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@91.149.239.62:443?security=tls&sni=kk222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.62:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.138.117:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.138.117:443
