@@ -1,3 +1,4 @@
+vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@185.146.173.58:443?security=tls&sni=bIA-paIn-bacHE.PAGeS.DEv&type=ws&host=bIA-paiN-BaCHE.pAGES.Dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.58:443
 vless://5820fa47-3140-45f8-cdf0-d3e71cfe8cc5@104.24.191.39:2083?security=tls&sni=dev-cloud-srv01.cyberscaler.com&type=ws&host=dev-cloud-srv01.cyberscaler.com&path=/online-store-shoes/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.191.39:2083
 vless://ebf043a0-76f0-4194-a93f-e9c8c10fb662@104.23.99.63:80?security=none&type=ws&host=rayanconf.irayanconfig.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.99.63:80
 vless://5521744a-f20b-407b-87b7-3797b30d3f2c@198.41.217.188:2087?security=tls&sni=frtvd.oxnetirz214.workers.dev&type=ws&host=frtvd.oxnetirz214.workers.dev&path=%2F..............%40Free_V2rng...............%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.217.188:2087
@@ -997,4 +998,3 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.135.62:443?security=tls&sni
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@173.245.49.154:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.49.154:443
 vless://211d102d-3ce7-4041-a7a5-595fed2ec147@172.67.163.116:8443?security=tls&sni=new-fr-cd.shoponetop.com&type=grpc&serviceName=xyz&fp=safari&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.116:8443
 vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?security=tls&sni=ooao14004.74gwenneth.workers.dev&type=ws&host=ooao14004.74gwenneth.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.171:443
-vless://fbc05b63-d4af-4f36-a254-bd97b2723a32@146.75.72.223:443?security=tls&sni=www.python.org&type=ws&host=sepehr-shaparak.ir&path=/telegram%3Djd_vpn?ed%3D1024&fp=firefox&alpn=h3,h2#🔒 VL-WS-TLS 🇬🇧 GB-146.75.72.223:443

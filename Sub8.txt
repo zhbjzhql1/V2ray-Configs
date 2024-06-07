@@ -1,3 +1,4 @@
+vless://fbc05b63-d4af-4f36-a254-bd97b2723a32@146.75.72.223:443?security=tls&sni=www.python.org&type=ws&host=sepehr-shaparak.ir&path=/telegram%3Djd_vpn?ed%3D1024&fp=firefox&alpn=h3,h2#🔒 VL-WS-TLS 🇬🇧 GB-146.75.72.223:443
 vless://a7f152a1-4752-49dd-a0ca-2777ce679a7c@78.109.201.171:22406?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-78.109.201.171:22406
 vless://9fc6bb34-39be-4fcf-9567-9ec74b3a59d9@108.162.193.81:443?security=tls&sni=hpi2sk.a27app.com&type=ws&host=hpi2sk.a27app.com&path=%2Fwss&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.193.81:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@23.227.39.183:443?security=tls&sni=MamAne-FilTErchI.PAGES.DeV&type=ws&host=mAMAne-filtERChI.PAGES.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.183:443
@@ -997,4 +998,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.16.142.237:443?security=tls&sni
 vless://92505265-b1d6-40ac-ad3a-ac031970d5af@104.24.32.188:2087?security=tls&sni=melody.howareu.xyz&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.32.188:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.86.186:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.86.186:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.220.59:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.59:443
-vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.181:443?security=tls&sni=vpnmarket-8bm.pages.dev&type=ws&host=vpnmarket-8bm.pages.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.181:443
