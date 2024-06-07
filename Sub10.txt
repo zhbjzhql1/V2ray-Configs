@@ -1,3 +1,4 @@
+vless://a3e4650e-3e4b-4ba7-9050-262c6b642864@172.67.138.178:443?security=tls&sni=vip2.wagacim920.workers.dev&type=ws&host=vip2.wagacim920.workers.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.178:443
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@188.114.97.46:443?path=@V2rayi_net#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.97.46:443
 vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@104.26.6.149:2053?security=tls&sni=norooz.cconfigv2ray.workers.dev&type=ws&host=norooz.cconfigv2ray.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.6.149:2053
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@65.75.194.18:13888?security=tls&sni=jd.wxgqlfx.top&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-65.75.194.18:13888
@@ -997,4 +998,3 @@ vless://77a571fb-4fd2-4b37-8256-1b7d9728bb5c@104.18.5.250:80?security=none&type=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.236:443?security=tls&sni=JoinMAhDisERvEr-257.PaGes.dev&type=ws&host=JoinMahdiSeRVER-257.PAgeS.Dev&path=%2FLuapdSdUqX5tDzF5%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.236:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.119.73:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.119.73:443
 vless://ead6b74b-c156-5b2d-8f9a-9fc1a83a531e@104.21.93.56:2083?security=tls&sni=web.v2ray-ab-841-vpn.WoRkErS.DEv&type=ws&host=web.v2ray-ab-841-vpn.WoRkErS.DEv&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.93.56:2083
-vless://79a571fb-4fd2-4b87-9876-1b7d9728bb5c@173.245.58.31:8880?security=none&type=ws&path=%2F%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.58.31:8880

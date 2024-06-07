@@ -1,3 +1,4 @@
+vless://c255f68f-18f7-488a-b7fc-06a5676564f0@172.64.138.167:2052?type=ws#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.138.167:2052
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.211.69:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.211.69:443
 vless://33837aa4-a41f-441c-a0d5-fa7a8e18ae40@104.18.41.208:443?security=tls&sni=mshngc1.freeairlaines.com&type=grpc&serviceName=wgTNq5m7eYJmld9KfLxG&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.41.208:443
 vless://c63e032a-6fb9-44a8-c94a-a4d730cd76e4@172.67.156.80:2053?security=tls&sni=xpace-team-mci.eystem.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.156.80:2053
@@ -997,4 +998,3 @@ vless://5cd008f7-4702-4f65-8c2d-67e348731fa4@160.79.104.233:443?security=tls&sni
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@104.21.3.52:443?security=tls&sni=polo.gdorri.info&type=ws&host=polo.gdorri.info&path=/paradise#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.52:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.120.154:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.120.154:443
 vless://4534d7c9-c5dd-490a-9f14-75245f58ae01@51.195.149.115:26475?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-51.195.149.115:26475
-vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.134.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.233:443
