@@ -1,3 +1,4 @@
+vless://9e966c38-3460-40d6-b18f-9a118808de8f@94.242.231.46:80?security=none&type=ws&host=tj.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEONZEDMODEON#🔒 VL-WS-NONE 🇱🇺 LU-94.242.231.46:80
 vless://e767898f-8a74-45ea-e708-9fe4e36957ea@104.17.45.92:80?security=none&type=ws&host=bia-to-channel.unlimiteddev.xyz&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.45.92:80
 vless://d0a66364-bd42-4b04-9ffe-55964043cc32@104.21.52.157:443?security=tls&sni=telegram-vpnhttpinjectorfree-2.elouise.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-2.elouise.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.52.157:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.5.78:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.5.78:443
@@ -997,4 +998,3 @@ vless://69613ff3-a469-4b75-a56e-da64ee0133ff@160.153.0.179:443?security=tls&sni=
 vless://10699622-1b25-499c-a424-58f8f4dfb7f7@104.17.245.203:2083?security=tls&sni=id-falcunargo.sociy12386.workers.dev&type=ws&host=id-falcunargo.sociy12386.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.245.203:2083
 vless://00da9fad-06bc-5430-bb4c-4ae1df09da66@172.67.149.233:2096?security=tls&sni=esetsecuritylicense.lhyuuluu.workErS.DEV&type=ws&host=esetsecuritylicense.lhyuuluu.workErS.DEV&path=vless-ws%2F%3Fed%3D2048&fp=safari&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.149.233:2096
 vless://02610d91-def0-40cf-9f55-bf5620788a7a@172.64.146.80:80?security=none&type=ws&host=xxwhy.xyzggdb.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.146.80:80
-vless://adbb17ae-b8cb-4aee-a890-6329965abcac@104.21.96.84:8443?security=tls&sni=newworkfaridshahrivardo.abza.workers.dev&type=ws&host=newworkfaridshahrivardo.abza.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.84:8443

@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:8881
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.71:3389#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:3389
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.207:5004#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.207:5004
 ss://ODIzYWRhYmUtYTQwNC00NjgzLTk5YmYtOWY0OWUzNmJkMTExOg==@172.67.217.144:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.217.144:443
@@ -997,4 +998,3 @@ vless://7ac33d15-d4a3-4cad-8c83-fe916f0eaf3c@in-full.privateip.net:443?type=tcp&
 vless://124fe4ff-0ee4-4189-bd99-ed1a317b42dd@jp-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://d8d9a946-c231-426a-8170-069cc2f0df2f@fr-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://454f84df-724d-442a-a4a2-698a6d63f946@fr3-full.privateip.net:443?type=tcp&encryption=none&security=xtls&path=%2f&headerType=none&flow=xtls-rprx-direct#%F0%9F%87%AB%F0%9F%87%B7%20France%20Vless%20TCP%20XTLS%20@V2rayStore
-vless://203b1231-e0e2-45a3-9909-d77a5b18ac4a@us-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%200%20@V2rayStore
