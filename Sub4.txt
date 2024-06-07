@@ -1,3 +1,4 @@
+vless://45e7e09e-57ff-497c-aef8-eddb332704e5@ua-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://fa3c063e-a5eb-416b-882b-852d40a3ee09@sg-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://cd37e48f-b356-4bc2-9104-c4ed5b4abe8c@sg3-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20TCP%20XTLS%20@V2rayStore
 vless://0bac1c07-cf4c-4f35-a8d1-1e9b60a68a9e@id-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20TCP%20XTLS%20@V2rayStore
@@ -997,4 +998,3 @@ vless://d136c5a9-b7e8-4221-b5ad-829ea26bff7e@198.244.190.189:2003?security=tls&s
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.113.232:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.113.232:80
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.144.208:2053?security=tls&sni=aut331.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.144.208:2053
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.118.180:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.118.180:8080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.12.31:2087?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.31:2087
