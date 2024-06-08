@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5001
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.108:9101#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.108:9101
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:7002
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.162.200.181:8090#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.181:8090
@@ -997,4 +998,3 @@ ss://aes-256-gcm:bcf83986-6e84-4d96-a6f1-17a388573c70@nl-full.privateip.net:8443
 ss://aes-256-gcm:c0af4960-3a44-4160-bbe9-195aacf74c75@nl2-full.privateip.net:8843#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:57b9499f-d311-4ed6-9e5c-8ab71c3dc8bb@ca-full.privateip.net:8443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:045e3f2f-82fc-499e-9a24-e43c8ab12add@in-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Shadowsocks%20@V2rayStore
-ss://aes-256-gcm:ce1dc98a-b28d-4cd1-8a23-b3b608c17d9f@jp-full.privateip.net:8443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Shadowsocks%20@V2rayStore
