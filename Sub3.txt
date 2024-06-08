@@ -1,5 +1,3 @@
-ss://MThhM2Y0MDQtNTcyYy00ZjlkLWE4N2YtNDMyOWE3YzEzNGExOg==@104.21.78.138:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.78.138:8443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:3389
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRFEyT0dRMA==@95.164.37.226:1443#🔒 SS-TCP-NA 🇬🇧 GB-95.164.37.226:1443
 ss://MDc1YTM2NWItYjBjNy00YmEzLWI1YTYtNTk3ODUwYzIyM2Y5Og==@104.16.3.35:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.3.35:8880
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:3389#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:3389
@@ -998,3 +996,5 @@ ss://aes-256-gcm:81793caf-c81d-4eaf-8e36-0e02240f44f0@de-full.privateip.net:8443
 ss://aes-256-gcm:6154d5bd-e89f-4720-b808-667d2894ff64@de2-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:c37c217a-bed8-4dc5-98c1-041e4c32f628@au-full.privateip.net:8443#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:5b4c746a-f944-4f1e-89ad-8a6992b34dab@it-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:eb9c51f5-52ac-4315-b822-eec1a683572a@ua-full.privateip.net:8443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:386b1330-2feb-4704-b2f0-4fdc9eff2b13@sg-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
