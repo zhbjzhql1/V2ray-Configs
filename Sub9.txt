@@ -1,4 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.210.202.200:34237?security=tls&sni=hk222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-192.210.202.200:34237
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.174.68:443?security=tls&sni=jp070.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.68:443
 vless://af6c7d65-7180-4715-b776-f92c919030d0@103.184.45.141:2096?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇨🇳 CN-103.184.45.141:2096
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.36.1:80?security=none&type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.36.1:80
@@ -998,3 +997,4 @@ vless://5a6555ea-a997-4381-aac7-8a53b6d2f5a5@104.25.5.6:2087?security=tls&sni=su
 vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@172.67.205.72:2053?security=tls&sni=Free.CConfigV2ray.workers.dev&type=ws&host=Free.CConfigV2ray.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.205.72:2053
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:443?security=tls&sni=esetsecuritylicense.ujlqwtae.WOrkeRS.DeV&type=ws&host=esetsecuritylicense.ujlqwtae.WOrkeRS.DeV&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.73.91:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.91:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.65.242:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.65.242:443

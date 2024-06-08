@@ -1,4 +1,3 @@
-vless://39275628-a78c-4f19-ab81-c9424edf2956@104.26.14.85:2096?security=tls&sni=telegram-falcunargo-finlands.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-finlands.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:2096
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.49:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-156.225.72.49:443
 vless://8a7982ff-7696-4f2c-9265-46f6ff45d5f5@104.25.16.194:2083?security=tls&sni=beni.l7933208.workers.dev&type=ws&host=beni.l7933208.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=randomized&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.16.194:2083
 vless://367bdec4-8f79-4d2e-a1db-f97ef265f2af@104.18.14.19:2096?security=tls&sni=dal.zedmodeon-zedmodeon-zedmodeon.shop&type=grpc&serviceName=@ZEDMODEON+@ZEDMODEON+@ZEDMODEON+@ZEDMODEON+@ZEDMODEON&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.14.19:2096
@@ -998,3 +997,4 @@ vless://2a3263e2-891c-4446-b474-a8c63acb6e25@185.146.173.84:2096?security=tls&sn
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.69:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.88.69:443
 vless://cfd0935c-8dda-4243-9622-dc2fe8f868c8@8.222.136.247:2087?security=tls&sni=30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com&type=ws&path=%2Fpasge.pages.dev%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇸🇬 SG-8.222.136.247:2087
 vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@104.21.3.182:443?security=tls&sni=jAVIdshAh.PageS.deV&type=ws&host=JAvIdsHAH.PaGes.DEV&path=%2FpPQqxfK8yz3JBNAb%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.182:443
+vless://7143e704-5957-42db-bd38-670062722461@172.67.217.107:80?security=none&type=ws&host=buyz.ribiwa9933.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.217.107:80
