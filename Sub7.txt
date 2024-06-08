@@ -1,5 +1,3 @@
-vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.16.132.229:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.132.229:2083
-vless://ffea89e6-3d42-4714-90e8-73be6ce45111@172.67.213.159:443?security=tls&sni=vps-aby.pages.dev&type=ws&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.213.159:443
 vless://be8962c2-c299-4b2e-a76d-373ddfd9c886@185.162.231.101:80?security=none&type=ws&host=IRON.man.policeoficer-45.GAMERme.IR#🔒 VL-WS-NONE 🇦🇲 AM-185.162.231.101:80
 vless://98765644-5154-4b79-d694-cad5705bc260@103.184.44.21:443?security=tls&sni=nimkAtV2ray.jonedel.com&type=grpc&serviceName=%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y,%40%41fV2%72%61y&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🇨🇳 CN-103.184.44.21:443
 vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@45.131.211.179:2083?security=tls&sni=t-netplus1.pages.dev&type=ws&host=t-netplus1.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇳🇱 NL-45.131.211.179:2083
@@ -998,3 +996,5 @@ vless://18ed57b6-2765-4cef-a3a3-ec2ab49e0d02@172.66.47.74:443?security=tls&sni=m
 vless://f8ae1d19-44c5-4cc3-ab1c-24e452ed15a0@104.16.61.8:2095?type=ws&host=main-news-day-rubikairanjahan.fars-news.org&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.61.8:2095
 vless://fbd9fcff-de37-4771-a301-4f6619de22cf@185.126.15.60:8097?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.126.15.60:8097
 vless://76241e82-8ded-416a-9d4c-84d5a0989149@172.64.155.189:443?security=tls&sni=pORiyA-warPhIDdify-PANEL.PAGEs.DeV&type=ws&host=pOrIYA-wARphIddiFy-PAnel.paGeS.DEV&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=chrome&alpn=h3#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.155.189:443
+vless://19d5237c-8876-49bb-81d3-7308f9a1d229@104.21.96.11:80?security=none&type=ws&path=%2Fall.V2ray.motorcycles%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.96.11:80
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.16.152.132:443?security=tls&sni=KWOdphURST8jSJGgLs4.goteli.com&type=ws&host=KWOdphURST8jSJGgLs4.goteli.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.152.132:443
