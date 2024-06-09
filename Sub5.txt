@@ -1,6 +1,3 @@
-vless://5e643328-05a4-4e79-a89c-d98e0929113b@185.18.213.153:22242?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.18.213.153:22242
-vless://2375d7bb-64ff-4168-aaf2-851a3223fad1@104.18.32.115:2083?security=tls&sni=cdn.gzwuyxq.WoRkerS.DEv&type=ws&host=cdn.gzwuyxq.WoRkerS.DEv&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.32.115:2083
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?security=tls&sni=always-online1.lp-airdrop.top&type=ws&host=always-online1.lp-airdrop.top#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.80.150:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@61.220.41.143:36633?security=tls&sni=80.qing1.link&type=ws&path=telegram🇨🇳@wangcai_8/?ed#🔒 VL-WS-TLS 🇹🇼 TW-61.220.41.143:36633
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.128.189:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.128.189:80
 vless://ea9148b9-13b7-41cf-8911-94234e7c3fcf@104.21.80.70:80?security=none&type=ws&host=private-codmhttp.teqqlzdw.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.80.70:80
@@ -998,3 +995,6 @@ vless://9f88d7b8-7030-4a9d-a9b6-175bc25b9ae8@104.21.0.244:2052?security=none&typ
 vless://0814dc8c-3cfc-4e06-9561-98d23dd0bf66@104.21.28.94:443?security=tls&sni=nl1-vless.sshmax.xyz&type=ws&host=nl1-vless.sshmax.xyz&path=%2Fvless#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.28.94:443
 vless://4e8aa209-4ee3-4774-8bfc-97f8d8dd8310@204.93.210.23:8080?security=none&type=ws&host=El.V2ray.Community.&path=/Join--ELiV2Ray.El.V2ray.community#🔒 VL-WS-NONE 🇺🇸 US-204.93.210.23:8080
 vless://63e5b2d4-3975-40e7-8c7c-258b3e0cf6b8@172.67.193.36:2053?security=tls&sni=zerma.ir&type=ws&host=zerma.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.36:2053
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.130.59:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.130.59:443
+vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.128.233:80?sni=hello-world-wandering-river-d8eb.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.128.233:80
+vless://7cfb0575-9759-4953-846e-f55127eea2d8@172.67.156.108:2083?security=tls&sni=marketepicnode3.modernstore1.ir&type=ws&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.108:2083
