@@ -1,4 +1,3 @@
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.134.96:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.134.96:443
 vless://95b014e0-3a06-4382-a178-8d52fc89095e@172.67.139.7:80?security=none&type=ws&host=%E6%9D%82%E8%B4%A7%E5%BA%97.%E4%B8%AD%E5%9B%BD%E4%BA%BA.WiN--Win-4Dl.SitE.&path=%2FTelegram--metavpnn------telegram--metavpnn#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.139.7:80
 vless://965d0c88-a91d-4bef-950c-a59649bbfa14@104.19.164.130:8080?security=none&type=ws&host=Coc.unique69.com.&path=%2FHosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.164.130:8080
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.181:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter苏小柠#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.181:8443
@@ -998,3 +997,4 @@ vless://655c5d1c-c1ce-43cc-bcea-1c0f12144b2b@162.159.152.2:80?security=none&type
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.69.144:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.69.144:443
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?security=tls&sni=current.iraniancp.fun&type=ws&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.7:443
 vless://d93708f9-16f1-4623-af52-55ece19f72cc@172.67.204.84:2083?security=tls&sni=frnc.owjkey.com&type=grpc&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.204.84:2083
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.154.92:443?security=tls&sni=KWOdphURST8jSJGgLs4.goteli.com&type=ws&host=KWOdphURST8jSJGgLs4.goteli.com&path=%2F&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.154.92:443
