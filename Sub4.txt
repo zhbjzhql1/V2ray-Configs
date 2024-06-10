@@ -1,5 +1,3 @@
-vless://fa3c063e-a5eb-416b-882b-852d40a3ee09@sg-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
-vless://7d2d2794-ccdd-4333-9e15-8643b93b2a9b@sg2-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Vless%20gRPC%20@V2rayStore
 vless://0bac1c07-cf4c-4f35-a8d1-1e9b60a68a9e@id-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Vless%20gRPC%20@V2rayStore
 vless://08ae7b7c-0527-4dca-b332-9dbff3db1f63@hk-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Vless%20gRPC%20@V2rayStore
 vless://eb0a9882-61ae-40ae-ae5a-b42771fbf65a@nl-full.privateip.net:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=GRPC&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Vless%20gRPC%20@V2rayStore
@@ -998,3 +996,5 @@ vless://815724d3-0d61-4761-be07-471441d42be5@172.67.24.121:80?security=none&type
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.215:2087?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.215:2087
 vless://3573e374-f9b1-4898-de16-3979bc0b528a@104.17.34.51:80?security=none&sni=bia-to-channel.unlimiteddev.xyz&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.34.51:80
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.64.161.105:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.161.105:2053
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.42.35:443?security=tls&sni=zdy009.kpcloud.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.42.35:443
+vless://9f98310e-25c2-4016-9d3c-8adaa8b160dc@104.16.51.20:2087?security=tls&sni=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&type=ws&host=agtw4gmgtuulnbadgfxbsyjtdhsryw4nd.fqservers.com&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.51.20:2087
