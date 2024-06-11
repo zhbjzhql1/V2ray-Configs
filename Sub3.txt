@@ -1,3 +1,9 @@
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.83:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:6697
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#🔒 SS-TCP-NA 🇺🇸 US-184.170.241.194:443
+ss://ZTc5NGRhNDUtMGQ4ZC00YjdhLTlhZTktYjBiODQ1MjhiMzYwOg==@104.21.1.80:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.1.80:443
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#🔒 SS-TCP-NA 🇩🇪 DE-80.92.204.106:9011
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.24.198.161:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.24.198.161:80
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.9:5600#🔒 SS-TCP-NA 🇺🇸 US-38.68.134.9:5600
 ss://ZDZmNzk2MzAtYWE5NC00NTM2LWIyZWYtODk5YjVhY2IzYjQ5Og==@172.67.156.27:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.156.27:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989#🔒 SS-TCP-NA 🇬🇧 GB-77.72.5.113:989
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dHBLdXJiYUNlUklRcGo4bjZnbkRXd0EvRTBPQWRkNWQwWU9uRWlKcWR3TT06U05lNnZqcnhPaWF3MHBiNDJMdTAvZ2lzUmNOakNneFZrOWJnd1l6VDd2Zz0=@51.89.255.72:37105#🔒 SS-TCP-NA 🇬🇧 GB-51.89.255.72:37105
@@ -992,9 +998,3 @@ trojan://299025b9-6b55-430c-be38-9a18c06873ac@91.199.84.122:12034?sni=china3.one
 trojan://NISHIKUITAN222@8.222.193.65:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.193.65:8443
 trojan://telegram-id-privatevpns@18.158.138.156:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-18.158.138.156:22222
 trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@103.93.59.208:443?sni=id2-trojan.bonds.id#🔒 TR-TCP-NA 🇮🇩 ID-103.93.59.208:443
-trojan://NISHIKUITAN222@8.219.174.213:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.174.213:8443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.65:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.65:2087
-trojan://9419d0ab-49dc-4df8-af4f-66290e03b7ec@195.123.213.46:443?#🔒 TR-TCP-NA 🇱🇻 LV-195.123.213.46:443
-trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.136.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.136.232:2083
-trojan://77fd0e60@3.132.130.250:29779?security=tls&sni=proxy.chydao.org#🔒 TR-TCP-TLS 🇺🇸 US-3.132.130.250:29779
-trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.35.43:443
