@@ -1,5 +1,3 @@
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.26.83:2087?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com&path=%2F%3Fed%3D2560#🔒 TR-WS-TLS 🇭🇰 HK-47.243.26.83:2087
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.74:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.74:2053
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.48:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.48:2096
@@ -998,3 +996,5 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.197.40:80?type=ws&host=kr1.1
 vless://0ac87cdb-e122-46c9-f3ce-6a02d5b1678f@88.198.227.132:20569?security=none&type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-88.198.227.132:20569
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.102.179:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.102.179:443
 vless://13be7b64-8a46-4724-9cf2-4c7eddd4c56b@172.67.161.65:2096?security=tls&sni=sPeEd.vbox778.info.&type=grpc&fp=firefox&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.161.65:2096
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@31.43.179.56:443?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.56:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.197.20:2053?security=tls&sni=936a99B4.Vde5-MlX81LANeo.pAgES.dEv&type=ws&host=936a99B4.vDE5-MLx81LANeO.pAgeS.DEV&path=%2FKkhHL0gsSoZ7M6id%2FZGU1Lm1lcmxpbm56Lmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.197.20:2053

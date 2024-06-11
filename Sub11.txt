@@ -1,5 +1,3 @@
-vless://f86853c6-7f3d-4c7b-b15b-df47efad6b9e@104.16.87.49:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.87.49:80
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@193.122.116.52:30864?security=tls&sni=jd.wxgqlfx.top&type=ws&path=/#🔒 VL-WS-TLS 🇰🇷 KR-193.122.116.52:30864
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.20.19.168:2083?security=tls&sni=d98e9516-7437-11ee-baef-325096b39f47.granzinhannah.workers.dev&type=ws&host=chichi-koko.granzinhannah.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@104.18.93.17:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=TG@ZDYZ2&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.93.17:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.242:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.242:443
@@ -998,3 +996,5 @@ vless://283193ae-aa30-4e5c-a1a4-fb0841a8dd2c@103.35.189.42:8443?security=reality
 vless://85399fea-2ee3-51b5-ad4e-d8b78a2cf1d9@49.13.57.113:443?security=reality&flow=xtls-rprx-vision-udp443&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&sid=ce#🔒 VL-TCP-RLT 🇩🇪 DE-49.13.57.113:443
 vless://7e504619-7b50-4a54-ba09-49f4054e783a@109.120.177.89:8443?security=reality&sni=cdn.discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-TCP-RLT 🇩🇪 DE-109.120.177.89:8443
 vless://efc181db-a332-4d0d-a6b6-9e28a775ae57@104.168.107.230:9633?security=reality&flow=xtls-rprx-vision&sni=fr.4cdn.de&type=tcp&fp=chrome&pbk=o5EfgcN8py69lS0Mesu8y_AO7a9agnwiGTfq6-nQUzE&sid=c9c2b90f0318d517#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:9633
+vless://501ad7a2-6387-4c12-b4f2-7803e7ec9974@95.164.68.37:8443?security=reality&flow=xtls-rprx-vision&sni=104.21.70.42&type=tcp&fp=chrome&pbk=UPDaAp6tkfjOWDDIAJXNtNqRRriaSQm_C8mcAQQP8nw&sid=fabb696169ae2a95#🔒 VL-TCP-RLT 🇩🇪 DE-95.164.68.37:8443
+vless://b4680b33-f177-4c35-9d1f-a96c562fd2fa@45.92.93.219:8080?security=reality&flow=xtls-rprx-vision&sni=gsmarena.com&type=tcp&fp=chrome&pbk=4UUqatKT6Y6VPHmFztWllPedoUDUi-6gx-DSYpGJsUs&sid=33a637f2#🔒 VL-TCP-RLT 🇮🇷 IR-45.92.93.219:8080
