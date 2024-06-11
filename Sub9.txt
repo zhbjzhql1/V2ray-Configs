@@ -1,3 +1,5 @@
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.73.91:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.91:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.179:443?security=tls&sni=hk005.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.179:443
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@45.131.208.186:443?security=tls&sni=e10c0e4b.oodaeq2.pages.dev&type=ws&host=e10c0e4b.oodaeq2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇳🇱 NL-45.131.208.186:443
 vless://a6486f98-817a-4b46-8add-ca60a0f39367@85.9.115.141:20053?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-85.9.115.141:20053
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.218.155.238:2087?security=tls&sni=jd.wxgqlfx.top&type=ws&path=%2F%3Fed&fp=random#🔒 VL-WS-TLS 🇭🇰 HK-8.218.155.238:2087
@@ -996,5 +998,3 @@ vless://95faeb0c-2eaf-4a76-9a30-0db9efd9ab51@172.67.146.84:8880?security=none&ty
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.191.245:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.191.245:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.8.156:443?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.156:443
 vless://f971c939-32e0-40ca-b4d9-f444fddb45f2@172.66.45.35:443?security=tls&sni=9a6d6fd5.joinmahdiserver-an3.pages.dev&type=ws&host=9a6d6fd5.joinmahdiserver-an3.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.35:443
-vless://f91f38bb-72d5-4f3e-8311-1788986293f5@104.21.233.140:2083?security=tls&sni=iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vpn_iran_mehr_vvpn.iran-mehr14.ir&type=grpc&serviceName=hZR7v7IETyKFQzVYsTfLJX3ihXJUp&fp=randomized&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.233.140:2083
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.27.94:2053?security=tls&sni=jp800.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.27.94:2053
