@@ -1,3 +1,6 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:8888#🔒 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8888
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.225:7307#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7307
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.176:8118#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.176:8118
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.44.123:443#🔒 SS-TCP-NA 🇯🇵 JP-3.112.44.123:443
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8080
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.225:8000#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8000
@@ -995,6 +998,3 @@ trojan://auto@172.64.153.235:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&
 trojan://0cc6b4268dea0ba8@5.44.249.53:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=%2Fgateway%2Fconnect#🔒 TR-WS-TLS 🇸🇬 SG-5.44.249.53:3306
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.2:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.2:443
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.243.14:2083?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-47.243.243.14:2083
-trojan://NISHIKUITAN222@8.222.165.117:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.222.165.117:8443
-trojan://NISHIKUITAN222@8.222.134.170:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.134.170:8443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91&fp=chrome&alpn=h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.152.2:443
