@@ -1,3 +1,4 @@
+vless://9e248b4e-2ee5-4e68-a164-633c408c118f@104.16.119.47:443?security=tls&sni=mci.eidafemini.monster&type=ws&host=mci.eidafemini.monster&path=/G296AyPNm3AYwsQVGSKX&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.119.47:443
 vless://84ddd05a-0e2a-4b7e-a0d2-f214bff4243b@185.53.142.132:443?security=tls&sni=xn--mgbUg7c2aM63g.jObfineX.ir.&type=grpc#🔒 VL-GRPC-TLS 🇮🇷 IR-185.53.142.132:443
 vless://cc771b27-27ad-4bf3-bc42-f42cd673edbe@172.66.44.194:443?security=tls&sni=telegram-chanel-ab-841-vpns.pages.dev&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.194:443
 vless://312b0699-a47a-496e-97b6-cb3af1654d35@104.26.2.36:8880?security=none&type=ws&host=918.hebav63406.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.2.36:8880
@@ -997,4 +998,3 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.161.145:80?type=ws&host=us3.
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.4.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.189:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.66.214.220:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.214.220:80
 vless://95b014e0-3a06-4382-a178-8d52fc89095e@172.66.174.202:80?security=none&type=ws&host=%E6%9D%82%E8%B4%A7%E5%BA%97.%E4%B8%AD%E5%9B%BD%E4%BA%BA.WiN--Win-4Dl.SitE.&path=%2FTelegram--metavpnn------telegram--metavpnn#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.174.202:80
-vless://6eccc692-3876-41a8-cfb9-65da484f097e@5.101.222.14:80?security=none&type=ws&host=dlrozaneh.ir.#🔒 VL-WS-NONE 🇨🇦 CA-5.101.222.14:80

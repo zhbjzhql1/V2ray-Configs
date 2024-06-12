@@ -1,3 +1,4 @@
+vless://06d9503e-6b12-4abb-90cd-7eb0ce58180f@104.24.72.1:443?security=tls&sni=telegram-falcunargo.yabado5043.workers.dev&type=ws&host=telegram-falcunargo.yabado5043.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.72.1:443
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.3.11:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.3.11:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.22.6.4:443?security=tls&sni=hEy.baCHebiAPaIN.IR&type=ws&host=Hey.BaCHebIapAIN.ir&path=%2FBOVAOuZN94fWtcbi%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.6.4:443
 vless://3e482ea1-3610-4281-b7f0-6020e57806de@172.67.81.238:2096?security=tls&sni=wwwwancloudfawanvfrtg-tyuioty-turkiop.ecloudfa.ir&type=ws&host=wancloud-turkiop.ecloudfa.ir&path=%2Fudf58745&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.81.238:2096
@@ -997,4 +998,3 @@ vless://7d9eb9c1-52f0-4c0f-ba58-27be0aec0a27@104.21.15.118:2053?security=tls&sni
 vless://4c03d139-631b-41dd-be68-933c3df0d7c2@162.159.9.55:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.9.55:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.15.212:8443?security=tls&sni=jp111.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.15.212:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.95.207:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.95.207:80
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.232.80:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.232.80:443

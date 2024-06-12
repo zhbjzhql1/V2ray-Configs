@@ -1,3 +1,4 @@
+vless://1dbe32b7-708f-4e88-8785-3400fcc7e071@172.64.150.28:2096?security=tls&sni=telegram-id-vpn-ocean.telegram-id-vpn-ocean-3.workers.dev&type=ws&host=telegram-id-vpn-ocean.telegram-id-vpn-ocean-3.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.150.28:2096
 vless://9af28087-87e6-44ae-a6e0-51852ecab457@172.67.192.204:8443?security=tls&sni=store.mtahaa.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.192.204:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.206.92:2087?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.27.206.92:2087
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.92.67:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.92.67:443
@@ -997,4 +998,3 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@104.21.3.52:443?security=tls&sni=ho
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@172.67.217.144:443?security=tls&sni=tESt-tEst-TesT-Test.paGEs.DEV&type=ws&host=TEsT-teSt-test-Test.pAgES.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.217.144:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.103.32:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.103.32:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.84:2087?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.84:2087
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.236.169.15:2053?security=tls&sni=aut306.ylks.link&type=ws&path=/?ed#🔒 VL-WS-TLS 🇸🇬 SG-47.236.169.15:2053
