@@ -1,6 +1,3 @@
-trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
-trojan://EgAMtxAquaO78-IvTSWpnQ@104.25.8.217:2096?security=tls&sni=mrz.learnturkishspeech.fun&type=ws&host=mrz.learnturkishspeech.fun&path=/book#🔒 TR-WS-TLS 🏴‍☠️ NA-104.25.8.217:2096
-trojan://8127b541-aa5d-4340-a945-df42d75b860c@95.164.117.128:443?security=tls&sni=de2-full.privateip.net#🔒 TR-TCP-TLS 🇩🇪 DE-95.164.117.128:443
 trojan://moist@8.219.126.240:2096?sni=trojan.freenods.sbs&allowInsecure=0#🔒 TR-TCP-NA 🇸🇬 SG-8.219.126.240:2096
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.57.168:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.57.168:443
 trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.49.215:443
@@ -998,3 +995,6 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.23.164:443?security=tls&sni=
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@60.246.180.236:32544?security=tls&sni=tg.dns68.cloudns.nz&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇲🇴 MO-60.246.180.236:32544
 vless://e6a09d33-2b59-4a34-a720-fa4d5c46dcad@104.21.25.31:80?security=none&type=ws&host=De1.vless.site.&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.25.31:80
 vless://10716279-b1ee-41d8-b63e-87782088305b@185.148.105.23:443?security=tls&sni=MaManE-fILtERcHi.PAGes.DEV&type=ws&path=/#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.23:443
+vless://25d0ee2d-4190-52be-b892-45811c6ba210@172.67.146.69:2083?security=tls&sni=folani.iiipok.wOrKeRs.DEV&type=ws&host=folani.iiipok.wOrKeRs.DEV&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.146.69:2083
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.42.139:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.42.139:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.120.65:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.120.65:443
