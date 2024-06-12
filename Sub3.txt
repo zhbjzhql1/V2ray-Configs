@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.208:7002#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.208:7002
 ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@172.67.47.220:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.47.220:2053
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.183:9090#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.183:9090
 ss://NTE4NGI4N2MtODUzNy00MWQ2LWJlNTQtNTAyN2M4NDMyZDUwOg==@172.67.185.196:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.185.196:443
@@ -997,4 +998,3 @@ trojan://NISHIKUITAN222@8.219.114.201:8443?security=tls&sni=t010.ylks.link&type=
 trojan://NISHIKUITAN222@47.236.117.48:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.236.117.48:8443
 trojan://telegram-id-directvpn@35.182.199.106:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-35.182.199.106:22222
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.57.168:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.57.168:443
-trojan://NISHIKUITAN222@47.237.14.220:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.237.14.220:8443
