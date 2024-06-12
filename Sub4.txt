@@ -1,3 +1,10 @@
+trojan://IOZyY95xp2aeTxSgBD8pRz7lXgBD8pRz7lXaE4ZCjF3D86SnFelCqCS3uNw3KA6SnFelC@13.125.71.237:443?security=tls&sni=prispy.koreanbbq.link#🔒 TR-TCP-TLS 🇰🇷 KR-13.125.71.237:443
+trojan://telegram-id-privatevpns@13.50.203.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇸🇪 SE-13.50.203.187:22222
+trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.233.225:443?security=tls&sni=dl.allavatar.top&type=ws&host=dl.allavatar.top&path=/tr/t/tNtL/gfdr#🔒 TR-WS-TLS 🇮🇷 IR-185.143.233.225:443
+trojan://wkmY1R4EcP@66.42.84.121:443?security=tls&sni=z-v2-002797.kailib.com&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-66.42.84.121:443
+trojan://moist@60.248.63.88:12031?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-TLS 🇹🇼 TW-60.248.63.88:12031
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.245:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.245:2096
+trojan://1ZTbMoSRnm@188.42.89.174:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc&serviceName=/Telegram:@MikasaVPN&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-GRPC-TLS 🇱🇺 LU-188.42.89.174:2083
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.109:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.109:8443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.115:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.115:2096
 trojan://dQDQCtns4R@162.159.138.232:443?security=tls&sni=fadaei.movieland.top&type=ws&host=fadaei.movieland.top&path=static34528#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.138.232:443
@@ -991,10 +998,3 @@ vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?security=tls&sni=
 vless://f922a88b-d4f5-4371-924e-c0335c990569@173.245.58.31:2087?security=tls&sni=ConneCtion-Ir-021.digiv2ray1.store&type=ws&host=ConneCtion-Ir-021.digiv2ray1.store&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.31:2087
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.220.242:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.220.242:443
 vless://70f3c406-63b9-4ca9-b741-8b0c6acaa4bd@190.93.246.217:2087?security=tls&sni=de17.vlessx.us&type=ws&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.246.217:2087
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.247.142.245:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F#🔒 VL-WS-TLS 🇬🇧 GB-94.247.142.245:8443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.252.184:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.252.184:443
-vless://3cdbc462-6272-4c2a-9a2d-1525a81c7dfa@172.67.217.57:80?security=none&type=ws&host=xeeqi.kevani8800.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.217.57:80
-vless://a75cb418-c1d6-476a-9464-ad1bd5181e3c@162.159.136.234:8080?security=none&type=ws&host=de.vpncustomize.Website&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.136.234:8080
-vless://62549e93-b73c-4298-b457-524fc0a09173@172.67.142.14:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.142.14:80
-vless://6ac90b73-0aa5-4145-b2d7-246c94a8f389@172.67.242.38:8443?security=tls&sni=germanfollower.uspro.ir&type=grpc&serviceName=abc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.242.38:8443
-vless://d0e0f8f3-f863-4cc4-895f-bc8ca71a51c8@104.19.247.91:8443?security=tls&sni=pardazeshvpn-tg51.pages.dev&type=ws&host=pardazeshvpn-tg51.pages.dev&path=%2FTelegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN-Telegram%3A%40PARDAZESHVPN%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.247.91:8443
