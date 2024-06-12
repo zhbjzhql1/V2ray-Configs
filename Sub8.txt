@@ -1,3 +1,5 @@
+vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.21.62.144:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.62.144:2083
+vless://ab9d484a-98cd-4032-9931-a015366c41fc@172.67.163.123:80?security=none&type=ws&host=Random1Two6.9.6.9.ir.shop.com.pvbuy.Ir.&path=%2FVpnBigBang-Speed.ir.shop.com%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.163.123:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.3.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FhmBvkyQIpkFvHI5p%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.3.189:443
 vless://6f995056-7802-4a1d-bff7-61678e626c3f@13.67.9.5:443?security=tls&sni=werrr.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇸🇬 SG-13.67.9.5:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.165.232:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.165.232:443
@@ -996,5 +998,3 @@ vless://7f64eeb1-b5f1-40a0-d80e-e6c718f6bd6a@203.32.121.53:2096?security=tls&sni
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@162.159.128.171:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.128.171:443
 vless://4fdff01f-936b-4eb0-85fb-efd832b823f2@104.23.107.241:2082?security=none&type=ws&host=amt53bf2yg-germany18.f-vipa.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.23.107.241:2082
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.222.208.38:443?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org#🔒 VL-WS-TLS 🇸🇬 SG-8.222.208.38:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.179.37:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.179.37:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.69.44:443
