@@ -1,3 +1,5 @@
+vless://5bdf790f-0af2-4481-a624-41b66e7e3489@104.26.12.54:443?security=tls&sni=cdn.ircp.online&type=ws&host=cdn.ircp.online&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.12.54:443
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@154.197.121.13:8443?security=tls&sni=mositr.freenods.sbs&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇸🇨 SC-154.197.121.13:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.151.244:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.151.244:80
 vless://8e62ae0c-efee-4a80-905c-fc06c768ff2a@188.114.97.167:2087?security=tls&sni=de2ocean.mohamadphp.ir&type=ws&host=de2ocean.mohamadphp.ir&path=%2Fvless&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.167:2087
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.64.197.116:8080?security=none&sni=king1980.b91sptsl.workers.dev&type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.64.197.116:8080
@@ -996,5 +998,3 @@ vless://290cba8a-4eb3-4c8e-80e9-25f1e1438992@104.21.12.150:80?security=none&type
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.214.13:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.214.13:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.20.135:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.20.135:443
 vless://52de3fa6-1673-4918-a90d-21d2b69de98e@172.64.172.28:443?security=tls&sni=eb8c0c64.888766.pages.dev&type=ws&host=eb8c0c64.888766.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.172.28:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.110.200:2053?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.200:2053
-vless://881296c5-a05e-4178-b236-79794b7c4d2d@198.41.221.63:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.63:80
