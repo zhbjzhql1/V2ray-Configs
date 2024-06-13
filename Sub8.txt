@@ -1,4 +1,3 @@
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.163.15:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.163.15:80
 vless://8a89b27d-2564-4938-a9db-42e87c8ed0d9@104.18.22.185:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.ir.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.22.185:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.4.57:8443?security=tls&sni=zdy010.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.57:8443
 vless://f7212bbe-86e7-4129-854c-55d990e498dc@104.21.69.44:2087?security=tls&sni=gh.st1lol.ir&type=ws&host=gh.st1lol.ir&path=/Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2087
@@ -998,3 +997,4 @@ vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.66.216.0:2053?security=tls&sni=
 vless://8e8d8ae1-aa47-4ce1-a516-0a28b6f9a814@147.78.140.39:2087?security=tls&sni=Join-Channe1-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.39:2087
 vless://9b524948-1212-4f43-8b5d-9c5ebcc8ea6c@172.67.148.32:2087?security=tls&sni=devil.xuii.sbs&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.148.32:2087
 vless://d0a907a2-a5d7-418f-a6ac-08fe5e3199c7@104.21.76.252:2053?security=tls&sni=rpn.jerkinhead.ir&type=ws&host=rpn.jerkinhead.ir&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.76.252:2053
+vless://62549e93-b73c-4298-b457-524fc0a09173@172.67.142.14:80?security=none&type=ws&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.142.14:80

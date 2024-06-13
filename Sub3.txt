@@ -1,4 +1,3 @@
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:6679
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.225:7001#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:7001
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.65:443#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.65:443
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.87:6697#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:6697
@@ -998,3 +997,4 @@ trojan://cdb51593-d993-418b-bc2d-c405ebb6ba35@172.104.184.110:443?security=tls&s
 trojan://ac92cc40-17de-11ef-8e1b-1239d0255272@51.38.65.155:443?security=tls&sni=chatbuzzteambhm.chatbuzzt7150.workers.dev&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-51.38.65.155:443
 trojan://2cba4104747d49d18319e5ade1b93ab5@[::ffff:c629:dc0a]:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-[::ffff:c629:dc0a]:443
 trojan://a36dfa0e-5a34-4e77-8513-87350f38e0a6@104.16.35.148:443?security=tls&sni=lmtsg3.cfyun01.sbs&type=ws&host=lmtsg3.cfyun01.sbs&path=/CFYUN#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.35.148:443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.78:2053
