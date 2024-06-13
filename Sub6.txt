@@ -1,4 +1,3 @@
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.85.220:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.85.220:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.45.38:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.45.38:443
 vless://319d602e-6e67-49e4-a608-3ac665cd402c@173.245.58.202:2096?security=tls&sni=arsurf.arkarain-co.WorKeRS.Dev&type=ws&host=arsurf.arkarain-co.WorKeRS.Dev&path=vless-ws%2F%3Fed%3D2048&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.58.202:2096
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.138.48:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.138.48:80
@@ -998,3 +997,4 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@198.41.220.46:443?security=tls&sni=
 vless://b698d363-fc2f-4cf3-bb24-9edca375b34b@104.21.34.60:443?security=tls&sni=irnv2ray.irnv2ray.workers.dev&type=ws&host=irnv2ray.irnv2ray.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.34.60:443
 vless://df872d7e-7f96-4cd3-9ed1-d1bc8ebdf420@45.131.4.161:8080?security=none&type=ws&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.DAILYCONFIGS.vigilantecollection.com.&path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs#🔒 VL-WS-NONE 🇳🇱 NL-45.131.4.161:8080
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.172.39:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.172.39:443
+vless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@172.67.66.177:443?security=tls&sni=4sat.shop&type=ws&host=public.4sat.shop&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.66.177:443
