@@ -1,6 +1,3 @@
-vless://1aa3ba95-18d7-4af5-a7be-f43af27a923b@104.25.246.244:80?security=none&type=ws&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.246.244:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.21.80.85:8443?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.85:8443
-vless://4f553bcd-4871-4a63-a7a2-adc5bca9d5be@104.21.7.40:2052?security=none&type=ws&host=406e51065f80f2c5.cDn.V2ray.SarBazit.cOm&path=%2Fdashboard%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.7.40:2052
 vless://51905fd3-29de-4b4e-b351-83542f1d5390@104.22.33.78:443?security=tls&sni=Bia.alLhub.Ltd&type=ws&host=Bia.alLhub.Ltd#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.33.78:443
 vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.0.31:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.0.31:2083
 vless://ecd404a2-70b2-4e89-8339-89536cdfae52@198.41.223.86:8080?security=none&type=ws&path=/?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.223.86:8080
@@ -998,3 +995,6 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.227:80?type=ws&host=kr1.
 vless://cb569c4e-8e0b-4aca-ab7b-3a3e943ad1f1@185.146.173.94:8443?security=tls&sni=sPeeDseCurIty.shOkoliW.top.&type=ws&host=sPeeDseCurIty.shOkoliW.top.&path=%2Fspeed&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.94:8443
 vless://5dc23bba-0e31-4016-895f-517ce4b7ccc0@104.16.68.38:8443?security=tls&sni=vless-sub.n7p8ri7j.workers.dev&type=ws&host=vless-sub.n7p8ri7j.workers.dev&path=%2Fglassiest.toptechnonews.com%2Fnimws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.38:8443
 vless://008729f5-a4a6-40d3-ae71-9cf11f556541@104.21.13.204:2087?security=tls&sni=mr-1.webdewsee.com&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.13.204:2087
+vless://8b1699ab-e941-49d1-8538-9152aa87b803@185.146.173.94:80?security=none&type=ws&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.plakrovel.melocvo.zmaxer.ghjppcz12.maxervaxfood.com.&path=%2FAmVpn-AmVpn-AmVpn-AmVpn-AmVpnn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn-AmVpn%3Fed%3D8080#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.94:80
+vless://dfd87a9f-98db-46ff-b483-301897411931@104.19.140.4:2087?security=tls&sni=virapn-t-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=firefox#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.140.4:2087
+vless://97d9db8c-5756-4e2f-8462-8ede639c0a1f@185.237.13.191:8880?security=none&type=tcp#🔒 VL-TCP-NONE 🇬🇧 GB-185.237.13.191:8880
