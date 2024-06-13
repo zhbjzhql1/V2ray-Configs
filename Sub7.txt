@@ -1,3 +1,6 @@
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?security=tls&sni=bypassfilter.cmyyvat.workers.dev&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F@bypass_filter%2F%3Fed%3D100#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.39:443
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.99.113:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.99.113:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.135.172:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.135.172:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.87.218:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.87.218:443
 vless://82f69a1d-168b-41b1-994a-1e634b9338a9@104.21.48.29:443?security=tls&sni=frEe4AlL.KosnaNaTFIlterCHi.eu.Org&type=ws&host=fREe4aLl.KOSNaNatFilterCHI.Eu.ORG&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.48.29:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.150.143:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.150.143:80
@@ -995,6 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.35:443?security=tls&sni
 vless://6df35166-d850-40ad-8a8f-603463e966fe@146.75.69.57:443?security=tls&sni=fastly.com&type=ws&host=pardazeshvpn.tg1.com&path=%2Fvless#🔒 VL-WS-TLS 🇮🇩 ID-146.75.69.57:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.87.1:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.87.1:443
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@31.43.179.106:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.106:443
-vless://da85c46c-849c-48ca-8212-af39cc4720a0@172.67.73.163:80?security=none&type=ws&host=PanelDghSGdgh54.com.net.ir.bargo.lol.&path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BA#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.73.163:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.212.107.200:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.212.107.200:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.187.58:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.187.58:80

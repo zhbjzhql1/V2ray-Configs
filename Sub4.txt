@@ -1,3 +1,6 @@
+trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.175.33.117:443?#🔒 TR-TCP-NA 🇭🇰 HK-52.175.33.117:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@104.17.61.5:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.5:443
+trojan://ca6fc79c-1274-4db0-9f57-a68962902f4b@51.75.77.237:443?security=tls&sni=de-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇩🇪 DE-51.75.77.237:443
 trojan://9e1be001-0c89-4be0-888a-7648967e8df9@172.233.245.20:443?#🔒 TR-TCP-NA 🇫🇷 FR-172.233.245.20:443
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.2:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.171.2:443
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@43.248.119.220:46002?type=tcp&allowInsecure=1#🔒 TR-TCP-NA 🇨🇳 CN-43.248.119.220:46002
@@ -995,6 +998,3 @@ vless://ef7c0527-cd69-482f-9336-134f6044d312@190.93.245.137:8443?security=tls&sn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.20:443?security=tls&sni=JoinMAhDisERvEr-257.PaGes.dev&type=ws&host=JoinMahdiSeRVER-257.PAgeS.Dev&path=%2FLuapdSdUqX5tDzF5%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.20:443
 vless://f0604697-d602-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=/websocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
 vless://5acac5de-39fc-4e05-a888-04aede70d18e@104.31.16.136:443?security=tls&sni=7Fe600D3b53c4bb9de9C863cad96d1.nv2ROn.ir&type=ws&host=7fe600d3b53c4bb9de9c863cad96d1.nv2ron.ir&path=%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%40Qv2raychannel%2F%3Fed%3D223555&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.136:443
-vless://7df71ea7-ad2f-48d1-ae7c-4429ee780537@104.18.229.191:2096?security=tls&sni=academivpn1.academi-vpn-4f8.workers.dev&type=ws&host=academivpn1.academi-vpn-4f8.workers.dev&path=%2F%3Fed%3D2560+%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn%40Academi_vpn&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.229.191:2096
-vless://af309ad2-c943-48ea-b570-2e51a2f079d9@172.67.192.224:80?security=none&type=ws&path=/DSDaswd22!11*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.192.224:80
-vless://4c03d139-631b-41dd-be68-933c3df0d7c2@108.162.192.100:443?security=tls&sni=qifei2024.dns.army&type=ws&host=qifei2024.dns.army#🔒 VL-WS-TLS 🏴‍☠️ NA-108.162.192.100:443
