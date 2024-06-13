@@ -1,5 +1,3 @@
-trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&sni=royalshop.tech&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-185.91.69.39:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.179:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.179:2083
 trojan://984e400bf5d541b7b0815913fe0c432a@104.16.159.5:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.5:443
 trojan://telegram-id-directvpn@18.202.161.237:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-18.202.161.237:22222
 trojan://6a5d8ead-477a-4bc8-99ce-d9532a3ec5f1@139.162.35.118:443?#🔒 TR-TCP-NA 🇸🇬 SG-139.162.35.118:443
@@ -998,3 +996,5 @@ vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.67.170.93:443?security=tls&sni=
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@172.67.191.101:443?security=tls&sni=test20.pages.dev&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.191.101:443
 vless://d9f3966e-0821-407a-9e70-25c37cc3fd7a@172.66.213.5:8443?security=tls&sni=unlimiteddev.xn--9iqr0tm1r4wg.co&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co&path=%2F%3FTelegram%3A%40FreeVirGoolNet#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.213.5:8443
 vless://9f09dc7b-ab90-4669-80b7-acebfc4b37e9@172.67.212.189:80?security=none&type=ws&host=worker-falling-mud-ab97.msv2ray.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.212.189:80
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.97.56:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.97.56:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.215:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.215:80

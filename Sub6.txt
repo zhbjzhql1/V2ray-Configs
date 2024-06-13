@@ -1,5 +1,3 @@
-vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?security=none&type=ws&host=nl54.vlessx.us#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.132.41:2095
-vless://f46db69f-0f9b-4179-a603-1b52063aa754@104.18.195.68:8080?type=ws&host=join-to.vmessorg.Community.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.195.68:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.5.237:2087?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.5.237:2087
 vless://d30e0aff-bb58-4e58-a208-c044f968fd2f@172.66.46.223:443?security=tls&sni=telegram-vpnhttpinjectorfree-4.pages.dev&type=ws&host=telegram-vpnhttpinjectorfree-4.pages.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.223:443
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.168:80?security=none&type=ws&host=dhdjd79b.%E8%A1%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%9116.tech&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.168:80
@@ -998,3 +996,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.187:443?security=tls&sni=
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.110:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.110:80
 vless://067f668b-d8fa-4779-9955-8f0144905497@104.21.104.196:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.104.196:80
 vless://276d0443-9094-441b-ac9f-5662e4d9f114@104.22.13.192:2082?security=none&type=ws&host=SvnProBotV2rayGmOne6.9.6.9.ir.shop.com.hamidmoney.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.13.192:2082
+vless://02e75d78-58ad-4a73-afca-24b781d8fdfc@104.24.85.15:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.85.15:8443
+vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.40.183:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.40.183:443
