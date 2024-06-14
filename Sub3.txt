@@ -1,3 +1,4 @@
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.12.209:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.12.209:80
 ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.136.208:8443
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.154.136.176:7307#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.176:7307
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:40030#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:40030
@@ -997,4 +998,3 @@ trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@74.63.241.19:443?#🔒 TR-TCP-NA �
 trojan://389ea04b-99fb-47db-9252-80046b6bfe3e@199.59.243.225:443?#🔒 TR-TCP-NA 🇺🇸 US-199.59.243.225:443
 trojan://NISHIKUITAN222@8.219.42.72:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.42.72:8443
 trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@172.67.2.238:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=%2Fapple#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.2.238:443
-trojan://NISHIKUITAN222@8.219.198.139:2053?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.198.139:2053
