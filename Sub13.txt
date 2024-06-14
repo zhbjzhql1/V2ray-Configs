@@ -1,3 +1,5 @@
+vless://a5c08f7d-fa54-4622-86ff-db48d5b2d882@23.227.38.181:443?security=tls&sni=us3-us3.aiopen.sbs&type=ws&host=us3-us3.aiopen.sbs&path=%2Fkbjc%2Fus3&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.38.181:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.219.113.232:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-8.219.113.232:80
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.47.220:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.47.220:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.129.62:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.62:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.136.149:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.136.149:80
@@ -996,5 +998,3 @@ vless://38c187fd-eb3c-49d7-8a42-0afcead09c87@Www.zula.ir:80?encryption=none&host
 vless://67c70708-049b-40d4-8606-e777d8ac980e@Www.zula.ir:80?encryption=none&host=gegajiwbowbiqjbqo----kskn.bmpoloton.ir&path=%2FV2ray.motorcycles%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @V2rayNGmat | US🇺🇸 | 0️⃣3️⃣
 vless://1c112ab2-a204-4aff-a4a2-c68761559093@Www.zula.ir:80?encryption=none&host=gegajiwbowbiqjbqo----kskn.bmpoloton.ir&path=%2FV2ray.motorcycles%3Fed%3D80V2rayngMat%2C%40V2rayNgMat%40V2rayNgMat%2C%40V2rayNgMat%40V2rayNgMat%2C%40V2rayNgMat%40V2rayNgMat%2C%40V2rayNgMat%40V2rayNgMat%2C%40V2rayNgMat%40V2rayNgMat%2C%40V2rayNgMat%40V2rayNgMat%2C%40V2rayNgMat%40V2rayNgMat%2C%40V2rayNgMat%40V2rayNgMat&security=none&type=ws#رایگان | VLESS | @V2rayNGmat | US🇺🇸 | 0️⃣4️⃣
 vless://3f9dc69b-08ef-4521-a2a7-820921b31c02@Www.zula.ir:80?encryption=none&host=gegajiwbowbiqjbqo----kskn.bmpoloton.ir&path=%2FV2ray.motorcycles%3Fed%3D80&security=none&type=ws#رایگان | VLESS | @V2rayNGmat | US🇺🇸 | 0️⃣5️⃣
-vless://vpn-xw-gold-eagle@185.146.173.58:80?encryption=none&host=xn--1ug4145pija8k.vpnxw.eu.org.&path=%2FV2ray%2F%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @vpn_xw | SE🇸🇪 | 0️⃣1️⃣
-vless://vpn-xw-gold-eagle@104.19.80.162:80?encryption=none&host=%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB.vpnxw.eu.org.&path=%2FV2ray%2F%3Fed%3D1024&security=none&type=ws#رایگان | VLESS | @vpn_xw | US🇺🇸 | 0️⃣2️⃣

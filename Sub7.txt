@@ -1,3 +1,5 @@
+vless://cb760ee3-de13-11ee-95c9-00505603e70d@172.67.73.241:443?security=tls&sni=st-gb-1.brocdn.com&type=ws&path=%2Fwebsocket#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.241:443
+vless://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&type=ws&host=salad.1945157171.workers.dev&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.177.51:443
 vless://7379eb18-959d-4b33-ddf7-e9369a0e1769@170.114.46.173:443?security=tls&sni=ger.vwfghin.info&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-170.114.46.173:443
 vless://f7fe4c50-8f84-425a-8b60-6fbea946df9e@162.159.136.232:443?security=tls&sni=we.wordpass.workers.dev&type=ws&host=we.wordpass.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.136.232:443
 vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.129.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com&alpn=h2%2Chttp%2F1.1%2Ch3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.129.233:443
@@ -996,5 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.135.9.198:443?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.173.68:2053?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.173.68:2053
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:8443?security=tls&sni=a.ssll.gay&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.175:8443
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.44.126:443?security=tls&sni=dc1bf227.vf-8co.pages.dev&type=ws&host=dc1bf227.vf-8co.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.126:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.139:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇸🇨 SC-154.83.2.139:443
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.118.180:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.118.180:8080
