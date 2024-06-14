@@ -1,6 +1,3 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.42:5600#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.42:5600
-ss://MDM3MjhiZGQtNzQ1Yy00ZWY2LWEwMWYtNzBiMDA2ZDNiYmFlOg==@104.21.40.63:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.40.63:443
-ss://ZDk3OGMyNmQtMWM0My00NDBiLWI2OTYtYmU5NTAwMzJhYjZmOg==@104.21.25.39:2095#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.25.39:2095
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:5001
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:30009#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:30009
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.120:8888#🔒 SS-TCP-NA 🇺🇸 US-169.197.142.120:8888
@@ -998,3 +995,6 @@ trojan://NISHIKUITAN222@8.219.100.168:8443?security=tls&sni=t009.ylks.link&type=
 trojan://auto@104.18.1.89:443?security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.1.89:443
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.128.233:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.128.233:2083
 trojan://NISHIKUITAN222@8.219.114.201:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.114.201:8443
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.230:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.230:2096
+trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.16.133.220:443?sni=golinkwuxian.top&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.133.220:443
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.17.147.3:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.3:443
