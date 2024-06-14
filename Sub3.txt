@@ -1,3 +1,5 @@
+ss://NjdhYzI5NjYtYzYzMy00ZmJlLTkyZGQtOGM2NjY4ODFjNmRlOg==@104.16.58.162:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.58.162:8080
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.19.161.247:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.19.161.247:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@54.179.4.150:10017#🔒 SS-TCP-NA 🇸🇬 SG-54.179.4.150:10017
 ss://ODNhMzA2YjktN2VhZC00OWRiLWE2MGEtYjA5NTg4YjUxN2JkOg==@172.67.135.169:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.135.169:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.217.232:989#🔒 SS-TCP-NA 🇱🇻 LV-46.183.217.232:989
@@ -996,5 +998,3 @@ trojan://ExPreSEToo582b993d16e522@172.67.197.65:8443?security=tls&sni=random.exp
 trojan://Ck0nkbbsur@172.64.150.8:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=%2Fwsss#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.150.8:2096
 trojan://pUxG77WPOZ@104.17.148.22:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
 trojan://NISHIKUITAN222@47.236.254.120:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.236.254.120:8443
-trojan://auto@159.246.55.132:443?sni=vip.123789.pp.ua&type=ws&host=vip.123789.pp.ua&path=/#🔒 TR-WS-NA 🇺🇸 US-159.246.55.132:443
-trojan://NISHIKUITAN222@47.237.95.156:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-47.237.95.156:8443
