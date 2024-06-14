@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.207:5000#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.207:5000
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.215:9090#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.215:9090
+ss://M2UzM2FjYmEtMTNiOS00NDg1LTljMGMtYWU1NTAxZTJiNDY4Og==@104.25.46.234:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.46.234:8443
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.25.208.187:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.25.208.187:80
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.31:445#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:445
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.111.114.133:2376#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:2376
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.97:7307
@@ -994,7 +998,3 @@ trojan://NISHIKUITAN222@8.219.11.158:8443?security=tls&sni=t221.ylks.link&type=w
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@138.2.81.229:35702?sni=sg01.freeflyingcloud.xyz#🔒 TR-TCP-NA 🇸🇬 SG-138.2.81.229:35702
 trojan://36360cc3-957a-4597-9abf-f73f29641ee3@104.18.202.232:443?security=tls&sni=rand.gcorecloud.info&type=grpc&serviceName=0uXZLEZPdjyKouXtRbzQXkBQQ&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:443
 trojan://1ZTbMoSRnm@172.67.10.53:2083?security=tls&sni=mikasa.megafair.store&type=ws&host=mikasa.megafair.store&fp=chrome&alpn=h3,h2,http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.10.53:2083
-trojan://moist@146.56.44.226:55555?security=tls&sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs&path=/#🔒 TR-WS-TLS 🇰🇷 KR-146.56.44.226:55555
-trojan://09afab13-a23c-4264-9da4-985e3b62b789@104.24.173.19:443?security=tls&sni=p.mrproxy.shop&type=ws&host=h.mrproxy.shop&path=/tomfCNawNqSxpHShBC1yO&fp=chrome&alpn=h2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.173.19:443
-trojan://telegram-id-privatevpns@3.11.145.68:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-3.11.145.68:22222
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
