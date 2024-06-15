@@ -1,3 +1,5 @@
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.47.216:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.47.216:443
+vless://ed0dc7de-364f-4228-abf6-b027890bcd93@104.26.10.222:8443?security=tls&sni=cf.yicanny.com&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.10.222:8443
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@172.64.32.154:2096?security=tls&sni=swe2.mbh-meti.com&type=ws&host=swe2.mbh-meti.com&path=%2F&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.32.154:2096
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.90.91:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.90.91:443
 vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.179:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.75.179:2053
@@ -996,5 +998,3 @@ vless://d0be39fd-4bca-4e37-80d5-715d512aad7e@172.64.202.127:443?security=tls&sni
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?security=tls&sni=heY.bACHeBiapAiN.Ir&type=ws&host=hey.bacheBiapAIN.iR&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.216.241:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa5@104.21.43.14:443?security=tls&sni=telegram-vpnhttpinjectorfree-1.childnotnamed.workers.dev&type=ws&host=telegram-vpnhttpinjectorfree-1.childnotnamed.workers.dev&path=%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.43.14:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.107.62:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.107.62:443
-vless://5154c9b4-796c-400c-b1ba-817f36823e92@104.24.186.117:2087?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=Asa&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.24.186.117:2087
-vless://e4600b59-5e4f-47ae-97ea-33a144fda802@172.67.193.63:2083?security=tls&sni=favorm.khorm.ir&type=ws&host=favorm.khorm.ir#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.63:2083
