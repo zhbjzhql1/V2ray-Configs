@@ -1,3 +1,5 @@
+vless://f1ebe21f-19ed-4d1b-b446-962ed55ee4fd@104.24.46.69:443?security=tls&sni=MARgBar3fAsEd.PaGes.DEv&type=ws&host=mARGBAr3fASEd.pageS.DeV&path=%2FS7SNioqj8ZAlT6Fo%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.24.46.69:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.62:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.118.62:80
 vless://a9c0613e-7b12-4c89-cb8b-6fb83c41ed33@104.21.28.188:8880?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.r.cloudfront.net.kiava.fun#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8880
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.246.79:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.246.79:80
 vless://91bf455c-7fac-4db9-8f58-a93778b95ab8@162.159.44.33:443?security=tls&sni=hpg.bookapp1363.com&type=ws&host=hpg.bookapp1363.com&path=%2Fwss#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.33:443
@@ -996,5 +998,3 @@ vless://85ceb245-40ee-433b-9e51-4c7a3167a70b@104.27.18.221:443?security=tls&sni=
 vless://0e610017-4fad-4a00-92a4-59974213c937@5.10.248.144:8082?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-5.10.248.144:8082
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.59.83:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.59.83:443
 vless://965d0c88-a91d-4bef-950c-a59649bbfa14@104.19.164.130:8080?security=none&type=ws&host=Coc.unique69.com.&path=%2FHosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za%2F%40HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.164.130:8080
-vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@45.205.0.54:8443?security=tls&sni=jd.wxgqlfx.top&type=ws&path=Twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.54:8443
-vless://01ab9337-f478-4765-9534-88f009f83ddb@47.237.95.146:2083?security=tls&sni=aut306.ylks.link&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇸🇬 SG-47.237.95.146:2083
