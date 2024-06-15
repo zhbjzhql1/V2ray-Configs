@@ -1,3 +1,8 @@
+trojan://77bbd84d-6d9b-4ede-b319-3bbbd4f2c1ab@172.233.111.210:443?security=tls&sni=es-full.privateip.net#%F0%9F%87%AA%F0%9F%87%B8ES-172.233.111.210-0245
+trojan://77bbd84d-6d9b-4ede-b319-3bbbd4f2c1ab@es-full.privateip.net:443?security=tls#%F0%9F%87%AA%F0%9F%87%B8ES-172.233.111.210-0263
+trojan://ypDt8RkT7J@213.186.36.123:43118?security=tls&sni=wylbe.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-213.186.36.123-0146
+trojan://ypDt8RkT7J@51.158.217.130:43118?security=tls&sni=toflf.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.158.217.130-0233
+trojan://ypDt8RkT7J@51.158.217.161:43118?security=tls&sni=tewmk.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-51.158.217.161-0147
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.115-0892
 trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.com#%F0%9F%87%A9%F0%9F%87%AADE-169.150.206.186-0895
 trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&sni=wuxgk.phooeyunfold.com#%F0%9F%87%AB%F0%9F%87%B7FR-62.210.82.54-0159
