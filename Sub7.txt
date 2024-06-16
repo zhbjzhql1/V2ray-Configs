@@ -1,5 +1,3 @@
-vless://2f9cf9fe-28c4-4314-9e3a-6c54e3023694@78.39.47.164:11000?security=none&type=ws&path=/#🔒 VL-WS-NONE 🇮🇷 IR-78.39.47.164:11000
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.248.126:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.248.126:80
 vless://3cbf20c1-f673-45de-8114-8267cf05d801@104.21.91.124:2096?security=tls&sni=xpaceteam-mci.cataba.ir&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.91.124:2096
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.167:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.137.167:80
 vless://9c638b2d-1f10-4454-bb2c-5378bb44b6a5@104.21.69.44:2096?security=tls&sni=12370f33fe6be054.morgensport.nl&type=ws&host=72.morgensport.nl&path=%2FVMESSKHODAM%2C+VMESSKHODAM%2C+VMESSKHODAM%2C+VMESSKHODAM%2C+VMESSKHODAM%2C+VMESSKHODAM%2C+VMESSKHODAM%2C+VMESSKHODAM%2C+VMESSKHODAM%2C+VMESSKHODAM&fp=edge&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.69.44:2096
@@ -998,3 +996,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.139:443?security=tls&sni
 vless://43dab336-b5cf-473f-db6e-e54ea23aec5b@172.67.203.233:2096?security=tls&sni=orders-onlinestore-dev01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/online-ski-shoes-sales/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.233:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.43.179.209:443?security=tls&sni=jp000.ylks01.eu.org&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.209:443
 vless://c9ace106-ae66-46e6-8be3-2c54b40d73df@188.114.98.225:2096?security=tls&sni=SAmV2ray.naziitness.com&type=grpc&serviceName=abc&headerType=@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2@KAFING_2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.98.225:2096
+vless://ce12313e-dab2-49ee-8806-399eb91136b2@172.67.135.195:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.135.195:2096
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.153.244:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.153.244:80
