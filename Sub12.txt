@@ -1,6 +1,3 @@
-vless://f7382608-e151-4d90-ab75-9c411e24ed83@198.41.221.63:8080?security=none&type=ws&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.DAILYCONFIGS.vigilantecollection.com.&path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.63:8080
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.158.211:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.158.211:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.234:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.234:443
 vless://d978c26d-1c43-440b-b696-be950032ab6f@104.21.25.39:2083?security=tls&sni=worker-winter-sea-7f30.jvxxmax5.workers.dev&type=ws&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.25.39:2083
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@103.160.204.122:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🏴‍☠️ NA-103.160.204.122:443
 vless://c10de335-0239-438c-a51f-56a6a39436b3@104.21.25.100:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=Asa&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.25.100:8443
@@ -998,3 +995,6 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@158.101.217.99:443?security=tls&sni
 vless://ff4ea7f8-7a02-4410-a631-039020da61de@185.146.173.122:8443?security=tls&sni=shjhjb.servernet.cfd&type=ws&host=shjhjb.servernet.cfd.&path=/&fp=random&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.122:8443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.4.237:8443?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.4.237:8443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.223.89:15800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.223.89:15800
+vless://c6ec3554-1557-4f50-aae3-09af5315d5ab@104.18.36.81:8080?type=ws&host=cdn-b100xn--b6gaceuorg.gk8k8s95.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.36.81:8080
+vless://af6c7d65-7180-4715-b776-f92c919030d0@185.16.110.174:2096?security=tls&sni=J0in-Te1egram-EiiiM.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.Store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 VL-WS-TLS 🇫🇷 FR-185.16.110.174:2096
+vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.187.219:8880

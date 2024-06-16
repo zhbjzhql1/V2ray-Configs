@@ -1,6 +1,3 @@
-vless://10716279-b1ee-41d8-b63e-87782088305b@23.227.39.107:443?security=tls&sni=mamAne-FiltErcHi.paGES.dEv&type=ws&host=MamaNE-fiLTERCHI.PAgEs.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.107:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.13.140:2087?security=tls&sni=jp010.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.140:2087
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.84.110.114:11443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-103.84.110.114:11443
 vless://242b7fb0-d590-57bd-9924-38092b4a8f21@104.21.45.92:2083?security=tls&sni=esetsecuritylicense.ujlqwtae.WOrKERS.Dev&type=ws&host=esetsecuritylicense.ujlqwtae.WOrKERS.Dev&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.45.92:2083
 vless://e825d9e4-b513-4ede-b8a6-966292f2b753@172.66.44.158:443?security=tls&sni=file-manager-pro.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&type=ws&host=file-manager-pro.github-land-pro-world-wiki-ped-discord-digikala-bale-meeting.com&path=%2F56274%2FTrTechro&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.158:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@91.149.239.62:443?security=tls&sni=kk222.ylks.link&type=ws&path=%2Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-91.149.239.62:443
@@ -998,3 +995,6 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@141.147.190.128:443?security=tls&sn
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@147.78.140.233:443?security=tls&sni=v300.ylkszy.eu.org&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.233:443
 vless://881296c5-a05e-4178-b236-79794b7c4d2d@104.16.183.240:80?type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.183.240:80
 vless://49c2667e-5fb9-4202-d106-762fbec3442a@104.25.188.126:443?security=tls&sni=*.starv2ray.cfd&type=ws&path=%2F&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.188.126:443
+vless://f7382608-e151-4d90-ab75-9c411e24ed83@198.41.221.63:8080?security=none&type=ws&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.DAILYCONFIGS.vigilantecollection.com.&path=%2F---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs---%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.63:8080
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.158.211:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.158.211:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.234:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇦🇪 AE-181.214.1.234:443
