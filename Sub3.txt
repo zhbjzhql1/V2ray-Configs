@@ -1,5 +1,3 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.20:8881#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:8881
-ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@104.21.69.44:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.69.44:2053
 ss://ZTRlN2IxNDktOGJkOC00MjY2LThjYmItMDk4NzYwNGRiYzg3Og==@104.17.53.18:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.53.18:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:20006#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:20006
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.87:443#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:443
@@ -998,3 +996,5 @@ trojan://NISHIKUITAN222@47.236.164.215:8443?security=tls&sni=t222.ylks.link&type
 trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.8:443?security=tls&sni=ybv27nj.diamondgalery.ir&type=ws&host=ybv27nj.diamondgalery.ir&path=/U13Hsk6pJ3kV6p1uO5Avv&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.60.8:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.142:2083?sni=tjjd.yzyx1.v6.army&allowInsecure=1#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.142:2083
 trojan://4CCF9A9AB80E9889198B02ECE7FA08DD@154.44.27.99:43005?security=tls&sni=j0080.ruixiangseo.xyz#🔒 TR-TCP-TLS 🇭🇰 HK-154.44.27.99:43005
+trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.16.159.9:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.9:443
+trojan://NISHIKUITAN222@8.222.193.65:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.193.65:8443
