@@ -1,3 +1,4 @@
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@141.147.180.128:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-141.147.180.128:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.169.105:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.169.105:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@128.1.18.29:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🇯🇵 JP-128.1.18.29:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@172.67.123.23:443?security=tls&sni=mAManE-FilTERChi.paGES.deV&type=ws&host=mamane-fIlTERchI.PagEs.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.123.23:443
@@ -997,4 +998,3 @@ vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.32:80?security=none&typ
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.214.61:80?type=ws&host=us3.rtacg.com&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.214.61:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.168.150:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.168.150:80
 vless://10716279-b1ee-41d8-b63e-87782088305b@190.93.244.18:443?security=tls&sni=MamAne-FiLTerCHi.pageS.DEV&type=ws&path=%2Fb6UrlUHh79QzoYvF%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.18:443
-vless://eb20ac7b-1462-4209-ab0d-c0e7d7a8bf69@172.67.73.163:2053?security=tls&sni=telegram-falcunargo-emirates.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-emirates.falcunar.asso.eu.org&path=%2F%3Fed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.163:2053

@@ -1,3 +1,4 @@
+vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.192.65:8880
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.227.84:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.227.84:443
 vless://5d0e2838-6dcf-4012-cfae-a445f914d9e6@104.19.16.150:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.19.16.150:2096
 vless://847ad211-2af1-455d-954e-729957701e1f@162.159.44.215:443?security=tls&sni=ix9l1h.simpateen.top&type=ws&path=%2Fwss#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.44.215:443
@@ -997,4 +998,3 @@ vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.67.161.104:2096?security=tls&sn
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.20.55:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.20.55:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.200.46:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.200.46:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.105.98:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-185.148.105.98:443
-vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@172.67.202.26:443?security=tls&sni=javad.rbj5847.workers.dev&type=ws&host=javad.rbj5847.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.26:443

@@ -1,3 +1,4 @@
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.154.161:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.154.161:80
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@190.93.244.140:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-190.93.244.140:443
 vless://f922a88b-d4f5-4371-924e-c0335c990569@173.245.59.100:2087?security=tls&sni=ConneCtion-Ir-021.digiv2ray1.store&type=ws&host=ConneCtion-Ir-021.digiv2ray1.store&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.100:2087
 vless://a04be4ef-1797-4ca9-a549-4385ce42494c@185.146.173.221:443?security=tls&sni=vls4de.nimaxmusic.ir&type=ws&host=vls4de.nimaxmusic.ir&path=%2Fvls4dews&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.221:443
@@ -997,4 +998,3 @@ vless://7d9eb9c1-52f0-4c0f-ba58-27be0aec0a27@172.67.162.149:2053?security=tls&sn
 vless://fb301d2e-4430-4b41-95d6-764460b8ef13@156.225.72.135:2053?security=tls&sni=9b56CFEe5b258C44c45bA18FA122293.mIToweAr.cOm&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-156.225.72.135:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.248.123:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.248.123:80
 vless://13732170-05c7-4bd6-acd6-9ed74b4d1c1b@162.159.153.2:2096?security=tls&sni=kanal-falcunargo-rmarat.falcunar.asso.eu.org&type=ws&host=kanal-falcunargo-rmarat.falcunar.asso.eu.org&path=/?ed%3D2048&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.2:2096
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.8.128:443?security=tls&sni=pPal03.mrs-EDWINa-rOWE.WOrKeRs.DEv&type=ws&host=PpaL03.MRs-eDwiNa-rOwe.wORkerS.Dev&path=%2FaanAX6TCy5nQn3ct%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.8.128:443
