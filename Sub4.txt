@@ -1,3 +1,5 @@
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.252:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.53.252:443
+trojan://telegram-id-directvpn@54.69.16.56:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-54.69.16.56:22222
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?security=tls&sni=bangladeshipatri.com&type=ws&host=bangladeshipatri.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.77:443
 trojan://0ClyedGaZQ@185.91.69.39:443?security=tls&sni=royalshop.tech&type=tcp#🔒 TR-TCP-TLS 🇬🇧 GB-185.91.69.39:443
 trojan://a3bce210-eacc-11ee-be58-1239d0255272@188.114.97.1:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-188.114.97.1:443
@@ -996,5 +998,3 @@ vless://9f88d7b8-7030-4a9d-a9b6-175bc25b9ae8@104.21.74.214:2052?security=none&ty
 vless://dee483c6-13a7-45e4-85cb-2c32de13c5bf@172.232.250.227:2003?security=tls&sni=id-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇩 ID-172.232.250.227:2003
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@20.239.29.247:34237?security=tls&sni=xin022.ylks.link&type=ws&path=/proxyip#🔒 VL-WS-TLS 🇭🇰 HK-20.239.29.247:34237
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@141.101.114.123:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-141.101.114.123:443
-vless://ffc7d160-691c-4779-be0f-2ba5975edda7@5.181.23.38:80?security=none&flow=none&type=ws&path=%252Fvless#🔒 VL-WS-NONE 🇪🇪 EE-5.181.23.38:80
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.67.207:443?security=tls&sni=yRE2-JuD7-nn-72-OUEhgA6-uEBAfx-23Kl.paGEs.dEV&type=ws&host=yRE2-jUd7-nN-72-ouehga6-uebAfX-23kl.PAGES.deV&path=%2Fxeawt3rAk8RWMYhm%2FdWFlMS5veG5ldHdvcmtzLmxpbms%3D%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.67.207:443

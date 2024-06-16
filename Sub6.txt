@@ -1,3 +1,5 @@
+vless://f7d73ea4-27d4-41c2-d34c-aa1581bcf83f@185.143.234.103:443?security=tls&sni=bama.ir&type=ws&host=rulsvitalone-3b8673c740-nanov.apps.ir-thr-ba1.arvancaas.ir&path=/&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇮🇷 IR-185.143.234.103:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.45:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.137.45:80
 vless://9109a32f-31bd-43de-8f7b-95183023d41d@154.197.75.102:2053?security=tls&sni=v2rayfree1.bazar-yabi.shop&type=grpc&serviceName=V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1_V2rayfree1&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇨 SC-154.197.75.102:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.66.47.7:443?security=tls&sni=jp005.ylks01.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.7:443
 vless://79473718-0451-41c3-a0a2-9f6d21c99f75@172.66.44.131:443?security=tls&sni=9052b030.joinmahdiserver-90p.pages.dev&type=ws&host=9052b030.joinmahdiserver-90p.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.131:443
@@ -996,5 +998,3 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@168.138.13.201:443?security=tls&sni
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.200:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.216.200:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.168.29:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.168.29:80
 vless://79c226ef-91ef-4331-b9ca-0d1dc50d7b9d@104.21.33.151:8443?security=none&type=grpc#🔒 VL-GRPC-NONE 🏴‍☠️ NA-104.21.33.151:8443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.190.122:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.190.122:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.136:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.136:443
