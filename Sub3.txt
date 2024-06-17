@@ -1,3 +1,8 @@
+ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@190.93.245.79:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-190.93.245.79:8080
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@172.66.47.132:80#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.132:80
+ss://N2ViMmQ5OWItMWZkYi00OGY0LWJiYmUtMjZkNDczMjdiMDk2Og==@104.21.94.98:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.94.98:443
+ss://ZDZmNzk2MzAtYWE5NC00NTM2LWIyZWYtODk5YjVhY2IzYjQ5Og==@104.16.67.38:2052#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.67.38:2052
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@45.89.52.66:9042#🔒 SS-TCP-NA 🇹🇷 TR-45.89.52.66:9042
 ss://MzExOTIwOTMtYzNjOS00NDJlLWI5ZjMtNGI5YTdlZWMwNGQ2Og==@172.67.151.53:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.151.53:443
 ss://ZjQzOTczMjItZDVmYS0xMWVlLWFhYTgtMDA1MDU2MDNlNzBkOg==@172.67.158.12:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.158.12:443
@@ -993,8 +998,3 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.22.19:443?security=tls&sni=jobs
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-54.37.220.201:443
 trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
 trojan://NISHIKUITAN222@104.26.13.31:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.13.31:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.4:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.4:2087
-trojan://ypDt8RkT7J@51.159.102.179:43118?security=tls&sni=tpzmg.phooeyunfold.com&type=tcp&fp=random&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.159.102.179:43118
-trojan://NISHIKUITAN222@8.219.77.222:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.77.222:8443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.48:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.48:2096
-trojan://b9ef98dd-d5aa-4b0d-8038-fa4669ac4d30@194.195.125.6:443?#🔒 TR-TCP-NA 🇦🇺 AU-194.195.125.6:443
