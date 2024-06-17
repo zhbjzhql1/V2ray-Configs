@@ -1,3 +1,7 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.76.33.40:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.76.33.40:80
+vless://bef03301-0488-4ecd-8561-78d95d27ef4e@185.146.173.92:443?security=tls&sni=de3.v2vless.xyz&type=ws&host=de3.v2vless.xyz&path=%2Fvless+%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray%2C%40hopev2ray+ed%3D2048#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.92:443
+vless://39d06891-ee89-4316-ae0e-3fcfb9e9714c@104.20.18.168:2052?security=none&type=ws&host=worker-reza2.wbfoppa.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.18.168:2052
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.187.241:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.187.241:80
 vless://392afad2-43e3-4414-a5c3-b529a44df4e3@104.21.92.119:80?security=none&type=ws&host=7.arsalanv2.sbs&path=%2F%40v2rayNG_VPNN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.92.119:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.44.29:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.44.29:80
 vless://3b1ba090-63a1-4710-9818-34be378bcfbd@104.21.28.188:8080?security=none&type=ws&host=realpydar.banndedd.ir&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.28.188:8080
@@ -994,7 +998,3 @@ vless://55801116-4f05-4173-8272-afec1a3eef23@104.20.0.254:2083?security=tls&sni=
 vless://f478a594-5882-4713-bfdc-80c3e9345bd1@146.75.124.247:80?security=none&type=ws&host=dailyconfigs.com&path=%2F%40Daily_Configs--%40Daily_Configs--%40Daily_Configs--%40Daily_Configs%3Fed%3D2048#🔒 VL-WS-NONE 🇺🇸 US-146.75.124.247:80
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@172.67.223.33:443?security=tls&sni=admin.irayanconfig.ir&type=ws&host=admin.irayanconfig.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.33:443
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.67.221.18:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.221.18:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.147.136:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.147.136:80
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.67.1:80?type=ws&host=binance.co.kp#🔒 VL-WS-NA 🇺🇸 US-151.101.67.1:80
-vless://5f3db645-ae0b-4cf6-aee1-838a92b6ea68@172.67.202.26:443?security=tls&sni=javad.rbj5847.workers.dev&type=ws&host=javad.rbj5847.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.202.26:443
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.75.211:80?security=none&type=ws&host=us1.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.75.211:80
