@@ -1,3 +1,4 @@
+vless://ae8e1a57-75fc-4d8d-b186-bfa92e547313@104.27.25.23:2083?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%40ev2rayy&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.27.25.23:2083
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.108.60:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.108.60:80
 vless://0dda1b38-ff02-4a50-8c94-33138c757f80@104.16.129.133:80?security=none&type=ws&host=2.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.iranserver.com.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.isvphp.ir.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.129.133:80
 vless://6c780c8d-1fdb-43e0-b351-2b6abd9f0962@162.159.192.8:443?security=tls&sni=esetsecuritylicense.zzzgldy.workers.dev&type=ws&host=esetsecuritylicense.zzzgldy.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.192.8:443
@@ -997,4 +998,3 @@ vless://eb44e1c7-e5ba-4446-807c-a0768a8f4589@104.16.12.49:2083?security=tls&sni=
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.233:443?security=tls&sni=kk000.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.233:443
 vless://c25d9ab6-b6be-4034-9bb8-966b4651cade@104.16.132.229:2083?security=tls&sni=sauron.melkore.ir&type=ws&host=sauron.melkore.ir&path=/&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.132.229:2083
 vless://b724be94-21d1-4d04-a4cf-e08ab6df1349@104.21.79.143:2096?security=tls&sni=ua1.v2vless.xyz&type=ws&host=ua1.v2vless.xyz&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.79.143:2096
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.192.191:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.192.191:80

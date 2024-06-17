@@ -1,3 +1,4 @@
+vless://a34cdf99-a8ba-4db8-b299-bc510ab2c877@104.31.16.52:80?security=none&type=ws&host=doostihaa.com.niazerooz.com.abasmanesh.com.netafraz.com.hamyarwp.com.mehrnews.com.yektanet.com.sariasan.com.blogsky.com.iranhost.com.emofid.com.nahayatnegar.com.emofid.com.shahrekhabar.com.talahost.com.talahost.com.meghdadit.com.charkhemashin.cfd&path=%2F#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.52:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.205.0.137:8443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-45.205.0.137:8443
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@104.21.37.253:443?security=tls&sni=TEST-test-tesT-tesT.pAgES.dev&type=ws&host=Test-TEST-teSt-tEST.PAges.dEv&path=%2FdjPKyRwDQqrrWQB9%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.37.253:443
 vless://9e67f15c-178f-494c-a843-f371e3b3fa5d@172.67.143.22:8080?type=ws&host=king1980.b91sptsl.workers.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.143.22:8080
@@ -997,4 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.219.68:80?type=ws&host=kr1.1
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.129.7:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.129.7:80
 vless://01ab9337-f478-4765-9534-88f009f83ddb@192.18.134.231:443?security=tls&sni=aut022.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-192.18.134.231:443
 vless://68c421f0-278b-4fa4-9115-d86ee41d8798@13.107.246.64:80?security=none&type=ws&host=V2ray-_-_-_-_-_-CUSTOMVPNSERVER.oNlineDoWnloaderFIle.com.&path=/CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER-CUSTOMVPNSERVER#🔒 VL-WS-NONE 🇺🇸 US-13.107.246.64:80
-vless://21c67716-e8cb-452d-a36c-a6ca41e17d1a@104.21.79.143:2083?security=tls&sni=ambatukamnotthatship2.v2logy.ir&type=grpc&fp=safari&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.79.143:2083
