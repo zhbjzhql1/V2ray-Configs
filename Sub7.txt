@@ -1,3 +1,5 @@
+vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=TELEGRAM+@NETMelliAnti#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.220:443
+vless://b8754da6-24e2-46fd-bf3d-ea8c050c5c6b@185.211.58.86:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.58.86:80
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@146.70.175.176:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-146.70.175.176:443
 vless://ee63ad5c-e6a7-4b21-f314-56981a9efefb@185.143.233.5:80?security=none&type=ws&host=divarv.ir&path=/#🔒 VL-WS-NONE 🇮🇷 IR-185.143.233.5:80
 vless://989c4f14-a0fb-4375-ba5d-082fb7167b70@172.66.47.201:443?security=tls&sni=AzAdNetByFt65433GhgFR5677JGFR557774ThyYT8766wWqW346678UUJj.pAGeS.deV&type=ws&host=azaDNeTbYfT65433GhGfR5677JGfR557774THyyt8766wWqW346678uUjj.PAges.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.201:443
@@ -996,5 +998,3 @@ vmess://ewogICAgImFkZCI6ICIxMDcuMTc1LjM3LjE4NiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.11-0270
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.147-0796
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.4-1703
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.145-0794
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:808#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.178-0878

@@ -1,3 +1,5 @@
+vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.18.22.19:443?security=tls&sni=api2.htve.ir&type=ws&host=api2.htve.ir&path=%2F&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.22.19:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.252:443?security=tls&sni=94391e80.uvPN-OrG.PAGes.Dev&type=ws&host=94391E80.uVpn-Org.paGes.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.46.252:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.246.55.174:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-159.246.55.174:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.156.27:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.156.27:2053
 vless://5a4cc95f-8fff-4178-a7f7-3c1d5498154b@172.67.178.2:2087?security=tls&sni=selinc---bia---to---chanel---selinc---selinc---selinc.sytbqj.workers.dev&type=ws&host=selinc---bia---to---chanel---selinc---selinc---selinc.sytbqj.workers.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.178.2:2087
@@ -996,5 +998,3 @@ vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@47.57.14.118:443?security=tls&sni=c
 vless://aa4bbd3c-0306-4250-b431-50633e308f1c@172.67.128.154:8443?security=tls&sni=selinc-----selinc-----selinc.fgpgq.workers.dev&type=ws&host=selinc-----selinc-----selinc.fgpgq.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.128.154:8443
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.4.122:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.4.122:443
 vless://2373c6d4-1333-4f1e-b039-ade976dcf14f@104.21.53.11:443?security=tls&sni=selinc--------------selinc.rmscipwd.workers.dev&type=ws&host=selinc--------------selinc.rmscipwd.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.53.11:443
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?security=tls&sni=test57.pages.dev&type=ws&host=test57.pages.dev&path=TELEGRAM+@NETMelliAnti#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.220:443
-vless://b8754da6-24e2-46fd-bf3d-ea8c050c5c6b@185.211.58.86:80?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.211.58.86:80
