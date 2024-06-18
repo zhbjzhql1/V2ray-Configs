@@ -1,3 +1,6 @@
+vless://826e43d2-dbe9-41a6-bbf8-3aed2f93f5d4@pardazeshvpn-tg20.pages.dev:443?path=%2F%3Fed&security=tls&encryption=none&fp=randomized&type=ws&sni=pardazeshvpn-tg20.pages.dev#👉🆔 @v2ray_configs_pool`
+vless://4c913d1d-2ae2-416a-ba51-4098814fd988@185.146.173.58:80?path=%2Ftelegram-proxy-mtm-telegram-proxy-mtm-telegram-proxy-mtm%3Fed%3D2048&security=none&encryption=none&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.&type=ws#👉🆔 @v2ray_configs_pool`
+vless://a1773345-0831-492e-acec-3077196bb02f@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#👉🆔 @v2ray_configs_pool`
 vless://b8d718c6-7516-4259-b4e6-253e280bc6b6@ns.cloudflare.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=bia-vip-programs.hsjsak.ir&fp=random&type=ws&sni=bia-vip-programs.hsjsak.ir#👉🆔 @v2ray_configs_pool`
 vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2052?path=%2F&security=none&encryption=none&host=RrGbFqCn2.IuBcInScKkSdNoI1.nEt&type=ws#👉🆔 @v2ray_configs_pool`
 vless://e5f38cb2-d25c-464c-9aa6-a8890148bbb9@discord.gg.:80/?type=ws&encryption=none&host=mnvxar.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95.tech.&path=%2FZEDMODEON-%40ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#👉🆔 @v2ray_configs_pool`
