@@ -1,3 +1,4 @@
+vless://b0071e63-2d3f-4142-9b37-70eb1b5fe057@188.114.96.2:2052?security=none&type=ws&host=xn--047h.v2raxx6.shop.&path=@V2RAXX-@V2RAXX?ed#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.96.2:2052
 vless://f779207e-9f8d-4a87-951e-09a8a2af0360@104.26.15.85:80?security=none&type=ws&host=PanelDghSGdgh54.com.net.ir.bargo.lol.&path=/BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.15.85:80
 vless://b68d26fc-2aab-43ce-bef1-ae4c44bfbeca@104.26.13.8:443?security=tls&sni=jojetala.sg-forum.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.12.56:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.56:443
@@ -997,4 +998,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.92.195:2053?security=tls&sni=
 vless://603b8cb5-65d8-4e47-9670-0d937f47a3ea@190.93.247.155:80?security=none&sni=pl1.vless.site&type=ws&host=Pl1.vless.site.&path=%2Fvless#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.155:80
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.104.152:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.104.152:443
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.64.80.1:2087?security=tls&sni=sisand.waztow.WoRkeRs.DEv&type=ws&host=sisand.waztow.WoRkeRs.DEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.80.1:2087
-vless://12210f4e-9487-41f0-9cc5-74867be58033@162.159.153.2:80?security=none&type=ws&host=daily-configs-daily-configs.義務警員.online.&path=@daily_configs--@daily_configs--@daily_configs--@daily_configs@daily_configs#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.153.2:80
