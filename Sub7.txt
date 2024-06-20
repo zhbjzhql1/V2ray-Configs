@@ -1,8 +1,3 @@
-vless://45c24d3e-5f87-45a3-a440-b0d6d3e92082@5.57.33.227:5001?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.57.33.227:5001
-vless://a168d3e6-8ccd-48e1-a053-e14bba0b4fd1@83.229.87.145:2050?security=none&type=grpc&serviceName=2096vless#🔒 VL-GRPC-NONE 🇩🇪 DE-83.229.87.145:2050
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.26.53:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇬🇧 GB-18.168.26.53:22222
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.239:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.239:443
-vless://f1490930-b704-45b6-ba3f-29caaf462267@185.146.173.193:8880?security=none&type=ws&host=V2ray-_-_-_-_-_-Mam982dns420.grm7vrAyng.CfD.#🔒 VL-WS-NONE 🇸🇪 SE-185.146.173.193:8880
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.145.150:443?security=tls&sni=b458Ab02.CaA-chanel-WOrker-Page-freE-JhuihnujHphjKl-niHgKJn.pAgES.dEV&type=ws&host=b458Ab02.caA-chaNEl-WOrkeR-page-fReE-JHuiHnuJHphjKL-nIHGKjN.pAGes.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.145.150:443
 vless://5e4e10bb-96da-48f3-a615-9fd1a5690255@104.21.83.208:443?security=tls&sni=linde06.nofiltering2.sbs.&type=ws&host=linde06.nofiltering2.sbs.&path=%2Fnofiltering2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.83.208:443
 vless://6d196ba1-569f-4b2c-9160-998b3b1b19af@104.24.53.170:8880?type=ws&host=baghead%E5%88%9D%E5%90%BB%E6%97%B6%E7%9A%84%E7%88%B1%E6%83%85%E5%A5%87%E8%BF%B9%E4%B9%8B%E4%B9%A6.suonycars.buzz.&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.53.170:8880
@@ -998,3 +993,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.174.156:80?security=none&type
 vless://d1c39c87-0ce1-497f-ba7a-59672b005a49@104.16.0.0:2053?security=tls&sni=t5.funlifea.shop&type=grpc&fp=chrome&alpn=http/1.1,h2,h3#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.0.0:2053
 vless://102e76a5-0f4c-4d71-b018-a76985e4617b@172.67.158.30:2087?security=tls&sni=hamedmrx.kijenov996.workers.dev&type=ws&host=hamedmrx.kijenov996.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.158.30:2087
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.76:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.76:80
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.149.244:443?security=tls&sni=B458ab02.caa-chANel-WoRkER-PAge-freE-jhUihNUjhPHjkl-nIhgKjn.paGeS.DeV&type=ws&host=b458aB02.cAa-cHaneL-woRKeR-PAGe-fReE-jhUiHnuJhPhjKl-nIHgkJN.PAges.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.149.244:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.210.156.6:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-8.210.156.6:80
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.131:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.131:443
+vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@104.18.192.65:8880?security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.192.65:8880
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.253.175:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.253.175:80
