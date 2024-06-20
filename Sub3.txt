@@ -1,3 +1,5 @@
+ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@104.18.23.19:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.23.19:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.51:8888
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.87:445#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.87:445
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.18:5500
 ss://NDY1ZmM0M2MtOTg3Mi00MGY5LWJiOTQtZWJlZTkzNGU0MGI0Og==@23.227.38.135:443#🔒 SS-TCP-NA 🇨🇦 CA-23.227.38.135:443
@@ -996,5 +998,3 @@ trojan://f91f38bb-72d5-4f3e-8311-1788986293f5@104.21.43.13:443?sni=iran_mehr_vpn
 trojan://2997d686-d910-441b-a15c-c8d11c366025@185.234.66.155:2053?security=tls&sni=ftp.debian.org&type=tcp#🔒 TR-TCP-TLS 🇲🇩 MD-185.234.66.155:2053
 trojan://telegram-id-privatevpns@52.31.50.29:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-52.31.50.29:22222
 trojan://NISHIKUITAN222@8.219.142.191:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.142.191:8443
-trojan://NISHIKUITAN222@104.21.76.195:443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.76.195:443
-trojan://BO7e2KO_KlAjuJY-HYoabQ@172.67.131.41:443?security=tls&sni=n21-at.netzrun.com&type=ws&path=%2Fid#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.131.41:443
