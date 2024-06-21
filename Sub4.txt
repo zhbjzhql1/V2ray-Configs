@@ -649,6 +649,8 @@ ss://aes-256-gcm:d4bcf71b-d966-457d-98ee-cd7c1260588b@de-full.privateip.net:8443
 ss://aes-256-gcm:05cad9de-70fe-4d94-917d-9648885788b2@de2-full.privateip.net:8443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:ff2324d1-2d6f-468a-8e95-d048a996716b@au-full.privateip.net:8443#%F0%9F%87%A6%F0%9F%87%BA%20Australia%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:5b4c746a-f944-4f1e-89ad-8a6992b34dab@it-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:eb9c51f5-52ac-4315-b822-eec1a683572a@ua-full.privateip.net:8443#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20Shadowsocks%20@V2rayStore
+ss://aes-256-gcm:77bce8a9-8d88-4dfd-bfc8-c082f38e20fa@es-full.privateip.net:8443#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:09bf3c59-0ae4-40a0-a282-e35e820dca6e@sg-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:db9372ac-20e0-487f-8ea5-fb0aaac5ca48@sg2-full.privateip.net:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Shadowsocks%20@V2rayStore
 ss://aes-256-gcm:0713f888-f426-47b4-bbaf-7eecae3108f8@id-full.privateip.net:8443#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20Shadowsocks%20@V2rayStore
@@ -996,5 +998,3 @@ vless://236405d2-ded2-4729-83e9-92694167fc33@162.251.82.187:8880?security=none&t
 vless://514d4474-fe80-45ba-9b69-0c86fe4201eb@104.25.213.81:8080?security=none&type=ws&host=su2.mahanocean.ir#🔒 VL-WS-NONE 🏴‍☠️ NA-104.25.213.81:8080
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.148:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.148:443
 vless://01b72230-7b65-4500-835c-957f62afd889@104.16.103.112:8080?security=none&type=ws&host=Seyyedmt-telegram-Seyyedmt-telegram.deraz.tech.&path=/Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt-Telegram:@seyyedmt#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.103.112:8080
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.210:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.210:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.212.90.25:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇨🇦 CA-199.212.90.25:443
