@@ -1,4 +1,3 @@
-vless://c0fbd664-9693-4cc0-aa73-9247dbbadbeb@172.67.141.169:443?security=tls&sni=bed7nemarz.ribon88568.workers.dev&type=ws&host=bed7nemarz.ribon88568.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.141.169:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.105.119:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.105.119:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.19.19.58:2096?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.19.58:2096
 vless://badcd907-50f2-4ef3-aaae-bf44f0ca9b2a@173.245.58.31:443?security=tls&sni=freakv22.tm-online.xyz&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.31:443
@@ -998,3 +997,4 @@ vless://83799c42-1b7e-481c-9552-693168345a41@185.146.173.58:8080?encryption=none
 vless://9826f339-1024-412e-8d47-fa368c6c30e5@185.146.173.58:8080?encryption=none&host=severv.servernet.fun.&path=%2FServerNett&security=none&type=ws#رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣3️⃣
 vless://e0bbd4e7-9428-4495-8a43-41644c9d1a57@185.146.173.58:8080?encryption=none&host=servernett44.servernet.fun.&path=%2FServerNett&security=none&type=ws#رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣4️⃣
 vless://2cd27152-8950-47c9-96cc-52529501b0a5@185.146.173.58:8080?encryption=none&host=severv.servernet.fun.&path=%2FServerNett&security=none&type=ws#رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣5️⃣
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.111.69:443?encryption=none&fp=randomized&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=mmdv2.pages.dev&type=ws#رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣
