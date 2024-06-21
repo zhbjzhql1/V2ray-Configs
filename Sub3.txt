@@ -1,7 +1,3 @@
-ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.10.107:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.10.107:80
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:8000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.20:8000
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.225:8009#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8009
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.89:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8090
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989#🔒 SS-TCP-NA 🇳🇴 NO-185.90.61.153:989
 ss://ZDM0MmQxMWUtZDQyNC00NTgzLWIzNmUtNTI0YWIxZjBhZmE0Og==@172.67.132.142:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.132.142:443
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.225:8118#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.225:8118
@@ -998,3 +994,7 @@ trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-s
 trojan://FtEizCoS0v0MUqSQBgMm2A@172.66.213.38:2083?security=tls&sni=gerMnV2ray.naziitness.coM&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.66.213.38:2083
 trojan://NISHIKUITAN222@8.219.199.220:8443?security=tls&sni=t010.ylks.link&type=ws&host=t010.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.199.220:8443
 trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.2:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.2:443
+trojan://TfXhyKdmfX@172.64.146.62:8443?security=tls&sni=Tdd5yct6uv-Vhd57fc7yvjFy-Ec6vBy87y7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.62:8443
+trojan://675821fd-e6d1-4e8e-b56e-efc84bc819a0@172.207.175.114:443?#🔒 TR-TCP-NA 🇯🇵 JP-172.207.175.114:443
+trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.116.151.254:25106?sni=hk03.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.116.151.254:25106
