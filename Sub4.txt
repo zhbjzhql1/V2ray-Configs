@@ -1,3 +1,4 @@
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.219:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.219:8443
 trojan://telegram-id-privatevpns@35.176.101.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.176.101.45:22222
 trojan://ypDt8RkT7J@51.158.217.195:43118?security=tls&sni=wnbtg.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.195:43118
 trojan://auto@172.67.205.219:443?security=tls&sni=esetsecuritylicense.nzuwcx.workers.dev&type=ws&host=esetsecuritylicense.nzuwcx.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.205.219:443
@@ -997,4 +998,3 @@ vless://25360cda-e65d-4ec6-8a71-46dc50f3d8a1@185.146.173.37:8880?security=none&t
 vless://849b8b7a-dcc5-4b28-9c30-29841b7717b9@173.245.49.125:80?security=none&type=ws&host=appcdNewYourkSS.hidenpnmb.sbs#🔒 VL-WS-NONE 🏴‍☠️ NA-173.245.49.125:80
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2096?security=tls&sni=sisand.waztow.wOrkErS.DEv&type=ws&host=sisand.waztow.wOrkErS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2096
 vless://29cf96e6-8008-4233-a883-4b5daeb72309@172.67.153.213:443?security=tls&sni=helloworld.seyed-ali-khamenei-binamous.site&type=ws&host=helloworld.seyed-ali-khamenei-binamous.site&path=/@azadi_az_inja_migzare&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.153.213:443
-vless://af309ad2-c943-48ea-b570-2e51a2f079d9@104.17.20.32:80?security=none&type=ws&host=vld9.topshop20.com&path=/DSDaswd22!11*fdfm55247.COM.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.20.32:80
