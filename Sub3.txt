@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.207:4444#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.207:4444
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8000#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:8000
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.135.237:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.135.237:80
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.162.200.225:8118#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.225:8118
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@104.19.230.57:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.19.230.57:443
 ss://ZWI0NGUxYzctZTViYS00NDQ2LTgwN2MtYTA3NjhhOGY0NTg5Og==@104.16.120.182:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.120.182:2083
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.75.24:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.75.24:80
@@ -994,7 +998,3 @@ trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.16.192.1:443?security=tls&sni=sher
 trojan://f0eb8c92ce8946aaba856569cff1a16b@104.16.192.158:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.158:443
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.185.80:8443?security=tls&sni=mailbox.CPIforPERSiA.uk&type=ws&host=mailbox.CPIforPERSiA.uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.185.80:8443
 trojan://NISHIKUITAN222@192.9.177.204:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🇦🇺 AU-192.9.177.204:443
-trojan://A9l6_eMgylRZu0YiSqunsQ@104.21.34.77:2096?sni=usa.iwontletgo.cloud&type=grpc&serviceName=trojan#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.34.77:2096
-trojan://NISHIKUITAN222@47.236.118.216:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.118.216:8443
-trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
-trojan://GSYYULACz0@104.18.202.232:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.202.232:8080
