@@ -1,3 +1,5 @@
+vless://94b3cbba-e6ac-485a-9481-976a0916eab9@104.21.31.221:443?security=tls&sni=esetSEcUriTyLicENSE.URNuVSg.wOrkeRS.dev&type=ws&host=EsEtSeCuRITYLIceNSe.urNuvsg.WORKers.DEV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.31.221:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.239:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-103.169.142.239:443
 vless://6ae78853-9cae-44bd-88bd-9f32723eb685@104.21.1.148:2083?security=tls&sni=marketepicnode6.nabarbest.ir&type=ws&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.1.148:2083
 vless://1a57253c-9012-442d-b1e4-db4e2eb12a31@104.21.69.44:2087?security=tls&sni=mehdi1.honarestan-hegmataneh.com&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2087
 vless://9d653c49-f256-4754-baa3-65fdbd4deca2@185.146.173.237:443?security=tls&sni=xn--pgba0a.king4change.shop.&type=ws&host=xn--pgba0a.king4change.shop.&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇸🇪 SE-185.146.173.237:443
@@ -996,5 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.24.254:80?type=ws&host=kr1.1
 vless://3d4e4ff0-d706-4a6c-92b1-ed4927959c3a@172.67.44.193:80?security=none&type=ws&host=cpy.cpy-teel-1-32f.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.44.193:80
 vless://baadfec3-75bd-4df0-ad6b-2ecdfdfe9d52@104.21.42.56:80?security=none&type=ws&host=worker-super-shape-975b.1011da65bb0ac5.workers.Dev&path=%2FTelegram%20channel%20%3A%20%40pandavpntc#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.42.56:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.70.92:2087?security=tls&sni=jp555.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.70.92:2087
-vless://af60861e-296e-4578-eaae-2ff95675040c@104.21.70.103:80?security=none&type=ws&path=/.Turk#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.103:80
-vless://25ab221a-c3b8-4196-8519-a2f3176629c2@172.105.252.35:2003?security=tls&sni=in-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇮🇳 IN-172.105.252.35:2003

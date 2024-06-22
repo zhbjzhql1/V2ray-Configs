@@ -1,3 +1,5 @@
+trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.18.185.80:8443?security=tls&sni=mailbox.CPIforPERSiA.uk&type=ws&host=mailbox.CPIforPERSiA.uk&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.185.80:8443
+trojan://NISHIKUITAN222@192.9.177.204:443?security=tls&sni=t116.ylks.link&type=ws&host=t116.ylks.link&path=/#🔒 TR-WS-TLS 🇦🇺 AU-192.9.177.204:443
 trojan://A9l6_eMgylRZu0YiSqunsQ@104.21.34.77:2096?sni=usa.iwontletgo.cloud&type=grpc&serviceName=trojan#🔒 TR-GRPC-NA 🏴‍☠️ NA-104.21.34.77:2096
 trojan://NISHIKUITAN222@47.236.118.216:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.118.216:8443
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.83:443
@@ -996,5 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.234:443?security=tls&sni=
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.236.165.25:2083?security=tls&sni=xin700.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇸🇬 SG-47.236.165.25:2083
 vless://198d91bf-b239-4588-ac19-70b398003e0c@172.67.142.187:2096?security=tls&sni=selincchanelselinc.jdyece.workers.dev&type=ws&host=selincchanelselinc.jdyece.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.142.187:2096
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@138.3.222.135:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇯🇵 JP-138.3.222.135:443
-vless://f226dd38-d7b1-47c7-8051-37cd32473993@172.66.44.135:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.irantech.Org.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.44.135:80
-vless://b4f9c540-3911-4826-a274-e8d6d0cf8de1@104.21.57.195:2096?security=tls&sni=sinaazizpor.cozwao.WOrkERS.dev&type=ws&host=sinaazizpor.cozwao.WOrkERS.dev&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.57.195:2096
