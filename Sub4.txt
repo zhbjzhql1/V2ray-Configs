@@ -1,4 +1,3 @@
-trojan://telegram-id-privatevpns@108.128.14.53:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇮🇪 IE-108.128.14.53:22222
 trojan://16b7b47f-48cc-424b-a9c0-fdd33e835042@45.56.67.132:443?security=tls&sni=us2-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇺🇸 US-45.56.67.132:443
 trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇹 IT-212.102.54.11:43118
 trojan://tIErrUuX7j@172.67.187.246:2053?security=tls&sni=vr.v2ray962.filegear-sg.me&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.187.246:2053
@@ -998,3 +997,4 @@ vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.15.19:2087?security=tls&sni=
 vless://67ac2966-c633-4fbe-92dd-8c666881c6de@162.159.254.222:8080?security=none&type=ws&host=worker-hidden-thunder-00c3.test29-c85.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.254.222:8080
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@159.246.55.174:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-159.246.55.174:443
 vless://ac4a922d-86fa-44e6-8825-238164b693f3@190.93.247.194:8880?security=none&type=ws&host=Baloch.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.jetupnet.sbs.&path=/@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet-@jetupnet#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.194:8880
+vless://6dc254fd-c36e-413f-ad4b-39bb76e420ed@66.235.200.107:8443?security=tls&sni=vmessorg.xn--54qv00ez5ar77g.co&type=ws&host=vmessorg.xn--54qv00ez5ar77g.co&path=/&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-66.235.200.107:8443
