@@ -1,3 +1,4 @@
+vless://5fe9ddd1-6cb7-4959-e963-9e60ddd70694@104.21.59.67:443?security=tls&sni=paradiselost.pafyegedro.workers.dev&type=ws&host=paradiselost.pafyegedro.workers.dev&path=/downloader/40943&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.59.67:443
 vless://206cbf43-c050-4be1-87d0-b0db774a244e@173.245.59.101:2053?security=tls&sni=FreeIran.DarkMood.cfd&type=grpc&serviceName=FreeIran.DarkMood.cfd&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.59.101:2053
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.98:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.98:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@199.181.197.78:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-199.181.197.78:443
@@ -997,4 +998,3 @@ vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.2.133:443?security=tls&sni=
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.205.53:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.205.53:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.195.62.143:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇫🇮 FI-45.195.62.143:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.244:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.244:80
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@8.218.122.55:2096?security=tls&sni=v700.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-8.218.122.55:2096
