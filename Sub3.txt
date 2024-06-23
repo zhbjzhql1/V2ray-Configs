@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.207:5000#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.207:5000
 ss://NjNlMGNjYzMtYmNlYi00NmNlLWE0MTgtMWM2YTcxZDIwZTNmOg==@104.21.42.56:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.42.56:443
 ss://YWVzLTI1Ni1nY206ZTg0YTlmOTktZWFlYy00Y2RkLTk0YzktNjU2MTEwMTViZTNl@172.232.250.227:8443#🔒 SS-TCP-NA 🇮🇩 ID-172.232.250.227:8443
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.138:5004#🔒 SS-TCP-NA 🇺🇸 US-38.68.135.138:5004
@@ -997,4 +998,3 @@ trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.co
 trojan://NISHIKUITAN222@8.219.106.156:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.106.156:443
 trojan://a9d4426f1c76c6b@104.21.69.44:2053?security=tls&sni=bestfollower.fandlaandpro.ir&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.69.44:2053
 trojan://a3bce210-eacc-11ee-be58-1239d0255272@188.114.97.1:443?sni=de2.test3.net&type=ws&host=de2.test3.net&path=/howdy#🔒 TR-WS-NA 🏴‍☠️ NA-188.114.97.1:443
-trojan://NISHIKUITAN222@8.219.78.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.78.1:8443

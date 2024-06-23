@@ -1,3 +1,4 @@
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.95.160:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.95.160:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.155.183:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇭🇰 HK-47.242.155.183:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.80.123:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.80.123:80
 vless://51baeda8-1288-458a-b5ae-b8b080b937b6@104.16.60.8:8880?type=ws&host=xn--7xvv6b.xn--gtvy9j.xn--vl1axf.xn--2024-965f794bzbu32k74w57mfzf.site.#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.60.8:8880
@@ -997,4 +998,3 @@ vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.2:443?security=tls&sni=c
 vless://ac07a487-cb1d-4998-89a6-8a6fc5cc9c7e@2.189.59.6:443?security=tls&sni=mci.unlimiteddev-vpn.Com.&type=grpc&serviceName=Channel%3A%40UnlimitedDev&fp=chrome#🔒 VL-GRPC-TLS 🇮🇷 IR-2.189.59.6:443
 vless://43dab336-b5cf-473f-db6e-e54ea23aec5b@172.67.203.233:2096?security=tls&sni=orders-onlinestore-dev01.cyberscaler.com&type=ws&host=prod01-cloud-sea-net01.cyberscaler.com&path=/online-ski-shoes-sales/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.203.233:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.21.236.181:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.236.181:443
-vless://1e3a4e87-1ca3-4cf8-9e67-066705976a03@141.105.130.9:43914?security=none&type=tcp#🔒 VL-TCP-NONE 🇺🇦 UA-141.105.130.9:43914
