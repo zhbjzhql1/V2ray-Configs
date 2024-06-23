@@ -1,6 +1,3 @@
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
-trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&sni=wuxgk.phooeyunfold.com#🔒 TR-TCP-TLS 🇫🇷 FR-62.210.82.54:43118
-trojan://182228812d1e0f23@45.11.104.94:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.oeo12&path=/gateway/connect#🔒 TR-WS-TLS 🇭🇰 HK-45.11.104.94:3306
 trojan://b4e8771997c94732acbc9ec4d19c2589@198.41.220.3:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.3:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.229:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.229:2053
 trojan://NISHIKUITAN222@47.236.202.91:2053?security=tls&sni=t306.ylks.link&type=ws&host=t306.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.202.91:2053
@@ -998,3 +995,6 @@ vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@172.67.178.12:443?security=tls&sni=
 vless://13e706ae-0d80-45c2-8768-554ebf5d492d@172.67.193.108:443?security=tls&sni=no1.v2vless.xyz&type=ws&host=no1.v2vless.xyz&path=Join-Telegram-Channel-%40AstroVPN_official%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.108:443
 vless://de70c2ab-3b16-44c2-8579-9b05fedc3b36@172.66.44.139:443?security=tls&sni=pardazeshvpn-tg3.pages.dev&type=ws&host=pardazeshvpn-tg3.pages.dev&path=%2F%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.139:443
 vless://698bdf81-9777-41cc-9cc1-81a2fc43bd08@104.21.59.165:8080?security=none&type=ws&host=cloudmehranmmdv1ray.v3rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.MahDi3Mm.onliNe.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.59.165:8080
+vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@104.21.46.33:443?security=tls&sni=admin.irayanconfig.ir&type=ws&host=admin.irayanconfig.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.33:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.139.111:8443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.48:443?security=tls&sni=hk700.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇺🇸 US-198.62.62.48:443
