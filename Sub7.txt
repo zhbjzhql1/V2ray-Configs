@@ -1,6 +1,3 @@
-vless://9fea4f96-8cc8-44c5-9450-797c3be88a31@104.21.32.226:2087?security=tls&sni=sina-mci-panel.eystem.ir&type=grpc&serviceName=@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-@V_2rayy_NG-&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.21.32.226:2087
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@146.56.136.39:10099?security=tls&sni=v700.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-146.56.136.39:10099
-vless://ca2279db-9aa2-4137-a792-d88efcc2eae0@104.20.11.224:2096?security=tls&sni=full.gosharep.CoM&type=ws&path=/ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.11.224:2096
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.31.173:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.31.173:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.89.124:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇫🇷 FR-15.237.89.124:22222
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.106:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.106:80
@@ -998,3 +995,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.76.146.1:2083?security=tls&sni=z
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.198.182:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.198.182:80
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@104.18.12.130:2083?security=tls&sni=dash.zedmodeon.lat&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.12.130:2083
 vless://ee3fda1f-d8ec-44c7-942e-7e980b0b941c@104.21.85.204:2052?security=none&type=ws&host=P.a.n.jetupnet.sbs.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.85.204:2052
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.85:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇩🇪 DE-188.244.122.85:443
+vless://29f00915-4107-491d-ba71-c9328e845a32@173.245.58.100:80?type=grpc&serviceName=Telegram#🔒 VL-GRPC-NA 🏴‍☠️ NA-173.245.58.100:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.182.206:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.182.206:80
