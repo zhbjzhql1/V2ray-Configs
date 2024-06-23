@@ -1,10 +1,3 @@
-ss://ZWI0NGUxYzctZTViYS00NDQ2LTgwN2MtYTA3NjhhOGY0NTg5Og==@104.16.12.49:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.12.49:2083
-ss://ZWI0NGUxYzctZTViYS00NDQ2LTgwN2MtYTA3NjhhOGY0NTg5Og==@104.16.12.226:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.12.226:2083
-ss://M2Y5ZDNiNTItMWJjYy00OTlmLWFhZDAtYmE3MWQ2MTIzZjhiOg==@104.18.28.181:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.28.181:8080
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3306#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:3306
-ss://OGEwNTJjNjUtYmRmNi00ODVhLWMxZDctY2IyYjIzZjE1ZGZhOg==@104.16.6.65:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.6.65:443
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#🔒 SS-TCP-NA 🇵🇱 PL-51.77.53.200:2375
-ss://NDA0NWM2YjctMWQ1My00NTc0LTk4Y2QtZGYyMWRiNDBiMGRjOg==@172.67.118.209:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.118.209:2053
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.112.219.236:443#🔒 SS-TCP-NA 🇯🇵 JP-3.112.219.236:443
 ss://ZWI0NGUxYzctZTViYS00NDQ2LTgwN2MtYTA3NjhhOGY0NTg5Og==@104.16.12.76:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.12.76:2083
 ss://MWQxYTcxOTMtNjFhOS00ZmMxLTk3NzgtZGQ1MTdjZjlmOTE5Og==@172.67.136.208:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.136.208:443
@@ -998,3 +991,10 @@ trojan://saMgiangGt@104.16.25.192:443?security=tls&sni=teo.history-paint.art&typ
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.5:443?#🔒 TR-TCP-NA 🇺🇸 US-69.162.95.5:443
 trojan://2cba4104747d49d18319e5ade1b93ab5@104.18.23.19:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.23.19:443
 trojan://BO7e2KO_KlAjuJY-HYoabQ@104.21.3.201:443?security=tls&sni=n37-at.netzrun.com&type=ws&path=%2Fid#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.3.201:443
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.9:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.9:443
+trojan://3080amimVq@104.21.72.61:2053?security=tls&sni=frankfoortvip.followprovider.ir&type=ws&path=/&fp=chrome&allowInsecure=1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.61:2053
+trojan://telegram-id-directvpn@18.169.118.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-18.169.118.45:22222
+trojan://knRrjEPWd5@164.90.167.137:2095?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m#🔒 TR-WS-NA 🇩🇪 DE-164.90.167.137:2095
+trojan://NISHIKUITAN222@47.242.125.241:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=%2F#🔒 TR-WS-TLS 🇭🇰 HK-47.242.125.241:443
+trojan://NISHIKUITAN222@8.222.134.170:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.134.170:8443
+trojan://Ayujaolw07@18.142.43.207:58235?security=none&type=ws&path=/#🔒 TR-WS-NONE 🇸🇬 SG-18.142.43.207:58235
