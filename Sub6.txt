@@ -1,3 +1,4 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.160.204.13:443?security=tls&sni=kk111.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-103.160.204.13:443
 vless://e0f52d31-566b-437d-9961-1865e38d10fb@172.67.66.177:8880?security=none&type=ws&host=up.sourceforge.sbs&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.66.177:8880
 vless://62f6b891-7988-4392-88c7-14134bb3ffa9@104.21.94.28:2096?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.28:2096
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.115.241:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.115.241:443
@@ -997,4 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.188.12:80?type=ws&host=kr1.1
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.113:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.113:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.53:443?security=tls&sni=kk667.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇸🇬 SG-206.238.237.53:443
 vless://38ace213-5184-477b-ac3e-d800d0cf3cd9@104.31.16.65:2095?security=none&type=ws&host=de1.vlessx.xyz#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.65:2095
-vless://494f08aa-e007-4336-a989-be6db932dcc5@162.159.134.233:443?security=tls&sni=shops.atmode.sbs&type=grpc&serviceName=cdn.discordapp.com#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.134.233:443
