@@ -1,4 +1,3 @@
-vless://c0fbd664-9693-4cc0-aa73-9247dbbadbeb@104.21.46.197:443?security=tls&sni=bed7nemarz.ribon88568.workers.dev&type=ws&host=bed7nemarz.ribon88568.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.197:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.174.113:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.174.113:443
 vless://118e23b4-1990-4edc-a35b-004aa46f96ee@104.26.13.8:80?security=none&type=ws&host=configt-channels.sg-forum.info&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.13.8:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.126.144:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.126.144:80
@@ -998,3 +997,4 @@ vless://86ba8b32-71a7-589c-b728-991c7c726d60@104.17.3.54:2096?security=tls&sni=e
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@172.67.141.99:2087?security=tls&sni=IxHiWwAs22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.141.99:2087
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@193.122.110.164:25800?security=tls&sni=a.ssll.gay&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai_8+%2F%3Fed#🔒 VL-WS-TLS 🇰🇷 KR-193.122.110.164:25800
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.247:443?security=tls&sni=kk555.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.247:443
+vless://366236b3-b3cb-4097-9900-b46098a244b7@104.21.74.214:2086?security=none&type=ws&host=ip499.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.74.214:2086

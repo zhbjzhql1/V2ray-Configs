@@ -1,4 +1,3 @@
-trojan://moist@8.210.100.23:2096?sni=trojan.freenods.sbs&type=ws&host=trojan.freenods.sbs#🔒 TR-WS-NA 🇭🇰 HK-8.210.100.23:2096
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@20.2.16.209:443?#🔒 TR-TCP-NA 🇭🇰 HK-20.2.16.209:443
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.67.73.233:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=ws&host=msnghdfy4c1.iraniancpi.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.73.233:443
 trojan://pUxG77WPOZ@104.17.147.22:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
@@ -998,3 +997,4 @@ vless://aabbcca-bcaa-acba-cdba-ccbabbccbaaa@127.0.0.1:1080?security=tls&type=tcp
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.231:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0#🔒 VL-WS-TLS 🇺🇸 US-204.93.210.231:8443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.19.230.57:443?security=tls&sni=523afb17.IRS23.pAgES.Dev&type=ws&host=523AfB17.IRS23.pagES.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.230.57:443
 vless://4f6f85f9-9d32-4684-a952-338d2208e1af@104.18.15.19:80?security=none&type=ws&host=net.de.cloudflare.cdn.discord.telegram.zula.ir.fars.ir.iranserver.dontbow.store.&path=%2Fdont%2Ftrust%2Fmelo#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.15.19:80
+vless://c0fbd664-9693-4cc0-aa73-9247dbbadbeb@104.21.46.197:443?security=tls&sni=bed7nemarz.ribon88568.workers.dev&type=ws&host=bed7nemarz.ribon88568.workers.dev&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.46.197:443
