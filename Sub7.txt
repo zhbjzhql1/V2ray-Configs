@@ -1,3 +1,4 @@
+vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.21.38.94:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.94:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.42.89.222:443?security=tls&sni=kk700.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.222:443
 vless://f8f5dce2-e66b-45bd-957e-53c1ecdda37a@104.21.3.182:443?security=tls&sni=jAVIdshAh.PageS.deV&type=ws&host=JAvIdsHAH.PaGes.DEV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.3.182:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.69.44:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.69.44:443
@@ -997,4 +998,3 @@ vless://cec5fd94-3ff0-4ad2-ad78-423269ce9717@80.85.242.34:8263?security=none&typ
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.252.119:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.252.119:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.221.130:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.221.130:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@174.136.206.95:57757?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=/?ed#🔒 VL-WS-TLS 🇺🇸 US-174.136.206.95:57757
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.34:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.34:80

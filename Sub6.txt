@@ -1,3 +1,4 @@
+vless://3f9d3b52-1bcc-499f-aad0-ba71d6123f8b@104.21.228.181:8080?security=none&type=ws&host=shuige3.cbj2bxt6.workers.dev&path=%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.228.181:8080
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.142.176:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.142.176:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@205.233.181.117:443?security=tls&sni=kk667.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-205.233.181.117:443
 vless://bb3bb4d7-be67-42c0-fbe3-4895387e4f74@104.16.61.8:2083?security=tls&sni=mhsngrty1.iraniancpi.uk&type=ws&host=mhsngrty1.iraniancpi.uk&path=%2Fws&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.61.8:2083
@@ -997,4 +998,3 @@ vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.241.205:443?security=tls&sni
 vless://62f6b891-7988-4392-88c7-14134bb3ffa9@172.67.218.140:2083?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.218.140:2083
 vless://b35352a6-a251-4bf5-bfc4-14f255f02888@172.67.137.224:443?security=tls&sni=mahdiserver.msebexj.workers.dev&type=ws&host=mahdiserver.msebexj.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.137.224:443
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.64:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇱🇺 LU-188.42.89.64:443
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.21.38.94:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.94:443

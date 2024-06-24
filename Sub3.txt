@@ -1,3 +1,4 @@
+ss://MTg2YzZhZmUtNzIzNC00OTExLTgzOWYtNzcwODZlOWI3Mjc4Og==@172.67.216.166:2082#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.216.166:2082
 ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@198.41.219.52:80#🔒 SS-TCP-NA 🏴‍☠️ NA-198.41.219.52:80
 ss://Y2M3NzFiMjctMjdhZC00YmYzLWJjNDItZjQyY2Q2NzNlZGJlOg==@172.66.47.170:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.170:443
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.114.114.6:5499#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.6:5499
@@ -997,4 +998,3 @@ trojan://auto@104.21.44.210:443?security=tls&sni=esetsecuritylicense1.bwnsmv.wor
 trojan://224c91ee-7e18-4f1e-86bb-c1836f218c95@48.218.11.96:443?#🔒 TR-TCP-NA 🇯🇵 JP-48.218.11.96:443
 trojan://NISHIKUITAN222@8.219.111.147:443?security=tls&sni=t600.ylks.link&type=ws&host=t600.ylks.link&path=%2F#🔒 TR-WS-TLS 🇸🇬 SG-8.219.111.147:443
 trojan://NISHIKUITAN222@47.237.10.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.10.1:8443
-trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.16:443

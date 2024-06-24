@@ -1,3 +1,4 @@
+trojan://b0b861c2c85346a389b9e95769c3cba4@198.41.220.16:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.16:443
 trojan://NISHIKUITAN222@8.219.104.37:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.104.37:8443
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@104.26.10.194:443?security=tls&sni=msnghdfy4c1.iraniancpi.uk&type=ws&host=msnghdfy4c1.iraniancpi.uk&path=/4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.10.194:443
 trojan://NISHIKUITAN222@35.247.124.181:443?security=tls&sni=t667.ylks.link&type=ws&host=t667.ylks.link&path=/#🔒 TR-WS-TLS 🇺🇸 US-35.247.124.181:443
@@ -997,4 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.151:80?type=ws&host=kr1.
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.53.110:8443?security=tls&sni=kk667.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-8.218.53.110:8443
 vless://6be8ca9a-3d2f-4401-f7c5-3b2baf238977@104.21.20.148:2095?security=none&type=ws&host=ip1677.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.20.148:2095
 vless://7509f896-2115-4420-b487-501c9103bebd@59.23.158.27:18621?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-59.23.158.27:18621
-vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.47.155:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.155:443
