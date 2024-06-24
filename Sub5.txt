@@ -1,4 +1,3 @@
-vless://ccf6c519-a036-4e78-b31e-5b72d9ccd3a4@5.75.198.2:2153?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.198.2:2153
 vless://ec3b9c37-7cde-46ab-aefd-7e17e1f06fa1@104.168.107.230:5676?security=reality&flow=xtls-rprx-vision&sni=arnebrachhold.de&type=tcp&fp=chrome&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&sid=db68e802226b21cd#🔒 VL-TCP-RLT 🇺🇸 US-104.168.107.230:5676
 vless://1596e7f0-2106-468f-e2b0-93f19e83bd0c@116.203.149.241:443?security=reality&sni=greenpepper.ir&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=wxzZx9_9R0QXG4Hjc8e3_ckaUIbn9oKc5yKsBqh8ulc&sid=a18472f7#🔒 VL-GRPC-RLT 🇩🇪 DE-116.203.149.241:443
 vless://837c965b-4487-4976-99ba-dfed6b0e9c35@212.79.125.35:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-212.79.125.35:17552
@@ -998,3 +997,4 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.16.190.131:443?security=tls&sni
 vless://ffffffff-bf32-4282-b875-eca220008daf@172.67.204.84:443?security=tls&sni=f.auto.r.exit.e.e.watashi-java.ir&type=ws&host=f.auto.r.exit.e.e.watashi-java.ir&path=/&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
 vless://a25e8ff9-8650-4098-86af-b524e4ec72d8@104.16.60.8:443?security=tls&sni=admin2.pythonic-ai.com&type=ws&host=admin2.pythonic-ai.com&path=%2FvYoLL0j3yXajA2rNVYyVkeSUkkM&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.60.8:443
 vless://23f45133-f09a-46df-8a3c-512ba69ccb28@94.182.136.46:42370?security=none&type=grpc&serviceName=@vpn_land_official@vpn_land_official@vpn_land_official#🔒 VL-GRPC-NONE 🇮🇷 IR-94.182.136.46:42370
+vless://962a733d-26d7-108d-7fa6-a8102ffea8eb@172.67.193.154:443?security=tls&sni=vowelquran18.xyz&type=ws&path=/current_time&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.193.154:443

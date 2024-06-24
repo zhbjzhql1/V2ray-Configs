@@ -1,4 +1,3 @@
-trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&sni=tojzy.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇫🇷 FR-51.158.217.57:43118
 trojan://TeleGram-VPNCTVIP@164.38.155.61:443?sni=trojan-ws.vpnctvip.dns-dynamic.NeT#🔒 TR-TCP-NA 🇬🇧 GB-164.38.155.61:443
 trojan://ypDt8RkT7J@169.150.206.186:43118?security=tls&sni=tpmem.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇩🇪 DE-169.150.206.186:43118
 trojan://Ck0nkbbsur@172.64.150.8:2096?security=tls&sni=tls.redbullplus.xyz&type=ws&host=tls.redbullplus.xyz&path=/wsss#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.150.8:2096
@@ -998,3 +997,4 @@ vless://7c7af2de-bb97-429f-ac3c-8ef849717491@80.253.255.10:443?security=reality&
 vless://637d3b63-758b-47cb-a5f6-f96fe6e4ab3b@193.228.1.157:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=zGp41QGUA2TBVirEaFS34_n05w38JxQHKbqQxS-iHzM&sid=cd2ccdd9761335d4#🔒 VL-TCP-RLT 🇹🇷 TR-193.228.1.157:443
 vless://edf94ccb-e076-472b-b2e3-a11ba669d0fc@172.232.146.140:443?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=rW_BTQ5EiomL4nMuvj3EbxqjRdLYt9Q0rpCaS9Iy8Eo&sid=804894e8#🔒 VL-GRPC-RLT 🇸🇪 SE-172.232.146.140:443
 vless://e82351c5-c339-4d48-b90d-3524c5547912@142.93.166.107:443?security=reality&sni=*.partyverleih-glauberg.de&type=grpc&serviceName=@ipV2Ray&fp=chrome&pbk=LD8y7bs5T8tNSLcB83NQXpo0_LfHk76WWykNwXJRG3I&sid=304a9854#🔒 VL-GRPC-RLT 🇩🇪 DE-142.93.166.107:443
+vless://ccf6c519-a036-4e78-b31e-5b72d9ccd3a4@5.75.198.2:2153?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=xyz&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.198.2:2153
