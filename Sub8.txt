@@ -1,3 +1,5 @@
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.215.161:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.215.161:80
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.24.177.7:80?security=none&type=ws&host=luact.zahedan.eu.org#🔒 VL-WS-NONE 🏴‍☠️ NA-104.24.177.7:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.146.234:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.146.234:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.56:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-31.22.116.56:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.163.43:443?security=tls&sni=0ABd6Cc4.IRsnET.pAges.DEV&type=ws&host=0aBD6CC4.iRSneT.PAGes.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.163.43:443
@@ -996,5 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.99:443?security=tls&sni=c
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.5:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.5:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.94.169.235:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇦 UA-45.94.169.235:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.148.244:443?security=tls&sni=B458ab02.caa-chANel-WoRkER-PAge-freE-jhUihNUjhPHjkl-nIhgKjn.paGeS.DeV&type=ws&host=b458aB02.cAa-cHaneL-woRKeR-PAGe-fReE-jhUiHnuJhPhjKl-nIHgkJN.PAges.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.148.244:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.184:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.184:80
-vless://c0b4f67c-d0ba-4384-8680-7e5f87f18be1@104.26.7.89:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.7.89:443

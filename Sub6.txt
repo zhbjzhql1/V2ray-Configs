@@ -1,3 +1,5 @@
+vless://e2fbd763-57e0-4a42-b083-4ef713bb0300@104.17.248.203:443?security=tls&sni=x3.dalidalton.online&type=grpc&serviceName=Telegram+%3A+%40vpn_xw+Telegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xwTelegram+%3A+%40vpn_xw#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.248.203:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.215.121:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.215.121:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@152.32.252.175:8969?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇭🇰 HK-152.32.252.175:8969
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.142.113:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.142.113:443
 vless://9709a49f-40fc-4d0d-bc5c-77827947e30b@162.159.1.35:8080?security=none&type=ws&host=joinsevernettdd.xn--78-pv2cvta065cac9302fea377a148g.xyz.#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.1.35:8080
@@ -996,5 +998,3 @@ vless://d74c90f6-fa52-47ea-82c5-b2763f2f2aac@172.67.177.157:443?security=tls&sni
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.243.10:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.243.10:443
 vless://7b5a7775-4006-49af-96c4-b2506a794f99@104.31.16.95:443?security=tls&sni=laj.iranianmobail.ir&type=ws&host=laj.iranianmobail.ir&path=/9KsgRW1AnYtwZOVz&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.31.16.95:443
 vless://2321a662-adbb-49b6-9c3d-51fcef59c70d@193.227.99.66:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇲🇹 MT-193.227.99.66:8443
-vless://7f035a95-4b51-4e0b-8995-59864a9cde22@104.16.181.38:443?security=tls&sni=MSdOnoR.pagEs.dEV&type=ws&host=mSDONOr.Pages.dEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.181.38:443
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@140.238.201.118:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇦🇺 AU-140.238.201.118:443
