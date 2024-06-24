@@ -1,3 +1,4 @@
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.59.113:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.59.113:80
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.26.15.85:443?security=tls&sni=ISaA1.PAGES.DeV&type=ws&host=ISaa1.pAGes.deV&path=%2FNHkYBjMYrQliv25Y%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.15.85:443
 vless://5007dc3f-0270-4ed8-a210-1a1d7952756d@104.16.54.150:443?security=tls&sni=BIa-pAIN-bAche.PagEs.DeV&type=ws&host=BiA-pAIN-bACHE.pAges.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.54.150:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@216.205.52.180:2053?security=tls&sni=78345.pages.dev&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇺🇸 US-216.205.52.180:2053
@@ -997,4 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.65:80?type=ws&host=kr1.1
 vless://9155e3fe-d418-4f5c-a5a1-c26cfe862af1@194.60.231.31:29879?type=tcp&host=host:nasa.gov&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-194.60.231.31:29879
 vless://a0acb9f9-b2f1-4af4-b4eb-32234a254c71@188.114.98.224:2087?security=tls&sni=gerMnV2ray.naziitness.coM.&type=ws&host=gerMnV2ray.naziitness.coM.#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.224:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.245.102.52:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-47.245.102.52:80
-vless://8436d06d-8a2e-4b23-b743-de65b9c6c741@104.21.80.80:443?security=tls&sni=mahdiserver.xidit31510.workers.dev&type=ws&host=mahdiserver.xidit31510.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.80.80:443

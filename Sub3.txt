@@ -1,3 +1,4 @@
+ss://MjI4Y2Y0NjAtYmI1Mi00ODEwLWI1MjMtZTRjMGY1MWY3MWRkOg==@104.21.42.117:2087#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.42.117:2087
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5001#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:5001
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.10:8119#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.10:8119
 ss://ODliM2NiYmEtZTZhYy00ODVhLTk0ODEtOTc2YTA0MTVlYWI5Og==@172.66.47.118:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.118:443
@@ -997,4 +998,3 @@ trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.166.190:51345?sni=us03.ckclo
 trojan://8f8c2b16-8bf2-4924-98dc-3e11c1ca92e0@176.126.113.161:443?#🔒 TR-TCP-NA 🇳🇱 NL-176.126.113.161:443
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.210.85.222:2087?sni=mfjd.591haoka.com#🔒 TR-TCP-NA 🇭🇰 HK-8.210.85.222:2087
 trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.138:443
-trojan://f159cb8d-8cb8-45ac-99f3-8f8838f355dd@91.194.11.168:443?#🔒 TR-TCP-NA 🇨🇦 CA-91.194.11.168:443
