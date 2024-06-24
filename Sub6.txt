@@ -1,3 +1,7 @@
+vless://9dba67d5-5398-4ad9-a848-55c673846644@172.67.157.203:2053?security=tls&sni=orientation-da1639422ad8f355d2371428.mitowear.com&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.157.203:2053
+vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.44.71:443?security=tls&sni=c1c569fc.irani-eub.pages.dev&type=ws&host=c1c569fc.irani-eub.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.71:443
+vless://c6dd02e0-e229-4ccf-91b3-25c9f10ae9af@172.233.121.184:2003?security=tls&sni=es-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1#🔒 VL-GRPC-TLS 🇪🇸 ES-172.233.121.184:2003
+vless://ce12313e-dab2-49ee-8806-399eb91136b2@104.17.247.203:2096?security=tls&sni=api1.htve.ir&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.247.203:2096
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.147.178:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.147.178:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.79.105.51:443?security=tls&sni=kk667.ylks.link&type=ws&path=/freecodes#🔒 VL-WS-TLS 🇺🇸 US-160.79.105.51:443
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@172.67.175.112:443?security=tls&sni=test.hotshellow.com&type=ws&path=/lg582228486#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.175.112:443
@@ -994,7 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.85.151:80?type=ws&host=kr1.1
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@23.227.39.179:443?security=tls&sni=n2vpn.projectis.ir&type=ws&host=n2vpn.projectis.ir&path=/@n2vpn&fp=chrome#🔒 VL-WS-TLS 🇨🇦 CA-23.227.39.179:443
 vless://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.26.14.85:443?security=tls&sni=hdfy4c2.freeairlaines.com&type=ws&host=hdfy4c2.freeairlaines.com&path=%2FMr6wzC2rxRWBtLTlTL&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.85:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.12.56:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.56:443
-vless://9066bb7e-e9f0-49dc-bd72-22d07c0cf525@172.67.128.83:2096?security=tls&sni=ss.ali767.com&type=grpc&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.128.83:2096
-vless://63abf3c7-7834-4de3-9046-1db20d6dccc8@172.67.183.26:2082?type=ws&host=akv2rayshop%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AF%E8%B5%9B%E5%9B%A0.ephoria-maria.monster.&path=%2F#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.183.26:2082
-vless://9b76baa9-4269-4c46-aaec-4d884a305da0@[::ffff:681a:f50]:8443?security=tls&sni=g.networknim.lol&type=grpc&serviceName=8443vless&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-[::ffff:681a:f50]:8443
-vless://ca2279db-9aa2-4137-a792-d88efcc2eae0@104.20.11.224:2096?security=tls&sni=full.gosharep.CoM&type=ws&path=/ws#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.11.224:2096
