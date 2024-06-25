@@ -1,3 +1,6 @@
+ss://ZGZiYmM4ZGUtOGE0Zi00MDdkLTgwNjktNmRlMzhkODNjNGUxOg==@104.24.176.7:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.24.176.7:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpITWo0bE00M0dBSkxFQklVRGpaSWtS@52.169.37.77:19493#🔒 SS-TCP-NA 🇮🇪 IE-52.169.37.77:19493
+ss://YmY3ZTEwMDktMTU3NC00NGY3LTg2ZGYtNmNiZWNkMzM4NDc3Og==@172.66.47.106:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.106:443
 ss://OTI4ODRjMDItOGIwNy00NTE5LWIyMTItZjkxN2ExNDM5NWMzOg==@172.67.138.246:2096#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.138.246:2096
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.111.114.133:5003#🔒 SS-TCP-NA 🇨🇦 CA-38.111.114.133:5003
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@146.59.111.183:443#🔒 SS-TCP-NA 🇫🇷 FR-146.59.111.183:443
@@ -995,6 +998,3 @@ trojan://telegram-id-privatevpns@18.134.183.109:22222?security=tls&sni=trojan.bu
 trojan://aaac7f98-2590-4d26-ba5e-b365295032a1@172.105.252.35:443?security=tls&sni=in-full.privateip.net#🔒 TR-TCP-TLS 🇮🇳 IN-172.105.252.35:443
 trojan://pUxG77WPOZ@104.18.203.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:80
 trojan://NISHIKUITAN222@8.222.164.209:8443?security=tls&sni=t222.ylks.link&type=ws&host=t222.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.222.164.209:8443
-trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.175.33.117:443?#🔒 TR-TCP-NA 🇭🇰 HK-52.175.33.117:443
-trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
-trojan://2e3562a819634de686ade78e434c0963@104.16.192.148:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.148:443

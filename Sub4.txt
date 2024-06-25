@@ -1,3 +1,6 @@
+trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@52.175.33.117:443?#🔒 TR-TCP-NA 🇭🇰 HK-52.175.33.117:443
+trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@172.67.159.13:443?security=tls&sni=de1.test3.net&type=ws&host=de1.test3.net&path=/howdy#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.159.13:443
+trojan://2e3562a819634de686ade78e434c0963@104.16.192.148:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.148:443
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket&allowInsecure=1#🔒 TR-WS-NA 🇸🇪 SE-95.164.33.62:443
 trojan://TeleGram-VPNCTVIP@164.38.155.61:443?sni=trojan-ws.vpnctvip.dns-dynamic.NeT#🔒 TR-TCP-NA 🇬🇧 GB-164.38.155.61:443
 trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.253.95:26606?sni=sg01.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.29.253.95:26606
@@ -995,6 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.137.83:80?type=ws&host=kr1.
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.245.105.224:80?security=none&type=ws&path=/blue#🔒 VL-WS-NONE 🇸🇬 SG-47.245.105.224:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.97:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.229.97:80
 vless://7749a882-27cf-40f1-c90e-fd2040e46f60@104.31.16.155:80?security=none&type=ws&host=bpi.ir.bankmellat.ir.ilna.ir.jobinja.ir.iro.ir.karafarinbank.ir.mche.or.ir.cbi.ir.iran.gov.ir.khamenei.ir.esam.ir.bahesab.ir.ponisha.ir.parsian-bank.ir.refah-bank.ir.ime.ac.ir.irna.ir.bank-maskan.ir.bmi.ir.iauh.ac.ir.ebanksepah.ir.mahtabighadimi.sbs.&path=%2F&fp=chrome#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.155:80
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.23:443?security=tls&sni=hk600.ylks.link&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.23:443
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇦🇪 AE-94.140.0.157:443
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.202.231.169:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-52.202.231.169:22222
