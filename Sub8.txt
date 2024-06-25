@@ -1,3 +1,4 @@
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.85.225:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.85.225:80
 vless://10b3cbba-e6ac-485a-8381-976a0415eab9@104.21.7.212:443?security=tls&sni=esETseCuRITyLICENSE.sIQIlwDQ.wOrKErs.deV&type=ws&host=eSetsEcURitylICenSE.SIQILwDq.WORKErS.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.7.212:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.157.141:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.157.141:80
 vless://de543079-9ff5-4dce-8b68-97f61685efd7@104.20.23.46:443?security=tls&sni=hdfy1c1.cpiforpersia.uk&type=ws&host=hdfy1c1.cpiforpersia.uk&path=/LNGeLLJXXIlSdZMqnuxG&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.23.46:443
@@ -997,4 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.40:80?type=ws&host=kr1.1
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.147.30:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.147.30:80
 vless://9f0d517d-45d5-5596-b235-7dc981821997@104.21.72.173:443?security=tls&sni=esetsecuritylicense.mrgimsy.worKeRs.Dev&type=ws&host=esetsecuritylicense.mrgimsy.worKeRs.Dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.72.173:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.18.218.210:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.218.210:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.207.170:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.207.170:80
