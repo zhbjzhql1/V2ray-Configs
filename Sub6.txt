@@ -1,3 +1,4 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@65.75.195.33:17665?security=tls&sni=zdy999.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇺🇸 US-65.75.195.33:17665
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.223.89:15800?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-129.154.223.89:15800
 vless://42755b64-8ac3-4ae8-ab7a-783ad2087a31@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=freexraysw.com&path=%2Fvless&fp=ios&alpn=h2,http/1.1#🔒 VL-WS-TLS 🇺🇸 US-151.101.194.219:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.20.5.134:443?security=tls&sni=V2FIveTEL.pAGes.dev&type=ws&host=V2FiVeTeL.pAges.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.20.5.134:443
@@ -997,4 +998,3 @@ vless://b7fb54ba-05a3-45a7-c4d3-c9fb649c833d@162.159.152.2:8080?security=none&ty
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.158.184:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.158.184:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.131:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇧🇬 BG-147.78.140.131:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.12.56:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.12.56:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.87:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.87:443
