@@ -1,5 +1,3 @@
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.25.67:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.25.67:80
-vless://d69b66cb-5fe2-40b9-842b-1951982f80ae@104.21.13.159:2086?security=none&type=ws&host=zebelkhan30.quysc64868.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.13.159:2086
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.168.143:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.168.143:443
 vless://bb60ea48-70e1-414a-b441-86a5e40686de@62.60.210.142:1106?security=none&type=tcp&host=creativecommons.org&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.142:1106
 vless://ff425c99-4d74-4645-8471-bc3626d7e14d@104.21.82.17:443?security=tls&sni=nl2.v2vless.xyz&type=ws&host=nl2.v2vless.xyz&path=/Join-Telegram-Channel-@AstroVPN_official#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.82.17:443
@@ -998,3 +996,5 @@ vless://702c098f-a29a-415d-af86-cf72a437c200@64.176.68.18:443?security=reality&f
 vless://ae5aed77-be23-4f6c-bd51-c73745038952@185.142.238.222:443?security=reality&flow=xtls-rprx-vision&sni=vu.nl&type=tcp&fp=chrome&pbk=Pk--Og6oefYaJlSVLEleq267EVt6NaNRIc0PR-4K9nk&sid=77895d125b69cf7c#🔒 VL-TCP-RLT 🇳🇱 NL-185.142.238.222:443
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&type=grpc&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&alpn=h2,http/1.1#🔒 VL-GRPC-RLT 🇮🇹 IT-185.247.184.147:2060
 vless://24595bd0-45b0-4cac-8857-6e70a6cd135d@172.67.188.24:443?security=reality&sni=mihanyas.ir&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray&fp=chrome&pbk=Lp6j3qTZyMyHxLIwQ16jUdis7PX3o44y5p8RE6CRxmA&sid=d7b5ea99#🔒 VL-GRPC-RLT 🏴‍☠️ NA-172.67.188.24:443
+vless://90f1fa90-75f7-4691-b5b7-a8e4a84d66d9@66.90.74.84:20012?security=reality&flow=xtls-rprx-vision&sni=www.timeto.com&type=tcp&fp=chrome&pbk=Wt9cTNEcGKp6Qy2n050o5U3sDCEK1C-iuzQFYSzXknU&sid=4a3749e4#🔒 VL-TCP-RLT 🇦🇷 AR-66.90.74.84:20012
+vless://53a37908-4cb1-4ae4-bdad-6653dce9cdaf@5.75.231.243:443?security=reality&sni=Ftp.debian.org&type=grpc&serviceName=@vp22ray@vp22ray@vp22ray&fp=chrome&pbk=QUyXIx6S7HgIqh3oryjejQl8zgWwnKWJpoWINluG22A&sid=ee6bce0a#🔒 VL-GRPC-RLT 🇩🇪 DE-5.75.231.243:443
