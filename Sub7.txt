@@ -1,3 +1,4 @@
+vless://63e5b3d4-9975-40e2-8c7c-248b3e0cf6b8@104.21.20.148:2053?security=tls&sni=zerma.ir&type=ws&host=zerma.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.20.148:2053
 vless://fc1191c8-e724-482f-a492-90d3d386719c@104.21.18.174:443?security=tls&sni=sisand.waztow.WorKErs.dEv&type=ws&host=sisand.waztow.WorKErs.dEv&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.18.174:443
 vless://6475e370-b6fb-45de-b377-5796ba96e645@172.67.73.213:2053?security=tls&sni=cconfigv2ray.ceren49639.worKErS.DeV&type=ws&host=cconfigv2ray.ceren49639.worKErS.DeV&fp=chrome&alpn=h2#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.73.213:2053
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.79:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇿 KZ-185.176.26.79:443
@@ -997,4 +998,3 @@ vless://b33b8d28-14d2-4325-80e0-3331ed080b1d@162.159.133.233:2083?security=tls&s
 vless://11d7b37e-5efd-45a8-bb19-2dabe016cfcf@185.162.231.227:443?security=tls&sni=joinFREV2RAY.Houselife.IR&type=grpc&serviceName=@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🇦🇲 AM-185.162.231.227:443
 vless://34930cb2-7eb9-43b3-afdb-b69e8f5566a9@104.16.190.131:2087?security=tls&sni=shoes-sales-online.cyberscaler.com&type=ws&host=shoes-sales-online.cyberscaler.com&path=/online-zafran-store/&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.190.131:2087
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.152.24:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.152.24:80
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.62.208:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.62.208:443

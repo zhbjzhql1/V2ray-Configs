@@ -1,3 +1,4 @@
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.17.62.208:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.62.208:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.95.52:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.95.52:80
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443?security=tls&sni=current.iraniancp.fun&type=ws&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.97.7:443
 vless://10716279-b1ee-41d8-b63e-87782088305b@104.19.96.203:443?security=tls&sni=hEy.BACHEbIAPaIN.Ir&type=ws&host=HEY.BAChebIAPAiN.ir&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.96.203:443
@@ -997,4 +998,3 @@ vless://7f01595b-1195-4f98-b8ad-d06bd6ea906d@194.246.114.54:443?security=tls&sni
 vless://55505e82-0909-44fd-91f7-77f928075d57@104.21.51.16:443?security=tls&sni=v2rayfast7.v2rayfast7join.workers.dev&type=ws&host=v2rayfast7.v2rayfast7join.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.51.16:443
 vless://2362217c-bfee-4074-8f6f-478876f77fd4@190.93.247.32:2052?security=none&type=ws&host=3.ftp.debian.org.www.speedtest.net.人人人人人人人人人人.shop.#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.247.32:2052
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.9.165.253:47580?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇦🇺 AU-192.9.165.253:47580
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.19.148.75:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.148.75:80
