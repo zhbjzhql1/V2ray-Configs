@@ -1,6 +1,3 @@
-trojan://dacc0551-b15a-47da-8543-ef088dfa5904@14.29.253.95:20650?sni=aus01.ckcloud.info#🔒 TR-TCP-NA 🇨🇳 CN-14.29.253.95:20650
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.45:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.45:2087
-trojan://NISHIKUITAN222@8.219.77.222:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.77.222:8443
 trojan://NISHIKUITAN222@47.236.174.206:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.174.206:8443
 trojan://NISHIKUITAN222@47.236.253.41:8443?security=tls&sni=t221.ylks.link&type=ws&host=t221.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.253.41:8443
 trojan://NISHIKUITAN222@47.237.83.20:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.83.20:8443
@@ -998,3 +995,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.236.180.51:2087?security=tls&sni
 vless://815724d3-0d61-4761-be07-471441d42be5@104.22.33.78:80?security=none&type=ws&host=holland.列列男事的事列上赛男78.shop&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-104.22.33.78:80
 vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@190.93.244.37:80?security=none&type=ws&host=esten.free.hr#🔒 VL-WS-NONE 🏴‍☠️ NA-190.93.244.37:80
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.23.102.77:443?security=tls&sni=Dw-3R-B4p-bH3c-2t1-42-V-nww01-D0n-2K3-pFiW-n1yw-AFrEB-c65.pAGES.dEv&type=ws&host=dw-3R-B4P-bH3C-2T1-42-V-nWw01-D0N-2K3-PfIW-n1YW-AfReb-C65.pAGES.Dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.23.102.77:443
+vless://3f14a094-2022-4ea9-ba86-41328ca7d2f0@85.9.110.205:45694?security=none&type=tcp&host=idem.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.110.205:45694
+vless://fd30d779-5183-42c5-97f2-e3a3a888c3af@198.41.221.63:443?security=tls&sni=free.smelean.ir&type=ws&host=free.smelean.ir&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.221.63:443
+vless://bc827d67-f095-4c65-9327-33039decb888@104.21.12.44:443?security=tls&sni=s5c.giga-downloader.com&type=ws&host=s5c.giga-downloader.com&path=%2Fws5%2F8080&fp=random&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.12.44:443
