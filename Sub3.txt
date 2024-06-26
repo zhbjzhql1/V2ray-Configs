@@ -1,4 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:10016#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:10016
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5500
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWTXJLM2tjYnFDUVhWdTNFbVE4SDlZ@13.210.145.119:37222#🔒 SS-TCP-NA 🇦🇺 AU-13.210.145.119:37222
 ss://NmViMDcxNzQtMTg4Ny00ZDYyLTk5MDktMDExZDkyOGEwYTBhOg==@172.67.172.15:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.172.15:2083
@@ -998,3 +997,4 @@ trojan://Zepul6MgpW@178.128.52.135:56135?security=tls&sni=m.instagram.com&type=t
 trojan://huge123456@131.186.21.135:60954?security=tls&sni=h.iveze.com&type=tcp#🔒 TR-TCP-TLS 🇰🇷 KR-131.186.21.135:60954
 trojan://NISHIKUITAN222@47.236.164.215:443?sni=t222.ylks.link#🔒 TR-TCP-NA 🇸🇬 SG-47.236.164.215:443
 trojan://auto@104.20.5.134:443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan@free_shekan#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.5.134:443
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.18:443
