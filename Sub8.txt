@@ -1,3 +1,4 @@
+vless://dffd0356-baca-4802-98da-733bdb4a010e@188.114.98.18:80?security=none&type=ws&host=afjdh053dda.72386902d6.workers.dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.98.18:80
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@194.36.55.15:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇬🇧 GB-194.36.55.15:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.98.225:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.98.225:80
 vless://d762c105-e393-4684-831b-e92e608a7b64@95.164.68.37:443?security=tls&flow=xtls-rprx-vision&sni=namasha.com&type=tcp&fp=chrome#🔒 VL-TCP-TLS 🇬🇮 GI-95.164.68.37:443
@@ -997,4 +998,3 @@ vless://fd690086-c197-470d-bad6-708b338ef237@104.16.103.112:2096?security=tls&sn
 vless://fc1191c8-e724-482f-a492-90d3d386719c@172.67.182.207:2096?security=tls&sni=sisand.waztow.wOrkErS.DEv&type=ws&host=sisand.waztow.wOrkErS.DEv&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.182.207:2096
 vless://18311fc1-6a5d-2228-5fff-21a9a7213efd@62.60.210.253:8919?type=tcp&serviceName=-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any-Telegram:@Cisco_any&host=varzesh3.com&path=/&headerType=http#🔒 VL-TCP-NA 🇮🇷 IR-62.60.210.253:8919
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@104.18.37.111:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.37.111:443
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.131.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.131.52:443
