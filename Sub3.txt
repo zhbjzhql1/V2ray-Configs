@@ -1,3 +1,11 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YWV5SFdDam1vcmlTRmFsZEVocG5T@94.131.106.19:20567#🔒 SS-TCP-NA 🇳🇱 NL-94.131.106.19:20567
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.89:8090#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.89:8090
+ss://ZDM0ODRiMjctMGNkZi00NjliLTk1M2UtMTA2NmQ0ZTQ4OGY4Og==@172.67.157.96:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.157.96:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5000#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5000
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#🔒 SS-TCP-NA 🇺🇸 US-38.121.43.71:5001
+ss://MjQ1N2Q3MmUtNDE3OC00YzJiLTg4NWQtYTAxYTMzM2RjYzRmOg==@104.21.220.87:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.220.87:443
+ss://YWVjZTBlOWMtZmMzMC00ZTUzLWIwOWMtMjk2MjIzNzJjMmVkOg==@104.18.15.19:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.15.19:8880
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NTNhNGQ0Yy0xNTNmLTQ4OTctOWE5Yi04NTI4YjJiZmFmYjI=@46.232.123.37:10011#🔒 SS-TCP-NA 🇭🇰 HK-46.232.123.37:10011
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.53:8080#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.53:8080
 ss://YWE5ZTRmMjAtZjdmMy00NmNjLTk2ZjMtODk3MTE2NzU1Y2YzOg==@104.18.1.84:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.1.84:443
 ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@172.67.17.135:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.17.135:8080
@@ -990,11 +998,3 @@ trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.232.246:2053?security=tls&sn
 trojan://pUxG77WPOZ@104.18.203.232:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:80
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇫🇷 FR-54.37.220.201:443
 trojan://d3e663d2-5cce-56e1-a199-2fec6078fcb4@104.26.14.85:2083?security=tls&sni=mailbox.CPIFOrpersiA.UK&type=ws&host=mailbox.CPIFOrpersiA.UK&path=trojan-ws%2F%3Fed&fp=randomized#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.14.85:2083
-trojan://7ebfaa6e-909d-4b0b-85b1-9c683cda5c29@195.123.213.46:443?security=tls&sni=ua-full.privateip.net#🔒 TR-TCP-TLS 🇱🇻 LV-195.123.213.46:443
-trojan://c8742e83-c325-4332-a427-9cdc997a4775@185.143.233.225:443?security=tls&sni=dl.allavatar.top&type=ws&host=dl.allavatar.top&path=/tr/t/tNtL/gfdr#🔒 TR-WS-TLS 🇮🇷 IR-185.143.233.225:443
-trojan://NISHIKUITAN222@104.21.76.195:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.76.195:8443
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.16.159.1:443?security=tls&sni=jobsapplyworld.com&type=ws&host=jobsapplyworld.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.159.1:443
-trojan://50e10abd-3920-42a6-ad0c-6ec731d8c826@104.20.18.168:443?security=tls&sni=golinkwuxian.top&type=ws&host=555.golinkwuxian.top&path=/apple#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.18.168:443
-trojan://71409d3e488548e8bb076d229778f008@198.41.220.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-198.41.220.4:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.197:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.197:2083
-trojan://918eba0d3ff04abc803fb00e18d0fcb5@202.64.1.143:443?security=tls&sni=www.gpt123.one&type=tcp#🔒 TR-TCP-TLS 🇭🇰 HK-202.64.1.143:443
