@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.117:9101#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.117:9101
 ss://Zjk0ZWViODUtNTAwZS00M2VkLTk5NTItZTA2NjYwODVlN2Y2Og==@104.21.79.143:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.79.143:443
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.170.223:443#🔒 SS-TCP-NA 🇩🇪 DE-162.19.170.223:443
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@103.172.116.79:9005#🔒 SS-TCP-NA 🇸🇬 SG-103.172.116.79:9005
@@ -997,4 +998,3 @@ trojan://ypDt8RkT7J@138.199.57.185:43118?security=tls&sni=eiety.phooeyunfold.com
 trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?sni=sourceforge.net&type=ws&host=se1.trojanvpn.de&path=/websocket&allowInsecure=1#🔒 TR-WS-NA 🇸🇪 SE-95.164.33.62:443
 trojan://NISHIKUITAN222@47.236.118.216:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.236.118.216:8443
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@69.162.95.5:443?#🔒 TR-TCP-NA 🇺🇸 US-69.162.95.5:443
-trojan://raZ-DOohDZVH8PTgAHsqRg@89.23.103.249:2083?security=tls&sni=gstatic.com&type=ws#🔒 TR-WS-TLS 🇳🇱 NL-89.23.103.249:2083
