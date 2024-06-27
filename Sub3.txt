@@ -1,3 +1,7 @@
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.133:5600#🔒 SS-TCP-NA 🇨🇦 CA-23.162.200.133:5600
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.43:7306#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.43:7306
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.120:4444#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.120:4444
+ss://YWEyZGM4NDAtYmUzOC00YjRkLWEwMDItYmEyMzQ5OTlmZDU1Og==@172.64.92.189:8080#🔒 SS-TCP-NA 🏴‍☠️ NA-172.64.92.189:8080
 ss://NWNiNGJmN2MtMjRlNy00MmJjLWY1ZmQtYzA5Mzc5MzU0ZjhlOg==@172.67.223.8:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.223.8:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#🔒 SS-TCP-NA 🇬🇧 GB-212.102.53.194:443
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.71:2375#🔒 SS-TCP-NA 🇺🇸 US-38.75.137.71:2375
@@ -994,7 +998,3 @@ trojan://telegram-id-privatevpns@51.44.57.82:22222?security=tls&sni=trojan.burge
 trojan://5041df4c-b3ae-481d-adf9-79b39f4810f2@172.67.148.211:2083?security=tls&sni=taqboostan.zagros.top&type=grpc&serviceName=OVmkPBATL0FOwZU9iYzyeZwbq&fp=chrome&alpn=h2#🔒 TR-GRPC-TLS 🏴‍☠️ NA-172.67.148.211:2083
 trojan://auto@162.159.135.232:8443?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=/#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.135.232:8443
 trojan://904dd222-2514-4a68-9185-32f89113afd9@217.142.128.143:24852?sni=kr01.freeflyingcloud.xyz&allowInsecure=1#🔒 TR-TCP-NA 🇰🇷 KR-217.142.128.143:24852
-trojan://7b06d62b-25ed-45ed-ac0d-bc28a4779ef9@172.67.132.6:2096?sni=channel.v2bamdad.tech&type=grpc#🔒 TR-GRPC-NA 🏴‍☠️ NA-172.67.132.6:2096
-trojan://NISHIKUITAN222@8.219.42.72:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.42.72:8443
-trojan://auto@104.20.19.168:2083?security=tls&sni=e9464f45.trauma-2r4.pages.dev&type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F#🔒 TR-WS-TLS 🏴‍☠️ NA-104.20.19.168:2083
-trojan://1ZTbMoSRnm@104.17.239.159:2083?security=tls&sni=mIkAsa.mEgAfAiR.sToRe&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.17.239.159:2083
