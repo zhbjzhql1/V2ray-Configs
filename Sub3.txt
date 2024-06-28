@@ -1,3 +1,9 @@
+ss://MWZiNDY1YWMtNjBmYi00Yjc3LWI0YTYtY2M1OTBlZTYxMjRlOg==@104.21.24.57:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.24.57:443
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.83:5498#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:5498
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNb3hNcGdNM01MaEJ3MERCRHZQQW5C@77.221.137.197:25067#🔒 SS-TCP-NA 🇸🇪 SE-77.221.137.197:25067
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.18.68.215:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.68.215:80
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.87.222:443#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.222:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQTWVUVnU3NjE2OFVIcXVSUWtiOGYw@64.227.144.190:50690#🔒 SS-TCP-NA 🇮🇳 IN-64.227.144.190:50690
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989#🔒 SS-TCP-NA 🇫🇷 FR-51.159.111.208:989
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.83:5600#🔒 SS-TCP-NA 🇺🇸 US-23.157.40.83:5600
 ss://OGI3ZWZhY2YtOGU4My00ZTUxLWFiNTUtMTI2M2JhY2NkNGIyOg==@104.18.203.232:443#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.203.232:443
@@ -992,9 +998,3 @@ trojan://telegram-id-directvpn@35.178.106.147:22222?security=tls&sni=trojan.burg
 trojan://GSYYULACz0@104.18.203.232:8080?security=none&type=ws&host=mmd.net.napster6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.fpsvpn.SHOP.#🔒 TR-WS-NONE 🏴‍☠️ NA-104.18.203.232:8080
 trojan://Jncm1NRGbZ@104.21.72.61:8443?security=tls&sni=frankfoortvip.followprovider.ir&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-104.21.72.61:8443
 trojan://pUxG77WPOZ@104.17.147.22:80?security=none&type=ws&host=s9.in01.tech&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.147.22:80
-trojan://NISHIKUITAN222@8.219.51.211:8443?security=tls&sni=t111.ylks.link&type=ws&host=t111.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.51.211:8443
-trojan://ypDt8RkT7J@89.187.189.88:43118?security=tls&sni=tpmrr.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇨🇿 CZ-89.187.189.88:43118
-trojan://9a72dfcb-b2bf-3969-aef1-5e0e94a4f84c@91.149.237.179:19223?security=tls&sni=eplcgame.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-91.149.237.179:19223
-trojan://KfHraA7j5h@147.78.140.39:8443?security=tls&sni=Wsd5yct6uv-Mvd57fc7yvjFy-Po9iU6vBy87y7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇧🇬 BG-147.78.140.39:8443
-trojan://moist@8.219.126.240:2096?sni=trojan.freenods.sbs#🔒 TR-TCP-NA 🇸🇬 SG-8.219.126.240:2096
-trojan://NISHIKUITAN222@8.219.120.87:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.120.87:8443
