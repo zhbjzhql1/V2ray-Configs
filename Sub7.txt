@@ -1,16 +1,3 @@
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.16.52:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.16.52:443
-vless://1e5de110-c081-498b-8c0e-44e475593476@108.165.216.234:2053?security=tls&sni=nhtfjyytf.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc#🔒 VL-GRPC-TLS 🇺🇸 US-108.165.216.234:2053
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@121.176.33.148:12564?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇰🇷 KR-121.176.33.148:12564
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.150.112:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.150.112:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.28:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.201.28:80
-vless://a7eb4a81-4300-46c1-a6c3-851fad9d8920@141.94.115.231:443?security=tls&sni=fr-full.privateip.net&type=ws&path=/VLESS&allowInsecure=1#🔒 VL-WS-TLS 🇫🇷 FR-141.94.115.231:443
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.131.108:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇩🇪 DE-3.121.131.108:22222
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@40.112.243.64:443?security=tls&sni=gerrrrw.azurewebsites.net&type=ws&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-40.112.243.64:443
-vless://33f8c4f4-2515-4798-9ea0-15f2030ef4d8@172.67.133.177:8880?security=none&type=ws&host=bia-zod-falcunargo.545c437f13.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.133.177:8880
-vless://2aceb78a-c860-43d2-9c2f-b39e6b6e5252@199.59.243.226:54106?security=tls&sni=server.configforvpn.online&type=tcp&fp=chrome&alpn=h2,http/1.1#🔒 VL-TCP-TLS 🇺🇸 US-199.59.243.226:54106
-vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@8.219.164.237:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇸🇬 SG-8.219.164.237:443
-vless://f075b138-4e46-4022-a625-c5dfe4ddf19c@198.41.221.63:8443?security=tls&sni=free.smelean.ir&type=grpc&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-198.41.221.63:8443
-vless://75a6d62e-a371-41c8-ab53-8c6e6e8201fb@104.17.148.22:2053?security=tls&sni=6d1.narnino.org&type=grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.148.22:2053
 vless://65136d09-0d6e-4ad6-9a08-ba436dcc72f3@104.16.30.250:443?security=tls&sni=opaso.sevenoseven.tech&type=grpc&serviceName=@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707,@VPN707&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.16.30.250:443
 vless://b1a9eb9f-58a7-4714-9a2b-d9ce474b3c08@185.133.35.148:80?security=none&type=ws&host=soft98.ir.de.debian.org.farsroid.com.xn--84-pv2cvta065cac9302fea377a148g.Store.#🔒 VL-WS-NONE 🇧🇷 BR-185.133.35.148:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.242.252.237:2083?security=tls&sni=xin667.ylks.link&type=ws&path=/blue#🔒 VL-WS-TLS 🇭🇰 HK-47.242.252.237:2083
@@ -998,3 +985,16 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@172.64.229.55:80?type=ws&host=kr1.1
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.147.197:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.147.197:80
 vless://61a491db-7749-49fd-b3d2-e339a3fa1db2@104.17.127.233:443?security=tls&sni=v2.baradweb.com&type=ws&host=v2.baradweb.com&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.17.127.233:443
 vless://56b3cbba-e7ac-485a-9481-976a7945eab9@104.21.2.246:443?security=tls&sni=ESEtSECUritylICeNse.XWukAXKg.wORkERS.DeV&type=ws&host=eSEtsEcuRitYlicENsE.xWuKaxkg.WOrkErS.DEV&path=%2F7CfWSsVPa7OGRB63%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.2.246:443
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.201.171:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.201.171:80
+vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@104.21.60.92:8880?security=none&type=ws&host=falcunargo-telegram.384f2ed785.workers.Dev&path=%2F%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.60.92:8880
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@8.222.204.128:443?security=tls&sni=dns68.putata.eu.org&type=ws&path=/#🔒 VL-WS-TLS 🇸🇬 SG-8.222.204.128:443
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.189:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=/tg@zdyz2#🔒 VL-WS-TLS 🇺🇸 US-45.159.218.189:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.77:443?security=tls&sni=zdy726.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇺🇸 US-69.84.182.77:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.100.149:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.100.149:80
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.119.253:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.119.253:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.43.179.29:443?security=tls&sni=zdy00.kpcloud.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.29:443
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.84.84:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=/#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.84.84:443
+vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@89.208.254.6:34237?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🇺🇸 US-89.208.254.6:34237
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.117.150:2053?security=tls&sni=CrT-31-BgP-73c-221-E2-O-NCw02-diN-293-PkiW-nhyW-AUEB-CuEw.PaGES.DeV&type=ws&host=CrT-31-BgP-73C-221-e2-o-Ncw02-Din-293-PKiW-nhyW-aUeb-CUEw.pAgEs.deV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.117.150:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.130.193:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.130.193:80
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.204.224:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.204.224:80
