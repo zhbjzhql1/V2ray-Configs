@@ -1,7 +1,3 @@
-vless://546cfb84-120f-43db-89db-5cba033bf9dc@188.114.98.4:8880?path=/@ZEDMODEON+TEL#🔒 VL-TCP-NA 🏴‍☠️ NA-188.114.98.4:8880
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.107:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒 VL-WS-TLS 🇨🇭 CH-185.18.250.107:443
-vless://5d597030-946b-4d8a-8029-a11ca16a8fef@188.114.97.122:2053?security=tls&sni=1.windscribe.cam&type=grpc&serviceName=2053vless&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-188.114.97.122:2053
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.187:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.187:443
 vless://c10de335-0239-438c-a51f-56a6a39436b4@172.67.193.36:8443?security=tls&sni=Isa.kasler.sbs&type=grpc&serviceName=Asa&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.193.36:8443
 vless://0b18a5be-2ef5-4c98-8cd1-d0f934387e21@172.66.47.132:443?security=tls&sni=aryoo-vpn-9.aryoo-vpn.workers.dev&type=ws&host=aryoo-vpn-9.aryoo-vpn.workers.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.47.132:443
 vless://6e435f9f-25df-4101-9a5c-736a6858b8cb@94.182.222.29:12061?security=none&type=tcp&host=4x0iy8g7.soft98.ir&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-94.182.222.29:12061
@@ -998,3 +994,7 @@ vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@173.245.59.153:443?security=tls&sni
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.203:8443?security=tls&sni=a.ssll.gay&type=ws&path=twitterfreecodes#🔒 VL-WS-TLS 🇪🇪 EE-45.80.110.203:8443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.81:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.148.81:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.98.178:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.98.178:80
+vless://af60861e-296e-4578-eaae-2ff95675040c@104.21.70.103:80?security=none&type=ws&path=/.Turk#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.70.103:80
+vless://1ff59fad-6cc6-4714-82b1-d4af47de08eb@185.162.228.32:80?security=none&type=ws&host=DiReCt49-13-163-226.CleAnMaRk.IR&path=/DiReCt49-13-163-226-CleAnMaRk-IR#🔒 VL-WS-NONE 🇦🇲 AM-185.162.228.32:80
+vless://9cd71e7b-f8bf-4dcd-832d-33fe34743df1@188.114.97.2:8080?security=none&type=ws&host=blackoutV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.2:8080
+vless://f3c511ab-dc15-4147-ae80-6c892d6f9ad0@146.19.21.118:443?security=tls&sni=j1us1.jsjc.sbs&type=ws&path=/jsjc/us1#🔒 VL-WS-TLS 🇱🇹 LT-146.19.21.118:443

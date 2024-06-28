@@ -1,7 +1,3 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.217:3306#🔒 SS-TCP-NA 🇺🇸 US-15.204.87.217:3306
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.75.136.21:6379#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:6379
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.225:6697#🔒 SS-TCP-NA 🇺🇸 US-38.114.114.225:6697
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#🔒 SS-TCP-NA 🇺🇸 US-167.88.61.235:6679
 ss://NjM2YjE2ODQtYjI2Yy00YTljLWJjNmUtOGUxMTk3YTM2ZDc0Og==@190.93.244.0:2086#🔒 SS-TCP-NA 🏴‍☠️ NA-190.93.244.0:2086
 ss://ZmVkNTE3YjEtY2E2OS00OGYyLWEwZTgtYjZlNTY2NDE2NjRiOg==@104.18.26.94:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.18.26.94:80
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.86.135.31:5498#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:5498
@@ -998,3 +994,7 @@ trojan://baa7fdc5-a9cb-435a-982b-ccd82cb1f8c0@104.16.60.8:443?security=tls&sni=y
 trojan://NISHIKUITAN222@8.219.78.1:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-8.219.78.1:8443
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@104.17.215.4:443?security=tls&sni=jobscareerfortoday.com&type=ws&host=jobscareerfortoday.com&path=6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.215.4:443
 trojan://NISHIKUITAN222@47.237.14.220:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#🔒 TR-WS-TLS 🇸🇬 SG-47.237.14.220:8443
+trojan://dba20dcb635e430fa4d3bfc303a149d2@104.17.61.9:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.61.9:443
+trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.58.100:443?security=tls&sni=se1.trojanvpn.de&type=ws&host=se1.trojanvpn.de&path=/websocket#🔒 TR-WS-TLS 🏴‍☠️ NA-173.245.58.100:443
+trojan://IOZyY95xp2aeTxSgBD8pRz7lXgBD8pRz7lXaE4ZCjF3D86SnFelCqCS3uNw3KA6SnFelC@13.125.71.237:443?security=tls&sni=prispy.koreanbbq.link#🔒 TR-TCP-TLS 🇰🇷 KR-13.125.71.237:443
+trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&sni=tpmrq.phooeyunfold.com&type=tcp&fp=random&alpn=http%2F1.1#🔒 TR-TCP-TLS 🇮🇹 IT-212.102.54.11:43118
