@@ -1,5 +1,3 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.0:443?security=tls&sni=73Ff2B24.bpB-PANEl-B1Q.Pages.dEV&type=ws&path=%2Fj4Tcoe7UqWaQflkA%3Fed&fp=randomized#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.96.0:443
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.89.218:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.64.89.218:443
 vless://4045c6b7-1d53-4574-98cd-df21db40b0dc@172.67.131.138:2053?security=tls&sni=itcenteriran.blog&type=ws&host=itcenteriran.blog&path=%2Fp%3D19&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.131.138:2053
 vless://7ef8abc6-19f1-4e32-a8f2-2d77497e1808@104.20.11.224:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.20.11.224:80
 vless://c9605cb5-f9be-45f3-94d1-57ba02a9c3d0@162.159.133.233:2095?security=none&type=ws&host=Yakuza.unique69.com&path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.133.233:2095
@@ -998,3 +996,5 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@47.237.100.206:2087?security=tls&sn
 vless://76ddbbc0-e7d8-404f-8a2e-761b7226ce65@155.248.196.123:443?security=tls&sni=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&type=ws&host=chanel----selinc----selinc----selinc.hutzwrrj.workers.dev&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-155.248.196.123:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.192.236:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.192.236:80
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.80.111.198:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇩🇪 DE-45.80.111.198:443
+vless://b949fd9b-cf21-4616-9fe7-634b97ee6d74@104.18.134.66:8080?security=none&type=ws&host=join-to.vmessorg.Community.#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.134.66:8080
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.202.230:2083?security=tls&sni=hk667.ylks.link&type=ws&path=/?proxyip#🔒 VL-WS-TLS 🇭🇰 HK-47.242.202.230:2083
