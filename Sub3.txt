@@ -1,4 +1,3 @@
-ss://MWVmOTFlNmYtNzUyMi00ZGVkLTg0ZWEtNDUyM2RkMmExNWQ2Og==@104.21.4.56:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.4.56:2053
 ss://NzBlYTdhMTAtZGUzZS00OTIyLWJjN2MtNGRkN2MyY2VmODgyOg==@172.66.45.10:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.45.10:443
 ss://MjMzYTdhNDMtMzM0MC00NGI3LWFiNzktMTRjMjlmYzAyZTQ3Og==@104.20.18.168:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-104.20.18.168:8880
 ss://MWRlNDA3MjUtM2U2Yi00MmIxLTllM2UtMzMwYzg1MmQwNDllOg==@172.66.46.225:8443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.46.225:8443
@@ -998,3 +997,4 @@ trojan://telegram-id-privatevpns@52.56.173.11:22222?security=tls&sni=trojan.burg
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.254:2053?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.52.254:2053
 trojan://b17fa17d-13a0-4e8a-a398-8e549ea8b208@23.227.38.11:443?sni=syndication-statutes-wanted-logo.trycloudflare.com&type=ws&path=/argox-tr#🔒 TR-WS-NA 🇨🇦 CA-23.227.38.11:443
 trojan://9Mdw86d7Cz@132.145.208.20:443?sni=no.09.ijg.cc&type=tcp#🔒 TR-TCP-NA 🇺🇸 US-132.145.208.20:443
+trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:39788?security=tls&sni=uk01.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.116.151.254:39788

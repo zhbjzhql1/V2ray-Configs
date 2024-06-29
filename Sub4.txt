@@ -1,4 +1,3 @@
-trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:39788?security=tls&sni=uk01.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.116.151.254:39788
 trojan://auto@188.114.99.81:443?security=tls&sni=mazq100za43.962dael.workers.dev&type=ws&host=mazq100za43.962dael.workers.dev&fp=chrome#🔒 TR-WS-TLS 🏴‍☠️ NA-188.114.99.81:443
 trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.64.146.48:443?security=tls&sni=msnghdfy4c2.cpiforpersia.uk&type=ws&host=msnghdfy4c2.cpiforpersia.uk&path=%2F4xLDSO3FrWl2DhIibUbDFdhZ&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.64.146.48:443
 trojan://dfbbc8de-8a4f-407d-8069-6de38d83c4e1@104.24.197.20:443?security=tls&sni=hdfy4c6.freelines.net&type=ws&host=hdfy4c6.freelines.net&path=/Q177OZ8bzrxRWBtLTlTL#🔒 TR-WS-TLS 🏴‍☠️ NA-104.24.197.20:443
@@ -998,3 +997,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.171.157:80?security=none&typ
 vless://f7efdb84-9500-4559-86cb-6d33bffb8655@172.67.204.84:443?security=tls&sni=Jw7ph8ae-7170523162.jObfiNeX.ir.&type=ws&host=Jw7ph8ae-7170523162.jObfiNeX.ir.#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.204.84:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.22:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.209.22:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@159.112.235.222:443?security=tls&sni=hk00.ylks.link&type=ws&path=%2F%3Fproxyip#🔒 VL-WS-TLS 🇺🇸 US-159.112.235.222:443
+vless://4e106351-e08b-431d-b052-697952371de0@85.9.111.100:20878?security=none&type=tcp&host=speedtest.net&path=/&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-85.9.111.100:20878
