@@ -1,3 +1,5 @@
+ss://ZmI4NTM3NDEtODhlZi00YWEwLWJhMmYtOTk5ZjA0NTM1OTYwOg==@188.114.97.3:443#🔒 SS-TCP-NA 🏴‍☠️ NA-188.114.97.3:443
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.28.144:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.28.144:80
 ss://MmI0YmVkMjUtYTVlZi00MzlkLTkzYjEtMzk1YjdiY2VjNThiOg==@104.16.60.79:2082#🔒 SS-TCP-NA 🏴‍☠️ NA-104.16.60.79:2082
 ss://ODZjNjRmMWEtYjAwMi00MTM2LTk3N2ItZWU5ZTZhNjExYTFjOg==@162.159.128.233:8880#🔒 SS-TCP-NA 🏴‍☠️ NA-162.159.128.233:8880
 ss://ZDNhMTJlNzktZWY0Mi00MjY4LWIzNjctNDJlZWIzNDk0ZTYwOg==@172.66.47.59:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.66.47.59:443
@@ -996,5 +998,3 @@ trojan://951bbbc9-c5fd-441e-ac3d-c7fcfbf4a751@173.245.59.100:443?security=tls&sn
 trojan://1198e31f-06a5-485f-bb8a-76bf65c8ba1b@188.119.112.242:443?security=tls&sni=nl-full.privateip.net&allowInsecure=1#🔒 TR-TCP-TLS 🇳🇱 NL-188.119.112.242:443
 trojan://b4e8771997c94732acbc9ec4d19c2589@104.19.159.4:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.4:443
 trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.218.173.78:2083?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com#🔒 TR-WS-TLS 🇭🇰 HK-8.218.173.78:2083
-trojan://ypDt8RkT7J@138.199.41.25:43118?security=tls&sni=dngn.phooeyunfold.com#🔒 TR-TCP-TLS 🇺🇸 US-138.199.41.25:43118
-trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:21526?security=tls&sni=sg02.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.116.151.254:21526
