@@ -1,3 +1,5 @@
+vless://6fd588b2-7868-4601-ba75-060756f063da@172.67.191.197:2053?security=tls&sni=chykz.fort-games-book.ir&type=grpc&serviceName=@TOP_NETI,@TOP_NETI,@TOP_NETI,@TOP_NETI,@TOP_NETI,@TOP_NETI&fp=chrome#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.191.197:2053
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.27.32:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.27.32:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.26.4.60:2087?security=tls&sni=jp555.ylks01.eu.org&type=ws&path=%2Fblue#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.4.60:2087
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.128.144:443?security=tls&sni=GOV.UK&type=ws&host=k.kp&fp=chrome#🔒 VL-WS-TLS 🇺🇸 US-151.101.128.144:443
 vless://a61c4761-5848-43da-a632-309a7d18d393@104.26.6.95:2052?security=none&type=ws&host=ddddddddd.nigc-ar.com&path=/backup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.26.6.95:2052
@@ -996,5 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.80.111.199:443?security=tls&sni=
 vless://00e199ed-477f-492c-aecd-e01ac2342008@104.21.232.99:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.232.99:80
 vless://f2f6cfcb-5df8-46aa-af46-1ce3a95cb8d4@198.41.221.63:8080?security=none&type=ws&host=blackoutV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&path=%2FTel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs-Tel--%40Daily_Configs#🔒 VL-WS-NONE 🏴‍☠️ NA-198.41.221.63:8080
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@47.242.155.183:2053?security=tls&sni=v600.ylkszy.eu.org&type=ws&path=%2F%3Fed#🔒 VL-WS-TLS 🇭🇰 HK-47.242.155.183:2053
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.238.228.235:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇪🇸 ES-185.238.228.235:443
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.169.47:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.169.47:80
