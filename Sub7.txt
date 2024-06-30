@@ -1,4 +1,3 @@
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@162.159.133.89:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.133.89:80
 vless://dfab83c0-56c6-4e0a-8bdc-4ee6dda769f3@172.67.177.176:8080?security=none&type=ws&host=v2ray.n.bimax.ir.iranhost.com.bishtarazyek.com.speedtest.net.zula.ir.ncba.iR.#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.177.176:8080
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.95.163:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.95.163:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.50.78:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.50.78:80
@@ -998,3 +997,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.122.200:80?security=none&typ
 vless://7a38435b-f322-4b06-87b0-d7cb0c04c907@104.19.253.60:443?security=tls&sni=FALCuNaRGo.E18061F38a.WORkErS.deV&type=ws&host=fALcUnargO.E18061F38A.woRkERs.Dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.253.60:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.151.229:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.151.229:80
 vless://64a125b1-4a57-4a64-bfb2-7dc6866c55bc@50.7.85.221:443?security=tls&sni=kosesher2.nayase6031.workers.dev&type=ws&host=kosesher2.nayase6031.workers.dev&path=/?ed&fp=chrome#🔒 VL-WS-TLS 🇩🇪 DE-50.7.85.221:443
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.63.12:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.63.12:80
