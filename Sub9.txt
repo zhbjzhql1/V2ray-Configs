@@ -1,3 +1,5 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.187:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒 VL-WS-TLS 🇷🇺 RU-185.174.138.187:443
+vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@172.67.223.33:443?security=tls&sni=admin.irayanconfig.ir&type=ws&host=admin.irayanconfig.ir&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.223.33:443
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.153.243:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.153.243:80
 vless://db8248ba-7652-41bb-dbd0-6bcfe406ecb2@104.21.17.98:443?security=tls&sni=test.hotshellow.com&type=ws&path=/lg582228486#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.17.98:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.4.189:443?security=tls&sni=gOdZillA-mR-DaRKarSha-ONETOpKIng.PaGEs.dEV&type=ws&host=GodZiLla-Mr-darkarsha-ONeTOPKING.pAGes.DEv&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.4.189:443
@@ -996,5 +998,3 @@ vless://09c795fd-4c13-491e-b419-2598410077b9@185.53.142.133:443?security=tls&sni
 vless://4015a246-a042-4372-a64a-919171ca8593@188.114.97.3:2052?security=none&type=ws&host=1.ftp.debian.org.www.speedtest.net.免费上网67.Site.#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.3:2052
 vless://5ef01b16-ca53-4516-9d0e-6f9f3e6da0d0@172.67.163.103:2087?security=tls&sni=al.moienmusic.space&type=grpc&serviceName=Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY-Telegram:@POLPROXY&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.163.103:2087
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.43.179.29:443?security=tls&sni=zdyt.kpcloud.eu.org&type=ws&path=/blue#🔒 VL-WS-TLS 🇰🇿 KZ-31.43.179.29:443
-vless://484a24c2-deec-459f-ba47-4eb059f09bd3@172.66.44.189:443?security=tls&sni=pardazesh25.pages.dev&type=ws&host=pardazesh25.pages.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.44.189:443
-vless://44429467-1ddb-4461-887e-69f2fdcfebcb@104.31.16.91:80?security=none&type=ws&host=ZTL5iDkNDQmHZb6v4RNC.OPeENup.coM&path=%2Fbackup#🔒 VL-WS-NONE 🏴‍☠️ NA-104.31.16.91:80

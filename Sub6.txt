@@ -1,3 +1,5 @@
+vless://58a57566-090d-438b-8795-bd959b5757e7@5.145.115.206:2086?security=none&type=ws&host=ariogames.ir&path=/dash#🔒 VL-WS-NONE 🇮🇷 IR-5.145.115.206:2086
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@104.18.114.208:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.114.208:443
 vless://dfab83c0-56c6-4e0a-8bdc-4ee6dda769f3@172.67.196.97:8080?security=none&type=ws&host=v2ray.n.bimax.ir.iranhost.com.bishtarazyek.com.speedtest.net.zula.ir.ncba.iR.&path=%2FV2ray.motorcycles%3Fed%3D2048#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.196.97:8080
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.125.72:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.125.72:80
 vless://7509f896-2115-4420-b487-501c9103bebd@112.187.240.245:33185?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed&fp=chrome#🔒 VL-WS-TLS 🇰🇷 KR-112.187.240.245:33185
@@ -996,5 +998,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.242.7.162:2053?security=tls&sni=
 vless://33818a00-cbdb-4ae0-a31a-e7de094e7aec@172.67.138.161:443?security=tls&sni=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&type=ws&host=uciranir-uciranir-uiranir-uciranir-uciranir-uciranir-uciranir1.detixi1932.workers.dev&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.138.161:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.194.83:443?security=tls&sni=pPal03.nERo-TriStaN.worKeRS.dev&type=ws&host=PPAL03.nERo-TRisTAN.workerS.DeV&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.194.83:443
 vless://00e199ed-477f-492c-aecd-e01ac2342008@104.17.169.114:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D1024#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.169.114:80
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.178.30:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.178.30:80
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@170.114.46.140:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒 VL-WS-TLS 🇺🇸 US-170.114.46.140:443
