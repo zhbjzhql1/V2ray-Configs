@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.206.119.66:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🔒 VL-WS-TLS 🇺🇸 US-34.206.119.66:22222
 vless://e4ceb917-3020-4486-a1ab-36534aed11de@85.9.111.20:5053?security=none&type=ws&host=s16.leader21.top&path=/http#🔒 VL-WS-NONE 🇮🇷 IR-85.9.111.20:5053
 vless://a84f9dab-939e-425f-9072-f05027480fe0@104.16.232.20:80?security=none&type=ws&host=vmessorg1.xn--54qv00ez5ar77g.co.&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.232.20:80
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.22.249:80?type=ws&host=kr1.175852.xyz&path=/abcde#🔒 VL-WS-NA 🏴‍☠️ NA-104.17.22.249:80
@@ -997,4 +998,3 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.100.205:80?type=ws&host=kr1.
 vless://61930e97-f9a9-43da-8a94-ee533b73ef07@91.217.119.44:16511?security=none&type=tcp&host=speedtest.net&path=%2FDarkTeam_VPN&headerType=http#🔒 VL-TCP-NONE 🇹🇷 TR-91.217.119.44:16511
 vless://6bf573f3-956f-4a19-aa66-d1b2fd194451@185.146.173.95:2083?security=tls&sni=all3.savagev2ray.site&type=grpc&serviceName=@SavageV2ray,@SavageV2ray,@SavageV2ray,@SavageV2ray#🔒 VL-GRPC-TLS 🇸🇪 SE-185.146.173.95:2083
 vless://8f08a1ae-5a10-40f7-918c-54737bd7df6a@152.42.174.20:443?security=tls&sni=aka.ms&type=grpc&alpn=h2%2Chttp%2F1.1#🔒 VL-GRPC-TLS 🇸🇬 SG-152.42.174.20:443
-vless://c0b4f67c-d0ba-4384-8680-7e5f87f18be1@104.26.6.89:443?security=tls&sni=dm.irandtehran.org&type=grpc&serviceName=@ipV2Ray&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.6.89:443
