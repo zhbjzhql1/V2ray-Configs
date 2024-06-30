@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.31:7001#🔒 SS-TCP-NA 🇺🇸 US-38.86.135.31:7001
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#🔒 SS-TCP-NA 🇺🇸 US-38.75.136.21:5601
 ss://ZTU3ZWEzMGMtOTA3NS00NmZjLTg2MzYtM2QyYWExYWE5OWU2Og==@104.21.20.26:2053#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.20.26:2053
 ss://ZmI1Y2ZlOTUtZWUyNi00Mzk5LWJlNGItMzZkNjQ4NDE0YjljOg==@104.21.63.149:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.21.63.149:80
@@ -997,4 +998,3 @@ trojan://e16e9768-240f-4ff2-8c29-36d220ed2aa4@172.64.146.48:443?security=tls&sni
 trojan://6223991b-3be5-41cd-a200-f6fe9de0596c@120.233.47.184:30050?security=tls&sni=v2sg02.fuqiangren.com&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-120.233.47.184:30050
 trojan://656bcdfe-ae09-4170-a36e-1685ee10b26f@162.159.137.232:2083?security=tls&sni=missyousir.segaro.tech&type=ws&host=missyousir.segaro.tech&path=/OVmkPBATL0FijQ3AWVBo&fp=chrome&alpn=http/1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.137.232:2083
 trojan://4732adfa16c6450bbef87264e41332db@104.16.192.138:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.138:443
-trojan://ypDt8RkT7J@151.115.83.178:43118?security=tls&sni=eimna.phooeyunfold.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇵🇱 PL-151.115.83.178:43118
