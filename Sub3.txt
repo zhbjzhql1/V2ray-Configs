@@ -1,3 +1,7 @@
+ss://MjVkMGVlMmQtNDE5MC01MmJlLWI4OTItNDU4MTFjNmJhMjEwOg==@172.67.146.69:2083#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.146.69:2083
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.201:5003#🔒 SS-TCP-NA 🇺🇸 US-38.110.1.201:5003
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9101#🔒 SS-TCP-NA 🇺🇸 US-23.154.136.176:9101
+ss://NDM1YmRhNGMtZmU1ZS00MmM5LWEzYWQtMTUzMzQ5NDNiMzhhOg==@104.17.234.49:80#🔒 SS-TCP-NA 🏴‍☠️ NA-104.17.234.49:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080#🔒 SS-TCP-NA 🇺🇸 US-45.158.171.129:8080
 ss://ZDVhYWUyMGMtYTdiZS00MTZlLTgwNmItNzBhMjFhZDIwZjUyOg==@172.67.159.193:443#🔒 SS-TCP-NA 🏴‍☠️ NA-172.67.159.193:443
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#🔒 SS-TCP-NA 🇫🇷 FR-54.36.174.181:7306
@@ -994,7 +998,3 @@ trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debia
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.232:2096?sni=tjjd.yzyx1.v6.army#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.53.232:2096
 trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.116.151.254:15976?security=tls&sni=hk02.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.116.151.254:15976
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@104.19.159.14:443?security=tls&sni=jobscareerforstudent.com&type=ws&host=jobscareerforstudent.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.14:443
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.197:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.197:2083
-trojan://7cd28316-d91f-4eeb-a61a-98a0195199bc@14.29.253.95:28625?security=tls&sni=us04.ckcloud.info&type=tcp#🔒 TR-TCP-TLS 🇨🇳 CN-14.29.253.95:28625
-trojan://kh06dw8cR3@212.183.88.157:8443?security=tls&sni=YeRt5yct6uv-VI57fc7yvjFy-Njdyy7hcUf5rcy.danesh-bonyan.Store&type=ws&host=eiiim.danesh-bonyan.store&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.#🔒 TR-WS-TLS 🇦🇹 AT-212.183.88.157:8443
-trojan://ZJU29smXwp@172.67.176.206:2053?sni=damn-mci-again-3.danesh-bonyan.Store&type=ws&host=f-1.danesh-bonyan.store&path=/&allowInsecure=1#🔒 TR-WS-NA 🏴‍☠️ NA-172.67.176.206:2053
