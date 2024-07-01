@@ -1,4 +1,3 @@
-trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.72.108:443
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.125:8443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.52.125:8443
 trojan://c6c083cb-6312-44e4-91ed-4c6831f4f9a8@104.18.138.163:443?security=tls&sni=prosweed.ghodratebartar.ir&type=ws&host=prosweed.ghodratebartar.ir&path=/NHDAEsR7pxcS1u6yNX6K824c#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.138.163:443
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.192.145:443?security=tls&sni=jobscareerforlawyers.com&type=ws&host=jobscareerforlawyers.com&path=%2F6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.16.192.145:443
@@ -998,3 +997,4 @@ vless://c1272294-cba2-4fe2-8663-93cf92bab9be@167.235.130.134:443?security=realit
 vless://837c965b-4487-4976-99ba-dfed6b0e9c35@212.79.125.28:17552?security=reality&sni=discord.com&type=grpc&serviceName=esbesoo.vpnext.sbs&fp=chrome&pbk=Csp0v7HDJ2lGVM1l3gvB9k4Yv3URXNYLtjESyv1py3Y&sid=35866e08#🔒 VL-GRPC-RLT 🇺🇦 UA-212.79.125.28:17552
 vless://1d392b76-07e0-4490-ac60-4c1efefedff0@45.67.32.147:34500?security=reality&sni=yandex.ru&type=http&path=/details&fp=chrome&pbk=lLLKkcHjHsbdgjmOmJ9tsjh5R0nFEvKI9Ye5Gd9YeD4&sid=2c508a3e#🔒 VL-HTTP-RLT 🇷🇺 RU-45.67.32.147:34500
 vless://e2b52ca2-8a86-4d3f-b95e-ff1743e99ab7@45.67.32.147:15595?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=firefox&pbk=qS7RgmrDJXhMiqsMBTmmQCRpDMgqfNRm7WJcRdOq7mI&sid=f04c5e3b#🔒 VL-TCP-RLT 🇷🇺 RU-45.67.32.147:15595
+vless://fce0f0e4-425a-4cf6-a0ca-e7513517ff38@217.219.78.70:4004?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859#🔒 VL-TCP-RLT 🇮🇷 IR-217.219.78.70:4004
