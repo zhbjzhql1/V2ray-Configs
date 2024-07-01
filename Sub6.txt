@@ -1,4 +1,3 @@
-vless://6be8ca9a-3d2f-4401-f7c5-3b2baf238977@172.67.193.36:2095?security=none&type=ws&host=ip1677.列列男事的事列上赛男78.com.&path=/Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER#🔒 VL-WS-NONE 🏴‍☠️ NA-172.67.193.36:2095
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.97.21:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.97.21:80
 vless://29b3cbba-e6ac-485a-8481-976a0495eab9@104.21.38.42:443?security=tls&sni=esEtsecuriTyLIcensE.HTlMyO.woRKeRs.deV&type=ws&host=ESEtSECuRITYliCeNSE.HTLMyo.worKErs.dEV&path=%2FbvyqB3dVqwOk9obP%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.42:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.245.120:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.245.120:80
@@ -998,3 +997,4 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.110.70:80?security=none&type
 vless://2ca42987-551b-4494-a854-da2d9178f4cd@104.18.202.232:2087?security=tls&sni=LnCsYjPe22.zImBa-zUlA.OrG&type=grpc&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.18.202.232:2087
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.35.234:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.35.234:80
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.16.242.110:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.242.110:80
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.44.218:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.19.44.218:80
