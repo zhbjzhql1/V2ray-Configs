@@ -1,3 +1,4 @@
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@173.245.59.153:443?security=tls&sni=current.ircp.online&type=ws&host=current.ircp.online&path=%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-173.245.59.153:443
 vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.13.84:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.13.84:443
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.173.209:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F%3Fed%3D2048#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.173.209:443
 vless://62f6b891-7988-4392-88c7-14134bb3ffa9@104.21.94.28:8443?security=tls&sni=yasin-godrat13.yasinsamieiuu.workers.dev&type=ws&host=yasin-godrat13.yasinsamieiuu.workers.dev&fp=chrome&alpn=http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.94.28:8443
@@ -997,4 +998,3 @@ vless://0b9521d9-fb34-4b5e-b27c-d591f193bcf3@104.24.176.7:2096?security=tls&sni=
 vless://2d6d3452-1bb3-481b-91be-0394495a0be1@104.17.147.22:8443?security=tls&sni=all5.savagev2ray.site&type=grpc&serviceName=%40Vpnmasi%2C%40Vpnmasi%2C%40Vpnmasi%2C%40Vpnmasi#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.17.147.22:8443
 vless://c9605cb5-f9be-45f3-94d1-57ba02a9c3d0@162.159.130.233:2095?security=none&type=ws&host=Yakuza.unique69.com&path=/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za/@HosseinStore_Za#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.130.233:2095
 vless://5c15ce17-b7e3-4e9e-bc8a-3988a0695b89@162.159.135.234:2083?security=tls&sni=re2.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-162.159.135.234:2083
-vless://55fc4207-e693-4324-efde-0aa98550580c@65.108.244.90:442?security=none&type=tcp#🔒 VL-TCP-NONE 🇫🇮 FI-65.108.244.90:442
