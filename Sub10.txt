@@ -1,3 +1,5 @@
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.71.181:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.71.181:443
+vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@8.213.137.24:443?security=tls&sni=hk.xujiang.link&type=ws&host=hk.xujiang.link&path=%2Faa#🔒 VL-WS-TLS 🇸🇬 SG-8.213.137.24:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.118:443?security=tls&sni=baipiao55.stunning-bassoon.pages.dev&type=ws&host=baipiao55.stunning-bassoon.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-172.66.45.118:443
 vless://c32b1429-92aa-4be7-912e-4d63b0a31fc7@172.67.110.29:443?security=tls&sni=can01.nimserver.top&type=grpc&serviceName=vless-grpc#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.110.29:443
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.88.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.18.88.134:80
@@ -996,5 +998,3 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@193.9.49.233:443?security=tls&sni=c
 vless://5a045a1e-d392-4c5b-b658-b57e4ea01b4f@172.67.182.88:443?security=tls&sni=virapn-d-3be7883659a1d2ba4c545dfdf85b61eda1.asiatechnicalwest.ir.&type=grpc&serviceName=@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN,@ViraV2ray,@ViraPN&fp=chrome&alpn=h2,http/1.1&allowInsecure=1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.182.88:443
 vless://9849365c-2c5e-4630-9439-702192f9cb50@185.133.35.200:8880?security=none&type=ws&host=fadayehamatun.loveiran01.com&path=%2FEskiNaroKharkose-EskiNaroKharkose-EskiNaroKharkose#🔒 VL-WS-NONE 🇧🇷 BR-185.133.35.200:8880
 vless://62c58634-d097-4a57-b232-450d8bdd5918@172.67.179.133:2096?security=tls&sni=bomb.epsia.cfd&type=grpc&serviceName=@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,@V2NET_IRAN,&fp=chrome&alpn=h2,http/1.1#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.179.133:2096
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.111.71:80?security=none&type=ws&host=us3.rtacg.com&path=/#🔒 VL-WS-NONE 🏴‍☠️ NA-104.17.111.71:80
-vless://cfa14880-381f-4524-bb41-02c96a7e8832@104.27.4.180:80?security=none&type=ws&host=freedom1.hamrahmarzban.com#🔒 VL-WS-NONE 🏴‍☠️ NA-104.27.4.180:80
